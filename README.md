@@ -1,4 +1,115 @@
-# dict
+# IT专业英语词典
+- 
+- A.I. 人工智能  
+- A2A integration A2A整合 
+- ADL （argument-dependent lookup） 
+- ADO（ActiveX Data Object）ActiveX数据对象 
+- API （Application Programming Interface）
+- ASP.NET worker process ASP.NET工作者进程
+- ASP（Active Server Page）活动服务器页面 
+- B2B integration B2B整合、B2B集成（business-to-business integration）
+- BCL （base class library）基类库
+- CHECK constraints CHECK约束 （for
+- CIL （common intermediate language）通用中间语言、通用中介语言
+- CLI （Common Language Infrastructure）
+- CLS （common language specification）
+- COFF （Common Object File
+- COM （Component Object Model）
+- CORBA 通用对象请求中介架构（Common Object Request
+- CRTP （curiously recurring template
+- CTS （common type system）通用类型系统
+- DBMS （database management system）数据库管理系统
+- DCOM （distributed COM）分布式COM 
+- DEFAULT constraint默认约束 （for database）
+- DHTML （dynamic HyperText Markup
+- DIME （Direct Internet Message
+- DISCO （Discovery of Web
+- DISPID （Dispatch Identifier）分派标识符 
+- DNA （Distributed interNet Application）
+- DOM （Document Object Model）文档对象模型
+- DTD （document type definition）
+- Data Control Language （DCL）
+- Data Definition Language （DDL）
+- Data source name （DSN）
+- EAI （enterprise application integration）企业应用程序集成（整合）
+- EBCO （empty base class
+- EDI （Dlectronic Data Interchange）电子数据交换
+- GAC （global assembly cache）
+- GC （Garbage collection） 垃圾回收（机制）、垃圾收集（机制）
+- GUI 图形界面  
+- GUID （Globally Unique Identifier）
+- HTML （HyperText Markup Language）
+- HTTP pipeline HTTP管道 
+- HTTP （HyperText Transfer Protocol）
+- Host （application）宿主（应用程序）  
+- IDE （Integrated Development Environment）集成开发环境
+- IDL （Interface Definition Language）
+- IL （Intermediate Language） 中间语言、中介语言
+- IME 输入法  
+- JIT compilation JIT编译 即时编译
+- Managed Extensions 受控扩充件、托管扩展 
+- Native Image Generator （NGEN）本地映像生成器
+- ODBC data source ODBC数据源
+- ODBC driver ODBC驱动程序 （for
+- ODR （one-definition rule） 
+- OLE Automation objects OLE自动化对象
+- OLE Automation server OLE自动化服务器
+- OLE DB consumer OLE
+- OLE DB for OLAP
+- OLE DB provider OLE
+- Open Data Services （ODS）
+- Open Database Connectivity （ODBC）
+- PDA （personal digital assistant）个人数字助理
+- PE （Portable Executable） file
+- PInvoke （platform invoke service）
+- POD （plain old data
+- POI （point of instantiation）
+- RPC （remote procedure call）RPC（远程过程调用）
+- SAX （Simple API for
+- SDK （Software Development Kit）软件开发包
+- SMTP （Simple Mail Transfer
+- SOAP （simple object access
+- SQL （Structured Query Language）
+- TCP （Transport Control Protocol）
+- UDDI（Universary Description, Discovery and
+- UML （unified modeling language）统一建模语言
+- UNIQUE constraints UNIQUE约束 （for
+- URI （Uniform Resource identifier）
+- URL （Uniform Resource Locator）
+- Union query 联合查询 （for
+- VEE （Virtual Execution Engine）虚拟执行引擎
+- WHERE clause WHERE子句 （for
+- WSDL （Web Service Description
+- Web Services web服务 
+- Windows authentication Windows身份验证 
+- XML Message Interface （XMI）
+- XML （eXtensible Markup Language）
+- XSD （XML Schema Definition）
+- XSL （eXtensible Stylesheet Language）
+- XSLT （eXtensible Stylesheet Language
+- Y connection Y 连接
+- Y network Y 网络
+- Y-T display Y-T 显示
+- Y-address Y- 地址 
+- Y-axis amplifier Y 轴放大器
+- Y-connected circuit 星形连接电路 
+- Y-datum line Y 基准线
+- Yagi antenna 八木天线 
+- Yagi-Uda antenna 八木-宇田天线 
+- Ymodem Ymodem 文件传输协议 
+- Z modem Z modem
+- Z-address Z 地址 
+- Z-axis amplifier Z 轴放大器
+- Zeeman effect 塞曼效应 
+- Zener breakdown 齐纳击穿 
+- Zener diode 齐纳二极管 
+- Zener effect 齐纳效应 
+- Zener voltage 齐纳电压 
+- Zero-Insertion Force(ZIF)Package 零插入力（ZIF）组件 
+- Zobel filters 瑟贝尔滤波器 
+- 
+## A
+- 
 - a priori probability 先验概率
 - a programming language apl
 - a r wire 地址读出线
@@ -8,3 +119,16232 @@
 - a/d conversion 模拟 数字转换
 - a/d converter 模拟 数字转换器模数转换器
 - a/m switch 自动手控开关 
+- aachen 亚琛  
+- abacus 算盘  
+- abampere 绝对安培  
+- abandoned call 废弃单元 
+- abbreviated dialing 缩位拨号 
+- abbreviated dialing 缩位拨号 
+- abbreviated digital verification color
+- abend 任务异常结束  
+- aberration 像差  
+- aberration, chromatic 色像差 
+- aberration, spherical 球面像差 
+- ability, heuristic reasoning 启发式推论能力
+- abnormal decay 反常衰变 
+- abnormal end of task
+- abnormal end 异常终结 
+- abnormal function 异常功能 
+- abnormal termination 异常结束 
+- abort routine 异常终止程序 
+- abort sequence 中断序列 
+- abort 中断  
+- abortion 中止  
+- above threshold 超临限值 
+- abrasion 剥蚀；磨损  
+- abridged division 简略除法 
+- abrupt junction 突变结 
+- abs function 绝对函数 
+- abs 绝对值  
+- abscissa axis 横轴 
+- absent extension diversion 分机用户缺席转接
+- absent 不存在  
+- absent, coprocessor 协同处理器不存在 
+- absolute accuracy 绝对准确度 
+- absolute address 绝对地址 
+- absolute address 绝对地址 
+- absolute addressing mode 绝对编码方式
+- absolute addressing 绝对编址 
+- absolute addressing 绝对定址法 
+- absolute assembler 绝对汇编程序 
+- absolute assembler 绝对组合程式 
+- absolute block 绝对区块 
+- absolute code 绝对代码 
+- absolute code 绝对代码 
+- absolute coding 绝对编码 
+- absolute command 绝对坐标命令 
+- absolute coordinate 绝对坐标 
+- absolute coordinates 绝对坐标 
+- absolute data 绝对数据 
+- absolute dimension 绝对尺寸 
+- absolute disintegration rate 绝对衰变率
+- absolute element 绝对元素 
+- absolute encoder 绝对编码器 
+- absolute error 绝对误差 
+- absolute error 绝对错误 
+- absolute execution area 绝对执行区
+- absolute expansion 绝对膨胀 
+- absolute expression 绝对表达式 
+- absolute function 绝对函数 
+- absolute gain 绝对增益 
+- absolute humidity 绝对湿度 
+- absolute index of refraction
+- absolute instruction 绝对指令 
+- absolute instructionm 绝对指令 
+- absolute intensity 绝对强度 
+- absolute language 机骑言 
+- absolute loader routine 绝对地址装入程序
+- absolute loader 绝对装入器 
+- absolute loader 二进装入程序 
+- absolute machine code 绝对机器代码
+- absolute maximum rating 绝对最大额定值
+- absolute measurements 绝对测量 
+- absolute measuring system 绝对测量系统
+- absolute name 绝对名 
+- absolute order 绝对坐标命令 
+- absolute permeability 绝对磁导率 
+- absolute pressure 绝对压力 
+- absolute program loader 绝对程序的装入程序
+- absolute program 绝对程序 
+- absolute programming 绝对程序设计 
+- absolute sensitivity 绝对灵敏度 
+- absolute symbol 绝对符号 
+- absolute temperature scale 绝对温标
+- absolute temperature 绝对温度 
+- absolute term 绝对项 
+- absolute value 绝对值 
+- absolute value 绝对值 
+- absolute variable 绝对变数 
+- absolute vector 绝对向量 
+- absolute velocity 绝对速度 
+- absolute volume 绝对体积 
+- absolute zero 绝对零度 
+- absolute-value circuit 绝对值电路 
+- absolute-value device 绝对值器件 
+- absorbability 吸收能力  
+- absorber 吸收器吸收装置  
+- absorbing barrier 吸收壁垒 
+- absorptance 吸收比  
+- absorption attenuation 吸收损耗 
+- absorption band 吸收频带 
+- absorption loss 吸收损耗 
+- absorption loss 吸收损耗 
+- absorption modulation 吸收调制 
+- absorption spectrum 吸收光谱 
+- absorption 吸收  
+- absorption, active acoustical 动态声音吸纳
+- absorption, coefficient of 吸音系数
+- absorptive attenuator 吸收衰减 
+- abstract base class （ABC）抽象基类
+- abstract class 抽象类 
+- abstract data type 抽象数据型
+- abstract data type 抽象数据种类
+- abstract machine 抽象计算机 
+- abstract object 抽象客体 
+- abstract quantity 抽象程度 
+- abstract semantic network 抽象语义网络
+- abstract symbol 抽象符号 
+- abstract symbol 抽象符号 
+- abstract syntax notation one
+- abstract 摘录  
+- abstract 抽象的  
+- abstraction 抽象  
+- abstraction 抽象；抽除  
+- abstraction 抽象、抽象物、抽象性  
+- ac brownout 交流降压，交流节电 
+- ac converter 交流转换器 
+- ac electric-field strength 交流电场强度
+- ac fault 动态故障 
+- ac filter 交流滤波器 
+- ac line filter 交流线路滤波器
+- ac power line 交流电源线
+- ac servomechanism 交僚服机构 
+- ac servomotor 交僚服电动机 
+- ac voltage 交羚压 
+- ac 交流  
+- accelerated graphics port (AGP)
+- accelerated life test 加速寿命测试
+- accelerated stress test 加速应力测试
+- accelerated test 加速测试 
+- accelerated thermal cycle (ATC)
+- accelerating voltage 加速电压 
+- acceleration due to gravity
+- acceleration in circular motion
+- acceleration period 加速期 
+- acceleration time 加速时间 
+- acceleration 加速度  
+- acceleration 加速度  
+- acceleration, angular 角加速度 
+- acceleration, average 平均加速度 
+- acceleration, centripetal 向心加速度 
+- acceleration, component of 加速度分量
+- acceleration, fuzzy computational (FCA)
+- acceleration, gravitational 重力加速度 
+- acceleration, instantaneous 瞬时加速度 
+- acceleration, tangential 切向加速度 
+- acceleration, uniform 等加速度 
+- accelerator 加速器  
+- accelerator, floating-point slave 浮点附属加速器
+- accelerator, programmable universal micro
+- accelerometer 加速仪  
+- accent 重音  
+- accept statement 接收语句 
+- accept 接受  
+- accept 接收；接受  
+- acceptable noise level 验收噪声水平
+- acceptable quality level 合格质量水平
+- acceptable source 验收源 
+- acceptance angle 接收角 
+- acceptance cone 接收光锥区 
+- acceptance gauge 检收量规 
+- acceptance inspection 接收检验 
+- acceptance sampling 验收取样 
+- acceptance specification 验收说瞄 
+- acceptance test 接收测试 
+- acceptance test 验收试验 
+- accepted test 合格试验 
+- accepting station 接收站 
+- accepting 接受  
+- acceptor impurity 受体杂质 
+- acceptor of data 数据接收器
+- acceptor 接收器受主  
+- acceptor 受体；接收器  
+- acceptor, write access connection
+- access address 存取地址 
+- access arm 存取臂 
+- access authorization 存取授权 
+- access by key 键控存取
+- access charge 访问费用 
+- access code 存取代码 
+- access code 存取代码 
+- access control bits 存取控制位
+- access control key 存取控制键
+- access control mechanism 存取控制机构
+- access control 存取控制 
+- access coupler 存取耦合器 
+- access cycle 存取周期 
+- access delay 存取延迟 
+- access function 存取函数 
+- access function 访问函数 
+- access hole 取数孔 
+- access interval 存取间隔 
+- access key 存取关键字 
+- access level访问级别  
+- access line 存取线路 
+- access line 接入线路 
+- access management 存取管理 
+- access matrix 存取矩阵 
+- access mechanism 存取机构 
+- access method 存取方法 
+- access method 存取方法 
+- access mode 存取方式 
+- access mode 存取模式 
+- access network 接入网 
+- access oriented method 面向存取法
+- access path 存取路径 
+- access path 存取通路 
+- access protocol 存取协定 
+- access restriction 存取限制 
+- access right 存取权 
+- access routine 存取程序 
+- access scan 存取扫描 
+- access speed 存取速度 
+- access time 存取时间 
+- access time 存取时间 
+- access window 存取窗口 
+- access 存取  
+- access 存取  
+- access 存取、访问  
+- access, basic rate (BRA)
+- access, basic 基本存取 
+- access, burst 资料组存取 
+- access, carrier sense multiple
+- access, code-division multiple (CDMA)
+- access, direct memory (DMA)
+- access, external 外部存取 
+- access, frequency-division multiple (FDMA)
+- access, in-page burst 页内资料组存取
+- access, internal 内部存取 
+- access, multiple channel (MCA)
+- access, on-page 页上存取 
+- access, out-page 离页存取 
+- access, page 分页存取 
+- access, primary rate 初级速率存取
+- access, sequential 序列存取 
+- access, time-division multiple (TDMA)
+- access, virtual direct memory
+- access-control mechanism 存取控制机制 
+- accessed bit 存取单元 
+- accessibility 可存取性  
+- accessibility 可存取性  
+- accessible vertex 可达顶点 
+- accessible voltage drop 可达电压降
+- accessible, readily 可存取的 
+- accessory 附件  
+- accidental error 偶然性差错 
+- accidental merge 偶发归并 
+- account number 帐号 
+- account 账户  
+- accounting file 会计文件 
+- accounting information 会计信息 
+- accounting machine 会计计算机 
+- accounting problem 会计问题 
+- accounting routine 费用计算程序 
+- accounting system 会计制度 
+- accounting task 会计任务 
+- accounting 会计  
+- accumulated jitter 累加抖动 
+- accumulating register 累加寄存器 
+- accumulator instruction 累加聘令 
+- accumulator register 累加寄存器 
+- accumulator register 累加寄存器 
+- accumulator 累加器  
+- accumulator 累加器；蓄电池  
+- accumulator, phase 相位累加器 
+- accuracy class 准度等级 
+- accuracy class 准确级别 
+- accuracy control character 准度控制符号
+- accuracy control system 准度控制系统
+- accuracy grade 精度级别，精度等级 
+- accuracy of reading 读数精度
+- accuracy rating 额定准确度 
+- accuracy test 准确度测试 
+- accuracy 精确度  
+- accuracy 准确度；准确值  
+- accuracy, absolute 绝对准确值 
+- accuracy, dynamic 动态准确度 
+- accuracy, full-scale absolute 全标度绝对准确值
+- accuracy, gain 增益准确度 
+- ace 自动呼叫设备  
+- acetate disks 乙酸盐软盘 
+- acetone 丙酮  
+- acid, amino 氨基酸 
+- acid, aspartic 天门冬胺酸 
+- ack 肯定字符  
+- acknowledge character 确认字符 
+- acknowledge character 肯定字符 
+- acknowledge signal 接收完成信号 
+- acknowledge 确认  
+- acknowledge 肯定  
+- acknowledge, interrupt 中断确认 
+- acknowledgement key 应答键 
+- acknowledgement signal 应答信号 
+- acknowledgement switch 认收开关 
+- acknowledgement 肯定  
+- acknowledgment (ACK) 确认 
+- acoustic coupler 声耦合器 
+- acoustic coupler 声耦合器 
+- acoustic delay line 声延迟线
+- acoustic delay line 声延迟线
+- acoustic filter 滤声器 
+- acoustic frequency 声频 
+- acoustic hologram 声全息照相图 
+- acoustic input 声音输入 
+- acoustic memory 声存储器 
+- acoustic modem 声灯解调 
+- acoustic noise 噪声 
+- acoustic output 声音输出 
+- acoustic storage 声存储器 
+- acoustic transducer 声能转换器 
+- acoustic-wave filter 声波过滤器 
+- acoustical holography 声全息摄影 
+- acoustical signals 声音信号,音频信号 
+- acoustically tunable optical filter
+- acousto-optic device 声光学器件 
+- acousto-optic effect 声光学效应 
+- acquisition phase 采集阶段 
+- acquisition 采集  
+- acquisition, background 背景采集 
+- acquisition, data 数据采集 
+- acquisition, image- 影像采集 
+- acronym 首字母组缩略词  
+- acrylate 丙烯酸脂  
+- acrylic resin 丙烯酸树脂 
+- acrylic 丙烯酸的，聚丙烯的  
+- action and reaction 作用与反作用
+- action at a distance
+- action code 操纂 
+- action directive 动赘令 
+- action force 作用力 
+- action frame 动昨架 
+- action spot 动足 
+- action 动作  
+- action 动作  
+- action, capillary 毛细管作用 
+- action, line of 作用线
+- action, molecular 分子作用 
+- activate button 启动按钮 
+- activate key 启动键 
+- activate 活化  
+- activate 激活  
+- activation energy 活化能量 
+- activation of block 分程序动用
+- activation period 活化期 
+- activation rate 启动率 
+- activation record 激活记录 
+- activation 活化  
+- activation 激化  
+- activation, neutron 中子激发 
+- activator 催化剂,激活剂，活化剂；激励器  
+- active acoustical absorption 有源声音吸纳
+- active antenna array 有源天线阵列
+- active bank 现用数据库 
+- active block 有源组件 
+- active carbon 活性碳 
+- active card 现用卡片 
+- active circuit 有源电路 
+- active component 有效元件 
+- active component 有源元件 
+- active computer 现用计算机 
+- active condition 使用状态 
+- active data station 现役数据站
+- active domain 有效域 
+- active electric network 有源电气网络
+- active electronics 有源电子器件，有源电子技术 
+- active element 有源元件 
+- active file 现役文件 
+- active file 现用文件 
+- active filter 有源滤波器 
+- active filter 有源滤波器 
+- active high signal 高态有效信号
+- active impedance 动态阻抗 
+- active job 活动椎 
+- active line 工走 
+- active low signal 低态有效信号
+- active materials 放射性材料 
+- active matrix display 有源矩阵显示器，活动矩阵显示器
+- active matrix 有源矩阵 
+- active mobile identity (AMI)
+- active page queue 活动页队列
+- active page 活动页 
+- active partitioning architecture 有源分隔体系结构
+- active power 有功功率 
+- active profile 现用文件，当前文件 
+- active program 现用程序 
+- active ratio 活动率 
+- active rectification 动态整流 
+- active redundancy 织冗余 
+- active server page 活动服务器页，当前服务器页
+- active star 活动星 
+- active state 活动状态 
+- active station 活动栈 
+- active storage 活动存储器 
+- active substrate 有源基片，有源衬片，有源基底 
+- active task 活动任务 
+- active template library 动态模板库
+- active termination 有源终端 
+- active testing 动态测试 
+- active transducer 有源传感器 
+- active trimming 有源微调 
+- active value 活跃值 
+- active voltage positioning (AVP)
+- active 活动的  
+- active 动态；主动  
+- active-high signal 高态有效信号 
+- active-low signal 低态有效信号 
+- active-matrix display 有源矩阵显示 
+- activity factor 活动因子 
+- activity file 活动文件 
+- activity graph 活动图 
+- activity loading 活动装入法 
+- activity name 活动名 
+- activity ratio 活动率 
+- activity 放射性  
+- activity 活动性  
+- activity, optical 旋光性 
+- activity-based simulation 放射性为基模拟 
+- actual address 实际地址 
+- actual argument 实际变元 
+- actual decimal point 实际小数点
+- actual derived data item
+- actual device number 实际设备坐号
+- actual instruction 实际指令 
+- actual key 实际关键字 
+- actual mechanical advantage 实际机械利益
+- actual parameter list 实在参数表
+- actual parameter part 实在参数部分
+- actual parameter 实参 
+- actual parameter 实在参数 
+- actual result data item
+- actual result 实际结果 
+- actual run time 实际运行时间
+- actual source data item
+- actual source 实源 
+- actual state 现实状态 
+- actual storage 实际存储器 
+- actual time 实际时间 
+- actual value 实际值 
+- actuation 动作  
+- actuator valve 起动器活门 
+- actuator 起动器  
+- actuator 传动机构  
+- actuator, dual 双起动器 
+- actuator, pneumatic 气动起动器 
+- actuator, relay 延迟起动器 
+- acu 运算控制器  
+- acyclic graph 无圈图 
+- acyclic process 非循环过程 
+- ada ada语言  
+- adaptability 配接性  
+- adaptation rate 适配率 
+- adaptation 自适应  
+- adapter card 适配器卡 
+- adapter description library (ADL)
+- adapter kit 配接组件 
+- adapter plug 衔接棋头 
+- adapter signal process (ASP)
+- adapter 适配器  
+- adapter 配接器  
+- adapter 适配器衔接器  
+- adapter, color composite video
+- adapter, color graphics (CGA)
+- adapter, double-scan color graphics
+- adapter, enhanced color graphics
+- adapter, monochrome display (MDA)
+- adapter, serial 串行配接器 
+- adapter, standard 标准配接器 
+- adapter, super video graphics
+- adapter, terminal (TA) 终端配接器
+- adapter, video graphics (VGA)
+- adaption rate 速率调整 
+- adaptive antenna array 自适应天线阵列
+- adaptive antenna 自适应天线 
+- adaptive channel allocation (ACA)
+- adaptive channel allocation 自适应信道分配
+- adaptive coding 自适应编码 
+- adaptive control action 自适应控制动作
+- adaptive control system 自适应控制系统
+- adaptive control system 自适应控制系统
+- adaptive control 自适应控制 
+- adaptive dialog 自适应对话 
+- adaptive differential pulse code
+- adaptive equalization 配接等化 
+- adaptive excitation 自适应激励 
+- adaptive hardware 自适应硬件 
+- adaptive jitter buffer 自适应抖动缓冲器
+- adaptive maintenance 自适应维修 
+- adaptive predictive coding (APC)
+- adaptive routing 自适应路径选择 
+- adaptive speed control 自适应速度控制
+- add gate 加法门 
+- add in memory 插入存储器
+- add in module 内插式模块
+- add in 插入 
+- add instruction 加法指令 
+- add key 加法键 
+- add on memory 插入存储器
+- add on module 内插式模块
+- add on 插入 
+- add operation 加法操作加法运算 
+- add output 加法输出 
+- add overflow 加法溢出 
+- add table 加法表 
+- add time 加法时间 
+- add without carry gate
+- add 加法  
+- add-in 插件  
+- add-on card 附加卡 
+- add/drop multiplexer (ADM) 增减复用器
+- addend register 加数寄存器 
+- addend 加数  
+- adder subtracter 加减器 
+- adder 加法器  
+- adder 加法机  
+- adding machine 加法机 
+- adding operator 加法运算符 
+- addition file 添加文件 
+- addition item 补充项 
+- addition record 附加记录 
+- addition without carry 按位加
+- addition without carry 无进位加法
+- addition 加法  
+- additional area 补充区 
+- additional bit 附加位 
+- additional character 特殊符号 
+- additional charge 附加费 
+- additional dialing 附加拔号 
+- additional equipment 辅助设备 
+- additional record 附加记录 
+- additional 附加的  
+- additive attribute 附加属性 
+- additive operator 加法算符 
+- additive plating 添加电镀；附加电镀层 
+- additive process 相加过程，可加过程 
+- additive white Gaussian noise
+- additive 相加的  
+- additive 附加的  
+- address ID 地址识别 
+- address alignment 地址蝶 
+- address arithmetic 地址运算 
+- address assignment 地址分配 
+- address bit 地址位 
+- address blank 空地址 
+- address broadcast 位址广播 
+- address buffer 地址缓冲器 
+- address bus 地址总线 
+- address bus 地址总线 
+- address calculation 地址计算 
+- address change 地址变更 
+- address check 地址校验 
+- address code 地址码 
+- address comparator 地址比较器 
+- address component 地址部分 
+- address computation 地址计算 
+- address constant 地址常数 
+- address conversion 地址转换 
+- address counter 地址计数器 
+- address counter 地址计数器 
+- address couple 地址对 
+- address cycle 地址周期 
+- address decoder 地址解码器 
+- address decoder 地址译码器 
+- address driver 地址驱动器 
+- address driver 地址驱动器 
+- address error 地址错误 
+- address field 地址栏 
+- address field 地址字段 
+- address file 地址文件 
+- address format 地址格式 
+- address format 地址格式 
+- address generation 地址产生 
+- address generator 地址产生器 
+- address generator 地址生成程序 
+- address incrementation 地址增量 
+- address incrementer 地址渐增机 
+- address input 地址输入 
+- address latch enable 地址锁存有效,地址锁存选通
+- address latch 地址锁存器 
+- address line 地址线 
+- address mapping 地址映射 
+- address mark 地址标记 
+- address marker 地址标记 
+- address matrix 地址矩阵 
+- address mode byte 地址方式字节
+- address modification 地址修改 
+- address modification 地址修改 
+- address modifier 地址修改量 
+- address modifier 地址修改程序 
+- address operand 地址操 
+- address parameter 地址参数 
+- address part 地址部分 
+- address part 地址部分 
+- address path 地址通路 
+- address pattern 地址模式 
+- address pointer 地址指标 
+- address program counter 程序地址计数器
+- address read wire 地址读出线
+- address reference 地址引用 
+- address register 地址寄存器 
+- address register 地址寄存器 
+- address relocation 地址再定位 
+- address search 地址检索 
+- address selection switch 地址选择开关
+- address selection 地址选择 
+- address signaling 地址信令 
+- address size 地址位数 
+- address space 地址空间 
+- address space 地址空间 
+- address space 地址空间 
+- address stop 地址符合停机 
+- address strobe 地址选通 
+- address substitution 地址替换 
+- address system 地址系统 
+- address table 地址表 
+- address track 地址道 
+- address transfer 地址传送 
+- address transition detector 地址变换检测器
+- address translation 地址转换 
+- address translator 地址转换器 
+- address wire 地址线 
+- address word 地址语 
+- address write wire 地址写入线
+- address 地址  
+- address 地址  
+- address 地址；定址  
+- address, absolute 绝对地址 
+- address, base 基底地址 
+- address, base-port 基本端口地址 
+- address, column 列地址 
+- address, dot 点地址 
+- address, effective 有效地址 
+- address, line 线地址 
+- address, logical block (LBA)
+- address, machine 机器地址 
+- address, offset 偏移地址 
+- address, row 行地址 
+- address, segment 分段地址 
+- address, valid memory 有效存储器地址
+- address-of operator 取地址操作符 
+- address-only cycle 只涉及定址的周期 
+- address-only transaction 只涉及定址的事项交易 
+- address/data bus 地址／数据总线 
+- addressability 可寻址能力  
+- addressable area 可寻址区 
+- addressable byte 可寻址字节 
+- addressable connected,disconnected （ACD） 可连接/脱接寻址
+- addressable cursor 可寻址光标 
+- addressable latch 可定址锁存 
+- addressable memory 可寻址存储器 
+- addressable point 可寻址点 
+- addressable point 可定址位置 
+- addressable register 可寻址寄存器可编址寄存器 
+- addressable 可定址  
+- addressable 可寻址的  
+- addressed memory 编址存储器 
+- addressee 收报人  
+- addressing capability 编址能力 
+- addressing capacity 编址容量 
+- addressing character 寻址字符 
+- addressing error 寻址错误 
+- addressing exception 寻址故障 
+- addressing level 定址级数 
+- addressing mode 定址模式 
+- addressing mode 寻址方式 
+- addressing system 编址系统 
+- addressing 寻址  
+- addressing 定址法  
+- addressing, absolute 绝对定址法 
+- addressing, direct 直接定址 
+- addressing, indirect 间接定址 
+- addressless instruction format 无地址指令格式
+- addressless instruction 无地址指令 
+- addressness 地址性  
+- ade 自动设计工程  
+- adenine 腺呤  
+- adenosine-triphosphate 三磷酸腺甘  
+- adhesion layer 黏附层 
+- adhesion 附着，黏着  
+- adhesive force 黏合力 
+- adhesive paper carrier tape
+- adhesive string 黏合剂串 
+- adhesive tail 黏合剂尾 
+- adhesive 黏合剂  
+- adiabatic expansion 绝热膨胀 
+- adiabatic process 绝热过程 
+- adiabatic transformation 绝热变换 
+- adjacency list 相邻列 
+- adjacency matrix 相邻矩阵 
+- adjacency matrix 邻接矩阵 
+- adjacency 相邻  
+- adjacency 邻接  
+- adjacent channel power response
+- adjacent channel scan (ACS)
+- adjacent channel 相邻通道 
+- adjacent channel 邻近信道 
+- adjacent frequency 相邻频率 
+- adjacent-channel interference 相邻通道干扰 
+- adjacent-channel selectivity 相邻通道选择性 
+- adjunct (AD) 附件 
+- adjust instruction 凋整指令 
+- adjust 调节；调谐  
+- adjustable array 可谍组 
+- adjustable parameter 可滴数 
+- adjustable point 可点 
+- adjustable voltage control 可调节电压控制
+- adjusting 蝶  
+- adjustment 蝶  
+- adjustment, zero 零点调整 
+- administration program 管理程序 
+- administrative data processing 管理数据处理
+- administrative terminal system 行政管理终端系统
+- administrative time 管理时间 
+- administrative unit (AU) 管理单元
+- administrator 管理员  
+- admissible character 容许字符 
+- admittance 导纳  
+- admittance, short-circuit 短路导纳 
+- adp 自动数据处理  
+- adpe 自动数据处理装置  
+- adps 自动数据处理系统  
+- adsorption 吸附作用  
+- adt 抽象数据型  
+- advanced audio coding (AAC)
+- advanced communications service 先进通讯服务
+- advanced communications technology satellite
+- advanced configuration and power
+- advanced data communication control
+- advanced encryption standard (AES)
+- advanced input format (AIF)
+- advanced intelligent network (AIN)
+- advanced mobile phone service
+- advanced peer-to-peer networking (APPN)
+- advanced power management (APM)
+- advanced process control (APC)
+- advanced radio data information
+- advanced router 先进路由器 
+- advanced solder mask (ASM)
+- advanced 高级的  
+- advantage, actual mechanical 实际机械利益
+- advantage, ideal mechanical 理想机械利益
+- advantage, mechanical 机械利益 
+- aeration 充气  
+- aerogram 无线电报  
+- aerosol 喷雾器  
+- af 声频  
+- afc 自动频率控制  
+- after look journal 改后录像日志
+- afterglow screen 余辉屏幕 
+- afterpunching 重复穿孔  
+- agc 自动增益控制  
+- agenda 基本运算方案  
+- agent 代理人；代理商  
+- agent, broker 代理人兼经纪人 
+- agent, data analysis 数据分析代理
+- agent, database 数据库代理 
+- agent, execution 执行代理 
+- agent, mediator 仲裁代理 
+- agent, security 安全代理,保安代理 
+- agent, user 用户代理 
+- aggregate expression 聚集表达式 
+- aggregate type 聚集类型 
+- aggregate 聚集  
+- aggregate 聚集体  
+- aggregated data 聚合数据 
+- aggregation 聚合、聚集  
+- aging factor 老化因素 
+- agitation, thermal 热震动 
+- agitation, ultrasonic 超音波振荡 
+- aglet 金属箍，金属饰物  
+- ai language 人工智能语言 
+- ai system 人工智能系统 
+- ai 人工智能  
+- aid 辅助程序  
+- aids 工具  
+- aiming symbol 目标符号 
+- air chamber 气室 
+- air gap 空隙；气隙 
+- air interface 空中接口 
+- air knife 气刀 
+- air operated 气动 
+- air pressure gauge 气压计
+- air pump 气泵 
+- air support 空气支承 
+- air, compressed 压缩空气 
+- air-cooled design 风冷设计，气冷设计 
+- air-gap field voltage 气隙场电压
+- air-operated dispensing 气动涂料 
+- alarm condition 警报条件 
+- alarm display 报警显示 
+- alarm display 告警显示，警报显示 
+- alarm equipment 报警器 
+- alarm indication signal (AIS)
+- alarm 报警  
+- alarm 警报；警钟  
+- albumin 蛋白质  
+- alcohol, isopropyl (IPA) 等丙醇
+- alert manager 报警管理程序 
+- algebraic adder 代数加法器 
+- algebraic code excited linear
+- algebraic equation 代数方程 
+- algebraic expression 代数表达式 
+- algebraic function 代数函数 
+- algebraic language 代数语言 
+- algebraic sign 代数符号 
+- algebraic specification 代数规格说明 
+- algol algol 语言 
+- algorithm analysis 算法分析 
+- algorithm convergence 算法收敛 
+- algorithm processor 算法处理程序 
+- algorithm structure 算法结构 
+- algorithm validation 算法证实 
+- algorithm 算法  
+- algorithm 算法  
+- algorithm 算法  
+- algorithm, asynchronous parallel 异步并行算法
+- algorithm, data encryption 数据加密算法
+- algorithm, fast Fourier transform
+- algorithm, internal 内部算法 
+- algorithm, layout 布局算法 
+- algorithm, least recently used
+- algorithm, logarithmic 对数算法 
+- algorithm, multiple 多重算法 
+- algorithm, replacement 替换算法 
+- algorithm, routing 路由算法 
+- algorithm, software 软件算法 
+- algorithm, two-bit 两位算法 
+- algorithm, unidirectional backtrace 单向回溯算法
+- algorithmic language 算法语言 
+- algorithmic method 计算方法 
+- alias section 别名段 
+- alias 代号  
+- alias 别名  
+- alias 别名  
+- aliasing 假信号  
+- aliasing 混淆现象  
+- align 排列、对齐  
+- aligner 调校器  
+- alignment error 定位错误 
+- alignment hole 定位孔 
+- alignment jitter 定位抖动 
+- alignment mark 对准标记 
+- alignment 对齐  
+- alignment 定位；调校  
+- alignment, frame 信息帧定位 
+- alignment, optical 光学定位 
+- alignment, testing 测试定位 
+- alignment, timing 时序调校 
+- alkali-halide substrate 硷卤化物基板 
+- alkali-halide 硷卤化物  
+- alkaline battery 硷性电池 
+- all channel decoder 全通道译码器
+- all point addressable display
+- all purpose computer 通用计算机
+- all-digital television 全数字电视 
+- all-optical networks 全光网 
+- all-pass function 全通功能 
+- allcator 分配程序  
+- allocate statement 分配语句 
+- allocate 分配、配置  
+- allocate 分配；配置  
+- allocated variable 已分配变量 
+- allocation map 分配图 
+- allocation plan 分配方案 
+- allocation problem 分配问题 
+- allocation program 分配程序 
+- allocation 分配  
+- allocation 分配；配置  
+- allocation, file 档案配置 
+- allocator分配器、配置器   
+- allotment 分配  
+- allotter 呼叫分配器  
+- allowable continuous current 容许连续电流
+- alloy junction 合金结 
+- alloy 合金  
+- alpha format 字母格式 
+- alpha node 节点 
+- alpha particle 阿尔发粒子 
+- alpha ray 阿尔发射线 
+- alpha test 测试 
+- alphabet 字母  
+- alphabetic character set 字母字符集
+- alphabetic character 字母符号 
+- alphabetic code 字母码 
+- alphabetic data code 字母数据码
+- alphabetic interpreter 字母的翻择机 
+- alphabetic item 字母项 
+- alphabetic order 字母表次序 
+- alphabetic sort 字母分类 
+- alphabetic sorting 字母分类 
+- alphabetic string 字母串 
+- alphabetic word 字母字 
+- alphabetical collator 字母的校对机 
+- alphageometric graphics 字图图解图形学 
+- alphameric keyboard 字数键盘 
+- alphameric optical reader 字母的光输入机
+- alphamosaic graphics 字图镶嵌图形学 
+- alphanumeric character set 字数字符集
+- alphanumeric character 字数字符 
+- alphanumeric code 字数码 
+- alphanumeric coding 字数编码 
+- alphanumeric data 字数数据 
+- alphanumeric display 字数显示器 
+- alphanumeric field 字数字段 
+- alphanumeric generator 字数生成程序 
+- alphanumeric key 字母数字键 
+- alphanumeric keys 字数键盘 
+- alphanumeric pagers 字母数字寻呼机，数字寻呼机 
+- alphanumeric printer 字数打印机 
+- alphanumeric tabulator 字数制表机 
+- alphanumeric terminal 字数终端设备 
+- alphanumeric 字母，字符  
+- alteration switch 变换开关 
+- alteration 改变  
+- altering error 修改差错 
+- altering 修改  
+- alternate acknowledge 交替应答 
+- alternate billing service (ABS)
+- alternate coding 更换编码 
+- alternate collating sequence 另外排序序列
+- alternate console 更替控制台 
+- alternate device 辅助设备 
+- alternate display 交替显示 
+- alternate file 替换文件 
+- alternate input library 交替输入库
+- alternate mark inversion (AMI)
+- alternate memory 交替存储器 
+- alternate mode 交替方式 
+- alternate path retry 替换通路再试
+- alternate routing 更替通路 
+- alternate routing 迂回路由选择 
+- alternate statement 交替语句 
+- alternate track 更换磁道 
+- alternate-channel interference 相间通道干扰 
+- alternating current (ac) 交流电流
+- alternating current 交流 
+- alternating function 交替功能 
+- alternating-current generator 交流发电机 
+- alternating-current pulse 交流电流脉冲 
+- alternation switch 变更开关 
+- alternation 交替  
+- alternative attribute 择一属性 
+- alternative denial gate 与非门
+- alternative module 交替模件 
+- alternator 交流发电机  
+- alternator, three-phase 三相交流发电机 
+- altimeter 高度计  
+- alu 算术逻辑运算部件  
+- alumina 矾土  
+- aluminum coil 铝线圈 
+- aluminum electrolytic capacitor 铝质电解电容器
+- aluminum interconnect 铝互连线，铝[线]互连 
+- ambient conditions 环境条件 
+- ambient level 环境水平 
+- ambient noise 环境噪声 
+- ambient temperature 环境温度 
+- ambient temperature 环境温度 
+- ambiguity error 歧义性错误 
+- ambiguity 歧义性  
+- ambiguous definition 歧义定义 
+- ambiguous grammar 歧义性文法 
+- ambiguous reference 歧义引用 
+- ambiguous solution 歧义解 
+- amendment record 改正记录 
+- amendment tape 改正带 
+- amendment 修正  
+- amendments file 改正文件 
+- amino acid 氨基酸 
+- ammeter 安培计  
+- ammeter 安培计  
+- ammonia 氨  
+- amorphous substance 非晶体物质 
+- amorphous-silicon thin-film transistors 非晶硅薄膜晶体管
+- ampacity 安培容量，安流量  
+- ampere (A) 安培 
+- ampere turn 安匝 
+- ampere-hour (Ah) 安培小时 
+- ampere-hour capacity 安时容量，安培小时容量 
+- ampere-hour efficiency 安培小时效率 
+- ampere-turns 安培圈数  
+- ampersand 和号  
+- amplification factor 放大因数 
+- amplification 放大  
+- amplifier (Amp) 放大器 
+- amplifier gain 放大器增益 
+- amplifier 放大器  
+- amplifier, audio 声频放大器 
+- amplifier, audio-frequency 声频放大器 
+- amplifier, bridge 桥式放大器 
+- amplifier, class A power
+- amplifier, class B power
+- amplifier, composition 组合式放大器 
+- amplifier, current feedback 电流反馈放大器
+- amplifier, current sense 电流感应放大器
+- amplifier, differential 差动放大器 
+- amplifier, diffusion 扩散放大器 
+- amplifier, direct coupling 直接耦合放大器
+- amplifier, direct current 直流放大器
+- amplifier, dual video 双视频放大器
+- amplifier, erbium-doped fiber (EDFA)
+- amplifier, floating diffusion 浮动扩散放大器
+- amplifier, high-frequency 高频放大器 
+- amplifier, instrumentation 仪器放大器 
+- amplifier, loop compensation 环路补偿放大器
+- amplifier, low-frequency 低频放大器 
+- amplifier, multiple-channel 多通道放大器 
+- amplifier, narrowband 窄带放大器 
+- amplifier, operational (OpAmp) 运算放大器
+- amplifier, operational transconductance (OTA)
+- amplifier, pre-(preamp) 前置放大器 
+- amplifier, programmable gain (PGA)
+- amplifier, push-pull 推挽式放大器 
+- amplifier, quad operational 四重组装运算放大器
+- amplifier, radio frequency 射频放大器
+- amplifier, sample-and-hold (SHA) 取样及保持放大器
+- amplifier, track-and-hold (THA) 追踪及保持放大器
+- amplifier, video 视频放大器 
+- amplitude calibration unit 振幅校准器振幅测量器
+- amplitude distortion 振幅失真 
+- amplitude equalization 幅度均衡 
+- amplitude evaluation 振幅测定,振幅评估 
+- amplitude flatness 振幅平滑度 
+- amplitude measuring instrument 振幅测试仪
+- amplitude modulation (AM) 振幅调制
+- amplitude resonance 振幅谐振 
+- amplitude shift keying (ASK)
+- amplitude 振幅  
+- amplitude 振幅  
+- amplitude, angle of 幅角
+- amplitude-frequency response 振幅频率反应 
+- analog -to-digital converter (ADC)
+- analog -to-digital video converter
+- analog / digital (A/D)
+- analog / discrete test
+- analog adder 模拟加法器 
+- analog baseband chip 模拟基带芯片
+- analog cell 模拟单元 
+- analog channel 模拟通道 
+- analog channel 模拟通道 
+- analog chip 模拟芯片 
+- analog circuit 模拟电路 
+- analog circuit 模拟电路 
+- analog comparator 模拟比较器 
+- analog computation 模拟计算 
+- analog computer 模拟计算机 
+- analog control 模拟控制 
+- analog data interchange format
+- analog data 模拟数据 
+- analog device 模拟装置 
+- analog dielectric isolation 模拟介电绝缘，模拟介质隔离
+- analog display services interface
+- analog emulation 模拟仿真 
+- analog feedback 模拟反馈 
+- analog form 模拟形式 
+- analog input expander 模拟输入扩展器
+- analog input 模拟输入 
+- analog multiplier 模拟乘法器 
+- analog output 模拟输出 
+- analog plotter 模拟绘图机 
+- analog quantity 模拟量 
+- analog representation 模拟表示 
+- analog simulator 模拟仿真器 
+- analog to digital conversion
+- analog to digital converter
+- analog 模拟  
+- analogue signal 模拟信号 
+- analogy 类推  
+- analyser 分析机  
+- analysis method 解析法 
+- analysis of variance 方差分析
+- analysis 分析  
+- analyst 分析员  
+- analytic form 解析形式 
+- analytical engine 分析机 
+- analytical function generator 解析函数发生器
+- analyzer 分析机  
+- ancestor node 先辈节点 
+- and circuit 与电路 
+- and conjunction 与 连接
+- and element 与元件 
+- and function 与酌 
+- and gate 与门 
+- and instruction 与指令 
+- and not gate 禁止门
+- and not operation 与非操作
+- and operation 与操作 
+- and operator 与操 
+- and or circuit 与或
+- and/or tree 与或树 
+- angle bracket 尖括号 
+- animated image 动画影象 
+- animation processing 动画处理 
+- animation 动画  
+- anisochronous 非同步的  
+- annealing temperature 退火温度 
+- annex memory 相联存储器 
+- annex storage 相联存储器 
+- annotation 注解  
+- annotation 注解、评注  
+- annotation, back 逆向注解 
+- annotation, forward 前向注解 
+- annular ring 循环振铃 
+- annunciator 信号器  
+- annunciator 示号器  
+- anode 阳极  
+- anode 阳极  
+- anomalous expansion 反常膨胀 
+- anomaly 不规则；异常  
+- anonymous FTP server 匿名文件传输协议服务器
+- anova 方差分析  
+- answer back 回应 
+- answer mode 回应模式 
+- answer 回答  
+- answer 应答  
+- answer-back code generation 回应码生成
+- answer-back code 回应码 
+- answerback code 应答码 
+- answerback device 应答设备 
+- answerback 应答信号  
+- answering delay 应答延迟 
+- answering list 应答表 
+- answering 应答  
+- antecedent 前提  
+- antenna (bi-directional) 天线（双向) 
+- antenna (omni-directional) 天线（全向） 
+- antenna (uni-directional) 天线（单向） 
+- antenna array 天线阵列 
+- antenna effect 天线效应 
+- antenna factor 天线波形因素 
+- antenna gain 天线增益 
+- antenna noise 天线噪声 
+- antenna pattern 天线模式 
+- antenna 天线  
+- antenna 天线  
+- antenna, phased-array 相位阵列式天线 
+- antenna, whip 伸缩天线 
+- anti aliasing 反混叠 
+- anti virus 防病毒[软件] 
+- anti-pad 反垫片，反焊盘, 反插,非焊接区 
+- antialiasing 抗混迭  
+- anticathode 对阴极  
+- anticipated carry adder 先行进位加法器
+- anticipation mode 先行方式 
+- anticipatory paging 先行党 
+- anticipatory staging 先行分段 
+- anticlockwise moment 逆时针力矩 
+- anticoincidence element 异元件 
+- antidumping 反倾销  
+- antifuse field programmable gate
+- antifuse 反熔丝  
+- antiglare screen 防闪光屏幕 
+- antiglare 防闪光的  
+- antilock brake 防震刹车 
+- antimagnetic force 抗磁力 
+- antinode 波腹  
+- antioxidant 抗氧化剂  
+- antiresonant frequency 反谐振频率 
+- antistatic shipping bag 抗静电运送袋,抗静电转运袋
+- antistatic 抗静电  
+- aperiodic circuit 非周期电路 
+- aperiodic damping 非周期阻尼 
+- aperiodic process 非周期处理 
+- aperiodicity 非周期性  
+- aperture card 穿孔卡 
+- aperture compensation 孔径补偿 
+- aperture distortion 孔径失真 
+- aperture setting 光圈调校 
+- aperture 孔  
+- aperture 孔径  
+- aperture, multiple 多孔径 
+- aperture, numerical 数值孔径 
+- aperture, single 单孔径 
+- apf 特许程序功能  
+- apg 自动优先级组  
+- apl apl 语言 
+- apl terminal apl终端 
+- apogee 远地点，最高点，最远点  
+- app domain （application domain）应用域
+- apparatus 设备装置  
+- apparatus 仪器；装置  
+- apparent charge 视在电荷 
+- apparent depth 视深 
+- apparent expansion 视膨胀 
+- apparent inductance 视在电感 
+- apparent performance 可见性能 
+- apparent power 视在功率 
+- apparent variable 视变量 
+- appearance 外观  
+- append mode 附加方式 
+- append 附加  
+- applet Java 小程序, Java支持程序
+- applet java的程序  
+- appliance 器具；装置  
+- appliances 电气用具  
+- application area 应用领域 
+- application association (AA) 应用协会
+- application binary interface (ABI)
+- application call 应用程序得 
+- application control and management
+- application domain 应用域 
+- application environment specifications (AES)
+- application execution environment 应用执行环境
+- application framework 应用程序框架 
+- application generator 应用生成程序 
+- application integration architecture (AIA)
+- application interface 应用接口 
+- application layer 应用层 
+- application management 应用管理 
+- application oriented language 面向应用的语言
+- application oriented 面向应用的 
+- application package 应用程序包 
+- application problem 应用问题 
+- application program interface (API)
+- application program 应用程序 
+- application programmer 应用程序设计员 
+- application programming 应用程序设计 
+- application protocol 应用协议 
+- application server 应用服务器 
+- application server 数据库服务器 
+- application software 应用软件 
+- application software 应用软件 
+- application study 应用研究 
+- application system 应用系统 
+- application 应用  
+- application 应用  
+- application 应用、应用程序  
+- application, numerical 数值应用 
+- application, point of 作用点
+- application-execution environment 应用执行环境 
+- application-focused array 焦点应用阵列 
+- application-specific automation processor (ASAP)
+- application-specific integrated circuit (ASIC)
+- application-specific integrated processor (ASIP)
+- application-specific standard product (ASSP)
+- applicative language 应用性语言 
+- applied linguistics 应用语言学 
+- applied mathematics 应用数学 
+- approval test 认可测试 
+- approval 认可  
+- approval 认可  
+- approval, type 类别认可 
+- approximate solution 近似解 
+- approximation successive- (S-A) 连续－渐近法
+- approximation 近似  
+- apr 替换通路再试  
+- aps 附属处理机系统  
+- apt language apt语言 
+- aqr 自动请求重发  
+- aqueous cleaning 水洗[技术] 
+- aqueous solution 水溶剂 
+- aramid yarn 聚芳基酰胺线 
+- arbiter 判优器判优电路  
+- arbiter 判优电路；判优器  
+- arbiter, bus 总线判优器 
+- arbitrary access 随机存取 
+- arbitrary function generator 任意函数发生器
+- arbitrary 任意的  
+- arbitrary, totally 完全任意的 
+- arbitrate 任意的  
+- arbitration bus 判优总线 
+- arbitration cycle 判优周期 
+- arbitration scheme 判优电路 
+- arbitration state machine 判优状态机器
+- arbitration timing 判优时序 
+- arbitration 仲裁  
+- arbitration 判优  
+- arbitration, multimaster 多控制判优 
+- arc light 电弧灯 
+- arc scanning 弧形扫描 
+- arc 弧  
+- arc, carbon 碳电弧 
+- architectural engineering and construction
+- architecture design 架构设计 
+- architecture 结构  
+- architecture 体系结构  
+- architecture 架构、体系结构  
+- architecture, active partitioning 有源分隔体系结构
+- architecture, application integration (AIA)
+- architecture, associative 关联（体系）结构 
+- architecture, backbone network (BNA)
+- architecture, cascaded network (CNA)
+- architecture, communications 通讯（体系）结构 
+- architecture, concurrent bus 并行总线（体系）结构
+- architecture, demand protocol (DPA)
+- architecture, digital network (DNA)
+- architecture, distributed data management
+- architecture, distributed system (DSA)
+- architecture, dual retargetable (DRA)
+- architecture, extended industry standard
+- architecture, extended processing (EPA)
+- architecture, flow-through 流通（体系）结构 
+- architecture, industry standard (ISA)
+- architecture, instruction set 指令集（体系）结构
+- architecture, logical 逻辑（体系）结构 
+- architecture, micro-channel bus (MCA)
+- architecture, network 网络（体系）结构 
+- architecture, open network (ONA)
+- architecture, open system 开放系统（体系）结构
+- architecture, pipeline 管线（体系）结构 
+- architecture, precision 精准（体系）结构 
+- architecture, scalable 可定标（体系）结构 
+- architecture, staged-vacuum 分段式真空（体系）结构 
+- architecture, systems application (SAA)
+- architecture, trigger detection 触发检测（体系）结构
+- architecture, two-way set-associative 双向集关联（体系）结构
+- archiv 档案  
+- archive file 归档文件、存档文件 
+- archive 档案  
+- archived file 档案文件 
+- archiving 归档  
+- arcing 发弧，跳火  
+- area address 区地址 
+- area array TAB 分区列阵TAB
+- area code 区域代码 
+- area color code 地区颜色码,区域颜色码
+- area key distributor (AKD)
+- area search 区域检索 
+- area 区域  
+- area, basic input/output system
+- area, extended basic input/output
+- area, high memory (HMA)
+- area, inactive 无效区 
+- area, internal data (IDA)
+- area, static-safe 静电安全区 
+- area-source 区域发射源  
+- areal density 面密度 
+- argon gas 氩气 
+- argon laser 氩激光 
+- argon sputter-etch process 氩气溅镀蚀刻过程
+- argument field 变元字段 
+- argument list 变元表 
+- argument passing 变元传递 
+- argument type list 变元类型表
+- argument 变元  
+- argument 自变量  
+- argument引数（传给函式的值）。参见parameter   
+- arithmetic / logic unit
+- arithmetic addition 算术加法 
+- arithmetic and control unit
+- arithmetic and logic unit
+- arithmetic assignment state ment
+- arithmetic check 算术检验 
+- arithmetic element 算术元素 
+- arithmetic expression 算术表达式 
+- arithmetic function 算术函数 
+- arithmetic mean 算术平均值 
+- arithmetic operation 算术运算 
+- arithmetic operator 算术算符 
+- arithmetic organ 运算器四则运算器 
+- arithmetic overflow 算术溢出 
+- arithmetic point 小数点 
+- arithmetic processor 运算处理器 
+- arithmetic product 算术乘积 
+- arithmetic register 运算寄存器 
+- arithmetic relation 算术关系 
+- arithmetic statement 算术语句 
+- arithmetic term 算术项 
+- arithmetic unit 运算器运算部件 
+- arithmetic 算术  
+- arithmetical instruction 算术指令 
+- arithmetical logic 算术逻辑 
+- arithmetical shift 算术移位 
+- arithmometer 四则运算器  
+- arm 机械臂  
+- arm 力臂；支架  
+- arm, moment 力矩臂 
+- armature 电枢  
+- armature 电枢  
+- armor 铠装（覆盖金属编织层），装甲  
+- arrangement 布置  
+- arrangement, data access (DAA)
+- array antenna 阵列天线 
+- array cell 矩阵单元 
+- array computer 阵列计算机 
+- array declarator 数组说名 
+- array descriptor 数组描述符 
+- array dimension 数组维数 
+- array element 数组元素 
+- array expression 数组表达式 
+- array identifier 数组标识符 
+- array multiplier 阵列乘法器 
+- array name 数组名 
+- array operation 数组运算 
+- array pitch 阵列行距 
+- array processor 数组处理机 
+- array representation 数组表示 
+- array sensor 数组传感器 
+- array variable 数组变量 
+- array 数组  
+- array 阵列  
+- array 阵列  
+- array, antifuse field programmable
+- array, application-focused 焦点应用阵列 
+- array, channel-less 无通道式阵列 
+- array, disk 磁盘阵列 
+- array, drive 磁盘机阵列 
+- array, extended graphics (XGA)
+- array, field programmable gate
+- array, gate 门阵列 
+- array, high-density channeled 高密度通道式阵列
+- array, land grid (LGA)
+- array, linear 线性阵列 
+- array, logic cell (LCA)
+- array, masked gate 掩膜式门阵列
+- array, memory cell 存储器单元阵列
+- array, one-dimensional 一维阵列 
+- array, programmable gate (PGA)
+- array, programmable logic (PLA)
+- array, three-dimensional 三维阵列 
+- array, two-dimensional 二维阵列 
+- array, video graphics (VGA)
+- arrival process 需求到达过程 
+- arrival rate 到达率 
+- arrow operator 箭头操作符 
+- arsenic 砷  
+- articulation 清晰度  
+- artifact 赝像  
+- artifact 任务图  
+- artifact, physical 实体赝像 
+- artificial antenna 人造天线 
+- artificial brain 仿真脑 
+- artificial intelligence (AI) 人工智能
+- artificial intelligence machine 人工智能机
+- artificial intelligence system 人工智能系统
+- artificial intelligence technology 人工知能技术
+- artificial intelligence 机聘令 
+- artificial language 人工语言 
+- artificial load 人工负载 
+- artificial magnet 人造磁铁 
+- artificial perception 人工识别 
+- artificial radioactive substance 人工放射性物质
+- artificial radioactivity 人工放射 
+- artificial radioisotope 人工放射性同位数 
+- artificial transformation 人工变换 
+- artwork data 原图数据 
+- artwork generation 原图生成 
+- artwork verifier 原图检验器 
+- artwork 原图  
+- asbestos 石绵  
+- asc 自动选择性控制  
+- ascending key 升序键 
+- ascending order 升序 
+- ascending ordering 升序 
+- ascending sort 升序排序 
+- ascii format ascii格式 
+- ascii keyboard 美国信息交换标准代码键盘 
+- ascii terminal ascii码终端 
+- ascii 美国信息交换标准代码  
+- aspartic acid 天门冬胺酸 
+- aspect card 标号卡片 
+- aspect ratio (AR) 长宽比
+- aspect ratio 长宽比 
+- aspherical mirror 非球面镜 
+- assemblage 组立  
+- assemble duration 汇编时间 
+- assembler directive 汇编指令 
+- assembler instruction 汇编指令 
+- assembler language 汇编语言 
+- assembler operator 汇编程序运算符 
+- assembler source program 汇编源程序
+- assembler 汇编程序  
+- assembler 汇编程序  
+- assembler, cross 交叉汇编程序 
+- assembler, macro- 指令组汇编程序 
+- assembling phase 汇编阶段 
+- assembling time 汇编时间 
+- assembling 汇编  
+- assembly code 汇编代码 
+- assembly instruction 汇编指令 
+- assembly instructions 指令组合 
+- assembly language 汇编语言 
+- assembly language 汇编语言 
+- assembly language 汇编语言 
+- assembly list 汇编表 
+- assembly manifest 装配件清单 
+- assembly pass 汇编遍数 
+- assembly phase 汇编阶段 
+- assembly process 汇编过程 
+- assembly program 汇编程序 
+- assembly routine 汇编程序 
+- assembly run 汇编程序运行 
+- assembly system 汇编系统 
+- assembly unit 汇编单元 
+- assembly 汇编  
+- assembly 汇编  
+- assembly 装配件、配件  
+- assembly, hard-disk (HDA) 硬盘机组件
+- assert statement 断言语句 
+- assert 宣称；断言  
+- asserted 宣称；断言  
+- assertion checker 断言检查程序 
+- assertion operator 断言语句 
+- assertion 断言  
+- assertion 命题；断言  
+- assertion-level logic 断言级逻辑，命题逻辑 
+- assert（ion） 断言  
+- assign 赋值  
+- assigned name 赋值名字 
+- assigned unit 分配的装置 
+- assigned value 分配值 
+- assigned value 指定值 
+- assigner 指定器  
+- assignment free language 指定自由语言
+- assignment instruction 赋值指令 
+- assignment operator 赋值操作符 
+- assignment problem 分配问题 
+- assignment statement 赋值语句 
+- assignment symbol 赋值符号 
+- assignment 赋值  
+- assignment 赋值  
+- assignment 赋值、分配  
+- assmelby instruction 汇编源程序 
+- associated 相关的、相关联的  
+- association control service element
+- association list 关联表 
+- associative addressing 相联编址 
+- associative architecture 关联结构 
+- associative container 关联式容器（对应sequential container）
+- associative lookup 关联检索 
+- associative memory 关联存储器 
+- associative memory 相联存储器 
+- associative operation 相联操作结合律运算 
+- associative processor 相联处理机 
+- associative query 相联查询 
+- associative record 相联记录 
+- associative register 相联寄存器 
+- associative rules 关联规则 
+- associative search 相联检索相联查线 
+- associative storage 相联存储器 
+- associative, set- 集相联 
+- assumed decimal point 假定小数点
+- assurance, quality (QA) 品质保证
+- ast routine ast例行程序 
+- ast 异步俘获  
+- astable multivibrator 不稳定多谐振荡器 
+- astatic control 无定向第 
+- astatic galvanometer 无定向电疗 
+- astatic regulator 无定向第器 
+- asterisk 星号  
+- astigmatism 散光  
+- astronomical unit 天文单位 
+- astronomy, radio 射电天文学 
+- asymmetric cryptographic system 不对称密码系统
+- asymmetric digital subscriber line
+- asymmetric i/o 非对称输入输出 
+- asymmetric multiprocessing system 非对称多外理系统
+- asymmetrical cell 非对称单元 
+- asymmetrical network 不平衡网络，不对称网络 
+- asymmetrical system 非对称系统 
+- asymptote 渐近线  
+- asynchronous balanced mode (ABM)
+- asynchronous character 异步字符 
+- asynchronous communication interface 异步通讯接口
+- asynchronous communication 异步通信 
+- asynchronous computer 异步计算机 
+- asynchronous counter 异步计数器 
+- asynchronous device 异步装置 
+- asynchronous machine 异步机 
+- asynchronous machine 异步机器 
+- asynchronous memory bus 异步存储器总线
+- asynchronous mode 异步方式 
+- asynchronous operation 异步操作 
+- asynchronous operation 异步操作 
+- asynchronous parallel algorithm 异步并行算法
+- asynchronous polling interface (API)
+- asynchronous processing 异步处理 
+- asynchronous receiving mode 异步接收模式
+- asynchronous response mode (ARM)
+- asynchronous response mode 异步应答方式
+- asynchronous sending mode 异步发送模式
+- asynchronous serial communication interface
+- asynchronous servomotor 异步伺服电动机 
+- asynchronous state machine 异步状态机器
+- asynchronous switching 异步交换 
+- asynchronous system trap 异步俘获
+- asynchronous system 异步系统 
+- asynchronous transfer mode (ATM)
+- asynchronous transmission 异步传输 
+- asynchronous transmission 异步传输 
+- asynchronous 异步  
+- asynchronous 异步的  
+- asynchronous 非同步的  
+- asynchronous, bit 位异步 
+- asynchronous, byte 字节异步 
+- at-speed test 全速度测试 
+- atm 自动测试装置  
+- atmosphere 大气  
+- atmospheric pressure 大气压力 
+- atn grammar 扩充转移网络文法 
+- atn 扩充转移网络  
+- atom 原子  
+- atom 原子  
+- atom, Bohr 波尔原子 
+- atomic action 原子动作原子酌 
+- atomic clock 原子钟 
+- atomic energy 原子能 
+- atomic heat 原子热 
+- atomic mass unit 原子质量单位
+- atomic mass 原子质量 
+- atomic nucleus 原子核 
+- atomic number 原子序数 
+- atomic operation 原子操作 
+- atomic operation 原子操作 
+- atomic structure 原子结构 
+- atomic weight 原子量 
+- atomic 原子的  
+- atomization, ultrasonic 超音波雾化 
+- atomizer 喷雾器  
+- attach map 附带变换 
+- attach 附上  
+- attached device 附加设备 
+- attached procedure 附属过程 
+- attached processor system 附属处理机系统
+- attached processor 附属处理机 
+- attached resource computer network
+- attached task 从属任务 
+- attachment unit interface (AUI)
+- attachment 附件；附属装置  
+- attention command 注意命令 
+- attention cycle 注意周期 
+- attention interruption 注意中断 
+- attention key 终端联机键 
+- attenuate 衰减  
+- attenuation band 衰减频带 
+- attenuation coefficient 衰减系数 
+- attenuation constant 衰减常数 
+- attenuation constant 衰减常数 
+- attenuation current 衰减电流 
+- attenuation distortion 衰减失真 
+- attenuation equalization 衰减均衡 
+- attenuation factor 衰减常数 
+- attenuation values 衰减值 
+- attenuation 衰减  
+- attenuation, local 局部衰减 
+- attenuator 衰减器  
+- attenuator, input 输入衰减器 
+- attenuator, optical 光学衰减器 
+- attraction 相吸作用  
+- attractive force 引力 
+- attribute area 属性区 
+- attribute code 属性代码 
+- attribute controller 属性控制器 
+- attribute grammar 属性文法 
+- attribute searching 属性搜索,特性搜索 
+- attribute structure 属性结构 
+- attribute type 属性类型 
+- attribute value list 属性值表
+- attribute value table 属性值表
+- attribute value 属性值 
+- attribute vector 属性向量 
+- attribute 属性  
+- attribute 属性  
+- attribute 特性、属性  
+- attribute, page 分页属性 
+- attribute, video 视频属性 
+- attributed graph 属性图 
+- audibility 可闻度  
+- audible noise 可闻噪声 
+- audible range 可闻音域 
+- audio amplifier 声频放大器 
+- audio analyzer 声频分析仪 
+- audio communication line 声音通信线路
+- audio frequency (AF) 音频；声频
+- audio frequency 声频 
+- audio messaging interchange system
+- audio response unit 答话器
+- audio streaming 音频数据流 
+- audio system 声音系统 
+- audio terminal 声音终端 
+- audio 声音  
+- audio 音频  
+- audio-frequency amplifier 声频放大器 
+- audio-mixing module (AMU) 声频混合模组
+- audio-processor unit (APU) 声频处理器单元
+- audio-visual (AV) 视听；声频／视频 
+- audiochannel 音频信道  
+- audioconferencing 电话会议  
+- audiofrequency channel 音频信道 
+- audiotex 语音信息[服务]，语音传讯（系统）  
+- audiovisual 视听觉的  
+- audit log 检查日志 
+- audit trail 审查跟踪 
+- audit 检查  
+- augend register 被加数寄存器 
+- augend 被加数  
+- augment 增加  
+- augment 增大；扩张  
+- augmental addressing 扩充编址 
+- augmented addressing 增强定址 
+- augmented grammar 扩充文法 
+- augmented operation code 扩充操纂
+- augmented transition network grammar
+- augmented transition network 扩充转移网络
+- auroral oval region 极光椭圆区
+- austenite 溶碳相  
+- authentication and key exchange
+- authentication center (AC) 认证中心，鉴定中心
+- authentication service 验证服务 
+- authentication 验证；[电文]鉴别  
+- authentification code 证实码 
+- authentification of message 信息认证
+- authentification of user 用户认证
+- authentification 认证  
+- authoring language 编辑语言 
+- authorization matrix 授权矩阵 
+- authorization 授权  
+- authorization 授权  
+- authorization 特许，授权  
+- authorized access 特许存取 
+- authorized program facility 特许程序功能
+- authorized program 特许程序 
+- authorized state 特许状态 
+- authorized user 特许用户 
+- auto answer 自动回答 
+- auto answering machine 自动应答机
+- auto decrement 自动减量 
+- auto dial 自动拨号 
+- auto draft 自动制图 
+- auto polling 自动轮询 
+- auto-answer 自动应答  
+- auto-authentication 自动[电文]鉴别  
+- auto-login 自动注册，自动登记  
+- auto-ranging 自动设换范围  
+- auto-tuning temperature controller 自动微调温度控制器
+- autobaud 自动波特  
+- autocall 自动呼叫  
+- autocode 自动编码  
+- autocoder 自动编码语言  
+- autocorrelation 自相关  
+- autocorrelator 自相关器  
+- autodecremental addressing 自动减寻址 
+- autodetect mode 自动检测模式 
+- autodiscovery 自动显像 ，自动显现 
+- autodump 自动转储  
+- autofill 自动填充  
+- autogrid 自动座标方格  
+- autoincrement 自动增量  
+- autoinde 自动编她  
+- autoindex addressing 自动变址寻址 
+- autoload 自动装入  
+- autoloading 自动装入  
+- automata theory 自动机理论 
+- automated attendant 自动值机员，自动话务员 
+- automated data medium 数据自动传送媒体
+- automated data processing 自动数据处理
+- automated defect classification (ADC)
+- automated inspection system 自动化检查系统
+- automated machine 自动化的机器 
+- automated material handling Systems
+- automated materials handling 自动化物料处理
+- automated optical inspection (AOI)
+- automated reasoning tool (ART)
+- automated system operation 系统自动运行
+- automated teller machine(ATM) 自动柜员机
+- automated test equipment (ATE)
+- automated x-ray inspection (AXI)
+- automatic abstract 自动化文摘 
+- automatic abstracting 自动啄摘 
+- automatic assembly 自动装配 
+- automatic bit rate (ABR)
+- automatic call distribution （ACD）自动呼叫分配
+- automatic call distribution 自动电话分配
+- automatic call library 自动呼叫程序库
+- automatic call sequencer (ACS)
+- automatic calling equipment 自动呼叫设备
+- automatic calling unit 自动呼叫装置
+- automatic carriage 自动滚轮 
+- automatic channel assignment 自动信道分配
+- automatic check 自动检验 
+- automatic checkout system 自动校验系统
+- automatic coding 自动编码 
+- automatic compensation 自动补偿 
+- automatic compensator 自动补偿器 
+- automatic compiler generator 自动编译程序生成程序
+- automatic computer 自动计算机 
+- automatic configuration 自动配置 
+- automatic contour digitizer （ACD）
+- automatic control box 自动控制箱
+- automatic control engineering 自动控制工程
+- automatic control system 自动控制系统
+- automatic control 自动控制 
+- automatic control 自动控制；自动第 
+- automatic controller 自动第器自动控制器 
+- automatic credit card verification
+- automatic cutout 自动断路 
+- automatic data processing equipment
+- automatic data processing systemk
+- automatic data processing 自动数据处理
+- automatic decimal point computer
+- automatic design engineering 自动设计工程
+- automatic device 自动装置 
+- automatic dialer 自动拨号机 
+- automatic dictionary 自动字典 
+- automatic digital computer 自动数字计算机
+- automatic error correction 自动错误校正
+- automatic error detection 自动错误检测
+- automatic exchange 自动交换机 
+- automatic formatting 自动格式化 
+- automatic frequency control (AFC)
+- automatic frequency control 自动频率控制
+- automatic gain control (AGC)
+- automatic gain control 自动增益控制
+- automatic indexing 自动标引 
+- automatic indicator 自动指示器 
+- automatic inspection 自动检查 
+- automatic interlock 自动联锁 
+- automatic interruption 自动中断 
+- automatic library call 自动库得
+- automatic load balancing 自动负载平衡，自动载荷平衡
+- automatic loader 自动装入程序 
+- automatic logging 自动记录 
+- automatic long distance service
+- automatic machine 自动机械 
+- automatic message accounting (AMA)
+- automatic message switching center
+- automatic message switching 自动信息转接
+- automatic message 自动报文 
+- automatic modulation control (AMC)
+- automatic number identification 数字自动识别
+- automatic operation 自动操作 
+- automatic optical inspection (AOI)
+- automatic packaging 自动组合 
+- automatic phase control 自动相位控制
+- automatic place and route
+- automatic placement machine 自动置放机
+- automatic power control (APC)
+- automatic priority group 自动优先级组
+- automatic program control 自动程序控制
+- automatic program generation 自动程序生成
+- automatic program generator (APG)
+- automatic programming 程序设计自动化 
+- automatic protection switching 自动保护交换
+- automatic punch 自动穿孔 
+- automatic reading 自动阅读 
+- automatic recorder 自记器 
+- automatic recovery program 自动恢复程序
+- automatic repeat request (ARQ)
+- automatic request for repetition
+- automatic request for repetition
+- automatic reset 自动复位 
+- automatic restart 自动再启动 
+- automatic segmentation 自动分段 
+- automatic selectivity control 自动选择性控制
+- automatic sequence control 自动顺序控制
+- automatic skip 自动跳字段 
+- automatic speech recognition (ASR)
+- automatic speed control 自动速度控制
+- automatic stabilization 自动稳定 
+- automatic starting 自动起动 
+- automatic stop 自动停机 
+- automatic storage and retrieval
+- automatic subroutine 自动子程序 
+- automatic switch 自动手控开关 
+- automatic system 自动系统 
+- automatic teller machine (ATM)
+- automatic teller 自动出纳机 
+- automatic test equipment (ATE)
+- automatic test equipment 自动测试装置
+- automatic test generator (ATG)
+- automatic test pattern generation
+- automatic test program generation
+- automatic testing equipment 自动测试装置
+- automatic testing 自动校验 
+- automatic translation service 自动翻译服务
+- automatic translation 自动翻译 
+- automatic transmission 自动传输 
+- automatic variable 自动变量 
+- automatic vehicle location (AVL)
+- automatic voltage regulator (AVR)
+- automatic voltage regulator 自动倒器
+- automatic volume control 自动音量控制
+- automatic volume recognition 自动卷体识别
+- automatic volume switching 自动卷体交换
+- automatics 自动学  
+- automation plan 自动化计划 
+- automation 自动化  
+- automation 自动化  
+- automation, electronic design (EDA)
+- automaton 自动机  
+- automonitor 自动监督程序  
+- automorphism 自同构  
+- automotive electronics 汽车用电子设备 
+- autonomous link 独立链路 
+- autonomous working 独立工作 
+- autoplotter 自动绘图仪  
+- autoranging 自动换档  
+- autosynch 自动同步  
+- autotest self check 自动校验
+- autotuning temperature controller 自动调谐温度控制器
+- autozero mode 自动归零模式 
+- auxiliary code 辅助码 
+- auxiliary data 辅助数据 
+- auxiliary device 辅助设备 
+- auxiliary function 辅助函数 
+- auxiliary key 辅助键 
+- auxiliary memory peripheral storage
+- auxiliary operation 辅助操作 
+- auxiliary operation 辅助操作 
+- auxiliary processor 辅助处理机 
+- auxiliary program 辅助程序 
+- auxiliary routine 辅助程序 
+- auxiliary supply 辅助电源；备用电源 
+- auxiliary switch 辅助开关 
+- availability indicator 可用性指示器 
+- availability 可用性  
+- availability 可用性  
+- available data 可用数据 
+- available frame count 有效帧数
+- available machine time 可用机票间
+- available memory 可用存储器 
+- available page queue 可用页面队列
+- available unit queue 可用部件队列
+- available unit 可用部件 
+- avalanche breakdown 雪崩哗 
+- avalanche breakdown 雪崩击穿 
+- avalanche photo diode (APD)
+- avalanche 雪崩  
+- avalanche 雪崩  
+- avatar 体现，具体化  
+- average acceleration 平均加速度 
+- average access time (AAT)
+- average access time 平均存取时间
+- average block length 平均块长度
+- average calculating time 平均运算时间
+- average data transfer rate
+- average edge line 平均边缘线
+- average positioning time 平均定位时间
+- average speed 平均速度 
+- average time 平均时间 
+- average velocity 平均速度 
+- avionics 航空电子学  
+- avl tree avl树均高二叉树 
+- avoidance 回避  
+- avr 自动倒器  
+- axial lead component 轴向引线元件
+- axiom scheme 公理模式 
+- axiomatic semantics 公理化语义 
+- axis of rotation 转动轴
+- axis 轴  
+- axis, optical 光轴 
+- axis, principal 主轴 
+- azeotrope 共沸物  
+- azeotropic mixture 共沸点混合物，恒沸点混合物 
+- azimuth 方位角  
+- 
+## B
+- 
+- b box 基址寄存器 
+- b register 基址寄存器 
+- b test 测试 
+- b tree 二叉树 
+- back annotation 逆向注解 
+- back channel 反向通道，反向信道 
+- back electromotive force 反电动势
+- back end interface 后端接口
+- back end processor 后端处理机
+- back face 背面 
+- back filling 倒填入 
+- back light 背景照明 
+- back panel 背板 
+- back ripple current 逆向脉动电流
+- back up 后备 
+- back wave 回波 
+- back, loop 回环 
+- back-annotate 后端注释  
+- back-end 后端  
+- back-off, bus 总线退出 
+- back-scattering 反向散射  
+- back-to-back testing 背对背测试 
+- backbone cabling 主干线布线，主干布线 
+- backbone network architecture (BNA)
+- backbone network 中枢网络 
+- backbone network 中枢网络 
+- background acquisition 背景采集 
+- background color 背景颜色 
+- background image 背景图象 
+- background job processor 后台椎处理机
+- background job 后台椎 
+- background mode 后台方式 
+- background noise 背景噪声 
+- background operation 后台操作 
+- background printing 后台打印 
+- background processing interrupt 后台处理中断
+- background processing 后台处理 
+- background processor 后台处理机 
+- background program 后台程序 
+- background queue 后台排队 
+- background reader 后台阅读器后台读入程序 
+- background region 后台区 
+- background task 后台任务 
+- background 后台  
+- background 背景  
+- background 背景、后台（进程）  
+- backgrounding 后台处理  
+- backing memory 后备存储器 
+- backout 撤回  
+- backplane bus 基架总线 
+- backplane bus 底板总线 
+- backplane slot 底板插槽 
+- backplane transceiver logic (BTL)
+- backplane 底板；背板；基架  
+- backscatter 反向散射  
+- backspace character 退回字符 
+- backspace key 退回键 
+- backspacing 退回  
+- backtrace 回索  
+- backtrace 向后追踪  
+- backtracking 回溯  
+- backup copy 备用复制件 
+- backup device 备用设备 
+- backup device备份设备  
+- backup diskette 后援软磁盘 
+- backup file 备份文件 
+- backup file 备用文件 
+- backup gap 备存间隙 
+- backup machine 后备机械 
+- backup memory 后备存储器 
+- backup protection 备存保护 
+- backup storage 后备存储器 
+- backup system 后备系统 
+- backup version 后备版本 
+- backup 备份  
+- backup 备存  
+- backup 备用设备  
+- backus naur form 巴科斯诺尔范式
+- backus notation 巴科斯记数法 
+- backward branching 逆方向分支 
+- backward chaining 反向链接 
+- backward compatibility 反向兼容性 
+- backward compatible 向后兼容、向下兼容 
+- backward counter 减法计数器 
+- backward diode 逆向二极管 
+- backward estimation 后向估计 
+- backward pointer 反向指针 
+- backward reading 反读 
+- backward reasoning 反向推理 
+- backward recovery 向后恢复 
+- backward reference 向后引用 
+- backward-compatible 逆向相容  
+- bad data 不良数据 
+- bad track 不良磁道 
+- badge punch 标记穿孔 
+- badge reader 标记阅读器 
+- badge 标记  
+- baffle 隔板  
+- balance force 平衡力 
+- balance indicator 平衡指示器 
+- balance point 平衡点 
+- balance, analytic 分析天平 
+- balance, charge 电荷平衡 
+- balanced amplifier 平衡放大器 
+- balanced capacitance 平衡电容 
+- balanced circuit 平衡电路 
+- balanced conditions 平衡条件 
+- balanced error 平衡误差 
+- balanced line 平衡线路 
+- balanced merge sort 平衡归并排序
+- balanced mixer 平衡混合器 
+- balanced sample 平衡采样 
+- balanced tree 平衡树 
+- balanced 平衡的  
+- balanced, link access protocol
+- balancing network 平衡网络 
+- balancing network 平衡网络 
+- balancing speed 平衡速度 
+- balancing tabulator 平衡制表机 
+- balancing 平衡  
+- ball bearing 滚珠轴承 
+- ball printer 球形打印机 
+- ball valve 球型阀 
+- ball, solder 焊锡球 
+- ball-bearing fan 滚珠轴承风扇 
+- ballast 镇流管  
+- ballistic galvanometer 冲击电流计 
+- balun 平衡－不平衡变换器  
+- bam 基本存取法  
+- banana plug 香蕉插头 
+- band gap 带隙 
+- band matrix 带状矩阵 
+- band printer 带式打印机 
+- band selector 波段选择器 
+- band spectrum 频带谱 
+- band spreading 频带散布 
+- band 频带  
+- band 频带  
+- band, carrier 载波频带 
+- band, citizen (CB) 民用波段
+- band, effective 有效频带 
+- band, guard 防护频带 
+- band, pass 通频带 
+- band, side 侧频带 
+- band, single-side (SSB) 单面频带
+- band, voice 声音频带 
+- band-edge 频带边沿  
+- band-elimination filter 带阻滤波器 
+- bandgap 频带间隙  
+- banding, rubber 弹性连接 
+- bandpass filter 带通滤波器 
+- bandpass limiter 带通限制器，带通限幅器 
+- bandpass 通频带  
+- bandwidth on demand 额定带宽
+- bandwidth 带宽  
+- bandwidth 带宽  
+- bandwidth 频宽  
+- bandwidth, communications 通讯频宽 
+- bandwidth, frequency selective 频率选择频宽
+- bandwidth, frequency 频率频宽 
+- bandwidth, luminance 亮度频宽 
+- bandwidth, read 读出频宽 
+- bandwidth, resolution (RBW) 解析度频宽
+- bandwidth, sampling frequency 取样频率频宽
+- bandwidth-limited operation 频宽限制操作 
+- bang bang control 开关式控制
+- bank select 存储体选择 
+- bank switching 存储体选择 
+- bank switching 存储器组转换 
+- bank winding 存储器组缠绕 
+- bank 组  
+- bank 存储体  
+- bank, multi-register 多寄存器组 
+- bank, register 寄存器组 
+- banking computer 银行计算机 
+- banking terminal 银行终端 
+- banner page 标题页 
+- banner 标题  
+- bar chart 条形图 
+- bar code reader 条形码读出器条形码扫描器
+- bar code scanner 条形码读出器条形码扫描器
+- bar code 条码 
+- bar code 条形码 
+- bar generator 条状信号产生器 
+- bar graph 直方图 
+- bar graph 气压记录仪 
+- bar magnet 条形磁铁 
+- bar pattern 条形图案 
+- bar printer 杆式打印机 
+- bar 巴  
+- bar-code reader 条码阅读器 
+- bar-code scanner 条码扫描器 
+- bar-code system 条码系统 
+- bar-type current transformer 条形电流变换器
+- bare board 裸板 
+- bare board 裸印制板 
+- bare chip 裸芯片 
+- bare conductor 裸线 
+- bare die 裸片 
+- bare machine 裸机 
+- bare-board testing 裸板测试 
+- bargraph 柱状图表  
+- barium (Ba) 钡 
+- barometer 气压计  
+- barometer, aneroid 无液气压计 
+- barrel connector 圆柱式连接器 
+- barrel distortion 桶形畸变 
+- barrel printer 鼓式打印机 
+- barrel shifter 柱式位移器 
+- barrel 鼓式打印机  
+- barrier layer 阻挡层 
+- barrier 势垒  
+- barrier 障碍；阻挡  
+- base active power 基本有功功率
+- base address register 基地址寄存器
+- base address 基地址 
+- base address 基底地址 
+- base and displacement 基地址与位移地址
+- base band lan 基频局域网络
+- base band local area
+- base band transmission 基带传输
+- base band 基频带 
+- base bound registers 基边界寄存器
+- base bus 基底总线 
+- base class 基类 
+- base command 基本命令 
+- base conversion 基数变换 
+- base displacement addressing 基础位移定址
+- base drive 基极驱动 
+- base electrode 基极 
+- base electrode 基极 
+- base expansion 基本扩充 
+- base frequency 基本频率 
+- base group 基本组 
+- base impedance 天线座端阻抗 
+- base item 基本项 
+- base limit registers 基边界寄存器
+- base load 基本负载 
+- base management information, (MIB)
+- base notation 基本符号 
+- base number 基数 
+- base page address 基页地址
+- base page addressing 基本页寻址
+- base page 基本页 
+- base point 少数点 
+- base port address 基本端口地址
+- base pressure 基本压力 
+- base region 基极区 
+- base register 基址寄存器 
+- base register 基本寄存器；基极寄存器 
+- base resistivity 基极电阻 
+- base station controller (BSC)
+- base station subsystem (BSS)
+- base station 基站 
+- base time 基准时间 
+- base transceiver station (BTS)
+- base transistor 基极晶体管 
+- base type 基类型 
+- base type 基本类型 
+- base unit 基本单位 
+- base 基本；基底  
+- base, common 共基极 
+- base, time 时基 
+- baseband LAN 基带局域网 
+- baseband coaxial cable 基频带同轴电缆
+- baseband modem 基带调制解调器 
+- baseband network 基频带网络 
+- baseband signal 基频带信号 
+- baseband 基带  
+- baseband 基频带  
+- baseband-multiplexed 基频带多工  
+- based variable 带基变量 
+- baseline delay 基线延迟 
+- baseline offset 基线位移量 
+- baseline overshoot 基线过冲 
+- baseline privacy 基线私密 
+- baseline wander (BLW) 基线漂移
+- baseplate temperature 底板温度 
+- baseplate 基板  
+- baseplate 底板  
+- basic HTML (HyperText Markup
+- basic access method 基本存取法
+- basic access method 基本存取方法
+- basic access model 基本存取模式
+- basic access 基本存取 
+- basic area 基本领域 
+- basic assembler 基本汇编程序 
+- basic audio processor (BAP)
+- basic basic语言  
+- basic block 基本块 
+- basic cell 基本单元 
+- basic circuit 基本电路 
+- basic coding 基本编码 
+- basic communications services 基本通讯服务
+- basic configuration 基本配置 
+- basic control element 基本控制元素
+- basic control mode 基本控制方式
+- basic cycle 基本周期 
+- basic data type 基本数据类型
+- basic direct access method
+- basic direct access method
+- basic disk operating system
+- basic element 基本元件 
+- basic encoding rule (BER)
+- basic fixed area 基本固定区
+- basic indexed sequential access
+- basic input output system
+- basic input/output system (BIOS)
+- basic input/output system data
+- basic media access controller
+- basic part 基本零件 
+- basic rate access (BRA)
+- basic rate interface (BRI)
+- basic rate 基本速率 
+- basic repetition rate 基本重复率
+- basic telecommunications access method
+- basic transmission unit (BTU)
+- bass boost 低音提升 
+- batch mode 批[处理]方式 
+- batch processing 批次处理作业 
+- batch 批次  
+- batch 批处理  
+- bath voltage 槽电压 
+- bath, solder 焊槽 
+- bath, water 水浴槽 
+- bathtub curve 澡盆曲线 
+- battery back-up 备用电池 
+- battery boost 电池升压 
+- battery charger 电池充电器 
+- battery eliminator 等效电池 
+- battery pack 电池包；电池组件 
+- battery 电池  
+- battery, alkaline 硷性电池 
+- battery, lithium 锂电池 
+- battery, nickel cadmium (NiCd)
+- battery, nickel metal hydride
+- battery, primary 原电池 
+- battery, secondary 次级电池 
+- battery, solar 太阳能电池 
+- baud rate 波特率 
+- baud 波特  
+- baud-rate generator 波特率产生器 
+- beacon frame 指示信息段 
+- beacon 标示  
+- bead, solder 焊球 
+- beam crossover loss 射束交迭损耗
+- beam finder 寻束器 
+- beam forming 射束形成，聚束，成束 
+- beam splitter 分光镜 
+- beam steering 射束[方向]控制 
+- beam 束；光束  
+- beam, electron 电子束 
+- beam, focused ion (FIB)
+- beam, gallium ion 镓离子光束
+- beam, ion 离子束 
+- beam, laser 激光束 
+- beam, molecular 分子束 
+- beam, photolithographic 光刻线 
+- beam-deflection tube 射束偏转管 
+- bearer service 承载业务 
+- bearing accuracy 方位准确度 
+- bearing 轴承  
+- bearing, ball 滚珠轴承 
+- bearing, hydrostatic 静液压轴承 
+- bearing, roller 滚桶轴承 
+- bearing, spindle 转轴轴承 
+- beat frequency 拍频 
+- beat note 拍音 
+- beat 拍  
+- bed-of-nails 针床  
+- behavior, transient 瞬变行为 
+- behavioral data 性能数据 
+- behavioral definition 性能定义 
+- behavioral description 性能描述 
+- behavioral simulation model 性能摸拟模型
+- behavioral simulation 性能摸拟 
+- behavioral 行为的；性能的  
+- bellow 摺箱  
+- belt, conveyer 传送带 
+- benchmark 基准点  
+- benchmarking program 基准点测试程序 
+- bend loss [ 光纤的]弯曲损耗
+- bend radius 弯曲半径 
+- benzene 苯  
+- beryllium (Be) 铍 
+- beta circuit У缏?beta testing
+- bezel 挡板；遮光板  
+- bi-directional bus 双向总线 
+- bi-directional pin 双向接脚 
+- bi-directional 双向的  
+- bi-phase coding 二相编码，双相编码 
+- bias circuit 偏压电路 
+- bias current 偏置电流 
+- bias distortion 偏置失真 
+- bias power 偏置功率 
+- bias slope 偏置斜率 
+- bias 偏置；偏压  
+- bias, fixed 固定偏压 
+- bias, high-temperature reverse- (HTRB)
+- bias, negative 负偏压 
+- biased amplifier 偏置放大器 
+- biconcave lens 双凹面透镜 
+- biconical antenna 双锥形天线 
+- biconvex lens 双凸面透镜 
+- bifocal lens 双焦点透镜 
+- bilateral network 双向网络 
+- bilateral roaming agreement 双向漫游协定，双向漫游协议
+- bilateral transducer 双向传感器 
+- bill of materials (BOM)
+- bimetallic strip 双层金属条 
+- binary arithmetic 二进制算术 
+- binary code 二进制码 
+- binary compatible 二进制兼容 
+- binary countdown 二进制倒数 
+- binary counter 二进制计数器 
+- binary data 二进制数据 
+- binary decision diagram (BDD)
+- binary encoding 二进制编码 
+- binary frequency-shift keying (BFSK)
+- binary function 双参函数 
+- binary large object二进制大对象 
+- binary mask 二元掩膜 
+- binary notation 二进制记数法 
+- binary number system 二进制数制
+- binary operator 二元操作符 
+- binary phase-shift keying (BPSK)
+- binary search 二元搜寻 
+- binary search 二分查找 
+- binary synchronous communications (BSC)
+- binary synchronous control (BSC)
+- binary synchronous interface (BSI)
+- binary synchronous protocol (BISYNC)
+- binary tree search 二叉树搜寻
+- binary tree 二叉树 
+- binary unit 二进制单元 
+- binary with eight zero
+- binary 二进制  
+- binary 二元的；二进制  
+- binary-coded decimal (BCD) 二进码十进数
+- binary-tree search 二元树状搜寻 
+- binaural 双耳的，双声道的，立体声的  
+- binder 黏合剂  
+- binding energy 结合能 
+- binding 绑定  
+- binding 联编，汇集，邦定  
+- binhex 二 -- 十六进制
+- biodegradable 可生物降解  
+- biplexer 高速通道  
+- bipolar analog process 双极模拟过程
+- bipolar coding with zero
+- bipolar coding 双极性编码 
+- bipolar complementary metal oxide
+- bipolar logic 双极逻辑 
+- bipolar metal oxide semiconductor
+- bipolar power transistor 双极功率晶体管
+- bipolar signal 双极信号 
+- bipolar transistor 双极晶体管 
+- bipolar 双极  
+- biquinary 二-五进制  
+- bismuth compound 铋化合物 
+- bistability 双稳定性  
+- bistable 双稳态  
+- bit cell 位单元 
+- bit error rate (BER)
+- bit error rate (ber)
+- bit error rate testing
+- bit field 位资料栏 
+- bit map 位映射图 
+- bit plane 位平面 
+- bit problem 位问题 
+- bit rate 位速率，比特率 
+- bit serial 位串行 
+- bit shift 位移位 
+- bit stream 位流 
+- bit stuffing 位填充，比特填充 
+- bit synchronous 位同步 
+- bit 位  
+- bit 位  
+- bit, accessed 存取位 
+- bit, asynchronous 异步位 
+- bit, framing 帧划分位 
+- bit, horizontal parity 水平奇偶位
+- bit, interleaved 交错位 
+- bit, least significant (LSB)
+- bit, lower 低位 
+- bit, missing 缺失位 
+- bit, parity 奇偶位 
+- bit, significant 有效位 
+- bit, start 起始位 
+- bit, status 状态位 
+- bit, stop 终止位 
+- bit, storage 储存位 
+- bit, upper 高位 
+- bit, vertical parity 垂直奇偶位
+- bit-aligned block transfer 对位式区块传输
+- bit-block transfer (BitBLT) 位区块传输
+- bit-cell polysilicon 位单元多晶硅 
+- bit-error rate testing (BERT)
+- bit-error rates 误码率 
+- bit-error ratio (BER) 位错误率
+- bit-mapped graphics 位映射图像 
+- bit-mapped raster image 位映射光栅影像
+- bit-oriented protocol (BOP) 位取向协定
+- bit-oriented protocol 面向比特的协议 
+- bit-parallel 位并行  
+- bit-per-second (bps) 每秒位数 
+- bit-retention time 位保存时间 
+- bit-reversal permutation 位反向置换 
+- bit-serial 位串行  
+- bit-sliced 位式片  
+- bitmap 位图  
+- bitwise copy 为单元进行复制；位元逐一复制,按位拷 
+- bitwise operation 按位运算 
+- bitwise 按位……  
+- black and white 黑白的
+- black body 黑体 
+- black box 黑盒 
+- black compression 黑区信号压缩 
+- black level 黑色电平 
+- black light 黑光；不可见光 
+- black peak 黑色峰值 
+- black-body radiation 黑体幅射 
+- black-oxide process 黑氧化处理 
+- black-surface reflector (BSR) 黑面反射器
+- blackening, relative 相对黑度 
+- blade antenna 叶片形天线 
+- blade tip 叶梢 
+- blade 叶片；刀刃  
+- blank character 空白字符 
+- blank 空白；清除  
+- blanked picture signal 消隐画面信号
+- blanking interval 消隐间隔 
+- blanking level 消隐信号电平 
+- blanking 消隐  
+- bleed 渗出，泻漏；色料扩散；[图文]超出版面  
+- blind hole 闭孔 
+- blind spot 盲点 
+- blind via 盲通孔 
+- blink 闪烁  
+- blister 气泡  
+- block allocation 区块配置 
+- block code 分组码 
+- block command 字块命令 
+- block diagram 方块图 
+- block erase 区段式擦除 
+- block error rate (BLER)
+- block mode 区块模式；资料段模式 
+- block parity 区块奇偶校验 
+- block sequence number (BSN)
+- block transfer 区块传输 
+- block 区块  
+- block 块、区块、语句块  
+- block, building 汇编区块 
+- block, configurable logic (CLB)
+- block, data 数据资料段 
+- block, expanded memory (EMB)
+- block, file control (FCB)
+- block, functional 功能区块 
+- block, generic logic (GLB)
+- block, logic array (LAB)
+- block, upper memory (UMB)
+- block-mode transfer 资料段模式传输 
+- blockcheck character (BCC) 区块检测符
+- blocking capacitor 阻塞电容器 
+- blocking diode 阻塞二极管 
+- blocking probability 阻塞概率 
+- blocking voltage 阻塞电压 
+- blow hole 熔固孔 
+- blower 吹风机  
+- blowout coil 减弧线圈 
+- board layer 电路板层 
+- board library 电路板程序库 
+- board test lab 电路板测试实验室，
+- board warpage 电路板扭曲 
+- board, bare 裸板 
+- board, bread 实验用电路板 
+- board, bulletin 电子布告板 
+- board, burn-in (BIB) 老化测试板
+- board, bus master 总线控制器板
+- board, chip-on- (COB) 板上式芯片
+- board, daughter 子板 
+- board, double-sided 双面电路板 
+- board, field programmable circuit
+- board, functional system (FSB)
+- board, main 主机板 
+- board, multilayer 多层电路板 
+- board, plated-through 镀通电路板 
+- board, printed circuit (PCB)
+- board, printed wiring (PWB)
+- board, single-sided 单面电路板 
+- board, through-hole 穿孔式电路板 
+- board, wiring terminal 路由终端板
+- bobbin 线轴  
+- bobble [ 装饰]软球 
+- body capacitance 体电容 
+- body, electrified 带电体 
+- body, illuminated 受照体 
+- body, luminous 发光体 
+- body, non-luminous 非发光体 
+- body, opaque 不透明体 
+- body, perfectly elastic 完全弹性体
+- body, rigid 刚体 
+- body, translucent 半透明体 
+- boiling point 沸点 
+- boiling 沸腾  
+- bond pad 接合焊盘，结合区 
+- bond wire 接合线 
+- bond 键；黏接  
+- bond, covalent 共价键 
+- bond, ionic 离子键 
+- bond, metallic 金属键 
+- bonded wafer 已粘接晶圆 
+- bonding alloy 粘结合金 
+- bonding pads 结合片，结合区，连接填料 
+- bonding 粘结，压焊，结合，搭接  
+- bonding, metal electrode face
+- bonding, tape automated (TAB)
+- bonding, transferred-bump tape automated
+- book-to-bill ratio 订购运销值比 
+- bookkeeping 簿记  
+- boolean algebra 布尔代数，逻辑代数 
+- boolean equation 布尔方程 
+- boolean expansion 布尔延伸式 
+- boolean logic 布尔逻辑 
+- boolean operator 布尔运算子 
+- boolean reduction 布尔约简 
+- boolean 布林值（真假值，true或false）  
+- boost regulator 升压调节器 
+- boost 升压  
+- boost, buck- 冲跳升压 
+- booster charge 再充电 
+- booster 升压器；放大器  
+- boot infector 启动感染程序 
+- boot sector 启动磁区 
+- boot 启动  
+- boot, cold 冷启动 
+- boot, warm 暖启动 
+- boot-up 启动  
+- booting 引导，引导装入  
+- bootstrap circuit 启动电路 
+- bootstrap loader 启动程序载入器 
+- bootstrap supply 自举电源 
+- bootstrap 启动程序  
+- border gateway protocol (BGP)
+- border gateway 边界网关 
+- border 边框  
+- border 边界  
+- bottom centering jaw 下定中爪
+- bounce pad 回弹插入,回弹垫片 
+- bounce 跳动  
+- bounce, ground 接地跳动 
+- bound charge 束缚电荷 
+- bound electron 束缚电子 
+- boundary condition 边界条件 
+- boundary controller 边界控制器 
+- boundary functional test (BFT)
+- boundary in-circuit test (BICT)
+- boundary representation (B-rep) 边界表示法
+- boundary scan 边界扫描 
+- boundary tag method (BTM)
+- boundary value 边界值 
+- boundary, framing 信息段范围 
+- boundary, kernel 核心边缘 
+- boundary-element method (BEM) 临界元素法
+- boundary-scan architecture 边界扫描结构 
+- boundary-scan description language (BSDL)
+- bounds checking 边界检查 
+- boxing 装箱、装箱转换  
+- brace （curly brace） 大括号、花括号
+- bracket （square brakcet） 中括号、方括号
+- braid 包线  
+- brain drain 人才外流 
+- brake anti-lock, 防震刹车 
+- braking resistor 制动电阻器 
+- branch network 分支网络 
+- branch target cache (BTC)
+- branch 分支；转位  
+- braze 铜锌合金焊，硬钎焊  
+- breadboard 实验用电路板  
+- break detect 中断检测 
+- break indication 中断指示 
+- breakdown current 击穿电流 
+- breakdown impedance 击穿阻抗 
+- breakdown rating 击穿额定值 
+- breakdown region 击穿区域 
+- breakdown voltage 击穿电压 
+- breakdown 中断点  
+- breakdown, collector-base 集极－基极击穿 
+- breakdown, secondary 次级击穿 
+- breaker 断路； 开关 
+- breakout box 断接盒 
+- breakpoint trigger 触断点 
+- breakpoint 断点  
+- breakpoint 断点  
+- breakthrough 贯穿  
+- bridge amplifier 桥式放大器 
+- bridge circuit 桥接电路 
+- bridge current 桥接电流 
+- bridge rectifier 桥接整流器 
+- bridge 电桥；桥接  
+- bridge, Wheatstone 惠斯登电桥 
+- bridge, Wien 惠恩电桥 
+- bridge, solder 焊桥 
+- bridged-T network 桥接Ｔ形四端网络 
+- bridging 桥接，跨接；分路，分流  
+- bridle wire 跳线；绝缘跨接线 
+- brightness 光度  
+- brightness, cross 互串光度 
+- brine 盐水  
+- broadband Internet 宽带因特网 
+- broadband coaxial cable 宽带同轴电缆
+- broadband detection 宽频带检测 
+- broadband directional coupler 宽频带定向耦合器
+- broadband power divider 宽频带功率分配器
+- broadband telecommunications 宽频带远程通讯 
+- broadband wireless 宽带无线[通信] 
+- broadband 宽频带  
+- broadcast address 广播地址 
+- broadcast control channel (BCCH)
+- broadcast encryption 广播加密 
+- broadcast management entity (BME)
+- broadcast network 广播网 
+- broadcast 广播  
+- broadside array 垂射天线 
+- bronze conductor 青铜传导体 
+- brouter 桥由器，桥式路由器  
+- brownout 降压，节电  
+- brownout 电压起伏及闪烁  
+- browse 浏览  
+- browser applications 浏览器应用（程序） 
+- browser 浏览器  
+- browser-accessible application 可经由浏览器访问的应用程序 
+- browsing 浏览  
+- brush discharge 刷形放电 
+- brush 刷；刷子  
+- brushless motor 无刷式马达 
+- brushless 无刷的  
+- bubble chamber 气泡室 
+- bubble chart 气泡式图表 
+- bubble memory 磁泡存储器 
+- bubble sort 气泡排序 
+- buck boost 冲跳升压 
+- buck converter 降压变换器 
+- buck regulator 降压调节器 
+- buck 冲跳  
+- buffer amplifier 缓冲放大器 
+- buffer 缓冲区；缓冲器  
+- buffer, address 地址缓冲器 
+- buffer, dumb frame 基本型画面缓冲器
+- buffer, elasticity 弹性缓冲器 
+- buffer, frame 画面缓冲器 
+- buffer, image 影像缓冲器 
+- buffer, look ahead 先行缓冲器
+- buffer, lookaside 监视缓冲器 
+- buffer, translation lookaside (TLB)
+- buffer, tristate output 三态输出缓冲器
+- buffer, tristate 三态缓冲器 
+- buffer, voltage 电压缓冲器 
+- buffer, write 写入缓冲器 
+- buffering, frame 帧缓冲 
+- bug 臭虫  
+- bug 程序错误  
+- build 编连（专指编译和连接  
+- building block 汇编区块 
+- building-in-reliability (BIR) 固有可靠性 
+- built-in check 内置式检测 
+- built-in decoder 内置解码器 
+- built-in lead stress (BILT)
+- built-in logic block observer
+- built-in self test (BIST)
+- built-in 内置式  
+- built-in 内建、内置  
+- bulb, dry 乾泡 
+- bulb, infrared reflow 灯泡式红外线回流
+- bulbous 球形的  
+- bulk capacitor 大容量电容器 
+- bulk modulus 容变弹性模组 
+- bulk storage 大容量存储器 
+- bulletin board service (BBS)
+- bulletin board 电子布告板 
+- bump 凸起，凸点；撞击，碰撞  
+- bumper 防撞器  
+- bundle 束  
+- buoyancy 浮力  
+- buried cable 地下电缆 
+- buried hole 埋孔 
+- buried layer 埋层 
+- buried logic 隐敝式逻辑 
+- buried power plane 隐敝式电源板层
+- buried via 埋通孔 
+- burn-in board (BIB) 老化测试
+- burn-in test 老化测试 
+- burn-in 老化  
+- burn-in, dynamic 动态老化测试 
+- burn-in, high-temperature reverse-bias 高温反向偏压老化测试
+- burn-in, static 静态老化测试 
+- burn-in, test during (TDBI)
+- burnout 烧坏；停烧  
+- burst access 资料组存取 
+- burst bus transfer 资料组总线传输
+- burst bus 资料组总线 
+- burst cycle 脉冲周期；资料组周期 
+- burst duration 脉冲宽度 
+- burst mode 成组方式；区间状态 
+- burst read 资料组读出 
+- burst transaction 资料组交互作用 
+- burst transfer rate 资料组传送速率
+- burst 脉冲；资料组  
+- burst, multi- 多重脉冲 
+- burst, servo 伺服脉冲 
+- burst-bus transfer 资料组总线传输 
+- bursty communications 突发性通信 
+- bursty 突发,猝发  
+- bus arbiter 总线判优器 
+- bus arbitration 判优总线 
+- bus back-off 总线退出 
+- bus bounce analysis 总线跳动分析
+- bus contention 总线争用 
+- bus cycle 总线周期 
+- bus driver 总线驱动器 
+- bus entry 总线入口 
+- bus error recovery 总线错误恢复
+- bus interface 总线接口 
+- bus latency 总线等待时间 
+- bus master board 总线控制器板
+- bus master 总线主控器 
+- bus matrix switch 总线矩阵交换
+- bus network 总线网络[结构] 
+- bus rate 总线速率 
+- bus requester 总线请求器 
+- bus slot 总线插槽 
+- bus snooping 总线窥探 
+- bus speed 总线速度 
+- bus type 总线类型 
+- bus utilization 总线使用量 
+- bus 总线  
+- bus 总线  
+- bus, address 地址总线 
+- bus, analog summing 模拟加法总线
+- bus, asynchronous memory 异步存储器总线
+- bus, backplane 基架总线 
+- bus, base 基底总线 
+- bus, burst 资料组总线 
+- bus, communications management 通讯管理总线
+- bus, concurrent 并行总线 
+- bus, data transfer 数据传输总线
+- bus, data 数据总线 
+- bus, displacement 位移总线 
+- bus, distributed queued dual
+- bus, general purpose instrument
+- bus, general purpose interface
+- bus, host 主总线 
+- bus, index 索引总线 
+- bus, internal read only
+- bus, interrupt 中断总线 
+- bus, local 本区总线 
+- bus, memory 存储器总线 
+- bus, micro-channel 微通道总线 
+- bus, multidrop parallel 分支平行总线
+- bus, multisystem extension interface
+- bus, peripheral interface 外设接口总线
+- bus, realtime system integration
+- bus, subsystem 子系统总线 
+- bus, summing 加法总线 
+- bus, utility 公用程序总线 
+- bus-control unit 总线控制单元 
+- bus-cycle restart 总线周期再起动 
+- bus-cycle tracing 总线周期追踪 
+- bus-intensive 总线密集  
+- bus-timing emulation 总线时序仿真 
+- business Logic 业务逻辑 
+- business planning and control
+- business rules 业务规则 
+- business 业务、商务（看场合）  
+- business-to-business e-commerce (B2B) 企业到企业电子商务
+- business-to-consumer e-commerce (B2C) 企业到用户电子商务
+- busy hour 忙时 
+- busy 使用中  
+- butterfly engine 蝶形引擎 
+- button push- 按钮 
+- buttons 按钮  
+- buzzer 蜂鸣器  
+- by/through 通过  
+- bypass capacitor 旁路电容器 
+- bypass condenser 旁路电容器 
+- bypass filter 旁路滤波器 
+- bypass 旁路  
+- byte asynchronous 字节异步 
+- byte control protocol (BCP)
+- byte interleaving 字节交叉，字节隔行 
+- byte serial transmission 字节串行传输
+- byte serial 字节串行 
+- byte synchronous 字节同步 
+- byte 字节  
+- byte 位元组（由8 bits组成） 
+- byte, status 状态字节 
+- byte-oriented memory 字节取向存储器 
+- byte-oriented protocol 字节取向协定 
+- byte-wide 字节宽  
+- bytes-per-second 每秒字节数  
+- 
+## C
+- 
+- cabinet 座舱；机壳；箱  
+- cable accessories 电缆附件 
+- cable assemblies 电缆组装设备 
+- cable bend radius 电缆弯曲半径
+- cable concentrator 电缆集线器 
+- cable driver 电缆驱动器 
+- cable loss 电缆损耗 
+- cable modem 电缆Modem 
+- cable phone 电缆电话，有线电话 
+- cable skew delay 电缆时滞延迟
+- cable telephony 电缆电话[技术]，有线电话[技术] 
+- cable television (CATV) 有线电视
+- cable 电缆  
+- cable, baseband coaxial 基频带同轴电缆
+- cable, coaxial 同轴电缆 
+- cable, flat 扁平电缆 
+- cable, twisted-pair flat 双绞式扁平电缆
+- cable, twisted-pair 双绞式电缆 
+- cablecasting 铺设电缆；电缆铺设  
+- cache / DRAM controller
+- cache controller 高速缓冲存储器控制器 
+- cache logic 超高速缓冲存储器逻辑 
+- cache management 高速缓存管理 
+- cache memory 超高速缓冲存储器 
+- cache servers 高速缓存服务器 
+- cache slice 高速缓冲存储器截割 
+- cache snooping 高速缓冲存储器窥探 
+- cache unit 高速缓冲存储器单元 
+- cache 高速缓存  
+- cache 高速缓冲存储器  
+- cache, branch target (BTC)
+- cache, copy-back 回拷贝式高速缓冲存储器 
+- cache, data 数据高速缓冲存储器 
+- cache, direct-mapped 直接映射高速缓冲存储器 
+- cache, directly mapped 直接映射高速缓冲存储器
+- cache, instruction 指令高速缓冲存储器 
+- cache, register stack 寄存器栈高速缓冲存储器
+- cache, second level 第二层高速缓冲存储器
+- cache, software transparent 软件透明高速缓冲存储器
+- cache, write 写入式高速缓冲存储器 
+- cache, write-back 回写式高速缓冲存储器 
+- cache, write-through 透写式高速缓冲存储器 
+- cacheable non- 非缓冲存储器化 
+- cacheable 可高速缓冲存储器化  
+- caching 高速缓存  
+- caching, disk 磁盘高速缓冲记忆法 
+- cadmium (Cd) 镉 
+- cage antenna 笼形天线 
+- calcium titanate 钛酸钙 
+- calcium zirconate 钙锆酸盐 
+- calculator 计算器  
+- calendar 日历  
+- calibrate 校准  
+- calibration (CAL) 校准 
+- calibration curve 校准曲线 
+- calibration data 校准数据 
+- calibration error 校准误差 
+- calibration interval 校准区间 
+- calibration, traceable 可追踪式校准法 
+- calibrator 校准器  
+- calibrator, internal 内部校准器 
+- call admission control (CAC)
+- call center 呼叫中心 
+- call control function (CCF)
+- call detail report (CDR)
+- call forwarding 前向呼叫；呼叫转移 
+- call gate 呼叫门 
+- call operator 调用操作符 
+- call park 呼叫停止位 
+- call progress 呼叫过程 
+- call rerouting distribution (CRD)
+- call transfer 呼叫转移 
+- call 调用  
+- call, sub-routine 子程序调用 
+- call, virtual 虚拟呼叫 
+- call-level interface （CLI）调用级接口（CLI） 
+- callback 回调  
+- caller ID 主叫用户识别 
+- caller 来电者  
+- calling line identification (CLID)
+- calling line identification restriction
+- calorie 卡路里  
+- calorimeter 量热计  
+- calorimetry 量热学  
+- camcorder 摄录影机  
+- camera, still-video 静止视频照相机 
+- cancellation, echo 回波清除 
+- candela (cd) 坎德拉（发光强度单位） 
+- candidate key 候选键 （for
+- candle, standard 标准烛光 
+- canonical form 典型形式，正规形式 
+- capability set 1 (CS
+- capacitance coupling 电容耦合 
+- capacitance 电容  
+- capacitance, feedback 反馈电容 
+- capacitance, fringe 边缘电容 
+- capacitance, inter-winding 跨绕线电容 
+- capacitance, overlap 重迭电容 
+- capacitance, series 串行电容 
+- capacitance, shunt 分流电容 
+- capacitance, stray 杂散电容 
+- capacitive load 电容负载 
+- capacitive reactance 容抗 
+- capacitive voltage doubler 电容性电压增倍器
+- capacitive voltage inverter 电容性电压反相器
+- capacitor bank 电容器组 
+- capacitor 电容器  
+- capacitor, aluminum electrolytic 铝质电解电容器
+- capacitor, ceramic 陶瓷电容器 
+- capacitor, diode 二极管电容器 
+- capacitor, electrolytic 电解电容器 
+- capacitor, homopolar electrolytic 无极性电解电容器
+- capacitor, metallized polyester film
+- capacitor, metallized polypropylene 金属聚丙烯电容器
+- capacitor, parallel-plate 并行片电容器 
+- capacitor, polyester film 聚脂膜电容器
+- capacitor, spark gap 放电电容器
+- capacitor, tantalum foil electrolytic
+- capacitor, tantalum 钽质电容器 
+- capacitor, thin-film 薄膜电容器 
+- capacitor, trench type 沟道式电容器
+- capacitor, variable 可变电容器 
+- capacity 容量；电容  
+- capacity, electrostatic 静电电容 
+- capacity, heat 热容量 
+- capacity, molar heat 克分子热容
+- capacity, specific heat 比热容
+- capacity, thermal 热容量 
+- capillary action 毛细管作用 
+- capillary phenomena 毛细管现象 
+- capillary tube 毛细管 
+- capillary wave 毛细波 
+- capillary 毛细管现象  
+- capture effect 攫取效应 
+- capture, schematic 原理图攫取 
+- capture, waveform 波形攫取 
+- carbon (C) 碳 
+- card edge connector 卡缘连接器
+- card 卡  
+- card, add-on 附加卡 
+- card, enhanced color graphics
+- card, full-size 全长卡 
+- card, graphics 图像卡 
+- card, half-size 半长卡 
+- card, input/output 输入／输出卡 
+- card, integrated circuit memory
+- card, integrated circuit 集成电路卡
+- card, multifunction 多功能卡 
+- card, smart 灵巧卡 
+- carriage return 回车 
+- carrier band (CB) 载波频带
+- carrier detect 载波检测 
+- carrier frequency 载波频率 
+- carrier program 载体程序 
+- carrier sense multiple access
+- carrier sense multiple access
+- carrier spacing 载波间距；载体间距 
+- carrier wave 载波 
+- carrier 载波；载体  
+- carrier, chip 芯片载体 
+- carrier, plastic leaded chip
+- carrier, plastic leadless chip
+- carrier, sub- 副载波 
+- carrier-to-interference ratio (C/R) 载波-干扰比
+- carrier-to-noise ratio 载波杂讯比 
+- carterphone decision 卡特风判决 
+- cartography 绘图学  
+- cascade 级联  
+- cascaded network architecture (CNA)
+- cascading delete 级联删除 （for
+- cascading update 级联更新 （for
+- case 事件，外壳，箱，盒子，罩，套  
+- cassette tape 卡式带 
+- cassette 卡式；卡式带  
+- cassette, streaming data 数据流卡式带；数据流卡式带机
+- cassette, wafer 晶圆匣 
+- casting 转型、造型转换  
+- catadioptric 反折射的  
+- catalog server 目录服务器 
+- catalog 目录  
+- catalyst 催化剂  
+- catalytic combustion 催化燃烧 
+- category 5 cable 五类电缆
+- cathode dark space 阴极黑暗区
+- cathode ray oscilloscope (CRO)
+- cathode ray tube (CRT)
+- cathode ray tube controller
+- cathode 阴极  
+- cathode, anti- 对阴极 
+- cathode, cold 冷阴极 
+- cathode, reactive 电抗性阴极 
+- cation 阳离子  
+- caustic curve 焦散曲线 
+- caustic surface 焦散平面 
+- cavity, optical 光学共振器 
+- cavity, resonant 共谐振 
+- cell constant 电池常数 
+- cell delay variation (CDV)
+- cell delay variation tolerance
+- cell delineation 信元定界 
+- cell identifier 信元标识符 
+- cell library 单元[程序]库 
+- cell loss priority (CLP)
+- cell polarization 电池之极化 
+- cell rate decoupling 信元速率去耦
+- cell relay 信元中继 
+- cell splitting 单元式分裂；网孔式分裂 
+- cell 电池；单元  
+- cell, Daniel 丹聂耳电池 
+- cell, Weston 韦斯顿电池 
+- cell, analog 模拟单元 
+- cell, basic 基本单元 
+- cell, common 共同单元 
+- cell, concentration 浓差电池 
+- cell, digital 数字单元 
+- cell, dry 乾电池 
+- cell, feed-through 馈通单元 
+- cell, macro 宏单元 
+- cell, mega- 百万单元 
+- cell, memory 存储单元 
+- cell, pad 填补单元 
+- cell, peripheral 外设单元 
+- cell, phantom 虚像单元 
+- cell, photoelectric 光电池 
+- cell, solar 太阳能电池 
+- cell, standard 标准电池；标准单元 
+- cell, structural 结构单元 
+- cell, super 超级单元 
+- cell, test 测试单元 
+- cell, voltaic 伏打电池 
+- cellular TV 蜂窝电视 
+- cellular digital packet data
+- cellular phone 蜂巢式无线电话 
+- cellular 蜂巢式  
+- center frequency 中心频率 
+- center of curvature 曲率中心
+- center of gravity 重心
+- center of mass 质量重心
+- center of percussion 撞击中心
+- center, optical 光心 
+- centering jaw 定中爪 
+- centi- (c) 厘 
+- centimeter (cm) 厘米 
+- centimeter-gram-second system (CGS) 厘米－克－秒制
+- central office (co) 中央局，中心局，总局
+- central processing unit (CPU)
+- central processing unit intensive
+- central processing unit time
+- centralized token passing (CTP)
+- centrifugal force 离心力 
+- centripetal acceleration 向心加速度 
+- centripetal force 向心力 
+- centroid 矩心  
+- ceramic capacitor 陶瓷电容器 
+- ceramic chip land-grid array
+- ceramic chip-scale package 陶瓷CSP封装
+- ceramic column grid array
+- ceramic dual-in-line (CDIP) 陶瓷双列式直插组件
+- ceramic insulator 陶瓷绝缘体 
+- ceramic leaded chip carrier
+- ceramic multilayer chip capacitor
+- ceramic package 陶瓷封装 
+- ceramic quad flat pack
+- ceramic reflector 陶瓷反射器 
+- ceramic substrate 陶瓷基片 
+- ceramic thermistor 陶瓷热敏电阻 
+- ceramic 陶瓷  
+- certification path 鉴定路径，认证路径 
+- certification 确认；检验证明书  
+- chain reaction 连锁反应 
+- chain 链路  
+- chain 链（function calls） 
+- chain, daisy 菊链 
+- chain, radioactive 连锁幅射 
+- chain, sequential 序列链路 
+- chained list 链接表 
+- chamber, air 气室 
+- chamber, bubble 气泡室 
+- chamber, cloud 云室 
+- chamber, vacuum 真空室 
+- change dump 变更转储 
+- change, phase 相位转换 
+- changeover switch 转接开关 
+- channel acquisition 信道获取,信道采集 
+- channel associated signaling (CAS)
+- channel bank 信道容量 
+- channel borrowing 信道借用 
+- channel capacity 通道容量 
+- channel coding 信道编码 
+- channel identifier 信道标识符，信道识别符 
+- channel length 通道长度 
+- channel processor 通道处理器 
+- channel quality feedback (CQF)
+- channel service unit (CSU)
+- channel stream identifier (CSI)
+- channel 通道  
+- channel, dual synchronous communications
+- channel, dual- 双通道 
+- channel, handshake 信号交换通道 
+- channel, high-speed parallel 高速平行通道
+- channel, link access protocol
+- channel, micro bus 微总线通道
+- channel, multifunction 多功能通道 
+- channel, multiple 多通道 
+- channel, synchronous communications 同步通讯通道
+- channel-less array 无通道式阵列 
+- channel-load command 通道载入命令 
+- channeled gate array 沟槽门阵列
+- character code 字符代码 
+- character format 字符格式 
+- character generator 字符产生器 
+- character reader 字符阅读器 
+- character recognition 字符辨认 
+- character set 字符集 
+- character set 字符集 
+- character string 字串 
+- character 字符  
+- character 字符  
+- character, block check (BCC)
+- character, control 控制字符 
+- character, end-of-file 档尾字符 
+- character, interleaved 字符交错 
+- character-oriented protocol 面向字符的协议，基于字符的协议 
+- character-per-second (CPS) 每秒字数 
+- characteristic curve 特性曲线 
+- characteristic impedance 特性阻抗 
+- characteristic 特性；特征  
+- characterization node 特征化节点 
+- characterization parameter 特征化参数，特性参数 
+- characterize 特性化；特征化  
+- characters per second (CPS)
+- charcoal 木炭  
+- charge balance 电荷平衡 
+- charge carrier 载荷子 
+- charge density 电荷密度 
+- charge transfer 电荷转移 
+- charge 电；电荷  
+- charge, bound 束缚电荷 
+- charge, conservation of 电荷守恒
+- charge, electric 电荷 
+- charge, induced 感应电荷 
+- charge, negative 负电荷 
+- charge, net 净电荷 
+- charge, photo- 光电荷 
+- charge, point 点电荷 
+- charge, positive 正电荷 
+- charge, quick 快速充电 
+- charge, space 空间电荷 
+- charge, static 静电荷 
+- charge, surface density of
+- charge, surface 表面电 
+- charge, test 检验电荷 
+- charge, unit 电荷单位 
+- charge-balance converter 电荷平衡转换器 
+- charge-injection device (CID) 电荷注入器件
+- charge-modulated device (CMD) 电荷调制器件
+- charge-transfer efficiency 电荷转移效率 
+- charged coupled device (CCD)
+- charged particle 带电粒子 
+- charging by induction 感应生电
+- charging current 充电电流 
+- charging 充电  
+- chassis ground 机壳接地，机壳地 
+- chassis 机架；机箱  
+- cheapernet 低费网  
+- check bit 检测位 
+- check box 复选框 
+- check button 复选按钮 
+- check list 清单 
+- check sum 检验和 
+- check 检测  
+- check, cyclic redundancy (CRC)
+- check, design rule (DRC)
+- check, electrical rule (ERC)
+- check, longitudinal redundancy (LRC)
+- check, parity 奇偶检测 
+- check, two-coordinate parity 双坐标奇偶检测
+- check, validity 有效性检测 
+- check, vertical redundancy (VRC)
+- checkpoint 检查点 （for database）
+- chemical oxygen demand (COD)
+- chemical vacuum thin-film deposition
+- chemical vapor deposition (CVD)
+- chemical vapor infiltration (CVI)
+- chemical-mechanical collector 化学-机械转换器 
+- chemically amplified resist (CAR)
+- chemically amplified 化学增强的 
+- chemically-amplified resist 抗化学腐蚀性，抗化学蚀刻能力，增强型化学保护层 
+- chemistry 化学  
+- child class 子类 
+- chip carrier 芯片载体 
+- chip component 片式元件 
+- chip count 芯片数量 
+- chip enable 芯片生效 
+- chip layout 芯片布局 
+- chip mounter 芯片安装器 
+- chip on board (COB)
+- chip on chip (COC)
+- chip on flex (COF)
+- chip on glass (COG)
+- chip rate 码片速率，芯片速度 
+- chip shooter 片式元件组装机 
+- chip 芯片  
+- chip, ferroelectric 铁电芯片 
+- chip, flip- 倒装式芯片 
+- chip, optical-neuro 光学神经芯片 
+- chip-level integration 芯片级集成 
+- chip-on-glass LCD 芯片直接制造在玻璃上的液晶显示器 
+- chip-select controller 芯片选择控制器 
+- chip-select generator 芯片选择信号产生器 
+- chipping rate 码片率，跳码率 
+- chipset 芯片组  
+- chipshooter 切[芯]片机  
+- chirp 线性调频脉冲  
+- chirped pulse amplification (CPA)
+- chlordane 氯丹  
+- chlorinated fluorocarbon (CFC) 氯化碳氟化合物
+- chlorine (Cl) 氯 
+- choke coil 抗流线圈 
+- choke 抗流  
+- choke, radio frequency (RFC)
+- chopped display 削波显示 
+- chopper amplifier 斩波放大器，断续放大器 
+- chopper 削波器  
+- chroma 色度  
+- chromakey 色度键  
+- chromatic aberration 色像差 
+- chromatic dispersion 色散 
+- chromaticity 色度  
+- chromatics 色彩学  
+- chromatograph 色谱学，色谱分离法，套色复制  
+- chromic acid 铬酸 
+- chrominance 色度  
+- chrominance, cross 互串色度 
+- cim computer-integrated manufacturing 计算机集成制造
+- circuit board 电路板 
+- circuit breaker 断路器 
+- circuit design 电路设计 
+- circuit equation 电路方程序 
+- circuit input filter 电路输入滤波器
+- circuit layout 电路布置 
+- circuit limited yield 电路受限流量
+- circuit simulation 电路仿真 
+- circuit switched data network
+- circuit switched digital network
+- circuit switching 电路转换 
+- circuit trace 电路跟踪 
+- circuit usage 电路利用率 
+- circuit 电路  
+- circuit, bias 偏压电路 
+- circuit, closed 闭合电路 
+- circuit, complementary push-pull 互补推挽电路
+- circuit, differential 微分电路 
+- circuit, digital 数字电路 
+- circuit, discharge 放电电路 
+- circuit, double-tuned 双调谐电路 
+- circuit, equivalent 等效电路 
+- circuit, feedback 反馈电路 
+- circuit, filament 灯丝电路 
+- circuit, fixed bias 固定偏压电路
+- circuit, flexible printed (FPC)
+- circuit, grid 栅极电路 
+- circuit, hybrid 混合电路 
+- circuit, integration 积分电路 
+- circuit, latch 锁存电路 
+- circuit, limiter 限幅电路 
+- circuit, magnetic 磁路 
+- circuit, one-loop 单环电路 
+- circuit, open 开路 
+- circuit, parallel 并联电路 
+- circuit, phase inverter 倒相电路
+- circuit, plate 板极电路 
+- circuit, relay 延迟电路 
+- circuit, resonance 谐振电路 
+- circuit, restoration 修复电路 
+- circuit, scrambler 扰频器电路 
+- circuit, short 短路 
+- circuit, shunt 分流电路 
+- circuit, summing 加法电路 
+- circuit, sweep 扫描电路 
+- circuit, thick-film hybrid 厚膜混合电路
+- circuit, transistor current switching
+- circuit, virtual 虚拟电路 
+- circuit-switched network 交换电路网 
+- circuitry 电路  
+- circuitry, bootstrap 启动电路 
+- circuitry, clamping 钳位电路 
+- circuitry, detection 检测电路 
+- circuitry, linear 线性电路 
+- circuitry, power 功率电路 
+- circuitry, signal 信号电路 
+- circuitry, start-up 启动电路 
+- circular array 圆型阵列 
+- circular connector 圆形连接器 
+- circular motion 圆周运动 
+- circular polarization 圆偏化 
+- circular stack 环形堆栈 
+- circulating memory 循环存储器 
+- circulator 循环器  
+- circulator, optical 光学循环器 
+- circumference 圆周  
+- circumferential separation 环绕间隔 
+- citizens band (CB) 民用波段
+- cladding 镀层，包层；表面处理  
+- clamp circuit 箝位电路 
+- clamp current 钳位电流 
+- clamp diode 钳位二极管 
+- clamp voltage 钳位电压 
+- clamp 钳；钳固  
+- clamp-on current probe 钳式电流探测器
+- clamper 钳位电路；钳位器  
+- clamping circuitry 钳位电路 
+- clamping device 钳固器件 
+- clamping 箝位  
+- clamshell fixture 抓斗式夹具 
+- clarke orbit 克拉克轨迹 
+- class A power amplifier
+- class B linear operation
+- class B power amplifier
+- class declaration 类声明 
+- class definition 类定义 
+- class derivation list 类继承列表
+- class factory 类厂 
+- class hierarchy 类层次结构 
+- class library 类库 
+- class loader 类装入器 
+- class loader 类装载器 
+- class resolution algorithm 类分辨算法
+- class template partial specializations
+- class template specializations 类模板特化
+- class template 类模板 
+- class 类  
+- class 类别  
+- class, storage 储存类别 
+- classical physics 经典物理学 
+- classification 分类  
+- classless inter-domain routing (CIDR)
+- clause 子句  
+- clean room 无尘室 
+- cleaning, aqueous 水洗 
+- cleaning, semi-aqueous 半水洗 
+- cleaning, stencil 模版清洗 
+- cleanup 清理、清除  
+- clear channel 无干扰信道 
+- clear to send (CTS)
+- clear 清除  
+- clear, counter 计数器清除 
+- clicks 滴答声，喀呖声  
+- client application 客户端应用程序 
+- client area 客户区 
+- client cursor 客户端游标 （for
+- client 客户  
+- client 客户、客户端  
+- client-server 客户-伺服器  
+- client-server 客户机/服务器、客户端/服务器  
+- client/server computing 客户/服务器计算 
+- clip level 限幅电平 
+- clip mounting 线夹安装 
+- clipboard 剪贴板  
+- clipboard 剪贴板，剪辑板  
+- clipper chip 削波芯片，限幅芯片 
+- clipper 削波电路  
+- clipping 削波  
+- clock accuracy 时钟准确度 
+- clock and data recovery
+- clock distribution device (CDD)
+- clock generator 时钟产生器 
+- clock oscillator 时钟振荡器 
+- clock recovery device (CRD)
+- clock reference 时钟参考 
+- clock speed 时钟速度 
+- clock synchronization 时钟同步 
+- clock violation 时钟违反 
+- clock 时钟  
+- clock, low-jitter 低抖动时钟 
+- clock, realtime 即时时计 
+- clock, serializer shift 串行器变换时钟
+- clock, shift 变换时钟 
+- clock, test (TCK) 测试时钟
+- clocked sequential logic 时钟式序列逻辑
+- clocking 定时  
+- clockwise moment 顺时针力矩 
+- clone 克隆  
+- clone 衍生型  
+- closed architecture 封闭结构 
+- closed circuit voltage (CCV)
+- closed circuit 闭合电路 
+- closed feedback control system
+- closed loop buck converter
+- closed loop 闭环 
+- closed user group (CUG)
+- closed-circuit voltage (CCV) 闭路电压
+- closed-loop control 闭环控制 
+- closed-loop gain 闭环增益 
+- closed-loop recycling system 闭环再循环系统
+- closed-loop servo positioner 闭环伺服定位器
+- cloud chamber 云室 
+- cluster control unit 群集控制单元
+- cluster controller 群集控制器,群控器 
+- cluster testing 聚类（分组）测试 
+- cluster 群集  
+- cluster, virtual 虚拟群集 
+- clustering 群集；分组，分类归并  
+- clutter 群集器；线束；组件  
+- co-channel interference 同波道干扰 
+- coarse-grain parallelism 谷粒平行性 
+- coated film 涂层薄膜 
+- coated magnetic tape 磁粉膜磁带
+- coating 涂覆  
+- coaxial cable 同轴电缆 
+- coaxial connector 同轴电缆连接器 
+- coaxial tube 同轴管 
+- cobalt (Co) 钴 
+- code access security 代码访问安全
+- code conversion 代码转换 
+- code division testbed (CODIT)
+- code excited linear prediction
+- code generator 代码产生器 
+- code page 代码页 
+- code queue 代码队列 
+- code segment 代码分段 
+- code signing 代码签名,密码签名 
+- code violation 代码违反 
+- code 代码；编码  
+- code, answer-back 回应码 
+- code, attribute 属性代码 
+- code, bar 条码 
+- code, character 字符代码 
+- code, error-correction (ECC) 错误更正代码
+- code, gray 葛莱码 
+- code, identification 识别码 
+- code, illegal 非法代码 
+- code, instruction 指令代码 
+- code, machine 机器代码 
+- code, no missing (NMC)
+- code, object 目的码 
+- code, operation (opcode) 运算代码
+- code, orthogonal operation 正交运算代码
+- code, pseudo 伪代码 
+- code, source 源代码 
+- code, threaded 链接代码 
+- code-division multiple access (CDMA)
+- codec 编解码器  
+- coded data field type
+- coded digital verification color
+- coded mark inversion (CMI)
+- coded orthogonal FDM 正交编码频分复用
+- coded orthogonal frequency-division multiplex
+- coder / decoder (CODEC)
+- coder 编码器  
+- coding 编码  
+- coding, linear predictive (LPC)
+- coding, precision adaptive sub-band
+- coefficient negative-temperature, (NTC) 负温度系数
+- coefficient of convection 对流系数
+- coefficient of damping 阻尼系数
+- coefficient of elongation 伸长系数
+- coefficient of expansion 膨胀系数
+- coefficient of friction 摩擦系数
+- coefficient of heat conduction
+- coefficient of mutual induction
+- coefficient of rolling friction
+- coefficient of self induction
+- coefficient of sliding friction
+- coefficient of sound absorption
+- coefficient of static friction
+- coefficient of thermal conduction
+- coefficient of thermal deflection
+- coefficient of thermal expansion
+- coefficient of viscosity 黏度系数
+- coefficient 系数  
+- coefficient, negative-temperature (NTC) 负温度系数
+- coefficient, positive temperature (PTC)
+- coefficient, temperature (TC) 温度系数
+- coercive force 矫顽力，抗磁力 
+- cofired ceramic 陶瓷 
+- cofiring 共烧；烧结  
+- cognitive science 认知科学 
+- coherence 相干  
+- coherent detection 相干检波；相干解调；相干检测 
+- coherent sources 相干源 
+- coherent wave 相干波 
+- coherent, phase 相位一致 
+- cohesive force 内聚力 
+- coil 线圈  
+- coil, Helmholtz 亥姆霍线圈 
+- coil, aluminum 铝线圈 
+- coil, choke 抗流线圈 
+- coil, deflection 偏转线圈 
+- coil, induction 感应线圈 
+- coil, primary 初级线圈 
+- coil, resistance 电阻线圈 
+- coil, secondary 次级线圈 
+- coil, voice 音圈 
+- coke 结焦；焦炭  
+- cold boot 冷启动 
+- cold cathode 冷阴极 
+- cold flow 冷流 
+- cold fusion extension (CFX)
+- cold fusion modeling language
+- cold solder connection 冷焊料连接
+- cold-junction compensation 冷接点补偿，冷连接补偿 
+- cold-start 冷启动  
+- collaborative computing 协作计算，协同计算 
+- collection 集合  
+- collector dotting 集电极连线 
+- collector junction 集电极结 
+- collector modulation 集电极调制 
+- collector tuning oscillator 集电极调谐振荡器
+- collector voltage 集电极电压 
+- collector 集电极  
+- collector, common 共集电极 
+- collector-base breakdown 集电极－基极击穿 
+- collector-emitter voltage 集电极－发射极电压 
+- collimated beam 准直束 
+- collimating lens 准直镜 
+- collimator 准直仪  
+- collinear 共线  
+- collision detection (CD) 碰撞检测；冲突检测
+- collision 碰撞；冲突  
+- collision, elastic 弹性碰撞 
+- collision, inelastic 非弹性碰撞 
+- collision, ionization by 碰撞电离
+- collision, total inelastic 完全非弹性碰撞
+- color burst 彩色资料组 
+- color composite video adapter
+- color difference signal 色彩差异信号
+- color difference 色彩差异 
+- color filter array 颜色滤光器阵列，
+- color gradation 色彩浓淡层次 
+- color graphics adapter (CGA)
+- color lookup table (CLUT)
+- color palette 色彩调色板 
+- color plane 颜色层 
+- color, complementary 互补色 
+- color, cross 互串色度 
+- color, primary 原色 
+- color, pseudo- 虚拟色彩 
+- color, true 真实色彩 
+- color-difference signal 色彩区分信号 
+- colorimetry 色度学  
+- column address strobe (CAS)
+- column counter 列计数器 
+- column enable 列生效 
+- column grid array (CGA)
+- column of butterfly 蝶形列
+- column 列  
+- comb filter 梳形滤波器 
+- comb pattern 蓖纹,梳状图案 
+- combination microphone 组合传声器 
+- combination tone 合音 
+- combination 组合  
+- combination, parallel 并联组合 
+- combination, permutation and 排列组合
+- combination, series 串联组合 
+- combinational logic 组合逻辑 
+- combinational logic 组合逻辑[电路] 
+- combinational tester 组合测试器 
+- combinatorial 组合的  
+- combiner 组合器，合并器  
+- combo box 组合框 
+- combustion, heat of 燃烧热
+- command line 命令行 
+- command line 命令行 
+- command processor 命令处理器 
+- command queuing 指令队列 
+- command register 命令寄存器 
+- command swapping 指令交换，指令转储 
+- command user interface (CUI)
+- command 命令  
+- command, channel-load 通道载入命令 
+- commander 命令器  
+- comment 注解  
+- comment 注释  
+- commercial Internet exchange (CIX)
+- commit 提交 （for database）
+- committed information rate (CIR)
+- common access method (CAM)
+- common air interface (CAI)
+- common application environment (CAE)
+- common application language (CAL)
+- common base 共基极 
+- common business oriented language
+- common cell 共用单元 
+- common channel interoffice signaling
+- common channel signaling (CCS)
+- common clock signal 共同时钟信号
+- common collector 共集极 
+- common emitter 共射极 
+- common gateway interface (CGI)
+- common management information protocol
+- common management information service
+- common management information service
+- common mode range 共模范围
+- common objectsupport services COSS
+- common part sublayer 公用部件子层,公共部件子层
+- common return 公共回路 
+- common-cathode double diode 共阴极双二极管
+- common-mode interference 共态干扰 
+- common-mode noise 共态噪声 
+- common-mode output 共模输出 
+- common-mode range 共态范围 
+- common-mode rejection ratio (CMRR)
+- common-mode rejection 共态抑制 
+- common-mode signal 共态信号 
+- common-mode voltage range (CMVR)
+- common-mode voltage 共态电压 
+- common-mode 共态  
+- communication band 通讯频带 
+- communication controller 通讯控制器 
+- communication interface 通讯接口 
+- communication server 通讯伺服器 
+- communication 通讯  
+- communications architecture 通讯架构 
+- communications bandwidth 通讯频宽 
+- communications interprocess (IPC) 跨程序通讯
+- communications link 通讯链路 
+- communications management bus 通讯管理总线
+- communications processing 通讯处理 
+- communications program 通信程序 
+- communications software 通信软件 
+- communications theory 通信理论 
+- communications 通讯  
+- communications, binary synchronous (BSC)
+- communications, data 数据通讯 
+- communications, internetwork 跨网络通讯 
+- communications, multi-protocol serial 多重协定串行通讯
+- communications, parallel 并行通讯 
+- communications, serial 串行通讯 
+- community dial office (CDO)
+- commutation factor 对易因素 
+- commutative rules 交换规则 
+- commutator 换向器；整流器  
+- compact disc (CD) 光盘
+- compact disc re-writable (CD-RW)
+- compact disc read only
+- compact disc-digital audio (CD-DA)
+- compact disk-interactive (CD-I) 交互式光盘
+- compact 小巧；紧密  
+- compand 压缩扩展  
+- companding 压缩-扩展，压扩  
+- comparative search 比较式搜寻 
+- comparative sort 比较式排序 
+- comparator 比较器  
+- comparator, analog 模拟比较器 
+- comparator, netlist 排列表比较器 
+- comparator, phase 相位比较器 
+- comparator, row 行比较器 
+- compass 指南针  
+- compatibility, electromagnetic (EMC) 电磁兼容性
+- compatibility, peripheral 外设兼容 
+- compatibility, register-level 寄存器水平兼容 
+- compatible 兼容  
+- compatible 兼容  
+- compatible, backward- 逆向兼容 
+- compatible, binary- 二进制兼容 
+- compatible, downward- 下向兼容 
+- compatible, forward- 前向兼容 
+- compatible, upward- 上向兼容 
+- compensation 补偿  
+- compensation, ice-point 冰点补偿 
+- compensation, inverse 倒向补偿 
+- compensation, offset 偏移补偿 
+- compensation, phase 相位补偿 
+- compensation, shunt 分流补偿 
+- competitive access provider (CAP)
+- compilation 编译  
+- compile time 编译时间 
+- compile time 编译期、编译时 
+- compiler 编译器  
+- compiler 编译器；编译程序  
+- compiler, datapath 数据通路编译程序 
+- compiler, optimizing 优化编译程序 
+- compiler, serial 串行编译程序 
+- compiler, state-machine 状态机编译程序 
+- compiler, system-specific 特殊系统编译程序 
+- complement 补充；补码  
+- complementary color 互补色 
+- complementary commutation 互补转换 
+- complementary logic 互补逻辑 
+- complementary metal oxide semiconductor
+- complementary output 互补输出 
+- complementary push-pull circuit 互补推挽电路
+- complementary rules 互补规则 
+- complementary transistor logic(CTL) 互补晶体管逻辑
+- complementary 互补  
+- complete vibration 全振动 
+- complex data 复杂数据 
+- complex instruction set computer
+- complex instruction set computing
+- complex number 复数 
+- complex programmable logic device
+- compliance range 依从范围，顺应区间 
+- compliance 柔性；声顺；符合  
+- compliant 依从的，顺从的  
+- component assembly 元件汇编 
+- component count 零件数量 
+- component feeder 元件馈入器 
+- component lead 元件引线 
+- component library 元件程序库 
+- component of acceleration 加速度分量
+- component placement machine 元件置放机
+- component placement 组件放置，器件放置 
+- component side 元件板面 
+- component 元件；元素；组件  
+- component, active 主动元件 
+- component, axial lead 轴向引线元件
+- component, chip 芯片式元件 
+- component, discrete 离散元件 
+- component, field programmable interconnect
+- component, horizontal 水平分量 
+- component, leadless 无引线元件 
+- component, multiplexed analog (MAC)
+- component, parasitic 寄生元素 
+- component, passive 无源元件 
+- component, polarized 极向元件 
+- component, pseudo-color 虚拟色彩元素 
+- component, through-hole 穿孔式元件 
+- component, user environment (UEC)
+- component, vertical 垂直分量 
+- component, virtual 虚拟元件 
+- component-per-hour (cph) 每小时元件置放数目 
+- component组件   
+- composite amplifier 综合式放大器 
+- composite cable 综合电缆 
+- composite color picture signal
+- composite index 复合索引、组合索引 （for
+- composite key 复合键、组合键 （for
+- composite 合成；综合  
+- composition 复合、组合  
+- compound annual growth rate
+- compound 化合物  
+- compound, bismuth 铋化合物 
+- compressed air 压缩空气 
+- compressibility 压缩率  
+- compression / decompression technology
+- compression algorithm 压缩算法 
+- compression ratio 压缩比 
+- compression 压缩  
+- compression, data 数据压缩 
+- compression, lossless 非损耗式压缩 
+- compression, lossy 损耗式压缩 
+- compression, multiplexed analog (MAC)
+- compressive strain 压缩应力 
+- compressor 压缩器  
+- computational fluid dynamics 计算流体动力学
+- computer automated testing (CAT)
+- computer graphics interface (CGI)
+- computer integrated telephony (CIT)
+- computer network 计算机网络 
+- computer numerical control (CNC)
+- computer simulation 电脑模拟 
+- computer supported telecommunications applications
+- computer supported telephony applications
+- computer telephony (CT) 计算机电话
+- computer telephony integration (CTI)
+- computer tomography (CT) 计算机X射线层析成像
+- computer virus 电脑病毒 
+- computer vision 电脑视觉 
+- computer vision-inspection system 电脑视觉检查系统
+- computer, complex instruction set
+- computer, desktop 台式电脑 
+- computer, fault-tolerant 容错电脑 
+- computer, handheld 手持式电脑 
+- computer, laptop 膝上型电脑 
+- computer, mainframe 大型电脑 
+- computer, mini- 小型电脑 
+- computer, notebook 笔记簿型电脑 
+- computer, palmtop 掌上型电脑 
+- computer, pen-based 笔控型电脑 
+- computer, personal (PC) 个人电脑
+- computer, portable 手提式电脑 
+- computer, reduced instruction set
+- computer, super-mini 超小型电脑 
+- computer-aided design (CAD) 电脑辅助设计
+- computer-aided design framework initiative
+- computer-aided design package (CADP)
+- computer-aided electronic industry (CAEI)
+- computer-aided engineering (CAE) 电脑辅助工程
+- computer-aided instruction (CAI) 电脑辅助教学
+- computer-aided manufacturing (CAM) 电脑辅助生产
+- computer-aided planning (CAP) 电脑辅助计划
+- computer-aided process planning (CAPP)
+- computer-aided software engineering (CASE)
+- computer-aided test environment (CATE)
+- computer-aided testing (CAT) 电脑辅助测试
+- computer-generated hologram (CGH) 计算机生成的全息图像
+- computer-integrated distribution (CID) 电脑综合分销
+- computer-integrated manufacturing (CIM) 电脑综合生产
+- computer-integrated manufacturing system 电脑综合生产系统
+- computerized branch exchange (CBX)
+- computing, complex instruction set
+- computing, distributed 分布式运算 
+- computing, reduced instruction set
+- concatenation 串联；连接；串接  
+- concave lens 凹透镜 
+- concave mirror 凹镜 
+- concealed wiring 隐藏式路由 
+- concentration cell 浓差电池 
+- concentration, cable 电缆集线器 
+- concentration, impurity 杂质浓度 
+- concentrator 集线器  
+- concentric winding 同轴绕线 
+- concept phase 初步设计阶段 
+- concept 概念  
+- concrete class 具体类 
+- concrete具体的   
+- concurrency pseudo- 虚并行作业 
+- concurrency 并发、并发机制  
+- concurrent bus architecture 并行总线结构
+- concurrent bus 并行总线 
+- concurrent engineering 并行工程 
+- concurrent force 共点力 
+- concurrent process 并发处理，并行处理 
+- concurrent processing 并行处理 
+- concurrent 并行  
+- condensation 凝结；凝聚  
+- condensation, heat of 凝结热
+- condenser microphone 静电扩音器 
+- condenser optics 聚光学 
+- condenser polyethylene 聚乙烯电容器 
+- condenser 电容器  
+- condenser, bypass 旁路电容器 
+- condenser, polyester film 聚薄膜电容器
+- condenser, polypropylene 聚丙烯电容器 
+- condenser, polystyrene 聚苯乙烯电容器 
+- condenser, shunted 旁路电容器 
+- condition, active 使用状态 
+- condition, critical 临界情况 
+- condition, race 竞争状态 
+- condition, saturation 饱和状态 
+- condition, standard 标准状况 
+- conditional branch 条件分支 
+- conditional jump 条件转移 
+- conditional replacement 条件式替换 
+- conditional statement 条件式述句 
+- conditioning 调整  
+- conductance relay 电导继电器 
+- conductance 电导  
+- conductance, electric 电导 
+- conductance, thermal 热传导 
+- conducted interference 馈电线感应干扰 
+- conducting ground plane 导电接地面
+- conduction band 传导带；导电区 
+- conduction loss 低传导损耗 
+- conduction soldering 导线焊接，导体焊接 
+- conduction 传导  
+- conduction, coefficient of heat
+- conduction, coefficient of thermal
+- conduction, heat 热传导 
+- conductive adhesive 导电粘合剂，传导粘合剂 
+- conductive foam 导电泡沫 
+- conductive ink technology 导电油墨技术
+- conductive polymer 导电聚合物 
+- conductive tote bin 导电搬运箱，抗静电搬运箱
+- conductive 导电的  
+- conductivity 传导率；导电能力  
+- conductivity, electrical 电气导电能力 
+- conductivity, gas 气体导电能力 
+- conductivity, thermal 导热性 
+- conductivity, unilateral 单向导电性 
+- conductor 导体  
+- conductor, non- 非导体 
+- conductor, organic photo- 有机感光导体
+- conductor, thermal 导热体 
+- conduit 导管  
+- cone 锥体  
+- conference bridge 会议电话桥分器 
+- conference call 电话会议 
+- confidence test 可靠程度测试 
+- configurable hardware 可配置硬件 
+- configurable 可配置  
+- configurable-logic block (CLB) 可配置逻辑区块
+- configuration management 配置管理 
+- configuration register 配置寄存器 
+- configuration testing protocol (CTP)
+- configuration 配置  
+- configuration 配置、组态  
+- configuration, automatic 自动配置 
+- configuration, dynamic 动态配置 
+- configuration, multiple 复式配置 
+- confocal resonator 共焦谐振器 
+- conformal coating 保形涂敷 
+- conformance tests 性能试验 
+- conformity 符合度；一致性  
+- congestion window 拥挤窗口 
+- conical array 锥形阵列 
+- conical horns 圆锥角，锥形喇叭 
+- conical microwave imager sounder
+- conjugate angle 共轭角 
+- conjugate point 共轭点 
+- conjugate structure ACELP 共轭结构ACELP
+- conjunction 连接点  
+- connectability 可连接性  
+- connected load 连接负载 
+- connection admission control (CAC)
+- connection diagram 连接图 
+- connection pooling 连接池 
+- connection set 连接装置 
+- connection 连接 （for database）
+- connection, delta 三角连接 
+- connection, dual-attached 双配附连接 
+- connection, multidrop 分支式连接 
+- connection, single-attached 单配附连接 
+- connection, star 星形连接 
+- connectionless service 无连接业务 
+- connectionless 无连接,非连接  
+- connectivity 连通性，连通度  
+- connector panel module 连接器面板模块，连接板模块
+- connector panel 连接器面板，连接板 
+- connector superset expansion board,
+- connector 连接器  
+- connector, barrel 圆柱式连接器 
+- connector, card edge 卡缘连接器
+- connector, circular 圆型连接器 
+- connector, coaxial 同轴电缆连接器 
+- connector, delta 三角连接器 
+- connector, edge 卡缘连接器 
+- connector, mini-circular 小型圆连接器 
+- connector, modular 模块式连接器 
+- connector, optical 光连接器 
+- connector, top-plane 顶板连接器 
+- conservation of angular momentum
+- conservation of charge 电量守恒
+- conservation of energy 能量守恒
+- conservation of momentum 动量守恒
+- conservation, law of 守恒定律
+- conservative force 保守力 
+- consideration, electrical 电气特性考虑 
+- consideration, mechanical 机械特性考虑 
+- consistency 一致性  
+- console 控制台  
+- console 控制台  
+- consonance 和谐  
+- constant acceleration 恒加速度 
+- constant bit rate (CBR)
+- constant current limiting circuit
+- constant current load 恒流负载；恒流加载
+- constant density recording (CDR)
+- constant linear velocity 均匀线性速度
+- constant pressure 定压 
+- constant velocity 定速 
+- constant voltage power supply
+- constant voltage 定压 
+- constant volume 定容 
+- constant 常数  
+- constant 常量  
+- constant, Faraday 法拉第常数 
+- constant, Planck‘s 普朗克常数 
+- constant, decay 衰变常数 
+- constant, dielectric 介电常数 
+- constant, elastic 弹性常数 
+- constant, force 力常数 
+- constant, galvanometer 电流计常数 
+- constant, gas 气体常数 
+- constant, gradient 梯度常数 
+- constant, gravitational 引力常数 
+- constant, time 时间常数 
+- constant, universal gravitational 万有引力常数
+- constant-current transformer 均匀电流转换器 
+- constant-voltage charge 定压电荷 
+- constraint 约束 （for database）
+- constraint, physical 实体限制 
+- constraint, timing 时序限制 
+- construct 构造  
+- construct 构件、成分、概念、构造（for language） 
+- construct, sequential 序列构造 
+- constructive solids geometry (CSG)
+- constructor （ctor） 构造函数、构造器 
+- consumer control processor (CCP)
+- consumer electronics 消费类电子 
+- contact angle 触角 
+- contact bounce 接触跳动 
+- contact layer 接触层 
+- contact potential 接触电位 
+- contact printing 接触印刷，接触印制 
+- contact rectifier 接触整流器 
+- contact resistance 接触电阻 
+- contact 接触  
+- contact, probe 探针接触点 
+- contact, rating 接触额定值 
+- contactor 接触器  
+- container 容器  
+- containment包容   
+- contaminant 杂质  
+- contaminated, cross 互相污染 
+- contamination 污染  
+- contamination, residual 残余污染物 
+- content addressable memory (CAM)
+- content addressable storage (CAS)
+- content distribution 容量分配，内容分配 
+- content layer 内容层 
+- content, semantic 语意内容 
+- contention 争用  
+- contention, bus 总线争用 
+- context switching latency (CSL)
+- context switching 上下文交换 
+- context 环境、上下文  
+- continuity test 连续性测试 
+- continuos load 连续负载；连续加载 
+- continuous composite servo (CCS)
+- continuous current mode 不间断电流模式
+- continuous current rating 不间断电流额定值
+- continuous discharge 连续放电 
+- continuous dynamic channel selection
+- continuous edge graphic (CEG)
+- continuous oscillation 连续振荡 
+- continuous phase frequency shift
+- continuous phase modulation (CPM)
+- continuous spectrum 连续频谱 
+- continuous strip 连续条，连续带 
+- continuous wave 连续波 
+- contour analysis 轮廓分析 
+- contract manufacturing service (CMS)
+- contraction 收缩  
+- contrast control 反差控制 
+- contrast ratio 反差比 
+- contrast transfer function (CTF)
+- contrast 反差；差别  
+- contrast, voltage 电压差别 
+- control action 控制行动 
+- control block 控制区块 
+- control character 控制字元 
+- control circuit 控制电路 
+- control function 控制功能 
+- control grid 控制栅 
+- control integrated circuit 控制集成电路
+- control logic 控制逻辑 
+- control loop 控制环路，控制回路 
+- control numerical, (NC) 数控
+- control panel 控制面板 
+- control parameter 控制参数，控制参量 
+- control 控件  
+- control, automatic frequency (AFC)
+- control, automatic gain (AGC)
+- control, binary synchronous (BSC)
+- control, computer numerical (CNC)
+- control, convergence 会聚控制 
+- control, direct numerical (DNC)
+- control, echo suppression 回波抑压控制
+- control, embedded 嵌入式控制 
+- control, flow 流程控制 
+- control, high-level data link
+- control, incoming quality (IQC)
+- control, link layer (LLC)
+- control, logical link (LLC)
+- control, media access (MAC)
+- control, mode 状态控制；模式控制 
+- control, numerical (NC) 数控
+- control, parity 奇偶控制 
+- control, process 过程控制；工艺控制 
+- control, statistical process (SPC)
+- control, statistical quality (SQC)
+- control, step 步进控制 
+- control, synchronous data link
+- control, virtual terminal (VTC)
+- control-oriented function 控制导向功能 
+- controlled rectifier 受控整流器 
+- controller area network (CAN)
+- controller characteristics 控制器特征 
+- controller, attribute 属性控制器 
+- controller, auto-tuning temperature 自动微调温度控制器
+- controller, basic media access
+- controller, cache 缓冲存储器控制器 
+- controller, cache/dynamic random access
+- controller, cathode ray tube,
+- controller, chip select 芯片选择控制器
+- controller, communication 通讯控制器 
+- controller, data path (DPC)
+- controller, direct memory access
+- controller, embedded 嵌入式控制器 
+- controller, enhanced serial communications
+- controller, fiber optic ring
+- controller, flat panel 扁平面板控制器
+- controller, general purpose 通用控制器
+- controller, graphics 图像控制器 
+- controller, high-performance (HPC) 高性能控制器
+- controller, integrated data protocol
+- controller, integrated serial communications
+- controller, interrupt 中断控制器 
+- controller, mass flow (MFC)
+- controller, memory (MEMC) 存储器控制器
+- controller, micro channel autodecode
+- controller, mono-channel universal serial
+- controller, optical disk 光盘机控制器
+- controller, physical layer (PLAYER)
+- controller, programmable interrupt 可编程中断控制器
+- controller, programmable logic (PLC)
+- controller, programmable wait state
+- controller, random access memory
+- controller, realtime 实时控制器 
+- controller, refresh 重清控制器 
+- controller, serial communications (SCC)
+- controller, serial 串行控制器 
+- controller, servo 伺服控制器 
+- controller, temperature 温度控制器 
+- controller, token bus (TBC)
+- controller, universal serial (USC)
+- controller, video display 视频显示控制器
+- controller, voice memory address
+- controller, wait state 等候状态控制器
+- convection 对流  
+- convection, coefficient of 对流系数
+- convection-cooled power supply 冷[却对]流电源
+- convention 常规  
+- convention, sign 符号规约 
+- conventional current 常规电流 
+- conventional memory 常规存储器 
+- convergence control 会聚控制 
+- convergence sublayer (CS) 会聚子层
+- convergence 会聚  
+- convergent lens 会聚透镜 
+- convergent mirror 会聚镜 
+- converging output 会聚输出 
+- conversation mode 会话方式，对话方式 
+- conversation 对话  
+- conversion efficiency 转换效率 
+- conversion rate 转换率 
+- conversion time 转换时间 
+- conversion 转换  
+- conversion, code 转换代码 
+- conversion, multi-slope 多重斜率转换 
+- conversion, recirculating remainder 重复余数转换
+- conversion, reverse 还原转换 
+- converter 转换器  
+- converter, analog-to-digital (ADC) 模拟／数字转换器
+- converter, analog-to-digital video 模拟／数字视频转换器
+- converter, charge-balance 电荷平衡转换器 
+- converter, digital/analog (DAC) 数字／模拟转换器
+- converter, flyback 回扫转换器 
+- converter, forward 正向转换器 
+- converter, frequency 变频器 
+- converter, gray code 葛莱码转换器
+- converter, multiplying 乘法转换器 
+- converter, processor signal 处理器信号转换器
+- converter, protocol 协定转换器 
+- converter, random access memory
+- converter, recursive-subranging 循环分程转换器 
+- converter, sampling 取样转换器 
+- converter, successive-approximation 连续－渐近转换器 
+- converter, true root-mean-square 真实均方根转换器
+- converter, video 视频转换器 
+- convex lens 凸透镜 
+- convex mirror 凸镜 
+- conveyer belt 输送带 
+- conveyer 传送设备  
+- convolution 卷积；旋转；圈，匝  
+- convolver 褶积器  
+- cookie （不译）  
+- coolant 冷却剂  
+- cooler, cryogenic 低温冷藏器 
+- cooling curve 冷却曲线 
+- cooling effect 冷却效应 
+- cooling fin 散热片 
+- coordinate system 坐标系统 
+- coordinate 坐标  
+- coordinate, absolute 绝对坐标 
+- coordinate, rectangular 直角坐标 
+- coplanar force 共面力 
+- coplanar 共面  
+- coplanarity error 共面误差 
+- coplanarity 共面性，共平面性  
+- copper beryllium, (BeCu) 铍铜
+- copper electroless, 无电铜 
+- copper foil wire 铜箔线
+- copper foil 铜箔 
+- copper indium diselenide (CIS)
+- copper interconnect 铜线互连，铜互连线 
+- copper wire 铜线 
+- copper zone 铜面区 
+- copper, electroless 无电铜 
+- copper-backed coplanar 背面覆铜共面 
+- copper-clad iron wire 铜包铁线
+- copper-clad laminate 覆铜层压板 
+- coprocessor absent 协同处理器不存在 
+- coprocessor input (CPI) 协同处理器输入
+- coprocessor 协同处理器  
+- coprocessor, math 算术协同处理器 
+- copy generation management system
+- copy 拷贝  
+- copy 拷贝  
+- copy-back cache 回拷贝式高速缓冲存储器 
+- cord 软线  
+- cordless PBX 无绳用户交换机 
+- cordless phone 室内无线电话 
+- cordless telephone second generation
+- cordless telephone--first generation (CT-1)
+- cordless telephone--second generation (CT-2)
+- cordless terminal mobility (CTM)
+- core loss 铁芯损耗 
+- core processing system (CPS)
+- core test language (CTL)
+- core 磁心  
+- core, deflection-yoke 偏向磁环 
+- core, ferrite 铁氧体磁心 
+- core, iron powder 铁粉磁心
+- corona discharge 电晕放电 
+- corona electrical discharge 电晕放电
+- corona loss 电晕损失 
+- correction driver 校正驱动器 
+- correction 更正；纠正  
+- correction, error checking and
+- correction, error 错误更正 
+- correction, frequency response 频率反应更正
+- corrective maintenance 故障检修 
+- corrector, power factor (PFC)
+- correlate 相关  
+- correlated jitter 相关抖动 
+- correlation 相关[性]  
+- correlation, time 时间相关 
+- corrosion 腐蚀  
+- corrosive flux 腐蚀性焊剂,腐蚀性熔剂 
+- cosecant 余割  
+- cosine wave 余弦波 
+- cosine 余弦  
+- cosmic radiation 宇宙幅射 
+- cosmic ray 宇宙射线 
+- cost effective 性能价格比高，高性能价格比 
+- cost, non-recurring engineering (NRE)
+- cotangent 余切  
+- coulomb (C) 库伦 
+- coulometer 库伦计  
+- count, chip 芯片数量 
+- count, component 零件数量 
+- count, gate 门数量 
+- countdown, binary 二进制倒数 
+- counter clear 计数器清除 
+- counter electromotive-force 反电动势 
+- counter force 反作用力 
+- counter 计数器  
+- counter, address 地址计数器 
+- counter, binary 二进制计数器 
+- counter, column 列计数器 
+- counter, cycle 周期计数器 
+- counter, horizontal direction 水平方向计数器
+- counter, horizontal 水平计数器 
+- counter, memory 存储器计数器 
+- counter, synchronous binary 二进制同步计数器
+- counter, time base (TBC)
+- counter, universal 通用计数器 
+- counter, up/down 上／下计数器 
+- counter, vertical direction 垂直方向计数器
+- counter, vertical 垂直计数器 
+- counter, video signal detection
+- couple 耦合；力耦  
+- coupled data line 耦合数据线路
+- coupled, loosely 松弛耦合 
+- coupled, tightly 紧密耦合 
+- coupler 耦合器  
+- coupler, acoustic 声耦合器 
+- coupler, broadband directional 宽频带定向耦合器
+- coupler, fused fiber 熔接式光纤耦合器
+- coupler, photo- 光耦合器 
+- coupler, star 星形耦合器 
+- coupler, token ring interface
+- coupling coefficient 耦合系数 
+- covalent bond 共价键 
+- cover 覆盖、涵盖  
+- coverage, fault 故障检测范围 
+- crash 故障  
+- crash, system 系统故障 
+- crawling 爬行  
+- crazing 龟裂，裂纹  
+- cream solder printer 焊浆印刷机
+- create/creation 创建、生成  
+- creepage 漏电；蠕动  
+- crest 峰  
+- crimp 压接  
+- criteria 标准，要求  
+- criteria, failure 失效准则 
+- critical angle 临界角 
+- critical condition 临界情况 
+- critical damping resistance (CDR)
+- critical dimension 临界尺寸 
+- critical isotherm 临界恒温线 
+- critical mass 临界质量 
+- critical node 临界节点 
+- critical potential 临界电位 
+- critical pressure 临界压力 
+- critical temperature 临界温度 
+- critical velocity 临界速度 
+- critical volume 临界体积 
+- critical 关键性  
+- critical, time 时间先决 
+- cross assembler 交叉汇编程序 
+- cross binary translator 交叉二进制转换器
+- cross brightness 光度互串 
+- cross chrominance 色度互串 
+- cross color 色度互串 
+- cross contaminated 互相污染 
+- cross interference 互串干扰；交越干扰 
+- cross luminance 亮度互串 
+- cross polarization 交叉极化 
+- cross section 截面 
+- cross signal 信号互串 
+- cross 交接；互串；交越  
+- cross-connect 交叉连接  
+- cross-connection point 交叉连接点 
+- cross-hair 十字准线  
+- cross-modulation 交叉调制  
+- cross-regulation 交叉调节，交叉校准；交叉规则  
+- crossbar switch 纵横交换 
+- crosshatch 断面线；晕线  
+- crossover current 交变电流 
+- crossover distortion 交接失真；交越失真 
+- crossover error 交接错误；交越错误 
+- crossover loss 交接损耗；交越损耗 
+- crossover voltage 交变电压 
+- crossover 交接；交越  
+- crosspoint switch 交点开关 
+- crosstab query 交叉表查询 （for
+- crosstalk rejection 串话抑制，串音抑制 
+- crosstalk 串音；串话  
+- crowbar circuit 消弧[保安]电路 
+- cryogenic cooler 低温冷藏器 
+- cryopump 低温泵  
+- crypto analyst 密码分析员 
+- cryptographer 译解密码者  
+- cryptography 密码术，密码系统  
+- crystal diode 晶体二极管 
+- crystal dislocation 晶体错位 
+- crystal lattice 晶格 
+- crystal 晶体  
+- crystal, dichroic 两色性晶体 
+- crystal, ferroelectric liquid (FLC)
+- crystal, liquid (LC) 液晶体
+- crystal, quartz 石英晶体 
+- crystal-controlled oscillator 晶体控制振荡器 
+- crystalline state 晶态 
+- crystalline structure 晶体结构 
+- crystalline substance 晶质 
+- crystalline-silicon TFT 水晶硅TFT 
+- crystallography 晶体学  
+- cube 多维数据集 （for database）
+- cubic expansivity 体膨胀系数 
+- cubic 立方的  
+- cubical expansion 体膨胀 
+- cue 尾接指令：尾接提示  
+- cumulative capacity 累积容量 
+- cumulative distribution function (CDF)
+- cure 固化，硬化，凝固  
+- cured 已固化的  
+- curie 居里  
+- curing cycle 凝固周期 
+- curing time 凝固时间 
+- curing 凝固，固化，硬化；硫化；处理  
+- current bias generator 偏流产生器
+- current density 电流密度 
+- current drive capability 电流驱动能力，电流激励能力
+- current intensity 电流强度 
+- current limit resistor 限流电阻
+- current limiter 限流器 
+- current mode logic (CML)
+- current mode 电流模式 
+- current monitoring switch 电流监察开关
+- current multiplier 电流倍增器 
+- current rating 电流额定 
+- current sensing resistor 电流传感（取样）电阻
+- current sensing 电流读出 
+- current sinking 电流陷落，电流吸收 
+- current sourcing 电流源 
+- current spreading effect 电流扩散效应
+- current surge 电流浪涌 
+- current 电流  
+- current, alternating (ac) 交流电流
+- current, back ripple 逆向脉动电流
+- current, bias 偏流 
+- current, clamp 钳位电流 
+- current, conventional 惯用电流 
+- current, crossover 交越电流 
+- current, dark 暗电流 
+- current, direct (dc) 直流电流
+- current, dynamic crossover 动态交越电流
+- current, eddy 涡流 
+- current, electric 电流 
+- current, feedback 电流反馈 
+- current, foldback 折返电流 
+- current, forward 正向电流 
+- current, grid 栅极电流 
+- current, induced 感应电流 
+- current, inducing 施感电流 
+- current, input bias 输入偏置电流
+- current, input offset 输入偏移电流
+- current, lateral 横向电流 
+- current, leakage 漏泄电流 
+- current, line 在线电流 
+- current, nominal operating 标称操作电流
+- current, offset 偏移电流 
+- current, output load 输出负载电流
+- current, output 输出电流 
+- current, photoelectric 光电流 
+- current, quiescent 静态电流 
+- current, reflected ripple 反射脉动电流
+- current, reverse leak 逆向漏泄电流
+- current, reverse 逆向电流 
+- current, ripple 脉动电流 
+- current, secondary 次级电流 
+- current, sinking 吸收电流 
+- current, thermionic 热离子电流 
+- current, three-phase alternating 三相交流电
+- current, threshold 临限电流 
+- current, transient 瞬变电流 
+- current, trigger 触发电流 
+- current, vertical 垂直电流 
+- current-bias generator 电流偏差产生器 
+- current-feedback amplifier 电流反馈放大器 
+- current-mode logic (CML) 电流模式逻辑
+- current-mode transmission 现行模式传输 
+- current-monitoring switch 电流监督开关 
+- current-sense amplifier 电流感应放大器 
+- current-sense input 电流感应输入 
+- cursor 光标  
+- cursor 游标  
+- cursor 游标 （for database）
+- cursor, hardware 硬件游标 
+- curtain 帘幕  
+- curvature 曲率  
+- curvature, center of 曲率中心
+- curvature, radius of 曲率半径
+- curve tracer 曲线绘图仪 
+- curve, calibration 校准曲线 
+- curve, caustic 焦散曲线 
+- curve, cooling 冷却曲线 
+- curve, fusion 熔解曲线 
+- curve, learning 学习曲线 
+- curve, velocity 速度曲线 
+- curvilinear motion 曲线运动 
+- custom cell synthesis (ccs)
+- custom integrated circuit 定制集成电路
+- custom logic analysis &
+- custom 定制、自定义  
+- custom, semi- 半定制 
+- customer information control system
+- customer network management (CNM)
+- customer premises equipment (CPE)
+- customer-specific integrated circuit (CSIC)
+- customize 定制  
+- customized application of mobile
+- cut-off voltage 截止电压 
+- cut-through switching 直通式交换 
+- cutback 削减  
+- cutoff frequency 截止频率 
+- cutoff 截止  
+- cutout 断流器；终止，阻断，断路;剪切块，删除部分  
+- cutting tool 切割工具 
+- cyber attack 计算机攻击，网络攻击 
+- cybernetics 控制论  
+- cyberpunk 计算机[影响下的]幻想狂  
+- cyberspace 信息空间,电脑空间  
+- cycle counter 周期计数器 
+- cycle error 循环错误 
+- cycle stealing 周期偷窃 
+- cycle, burst 脉冲周期；资料组周期 
+- cycle, bus 总线周期 
+- cycle, design 设计周期 
+- cycle, duty 工作周期 
+- cycle, instruction 指令周期 
+- cycle, interrupt acknowledge 中断确认周期
+- cycle, life 生命周期 
+- cycle, mega- 百万周期 
+- cycle, minor 次周期 
+- cycle, refresh 更新周期 
+- cycle, write 写入周期 
+- cycle-accurate model 周期精确模型 
+- cycle-accurate model 周期精确模型 
+- cycle-per-instruction (CPI) 每指令周期数 
+- cycle-per-second (CPS) 每秒周期数 
+- cyclic binary code 循环二进制码
+- cyclic polynomial sequence 循环多项式序列
+- cyclic-redundancy check (CRC) 循环冗余码检测
+- cyclotron 回旋加速器  
+- cylinder surface indexing 磁柱面索引法
+- cylinder 磁柱  
+- cylindrical lens 圆柱形透镜 
+- 
+## D
+- 
+- daisy chain 菊链 
+- daisy-wheel printer 菊轮式打印机 
+- dam bar 挡板 
+- damp 阻尼  
+- damp, over 过阻尼 
+- damp, under 欠阻尼 
+- damped filter 阻尼滤波器 
+- damped oscillation 阻尼振荡 
+- damped vibration 阻尼振动 
+- damping factor 阻尼因素 
+- damping of galvanometer 电流计阻尼
+- damping, coefficient of 阻尼系数
+- dark current 暗电流 
+- dark fiber 深色光纤, 暗色光纤
+- dark line spectrum 暗线光谱
+- dark-trace screen 暗迹屏幕 
+- data abstraction 数据抽象度 
+- data access arrangement (DAA)
+- data acquisition board 数据采集板
+- data acquisition system 数据采集系统
+- data acquisition 数据采集 
+- data address generator (DAG)
+- data attribute 数据属性 
+- data block 数据资料段 
+- data bus transceiver 数据总线收发器
+- data bus 数据总线 
+- data cache 数据高速缓冲存储器 
+- data carrier detect (DCD)
+- data casting 数据广播 
+- data center 数据中心 
+- data circuit-terminating equipment (DCE)
+- data communication equipment (DCE)
+- data communications 数据通讯 
+- data compression protocol 数据压缩协定
+- data compression 数据压缩 
+- data connection 数据连接 （for
+- data definition language (DDL)
+- data dictionary view 数据字典视图
+- data dictionary 数据字典 （for
+- data element 数据元 
+- data encryption algorithm 数据加密算法
+- data encryption standard 数据加密标准
+- data encryption 数据加密 
+- data entry 数据输入 
+- data fetch 数据找取 
+- data field 数据栏 
+- data file 数据文件 （for
+- data flow 数据流程 
+- data integrity 数据完整性 （for
+- data integrity 数据完整性，数据完备性 
+- data interchange format 数据交换格式
+- data interchange 数据交换 
+- data interface format (DIF)
+- data interface 数据接口 
+- data link connection identifier
+- data link layer 数据链路层
+- data link switching 数据链路交换
+- data logger 数据记录器 
+- data manipulation language (DML)
+- data manipulation language （DML）数据操作语言（DML）
+- data mart 数据集市 （for
+- data member 数据成员、成员变量 
+- data over cable service
+- data over voice (DoV)
+- data packet 数据信息包 
+- data path controller (DPC)
+- data path 数据通路 
+- data plane 数据层 
+- data processing 数据处理 
+- data pump 数据抽取 （for
+- data register 数据寄存器 
+- data scrambling 数据扰频 
+- data scrubbing 数据清理 （for
+- data security 数据安全性 
+- data segment header (DSH)
+- data separator 数据分隔器 
+- data sequence 数据序列 
+- data service unit (DSU)
+- data set ready (DSR)
+- data set 数据装置；数据集 
+- data sheet 数据表，数据手册 
+- data source 数据源 
+- data source 数据源 （for
+- data source 数据源 （for
+- data station 数据站 
+- data structure 数据结构 
+- data structure数据结构  
+- data synthesis 数据合成 
+- data table 数据表 （for
+- data terminal equipment (DTE)
+- data tester 数据测试器 
+- data throughput 数据吞吐量 
+- data transfer bus 数据传输总线
+- data transfer rate 数据传送速率
+- data transfer 数据传输 
+- data warehouse 数据仓库 （for
+- data warehouse 数据仓库，资料库 
+- data 数据  
+- data, artwork 原图数据 
+- data, behavioral 性能数据 
+- data, calibration 校准数据 
+- data, global 通用数据 
+- data, local 区域性数据 
+- data, physical 实体数据 
+- data, state 状态数据 
+- data, structural 结构数据 
+- data, sustained 持续数据 
+- data, timing 时序数据 
+- data-aware control数据感知控件 （for database）
+- data-bound 数据绑定 （for database）
+- data-compression protocol 数据压缩协定 
+- data-path controller (DPC) 数据通道控制器
+- data-path function 数据通路功能 
+- data-transfer bus 数据传输总线 
+- database administrator 数据库管理员 
+- database catalog 数据库目录 （for
+- database diagram 数据关系图 （for
+- database file 数据库文件 （for
+- database management system (DBMS)
+- database model 数据库模型 
+- database object cache 数据库对象高速缓冲存
+- database object 数据库对象 （for
+- database owner 数据库所有者 （for
+- database project 数据库工程 （for
+- database role 数据库角色 （for
+- database schema 数据库模式、数据库架构 （for
+- database script 数据库脚本 （for
+- database server object (DSO)
+- database server 数据库服务器，数据库服务程序 
+- database 数据库  
+- database 数据库 （for database）
+- database, device characteristics 器件特性数据库
+- database, distribution 分布式数据库 
+- database, memory-resident (MRD) 存储器驻留数据库
+- database, relational 相关式数据库 
+- databook 数据手册  
+- datagram 数据报文  
+- datagram 数据电文  
+- datagram-sensing multiple access (DSMA)
+- datapath compiler 数据通路编译程序 
+- dataphone digital service (DDS)
+- datascope 数据显示器  
+- dataset 数据集 （for database）
+- dataset 数据集 （for database）
+- daughter board 子板 
+- daughter nucleus 子核 
+- dc filter 直流滤波器 
+- dc holdover 直流蓄冷 
+- dc isolation 直流隔离 
+- dc offset 直流偏移 
+- de facto standard 约定俗成的标准
+- de-emphasis 信号还原；削弱  
+- de-energize 断开；释放  
+- deactivate 释放；去激励  
+- dead band 静区；不工作区 
+- dead lock 死锁 （for
+- dead time 空载时间；无信号时间 
+- dead zone 静区；不工作区 
+- dead-end 死端；空端  
+- deadlock 死结  
+- deaeration 排气  
+- deallocate 归还  
+- deblurring 去模糊  
+- debug 调试  
+- debug 除错  
+- debugger 调试器  
+- debugger 除错程序  
+- debugger, source code 源代码除错程序
+- debugger, symbolic 符号除错器 
+- deca- 十  
+- decay characteristic 衰变特征 
+- decay constant 衰变常数 
+- decay 退化  
+- decay, exponential 指数式衰变 
+- decay, radioactive 放射性衰变 
+- decelerating electrode 减速电极 
+- deceleration 减速度  
+- deci- 分  
+- decibel (dB) 分贝 
+- decimal point 小数点 
+- decimal 小数；十进制  
+- decimal, binary-coded (BCD) 二进码十进数
+- decimeter (dm) 分米 
+- decipher 解码  
+- decipherer 解码器  
+- decision feedback equalization (DFE)
+- decision mechanism 决策机能 
+- decision rule 决策规则 
+- decision support system (DSS)
+- decision support 决策支持 
+- decision table 决策表 
+- declaration 声明  
+- declarative referential integrity （DRI）声明引用完整性（DRI）
+- declination angle 偏角 
+- declination, magnetic 磁偏角 
+- decode 解码  
+- decode, instruction 指令解码 
+- decoder 解码器  
+- decoder, address 地址解码器 
+- decoder, function 函数解码器 
+- decoder, tone 语音解码器 
+- decoding 解码  
+- decollate 区分；分割  
+- decompile 反编译  
+- decompression 解压缩  
+- decouple 去耦  
+- decrement address pointer 减量地址指标
+- decrement instruction 减量指令 
+- decrement 减量  
+- dedicated line 专用线路 
+- deduction 推导  
+- deep discharge 深度放电，完全放电 
+- deep sub-micron 深亚微米 
+- default database 默认数据库 （for
+- default instance 默认实例 （for
+- default result set 默认结果集
+- default setting 缺省设置 
+- default value 缺省值 
+- default 缺省  
+- default 缺省、默认值  
+- defect 缺点  
+- defect, zero 零缺点 
+- defer 推迟  
+- defined, user- 用户定义 
+- definition 定义  
+- definition, behavioral 功能定义 
+- definition, high 高清晰度 
+- definition, physical 实体定义 
+- definition, structural 结构定义 
+- deflection angle 偏转角 
+- deflection coil 偏转线圈 
+- deflection factor 偏转因素 
+- deflection magnetometer 偏转磁强针 
+- deflection 偏向；偏转  
+- deflection, electrostatic 静电偏向；静电偏转 
+- deflection, full-scale 全标度偏转 
+- deflection-yoke core 偏向磁环 
+- defocusing 散焦  
+- deformation 形变  
+- deformation, mechanical 机械形变 
+- deformation, plastic 塑性形变 
+- defuzzication 反模糊  
+- degassing 排气  
+- degaussing 消磁  
+- degradation failure 渐衰失效 
+- degraded minute (DM) 退化分钟，劣化分钟，降级分钟
+- degree of freedom 自由度；维
+- degree 度；程度  
+- dehumidifier 抽湿机  
+- deionized (DI) 消离子 
+- deionized water 纯水 
+- delamination 分层，脱层  
+- delay equalizer 延迟均衡器 
+- delay flip-flop 延迟正反器 
+- delay line 延迟线 
+- delay path 延迟通路 
+- delay 延迟  
+- delay, access 存取延迟 
+- delay, cable skew 电缆歪曲延迟
+- delay, node 节点延迟 
+- delay, on-chip 片上延迟 
+- delay, path 通路延迟 
+- delay, plug 插接延迟 
+- delay, propagation 传播延迟 
+- delay, timing 时序延迟 
+- delay, transition time 转换时间延迟
+- delayed sweep 延迟扫描 
+- delegate 委托  
+- delegation 委托  
+- delete 删除  
+- delimiter 限定器  
+- delink 解除链路  
+- delta connection 三角连接 
+- delta connector 三角连接器 
+- delta modulation δ调制，增量调制 
+- delta-sigma modulating 增量总和调制 
+- delta-sigma 增量总和  
+- demagnetization 去磁  
+- demand factor 需求率，需求因子 
+- demand paged virtual memory
+- demand paged 需求分页 
+- demand protocol architecture (DPA)
+- demand, dynamic power-on- (DPD)
+- demand, power-on- (PoD) 需求式供电
+- demand-paged virtual memory 需求分页虚拟存储器
+- demodulation 解调  
+- demodulator 解调器  
+- demodulator, servo 伺服解调器 
+- demorgan transformation 德摩根变换 
+- demultiplex 分工  
+- demultiplexer 分工器  
+- dendritic growth 树枝晶生长 
+- dense WDM (D-WDM) 密集WDM,密集波分多路复用
+- densitometer 密度计  
+- densitometer, optical 光密度计 
+- density 密度  
+- density, charge 电荷密度 
+- density, current 电流密度 
+- density, double (DD) 双密度
+- density, energy 能量密度 
+- density, flux 通量密度 
+- density, high (HD) 高密度
+- density, magnetic flux 磁通量密度
+- density, packing 组装密度 
+- density, relative 相对密度 
+- density, single (SD) 单密度
+- density, vapor 汽密度 
+- density, very high (VHD)
+- depanel PCB分割  
+- dependency notation 从属记数法 
+- dependent name  
+- dependent variable 从属变数 
+- dependent 从属  
+- dependent, hardware- 从属硬件 
+- dependent, machine- 从属机器 
+- depletion layer 过渡层 
+- depletion region 耗尽区 
+- depletion 消耗；耗尽  
+- deploy 部署  
+- depolarization 去极化  
+- deposit, radioactive 放射沉积 
+- deposition rate 沉积率 
+- deposition 沉积  
+- deposition, chemical vacuum thin-film
+- deposition, chemical vapor (CVD)
+- deposition, high-pressure chemical vapor
+- deposition, ion-assisted 离子辅助沉积 
+- deposition, low-pressure chemical vapor
+- deposition, physical vapor (PVD)
+- deposition, ultra-high vacuum physical
+- depth, apparent 视深 
+- depth, junction 结深 
+- depth, penetration 渗透深度 
+- depth, real 实际深度 
+- derating factor 降额因素 
+- dereference operator （提领）运算子 
+- dereference 解引用  
+- derivative control 导数控制，微分控制 
+- derived class 派生类 
+- derived quantity 导出量 
+- derived unit 导出单位 
+- descendant node 子节点 
+- description language 描述语言 
+- description 描述  
+- description, behavioral 性能描述 
+- description, logic 逻辑描述 
+- descriptor register 描述信息寄存器 
+- descriptor 描述信息  
+- descriptor, interrupt 中断描述信息 
+- desensitization 纯化，降低灵敏度  
+- deserialize 解串行  
+- design analysis 设计分析 
+- design automation 设计自动化 
+- design by contract (DBC)
+- design by contract 契约式设计
+- design cycle 设计周期 
+- design element 设计元素 
+- design for assembly 可装配性设计
+- design for experiment (DFX)
+- design maturing testing (DMT)
+- design methodology 设计方法 
+- design of experiment (DOE)
+- design partitioning 分块化设计,模块化设计 
+- design pattern 设计模式 
+- design reuse 设计复用，设计再利用 
+- design rule check (DRC)
+- design simulation 设计模拟 
+- design source file (DSF)
+- design verification testing (DVT)
+- design, architecture 体系结构设计 
+- design, circuit 电路设计 
+- design, computer-aided (CAD) 电脑辅助设计
+- design, logic 逻辑设计 
+- design-for-manufacturability (DFM) 针对生产之设计 
+- design-for-testability (DFT) 针对测试之设计 
+- desired value 理想值 
+- desktop computer 台式电脑 
+- desktop publishing system 桌上印刷系统
+- desktop video 桌面式视频 
+- desktop videoconferencing 桌面视频会议 
+- desmear 除污程序  
+- desmearing 去油污  
+- desoldering 去焊  
+- destination operand 目的运算元 
+- destroy 销毁  
+- destructive interference 相消干扰 
+- destructive physical analysis (DPA)
+- destructive read 破坏性读取 
+- destructive testing 破坏性测试 
+- destructor（dtor）析构函数、析构器   
+- detach map 分离变换 
+- detailed model 精细模型 
+- detect, break 中断检测 
+- detect, carrier 载波检测 
+- detect, data carrier (DCD)
+- detect, power fail (PFD)
+- detectable failure 可检测故障 
+- detection circuitry 检测电路 
+- detection 检测  
+- detection, broadband 宽频带检测 
+- detection, collision (CD) 碰撞检测；冲突检测
+- detection, local injection and
+- detection, phase 相位检测 
+- detection, state 状态检测 
+- detection, trigger 触发检测 
+- detection, voice activity (VAD)
+- detector 检测器  
+- detector, edge-trigger phase and
+- detector, frequency 频率检测器 
+- detector, null 零检测器 
+- detector, phase 相位检测器 
+- detector, phase-locked (PLD) 锁相检测器
+- detector, quench 终止检测器 
+- detector, resistance temperature (RTD)
+- deterministic 确定的  
+- deuterium (D) 氘 
+- development cycle 研发周期 
+- development system 研发系统 
+- deviation angle 偏向角 
+- deviation distortion 偏移失真 
+- deviation sensitivity 漂移灵敏度,偏差灵敏度 
+- deviation, angular 角偏移 
+- deviation, frequency modulation 频率调制偏差
+- deviation, minimum 最小偏向 
+- deviation, standard 标准偏差 
+- device characteristics database 器件特性数据库
+- device driver 器件驱动器 
+- device editor 器件编辑器 
+- device matching 器件匹配 
+- device programmable-system, (PSD) 可编程系统器件
+- device simulation 器件模拟 
+- device template library 器件样板程序库
+- device template 器件样板 
+- device trigger 器件触发 
+- device 设备  
+- device 设备；器件；装置  
+- device, charge-injection (CID) 电荷注入器件
+- device, charged coupled (CCD)
+- device, clamping 钳固器件 
+- device, clock distribution 时钟分配器件
+- device, clock recovery (CRD)
+- device, digital 数字器件 
+- device, erasable programmable logic
+- device, extended 扩展器件 
+- device, fine pitch (FPD)
+- device, fuse programmable logic
+- device, hermetic 密闭式器件 
+- device, hybrid 混合器件 
+- device, input 输入装置 
+- device, linear 线性元件 
+- device, master 主器件 
+- device, memory 存储器器件 
+- device, message-based 信息类器件 
+- device, multiple bus master
+- device, output 输出装置 
+- device, piezoelectric 压电器件 
+- device, programmable logic (PLD)
+- device, receiving 接收器件 
+- device, register-based 寄存器类器件 
+- device, static-sensitive 静电敏感器件 
+- device, surface-mounted, (SMD) 表面黏著器件
+- device, symmetric self electro-optic
+- device, telephone answering (TAD)
+- device, transmitting 传输器件 
+- device-independent 独立于器件  
+- device-template library 器件样板程序库 
+- device-under-test (DUT) 受测试器件 
+- dew point 露点 
+- dew-point hygrometer 露点湿度计 
+- dewetting 去湿  
+- diagnostic routine 诊断例行程序 
+- diagnostic, functional 功能诊断 
+- diagnostics 诊断  
+- diagnostics, power-on 通电诊断 
+- diagnostics, self- 自我诊断 
+- diagonal 对角式  
+- diagram, block 方块图 
+- diagram, flow 流程图 
+- diagram, logical 逻辑图 
+- diagram, timing 时序图 
+- dial on demand 按需拨号
+- dial tone 拨号音调 
+- dial 拨号  
+- dial-up line 拨号线路 
+- dialback 拨号回送，回叫  
+- dialer, automatic 自动拨号 
+- dialing pulse 拨号脉冲 
+- dialog 对话  
+- dialog 对话框  
+- dialup service 拨号服务 
+- diamagnetic substance 抗磁物质 
+- diamagnetism 抗磁性  
+- diaphragm 照相机光圈  
+- diatonic scale 自然音阶 
+- dichloroethane 二氯乙烷  
+- dichroic crystal 两色性晶体 
+- dichroism 两色性  
+- dicode 双码  
+- die bonder 模片结合器，裸片结合器 
+- die bonding 裸片连接，芯片焊接，模片键合 
+- die separation 裸片分离，印模分离 
+- die sorter 裸片分类器，电路芯片分类器 
+- die stacking 裸片叠层，芯片叠积 
+- die 电路小片  
+- dielectric constant 介电质常数 
+- dielectric displacement 介电质位移 
+- dielectric isolation (DI) 介电质隔离
+- dielectric isolation process 介电质隔离工艺
+- dielectric isolation substrate 介电质隔离基片
+- dielectric layer 介质层，介电层 
+- dielectric loss 介电质损耗 
+- dielectric phase angle 介电质相角
+- dielectric phase difference 介电质相差
+- dielectric resonator oscillator (DRO)
+- dielectric strength 介电质强度 
+- dielectric 介电质  
+- dielectric, polarization of 介质之极化
+- dielectric, sheet 片状介电质 
+- dielectric-isolated complementary metal oxide
+- dielectric-isolation substrate 介电隔离基板 
+- difference detector 差别检测器 
+- difference, dielectric phase 介电质相差
+- difference, electric potential 电位差
+- difference, frequency 频率差 
+- difference, phase 相位差 
+- difference, potential (PD) 电位差
+- difference, potential energy 位能差
+- difference, temperature 温差 
+- difference, vector 向量差 
+- differential Manchester code 差分曼切斯特编码
+- differential amplifier 差动放大器 
+- differential binary phase-shift keying
+- differential circuit 微分电路 
+- differential encoding 差分编码 
+- differential gain 差动增益 
+- differential input 差动输入 
+- differential linearity (DL) 微分线性
+- differential modulation 差分调制 
+- differential nonlinearity (DNL) 微分非线性
+- differential phase shift keying
+- differential phase shift-keyed modulator
+- differential phase 差动相位 
+- differential pulse-code modulation (DPCM)
+- differential quadrature phase shift
+- differential relay 差动继电器 
+- differential transducer 差动传感器 
+- differential transformer 差动变压器 
+- differentiating network 差分网络 
+- differentiator 微分器  
+- diffraction 衍射  
+- diffuse reflection 漫射 
+- diffused base transistor 基极扩散晶体管
+- diffused infrared 散射红外线 
+- diffused isolation 扩散隔离 
+- diffused junction transistor 扩散连结式晶体管
+- diffused resistor 扩散电阻器 
+- diffuser 扩散器  
+- diffusion amplifier 扩散放大器 
+- diffusion barrier 扩散屏障，扩散势垒 
+- diffusion layer 扩散层 
+- diffusion 扩散  
+- digerati digital bit stream
+- digest 摘要  
+- digit 数字  
+- digit, least significant (LSD)
+- digit, most significant (MSD)
+- digital AMPS (D-AMPS) (Andvanced
+- digital MMDS 数字多信道多点分布系统 
+- digital TV decoder 数字电视解码器
+- digital TV tuner 数字电视调谐器
+- digital VCR 数字录相机 
+- digital access signaling system
+- digital access signaling system
+- digital audio tape (DAT)
+- digital audio 数字音频 
+- digital audio-tape system (DAT)
+- digital baseband chip 数字基带芯片
+- digital bit rate 数字位率
+- digital cellular 数字蜂窝 
+- digital circuit 数字电路 
+- digital compact cassette system
+- digital compact cassette tape
+- digital compression 数字压缩 
+- digital computer 数字电脑 
+- digital cordless telephony 数字无绳电话
+- digital cross-connect system (DXC)
+- digital data communications message
+- digital device 数字器件 
+- digital display 数字显示器 
+- digital filter 数字滤波器 
+- digital gate 数字门 
+- digital light processing (DLP)
+- digital link 数字链路 
+- digital loop carrier (DIC)
+- digital microprocessor plotting language
+- digital microwave link 数字微波链路
+- digital monitor 数字监视器 
+- digital multimeter (DMM) 数字万用表
+- digital network architecture (DNA)
+- digital network 数字网络 
+- digital optical processor 数字光学处理器
+- digital oscilloscope 数字示波器 
+- digital pair-gain system 数字线对增益系统
+- digital phase-locked loop (DPLL)
+- digital phosphor oscilloscope (DPO)
+- digital potentiometer 数字式电位计；数字式分压计 
+- digital private branch exchange
+- digital private network signaling
+- digital recorder 数字录音机 
+- digital reference signal 数字参考信号
+- digital satellite system (DSS)
+- digital seal 数字印鉴 
+- digital set-top box 数字机顶盒
+- digital signal microprocessor 数字信号微处理器
+- digital signal processing (DSP)
+- digital signal processor (DSP)
+- digital signal processor 数字信号处理器
+- digital signature 数字签名，数字标记 
+- digital simulation 数字模拟 
+- digital speech interpolation (DSI)
+- digital still camera 数字照相机
+- digital still-picture camera (DSC)
+- digital storage oscilloscope (DSO)
+- digital subscriber line (DSL)
+- digital switch 数字交换 
+- digital switching 数字交换 
+- digital synthesis 数字合成 
+- digital system interface (DSI)
+- digital television (DTV) 数字电视
+- digital terrestrial television broadcasting
+- digital transmission content protection
+- digital transmission 数字传输 
+- digital trunk interface 数字中继线路接口
+- digital tuning system (DTS)
+- digital video interactive (DVI)
+- digital video silicon recorder
+- digital video 数字视频 
+- digital voltmeter (DVM) 数字电压表
+- digital 数字  
+- digital 数字的  
+- digital/analog (D/A) 数字／模拟 
+- digital/analog converter (DAC) 数字／模拟转换器
+- digitally corrected subranging (DCS)
+- digitizer 数字化仪  
+- digitizing camera system (DCS)
+- dilatant 膨胀的，扩大的,粘度增强并凝成固体的  
+- dilation 膨胀  
+- dilation, time 时间膨胀 
+- dilute 稀释  
+- dimension 尺寸  
+- dimensional analysis 尺寸分析 
+- dimensional, one (1-D) 一维
+- dimensional, three (3-D) 三维
+- dimensional, two (2-D) 二维
+- diode alternating-current switch (DIAC)
+- diode capacitor 二极管电容器 
+- diode characteristic 二极管特征 
+- diode clamp 钳位二极管 
+- diode drop 二极管电压降 
+- diode equivalent 二极管当量 
+- diode matrix 二极管矩阵 
+- diode 二极管  
+- diode, Schottky-barrier double rectifier
+- diode, Zener 齐纳二极管 
+- diode, blocking 阻挡二极管 
+- diode, common cathode double
+- diode, epitaxial 外延二极管 
+- diode, fast recovery epitaxial
+- diode, fast recovery 快速恢复二极管
+- diode, individual axially-leaded 单轴向引线二极管
+- diode, junction 连结式二极管 
+- diode, light emitting (LED)
+- diode, parasitic 寄生二极管 
+- diode, rectifier 整流二极管 
+- diode, resistor-capacitor (RCD) 电阻器电容器二极管
+- diode, transient suppression 瞬变抑制二极管
+- diode, tunnel 隧道二极管 
+- diode, varicap 变容二极管 
+- diode-pumped laser 二极管泵浦激光器 
+- diode-transistor logic (DTL) 二极管晶体管逻辑
+- diopter 折光度  
+- dioxide, silicon 二氧化硅 
+- dioxins 戴奥辛  
+- dip angle 磁倾角 
+- dip, magnetic 磁力线 
+- diphase code 双相码，分相码 
+- dipole 偶极子  
+- dipole, electric 电偶极子 
+- dipping resin 浸渍树脂 
+- dipulse code 双脉冲码 
+- direct access 直接存取 
+- direct addressing 直接定址 
+- direct broadcast satellite (DBS)
+- direct chip attach (DCA)
+- direct chip attach module
+- direct coupling amplifier 直接耦合放大器
+- direct current (DC) 直流电流
+- direct detect (DD) 直接检测
+- direct digital embedding 数字直接嵌套
+- direct digital synthesis (DDS)
+- direct distance dialing (DDD)
+- direct inward dialing (DID)
+- direct matrix inversion (DMI)
+- direct memory access (DMA)
+- direct memory access controller
+- direct memory access request
+- direct modulation 直接调制 
+- direct numerical control (DNC)
+- direct outward dialing (DOD)
+- direct sequence CDMA (DS-CDMA)
+- direct single-bit serial-scan path
+- direct stream digital (DSD)
+- direct test 直接测试 
+- direct-beam infrared 定向射束红外线 
+- direct-coupled transistor logic (DCTL)
+- direct-coupling amplifier 直接耦合放大器 
+- direct-current (dc) 直流电流 
+- direct-current amplifier 直流放大器 
+- direct-current generator 直流发电机 
+- direct-current motor 直流马达 
+- direct-current power supply 直流电源
+- direct-mapped cache 直接变换高速缓冲存储器 
+- direct-mapped 直接变换  
+- direct-sequence spread spectrum 直接序列扩展频谱
+- direction discriminator 方向鉴别器 
+- directional antenna 定向天线 
+- directional coupler 定向耦合器 
+- directive 定向指令  
+- directive （编译）指示符  
+- directivity 定向功能  
+- directly mapped cache 直接映射高速缓冲存储器
+- directory access protocol (DAP)
+- directory system protocol (DSP)
+- directory 目录  
+- directory 目录  
+- dirty pages脏页 （for database）
+- dirty read 脏读 （for
+- disable 失效  
+- disassemble 反汇编  
+- disassembler 反汇编器  
+- disassembly, packet assembly/ (PAD)
+- disc spindle motor 碟式转轴马达
+- disc, compact (CD) 光盘
+- discharge circuit 放电电路 
+- discharge frequency 放电频率 
+- discharge potential 放电电位 
+- discharge rate 放电率 
+- discharge voltage 放电电压 
+- discharge 放电  
+- discharge, brush 刷形放电 
+- discharge, corona electrical 电晕放电
+- discharge, corona 电晕放电 
+- discharge, electrostatic (ESD) 静电释放
+- discoloration 脱色  
+- disconnect 拆卸；分离  
+- discontinuity 间断  
+- discontinuous mode 非连续模式 
+- discrete Fourier transform (DFT)
+- discrete component 离散元件 
+- discrete cosine transform (DCT)
+- discrete gabor transform 离散盖博变换
+- discrete logic 离散逻辑；离散逻辑元件 
+- discrete model 离散模型 
+- discrete multi-tone (DMT) 离散多音[传输]
+- discrete process 离散过程 
+- discrete transformation 离散变换 
+- discrete wire board (DWD)
+- discrete wire technology 离散布线技术
+- discrete 分立；离散  
+- discriminator 鉴别器  
+- disenable 抑制  
+- disintegration 分解；蜕变  
+- disjunction 切断  
+- disk array 磁盘阵列 
+- disk caching 磁盘高速缓冲存储器 
+- disk index 硬盘索引 
+- disk operating system (DOS)
+- disk server 磁盘伺服器 
+- disk 盘  
+- disk, erasable compact 可抹式光盘
+- disk, floppy 软盘 
+- disk, floptical 软式光盘 
+- disk, hard 硬盘 
+- disk, magneto-optical 磁光盘 
+- disk, optical 光盘 
+- disk, removal hard 可装拆式硬盘
+- disk, very high density
+- disk, write once read
+- disk, write once read
+- dislocation 错位  
+- dislocation, crystal 晶体错位 
+- dislodge 脱落  
+- dispatch 调度、分派、派发（我喜欢"调度"）  
+- dispatcher interface 分配程序接口 
+- dispatcher 分配程序  
+- dispenser 分配器；涂料器  
+- dispensing 涂料  
+- dispensing, air-operated 气动涂料 
+- dispensing, pneumatic 气动涂料 
+- dispersant 分散剂  
+- dispersion effect 散射效果 
+- dispersion 色散；散射  
+- displacement bus 位移总线 
+- displacement ratio 位移比 
+- displacement 位移  
+- displacement, angular 角位移 
+- displacement, dielectric 介电质位移 
+- displacement, phase 相位移 
+- displacement-time graph 位移－时间图 
+- display address space 显示器地址空间
+- display mode 显示方式，显示模式 
+- display register 显示器寄存器 
+- display 显示器  
+- display, active-matrix 主动矩阵显示器 
+- display, digital 数字显示器 
+- display, double super-twisted liquid
+- display, dual-mode plasma 双模等离子显示器
+- display, electro-luminescent 电发光显示器 
+- display, field emission (FED)
+- display, flat panel (FPD)
+- display, gas plasma 气体等离子显示器
+- display, guest/host liquid crystal
+- display, liquid crystal (LCD)
+- display, on-screen (OSD) 屏幕显示器
+- display, plasma 等离子显示器 
+- display, simple matrix 简单矩阵显示
+- display, super-twisted liquid crystal
+- display, thin-film transistor liquid
+- display, twisted nematic liquid
+- display, vacuum fluorescent (VFD)
+- dissipate force 耗散力 
+- dissipation factor 耗散因数；耗损因数 
+- dissipation 耗散；耗损  
+- dissipation, heat 散热 
+- dissipation, power 功率耗散 
+- dissociation 分解  
+- distance learning 远程学习 
+- distance of most distinct
+- distance, fringing 边缘相接范围 
+- distance, grid 栅距 
+- distance, image 像距 
+- distance, object 物距 
+- distance-coded reference mark 编码间隔参考标记
+- distance-vector routing protocol 矢量间隔选路协议
+- distillation 蒸馏  
+- distillation, fractional 分馏 
+- distortion factor 失真因素 
+- distortion tolerance 失真容限 
+- distortion 失真  
+- distortion, amplitude 振幅失真 
+- distortion, attenuation 衰减失真 
+- distortion, crossover 交接失真；交越失真 
+- distortion, harmonic voltage 谐波电压失真
+- distortion, harmonic 谐波失真 
+- distortion, intermodulation 交互调制失真 
+- distortion, total harmonic (THD)
+- distributed application 分布式应用 
+- distributed architecture 分布式体系结构 
+- distributed array processor (DAP)
+- distributed computing environment (DCE)
+- distributed computing 分布式计算 
+- distributed computing 分布式运算 
+- distributed control system (DCS)
+- distributed data management (DDM)
+- distributed data management architecture
+- distributed database 分布式数据库 
+- distributed interactive simulation (DIS)
+- distributed network 分布式网络 
+- distributed object modeling 分布式对象建模
+- distributed operating multi-access interactive
+- distributed processing 分布式处理 
+- distributed query 分布式查询 （for
+- distributed queued dual bus
+- distributed shared memory (DSM)
+- distributed system architecture (DSA)
+- distributed system network (DSN)
+- distributed system 分布式系统 
+- distributed transaction processing (DTP)
+- distribution amplifier 分布式放大器 
+- distribution database 分布式数据库 
+- distribution line 分配线，分布线 
+- distribution transformer 配电变压器 
+- distribution, automatic call 自动电话分配
+- distribution, computer-integrated (CID) 电脑综合分销
+- distribution, power 功率分布 
+- distributive rules 分配规则 
+- distributive search 分配式搜寻 
+- distributive sort 分配式排序 
+- distributor box 燃料分配器 
+- disturbance 干扰  
+- dither 高频脉动：高频抖动  
+- divergence 发散度  
+- divergent lens 发散透镜 
+- divergent mirror 发散球面镜 
+- dividend 被除数  
+- divider 分割器；分压器；除法器  
+- divider, broadband power 宽频带功率分割器
+- divider, frequency 分频器 
+- divider, resistor 电阻分割器 
+- do-it-yourself (DIY) 自装，自己动手 
+- docsis 1.1 以CATV为中心的DOCSIS规范也叫做DOCSIS 1.1
+- document interchange format (DIF)
+- document object model 文件对象模型
+- document type definition (DTD)
+- document type 文件类型 
+- document 文件  
+- document 文档  
+- documentation 文件；文书资料；文献  
+- dolby AC-3 杜比AC-3[多声道编码技术] 
+- dolby digital 杜比数字[声音格式] 
+- domain key distributor (DKD)
+- domain name server (DNS)
+- domain name system (DNS)
+- domain 域；范围  
+- domain, frequency 频域 
+- domain, magnetic 磁畴 
+- domain, time 时域 
+- dominant mode 主模 
+- donor dopant 施体渗染剂 
+- donor impurity 施体杂质 
+- dopant 渗染剂  
+- dopant, donor 施体渗染剂 
+- doped region 渗染区 
+- doping compensation 渗染补偿 
+- doping 掺杂  
+- dose rate 剂量率 
+- dose 剂量  
+- dosimetry 剂量学  
+- dot address 点地址 
+- dot matrix printer 点阵式打印机
+- dot operator （圆）点操作符 
+- dot pitch 点距 
+- dot product 点乘积 
+- dots per inch (DPI)
+- double density (DD) 双密度
+- double linked list 双链结串列
+- double modulation 双重调制 
+- double reflection 双反射 
+- double refraction 双折射 
+- double scan 双扫描 
+- double scanning line 双扫描线
+- double super-twisted (DSTN) 双倍超级扭曲
+- double super-twisted liquid crystal
+- double super-twisted nematic (DSTN)
+- double wave soldering 双重波峰式焊锡
+- double-byte character set （DBCS）双字节字符集（DBCS）
+- double-ended queue 双端队列 
+- double-height 倍高  
+- double-layer interconnection 双层互连 
+- double-layer metal (DLM) 双层金属
+- double-precision 双精度  
+- double-scan color graphics adapter
+- double-sideband transmitter 双侧频带发送器 
+- double-sided assembly 双面组装 
+- double-sided board 双面电路板 
+- double-tuned circuit 双调谐电路 
+- double-wave soldering 双波峰焊锡 
+- doubler 增倍器  
+- doubler, capacitive voltage 电容性电压增倍器
+- doubler, voltage 电压增倍器 
+- doubleword 双字组  
+- dovetail joint 燕尾接合 
+- down system, 系统停机 
+- down 停机  
+- down-converted signal 下变频信号 
+- downlink 下行链路  
+- download 下载；下装  
+- downloadable 可下载  
+- downsapling 下采样  
+- downstream 下行流  
+- downtime 停机时间  
+- downward compression 下向压缩 
+- downward-compatible 下向兼容  
+- doze mode 休止模式 
+- draftsman 绘图员  
+- drag 拖曳  
+- drain electrode 漏极电极 
+- drain leakage 漏极泄漏[电流] 
+- drain sense input 漏极感应输入
+- drain voltage 漏极电压 
+- drain 泄漏；漏极  
+- drain, power 电源泄漏 
+- drawbridge 吊桥  
+- drift compensation 漂移补偿 
+- drift rate 漂移速率 
+- drift 漂移  
+- drift, input offset current
+- drift, input offset voltage
+- drill template 钻孔样板 
+- drill, pneumatic 风钻 
+- drive array 磁盘机阵列 
+- drive current 驱动电流 
+- drive 磁盘机  
+- drive, Winchester hard disk
+- drive, dynamic multiplex 动态多工驱动
+- drive, erasable optical 可拭除式光盘机
+- drive, floppy disk (FDD)
+- drive, hard disk (HDD)
+- drive, optical disk 光盘机
+- drive, optical 光盘机 
+- drive, tape 磁带机 
+- driven 驱动  
+- driven, event- 事件驱动 
+- driven, interrupt- 中断 驱动
+- driven, shell- 壳体驱动 
+- driver 驱动器  
+- driver 驱动（程序）  
+- driver, address 地址驱动器 
+- driver, bus 总线驱动器 
+- driver, hardware 硬件驱动程序 
+- driver, instrument 仪器驱动器 
+- driver, quad power 四重功率驱动器
+- driver, software 软件驱动器 
+- driver, software 软件驱动程序 
+- driver, system clock 系统时钟驱动器
+- droop 斜面；固定偏差；垂度；减少，减弱  
+- drop cable 分接电缆，引入电缆 
+- drop, potential 电位降 
+- drop, switch 交换电压降 
+- drop, voltage 电压降 
+- drop-in test 混入测试 
+- drop-out test 漏失测试 
+- dropout 漏失  
+- dross content 焊渣；无用信息 
+- dross 废物，碎片  
+- dry bulb 乾泡 
+- dry cell 乾电池 
+- dry contact 乾式接点 
+- dry film 乾膜 
+- dry-film laminate 乾膜薄片 
+- dry-film photoresist 乾膜光阻 
+- dry-type 乾式的  
+- dual actuator 双起动器 
+- dual digital potentiometer 双数字式电位计；双数字式分压计
+- dual integrated circuit 双集成电路
+- dual memory management unit
+- dual mode 双重模式 
+- dual operation 双操作 
+- dual probing 双探测 
+- dual rate codec 双速率编解码器
+- dual retargetable architecture (DRA)
+- dual ring 双环 
+- dual synchronous communication channel
+- dual synchronous 双同步 
+- dual tone 双音调 
+- dual video amplifier 双视频放大器
+- dual-access memory 双重存取存储器 
+- dual-attached connection 双配附连接 
+- dual-attached station (DAS) 双配附传讯站
+- dual-channel 双通道  
+- dual-in-line package (DIP) 双列直插式封装
+- dual-in-line switch 双列直插式开关 
+- dual-layer aluminum wiring process
+- dual-layer polysilicon 双层多硅晶体 
+- dual-mode plasma display 双模等离子显示器
+- dual-port memory 双端口存储器 
+- dual-port random access memory
+- dual-port 双端口  
+- dual-sided fixture 双面夹具 
+- dual-tone multi-frequency (DTMF) 双音多频
+- dubbing 配音；转录  
+- duct 导管  
+- ductile 可延伸的；柔软的  
+- dumb frame buffer 基本型画面缓冲器
+- dumb modem 基本型调制解调器 
+- dumb terminal 哑终端，无智能终端，可视终端 
+- dumb 基本的  
+- dummy antenna 仿真天线 
+- dump file 转储文件 
+- dump 转储  
+- dump 倾卸；转储  
+- dumping 倾销  
+- dumping, anti- 反倾销 
+- duo-decimal 十二进制的  
+- duodiode 双二极管  
+- duplex 双工  
+- duplex, full 全双工 
+- duplex, half 半双工 
+- duplexer 双工器；天线公用器，天线收发转换开关  
+- duplicate 复制  
+- duplication address detection (DAD)
+- duration 持续时间  
+- dust, radioactive 放射尘 
+- dust-tight 隔尘的，防尘的  
+- dustproof 防尘的  
+- duty cycle 工作周期 
+- duty factor 效率系数 
+- duty jitter 工作抖动 
+- duty, continuos 连续运行 
+- duty, intermittent 间歇运行 
+- duty, periodic 周期运行 
+- duty, short time 短期运行
+- duty, varying 不定期运行 
+- duty-cycle 占空比  
+- dwell time 停顿时间 
+- dwell 停顿  
+- dynamic HTML 动态超文本标识语言 
+- dynamic SQL (Structured Query
+- dynamic SQL statements 动态SQL语句
+- dynamic accuracy 动态准确度 
+- dynamic allocation 动态配置 
+- dynamic assembly 动态装配件、动态配件 
+- dynamic bandwidth allocation 动态带宽分配
+- dynamic binding 动态绑定 
+- dynamic braking 动态制动 
+- dynamic burn-in 动态老化测试 
+- dynamic bus-sizing 动态总线规划 
+- dynamic caching 动态高速缓存 
+- dynamic channel allocation (DCA)
+- dynamic channel assignment (DCA)
+- dynamic characteristic 动态特性 
+- dynamic configuration 动态配置 
+- dynamic crossover current 动态交越电流
+- dynamic cursor 动态游标 （for
+- dynamic data exchange (DDE)
+- dynamic equilibrium 动态平衡 
+- dynamic filter 动态筛选 （for
+- dynamic flex 动态扭曲，动态弯曲 
+- dynamic functional analysis 动态功能分析
+- dynamic host configuration protocol
+- dynamic link library (DLL)
+- dynamic load 动态负载 
+- dynamic locking 动态锁定 （for
+- dynamic multiplex drive 动态多工驱动
+- dynamic power-on-demand (DPD) 需求动态功率
+- dynamic random access memory
+- dynamic range 动态范围 
+- dynamic recovery 动态恢复 （for
+- dynamic routing 动态路由选择 
+- dynamic scanning 动态扫描 
+- dynamic sharing 动态共享 
+- dynamic snapshot 动态快照 （for
+- dynamic source routing (DSR)
+- dynamic storage management 动态存储器管理
+- dynamic thread 动态线程 
+- dynamic 动态  
+- dynamically reconfigurable hardware 可动态配置硬件，动态可重构硬件
+- dynamics 动力学  
+- dynamics, lattice 晶格动力学 
+- dynamics, nuclear reaction 核反应动力学
+- dynamo 直流发电机  
+- 
+## e
+- 
+- e-beam 电子束  
+- e-business 电子商务  
+- e-commerce portal 电子商务入口 
+- e-printing 远程网络输出  
+- e2prom (electrically-erasable programmable read-only
+- early binding 初期联编 
+- early packet discard (EPD)
+- earth radius factor 地球半径因子（地球有效半径与实际半径之比，约为1.33）
+- earth station 地球站，地面站 
+- earthing 接地  
+- eccentricity error 偏心误差 
+- echo cancellation 回波消除 
+- echo suppression 回波抑制 
+- echo 回波；回音  
+- echo-suppression control 回波抑压控制 
+- eddy current 涡流 
+- eddy-current loss 涡流损耗 
+- edge connector 卡缘连接器 
+- edge detection 边缘检测 
+- edge, falling 下建边缘 
+- edge, input 输入边缘 
+- edge, refracting 折射边 
+- edge, rising 上升边缘 
+- edge, timing 定时边缘 
+- edge-defined film-fed growth (EFG)
+- edge-emitting chip 边缘发射芯片 
+- edge-sensitive scan design 边缘敏感扫描设计
+- edge-sensitive 边缘敏感  
+- edge-trigger phase and frequency
+- edge-trigger 边缘触发  
+- edge-triggered interrupt 边缘触发中断 
+- edit 编辑  
+- editor 编辑程序；编辑器  
+- effect 效应  
+- effect, Faraday 法拉第效应 
+- effect, Hall 霍尔效应 
+- effect, Seebeck 塞贝克效应 
+- effect, Zeebeck 齐北克效应 
+- effect, Zeeman 塞曼效应 
+- effect, Zener 齐纳效应 
+- effect, cooling 冷却效应 
+- effect, current-spreading 电流扩散效应 
+- effect, dispersion 散射效果 
+- effect, field 电场效应 
+- effect, greenhouse 温室效应 
+- effect, inverse photoelectric 反光电效应
+- effect, mirror 镜像效应 
+- effect, photoconductive 光传导效应 
+- effect, photoelectric 光电效应 
+- effect, physical 物理效应 
+- effect, quantum Hall 量子霍尔效应
+- effect, quantum tunnel 量子隧道效应
+- effect, saturated 饱和效应 
+- effect, thermoelectric 热电效应 
+- effect, transmission line 传输线效应
+- effect, tunnel 隧道效应 
+- effect, volta 伏特效应 
+- effective address 有效地址 
+- effective isotropic radiated power
+- effective magnetic moment 有效磁距
+- effective permeability 有效磁导率,有效渗透性 
+- effective power 有效功率 
+- effective resistance 有效电阻 
+- effective value 有效值 
+- efficiency 效率  
+- efficiency 效率  
+- efficiency, conversion 转换效率 
+- efficiency, luminous 发光效率 
+- efficiency, machine 机械效率 
+- efficiency, mechanical 机械效率 
+- efficiency, quantum (QE) 量子效率
+- efficiency, rectifier 整流效率 
+- efficiency, thermal 热效率 
+- efficient 高效  
+- effluent 污水  
+- effort 力；施力  
+- elapsed time 经过时间 
+- elastic collision 弹性碰撞 
+- elastic constant 弹性常数 
+- elastic store 弹性存储[器] 
+- elasticity buffer 弹性缓冲器 
+- elasticity 弹性  
+- elasticity, modulus of 弹性模数
+- elastomer 弹性体  
+- elastomeric 弹性体的，合成橡胶的  
+- electret 驻极体  
+- electric charge 电荷 
+- electric conductance 电导 
+- electric current 电流 
+- electric dipole moment 电偶极
+- electric dipole 电偶极子 
+- electric discharge 放电 
+- electric field intensity 电场强度
+- electric field strength 电场强度
+- electric field 电场 
+- electric force 电力 
+- electric oscillation 电振荡 
+- electric potential difference 电位差；电势差
+- electric potential energy 电位能
+- electric potential energy 电势能
+- electric potential 电位；电势 
+- electric power steering (EPS)
+- electric power 电功率 
+- electric resistance 电阻 
+- electric vehicle (EV) 电动车辆
+- electric 电；电动；带电  
+- electric-dipole moment 电偶极 
+- electric-field intensity 电场强度 
+- electrical conductivity 电气导电能力 
+- electrical consideration 电气特性考虑 
+- electrical emission 电气放射 
+- electrical ground loop 电气接地环路
+- electrical load 电气负载 
+- electrical overstress (EOS) 电过载，电超载
+- electrical potential 电位 
+- electrical resonance 电气共振 
+- electrical rule check (ERC)
+- electrical zero 电零点 
+- electrical 电力的；电气的  
+- electrically erasable programmable read
+- electricity 电；电学  
+- electricity, heating effect of
+- electricity, static 静电 
+- electrification by friction 摩擦起电
+- electrification 起电  
+- electrified body 带电体 
+- electro-deposit copper 电解铜 
+- electro-engraving 电刻  
+- electro-luminescent (EL) 场致发光 
+- electro-luminescent display 场致发光显示 
+- electro-optic modulator 电光调制器 
+- electroacoustic 电声学  
+- electrochemical equivalent 电流当量 
+- electrochemical means 电化学方法 
+- electrochemistry 电化学  
+- electrocoating 电涂层  
+- electrocution 触电死亡  
+- electrode cut wire 电极线
+- electrode potential 电极电位 
+- electrode 电极  
+- electrode, drain 漏极电极 
+- electrode, negative 负电极 
+- electrode, positive 正电极 
+- electrodeposit 电沉淀物  
+- electrodynamics 电动力学  
+- electrodynamometer 电流计  
+- electroless copper 无电解铜 
+- electrolysis 电解  
+- electrolyte 电解溶液；电解质  
+- electrolytic capacitor 电解电容器 
+- electrolytic corrosion 电解侵蚀，电蚀 
+- electrolytic plating 电镀 
+- electromagnet 电磁体  
+- electromagnetic compatibility (EMC) 电磁兼容性
+- electromagnetic field 电磁场 
+- electromagnetic force 电磁力 
+- electromagnetic induction 电磁感应 
+- electromagnetic interference (EMI) 电磁干扰
+- electromagnetic radiation 电磁辐射 
+- electromagnetic relay 电磁继电器 
+- electromagnetic spectrum 电磁波谱 
+- electromagnetic wave 电磁波 
+- electromagnetic 电磁的  
+- electromagnetism 电磁学  
+- electromagnetization 电流磁化  
+- electromechanical 电机的  
+- electrometer 静电的  
+- electromigration 电子漂移  
+- electromotive force (EMF) 电动势
+- electron beam epitaxy (EBE)
+- electron beam lithography 电子束刻蚀法，电子束平印术
+- electron beam prober 电子束探测器
+- electron beam 电子束 
+- electron cyclotron resonance (ECR)
+- electron flow 电子流 
+- electron gun 电子枪 
+- electron microscope 电子显微镜 
+- electron probe microanalysis (EPMA)
+- electron projection lithography 电子投影金属版印刷，电子投影光刻
+- electron spectroscopy for chemical
+- electron track 电子轨迹 
+- electron volt (eV) 电子伏特
+- electron 电子  
+- electron, bound 束缚电子 
+- electron, free 自由电子 
+- electron, valence 原子价电子 
+- electronic cash (e-cash) 电子现金,
+- electronic commerce modeling language
+- electronic commerce 电子商务 
+- electronic control gear (ECG)
+- electronic control unit (ECU)
+- electronic data interchange (EDI)
+- electronic data interchange for
+- electronic data processing (EDP)
+- electronic data system (EDS)
+- electronic design automation (EDA)
+- electronic emission 电子放射 
+- electronic fuel injection (EFI)
+- electronic funds transfer (EFT)
+- electronic load 电子负载 
+- electronic mail 电子邮递 
+- electronic numerical integrator and
+- electronic packaging 电子封装 
+- electronic performance support system
+- electronic reservation system 电子预订系统
+- electronic switching system 电子交换系统
+- electronic toll collection (ETC)
+- electronic toll-collection system 电子道路收费系统
+- electronics manufacturing service (EMS)
+- electronics 电子学  
+- electronics, integrated device (IDE)
+- electrophorus 起电盘  
+- electroplating 电镀  
+- electroscope 验电器  
+- electroscope, gold-leaf 金箔验电器 
+- electrostatic capacity 静电容量 
+- electrostatic deflection 静电偏向；静电偏转 
+- electrostatic discharge (ESD) 静电释放
+- electrostatic field 静电场 
+- electrostatic force 静电力 
+- electrostatic induction 静电感应 
+- electrostatic shield 静电屏蔽[罩] 
+- electrostatic unit 静电单位 
+- electrostatic voltmeter 静电伏特计 
+- electrostatic 静电  
+- electrostatics 静电学  
+- electrotyping 电铸  
+- element list file (ELF)
+- element 元素  
+- elementary particle 基本粒子 
+- elementary wave 元波 
+- elliptical polarization 椭圆极化，椭圆偏振 
+- elongation 伸长  
+- elongation, coefficient of 伸长系数
+- embedded Java 嵌入式Java 
+- embedded Web server 嵌入式网络服务器
+- embedded control 嵌入式控制 
+- embedded controller 嵌入式控制器 
+- embedded servo system 嵌入式伺服系统
+- embedded software 嵌入式软件 
+- embedded system 嵌入式系统 
+- embedded test 嵌入式测试 
+- embedded 嵌入的  
+- embossed carrier tape 模压载体带
+- emergence angle 出射角 
+- emergency power 应急能力 
+- emergency shut down (ESD)
+- emission spectrum 放射光谱 
+- emission 放射  
+- emission, electrical 电气放射 
+- emission, electronic 电子放射 
+- emission, field 电场放射 
+- emission, spontaneous 自发放射 
+- emission, thermionic 热离子放射 
+- emissivity 放射能力  
+- emitter dotting 射极连线 
+- emitter voltage 射极电压 
+- emitter 放射器；射极  
+- emitter, common 共射极 
+- emitter, panel 平板射极 
+- emitter-coupled logic (ECL) 射极耦合逻辑
+- emitter-coupled transistor logic (ECTL)
+- empirical 经验的  
+- emulate 仿真  
+- emulation, analog 模拟仿真 
+- emulation, bus-timing 总线定时仿真 
+- emulator 仿真器  
+- emulator, in-circuit (ICE) 内电路仿真器
+- emulsifier 乳化剂  
+- enable dis- 抑制 
+- enable 允许；生效  
+- enabled, write- 使能写入 
+- enameled wire 漆包铜线 
+- encapsulant 密封剂  
+- encapsulating compound 密封剂，封装料 
+- encapsulating material 灌封材料 
+- encapsulating security payload (ESP)
+- encapsulation 封装  
+- encapsulation 灌封  
+- enclosing class 外围类别（与巢状类别 nested
+- enclosure 包围  
+- encode 编码  
+- encoder 编码器  
+- encoder/decoder data separator 编码器／解码器数据分隔器
+- encoder/decoder 编码／解码器  
+- encoding, multiplex sub-Nyquist sampling
+- encroachment 侵蚀  
+- encroachment, lateral 横向侵蚀 
+- encryption 加密  
+- encryption, data 数据加密 
+- end distortion 末端畸变 
+- end system 终端系统 
+- end user 最终用户 
+- end user 终端用户 
+- end, back- 后端 
+- end, front- 前端 
+- end, high- 高档 
+- end, low- 低档 
+- end-of-burst confirmation (EOBC) 成组传递结束确认，猝发结束确认
+- end-of-burst 成组传递结束，猝发结束  
+- end-of-file character 尾档字符 
+- end-to-end authentication 端对端身份验证 
+- end-to-end 端对端  
+- endpoint 终点；末端  
+- endurance tests 耐久性测试 
+- energy band 能带 
+- energy consumption 能量消耗 
+- energy density 能量密度 
+- energy dispersive spectrograph (EDS)
+- energy dispersive x-ray (EDX)
+- energy level 能量水平 
+- energy 能；能量  
+- energy, activation 活化能量 
+- energy, atomic 原子能 
+- energy, binding 结合能 
+- energy, conservation of 能量守恒
+- energy, electric potential 电位能
+- energy, gravitational potential 引力位能
+- energy, heat 热能 
+- energy, internal 内能 
+- energy, kinetic 动能 
+- energy, luminous 光能 
+- energy, mechanical 机械能 
+- energy, potential (PE) 位能
+- energy, radiant 辐射能 
+- energy, solar 太阳能 
+- energy, surface 表面能 
+- energy, translational 平移能量 
+- engine 引擎  
+- engine 引擎；机器  
+- engine, internal combustion 内燃机
+- engineering change order (ECO)
+- engineering change request (ECR)
+- engineering verification testing (EVT)
+- engineering workstation 工程工作站 
+- engineering, computer-aided (CAE) 电脑辅助工程
+- engineering, computer-aided software (CASE)
+- engineering, concurrent 并行工程 
+- engineering, reverse 还原工程 
+- enhanced GPRS 增强型通用无线分组业务 
+- enhanced audio processor (EAP)
+- enhanced circuit-switched data (ECSD)
+- enhanced color graphics adapter
+- enhanced data rates for
+- enhanced expanded memory specification
+- enhanced full rate (EFR)
+- enhanced plastic ball grid
+- enhanced serial communication controller
+- enhanced small device interface
+- enhanced specialized mobile radio
+- enhancement-mode FET 增强型场效应晶体管 
+- enterprise network 企业网络 
+- enterprise resources planning (ERP)
+- enterprises and private carriers
+- entity 实体  
+- entity 实体  
+- entrapment 截留  
+- entrapment, gas 气体截留 
+- entropy coding 熵编码，平均信息量编码 
+- entry point 进入点 
+- entry 入口  
+- entry, bus 总线入口 
+- enum （enumeration） 枚举 
+- enumerators 枚举成员、枚举器  
+- environment mapped bump mapping
+- environment 环境  
+- environment, application execution 应用执行环境
+- environment, computer-aided test (CATE)
+- environment, distributed computing (DCE)
+- environment, fuzzy inference development
+- environment, fuzzy system standard
+- environment, virtual terminal (VTE)
+- environmental impact 环境冲击 
+- environmental temperature 环境温度 
+- enzyme 酶，酵素  
+- epitaxial diode 外延二极管 
+- epitaxial layer 外延层 
+- epitaxial passivated integrated circuit
+- epitaxial 外延  
+- epitaxy 外延生长技术，取向附生  
+- epitaxy, molecular-beam 分子束外延 
+- epoxy resin 环氧树脂 
+- epoxy 环氧  
+- epoxy-glass laminate 环氧玻璃层压板 
+- epoxy-paper laminate 环氧纸基层压板 
+- equal 相等  
+- equality operator 等号操作符 
+- equality 相等性  
+- equalization 均衡；等化  
+- equalization, adaptive 自适应等化 
+- equalization, attenuation 衰减均衡 
+- equalization, decision feedback (DFE)
+- equalization, time-domain 时域均衡 
+- equalizer 均衡器；等化器  
+- equalizer, graphic 图形均衡器 
+- equalizer, stereo graphic 立体声图形均衡器
+- equalizing pulse 等化脉冲 
+- equally tempered scale 等程音阶
+- equation 方程  
+- equation, Boolean 布尔方程 
+- equation, circuit 电路方程 
+- equator, magnetic 磁赤道 
+- equilibrant 平衡；平衡状态  
+- equilibrium potential 平衡状态位能 
+- equilibrium, dynamic 动态平衡 
+- equilibrium, neutral 随遇平衡 
+- equilibrium, radioactive 放射平衡 
+- equilibrium, rotational 转动平衡 
+- equilibrium, stable 稳定平衡 
+- equilibrium, temperature 温度平衡 
+- equilibrium, thermal 热平衡 
+- equilibrium, unstable 不稳定平衡 
+- equipment terminal, (TE) 终端设备
+- equipment 设备；装置  
+- equipment, automatic test (ATE)
+- equipment, data communication (DCE)
+- equipment, data terminal (DTE)
+- equipotential line 等位线 
+- equipotential surface 等位面 
+- equipotential 等位的  
+- equiripple finite impulse response
+- equivalent circuit 等效电路 
+- equivalent gate 等效门 
+- equivalent integrated circuit 等效集成电路
+- equivalent load 等效负载 
+- equivalent resistance 等效电阻 
+- equivalent series inductance (ESI)
+- equivalent series resistance (ESR)
+- equivalent time sampling 等效时间取样
+- equivalent weight 当量 
+- equivalent 等效的；当量  
+- equivalent, electrochemical 电化当量 
+- equivalent, gram 克当量 
+- equivalent, thermal 热当量 
+- equivalent, water 水当量 
+- erasable optical drive 可拭除式光盘机
+- erasable programmable logic device
+- erasable programmable read only
+- erase 拭除  
+- erase, block 区段式拭除 
+- erasing head 拭除头；消磁磁头 
+- erbium (Er) 铒 
+- erbium-doped optical fiber amplifier
+- erect image 正立像 
+- erg 尔格  
+- ergonomics 人体工学  
+- error amplifier 误差[信号]放大器 
+- error bit 误码，差错位 
+- error burst 错误资组 
+- error checking and correction
+- error condition 错误条件 
+- error correction 错误更正 
+- error detection and correction
+- error free second (EFS)
+- error log 错误日志 （for
+- error tolerance 错误容限 
+- error 故障；错误  
+- error, absolute 绝对错误 
+- error, alignment 定位错误 
+- error, coplanarity 共面误差 
+- error, crossover 交接错误 ；交越错误
+- error, experimental 实验误差 
+- error, fatal 致命错误 
+- error, gain 增益误差 
+- error, hard 不可更正的错误；硬错误 
+- error, head position 磁头定位错误
+- error, marginal timing 边际定时错误
+- error, mean-squared (MSE) 均方误差
+- error, overwrite 重写错误；覆写错误 
+- error, parity 奇偶错误 
+- error, probable 可能误差 
+- error, random 无规误差 
+- error, relative 相对误差 
+- error, soft 可更正的错误；软错误 
+- error, standard 标准错误 
+- error, timing 时序错误 
+- error, transposition 对换错误 
+- error-correction code (ECC) 错误更正编码
+- error-detection protocol 错误检测协定 
+- error-free 无误  
+- errored second (ES) 误码秒
+- escape character 转义符、转义字符 
+- escape code 转义码 
+- escape velocity 逃逸速度 
+- esonant flip-flop 共振触发器 
+- estimator 估值器  
+- estimator, numerical 数字估值器 
+- estimator, physical 实体估值器 
+- etch back 回蚀 
+- etching 蚀刻法  
+- etching, photo- 光蚀刻法 
+- etching, plasma 等离子蚀刻法 
+- etching, reactive ion (RIE)
+- ethane 乙烷  
+- ethernet network 以太网络 
+- ethernet 以太网  
+- ethyl 乙基  
+- eutectic bond 低熔点粘接，低熔点焊接 
+- evaluate 评估  
+- evaluation 评价  
+- evaporation rate 蒸发率 
+- evaporation temperature 蒸发温度 
+- evaporation 蒸发  
+- evaporation, heat of 蒸发热
+- evaporator 蒸发器  
+- even harmonic 偶谐波 
+- even parity 偶数奇偶校验 
+- event control 事件控制 
+- event driven 事件驱动 
+- event driven 事件驱动的 
+- event handler 事件处理器 
+- event trigger 事件触发 
+- event 事件  
+- event 事件  
+- event-driven simulation 事件驱动模拟 
+- evidence 证据  
+- exalted carrier reception 恢复载波接收
+- exception declaration 异常声明 
+- exception handling 异常处理、异常处理机制 
+- exception mode 异常状态；异常模式 
+- exception specification 异常规范 
+- exception 异常  
+- exception 例外；异常  
+- exception-safe 异常安全的  
+- excessive solder joint 多余焊点
+- exchange capability 信息互换能力 
+- exchange computerized branch, (CBX)
+- exchange identification (XID) 交换识别
+- exchange termination (ET) 交换终端
+- exchange, computerized branch (CBX)
+- exchange, dynamic data (DDE)
+- exchange, mobile telephone (MTX)
+- exchange, private automatic branch
+- exchange, private branch (PBX)
+- exchanger, heat 热交换器 
+- excising 删除;收税  
+- excitation potential 激发电位 
+- excitation voltage 激发电压 
+- excitation 激发  
+- excited state 受激状态 
+- exclusive NOR (XNOR) 逻辑同
+- exclusive OR (XOR) 逻辑或
+- exclusive lock 排它锁 （for
+- excursion 摆幅  
+- execute 执行  
+- execution engine 执行引擎 
+- execution unit 执行单元 
+- exit 退出  
+- exosphere 外大气层  
+- expanded memory block (EMB)
+- expanded memory manager (EMM)
+- expanded memory specification (EMS)
+- expanded memory 扩充存储器 
+- expanded sweep 扩充扫描 
+- expander 扩充器  
+- expansion ratio 膨胀比率 
+- expansion slot 扩展槽 
+- expansion 膨胀  
+- expansion, Boolean 布尔延伸式 
+- expansion, absolute 绝对膨胀 
+- expansion, adiabatic 绝热膨胀 
+- expansion, anomalous 反常膨胀 
+- expansion, apparent 视膨胀 
+- expansion, coefficient of thermal
+- expansion, coefficient of 膨胀系数
+- expansion, cubical 体膨胀 
+- expansion, free 自由膨胀 
+- expansion, real 真膨胀 
+- expansion, superficial 表面膨胀 
+- expansion, surface 面膨胀 
+- expansion, thermal 热膨胀 
+- expansivity 膨胀性；膨胀系数  
+- expansivity, cubic 体 膨胀系数
+- expansivity, superficial 表面膨胀系数 
+- expansivity, volume 体膨胀系数 
+- experimental error 实验误差 
+- expert routing approach 专家路由法
+- expert system 专家系统 
+- expert 专家  
+- explicit congestion notification (ECN)
+- explicit specialization 显式特化 
+- explicit transaction 显式事务 （for
+- explicit 显式  
+- exploit 充份利用；全面应用  
+- exponent 指数；幂  
+- exponential decay 衰变常数 
+- exponential 指数的  
+- export 导出  
+- express transfer protocol (XTP)
+- expression 表达式  
+- expression 表达式  
+- extended ASCII code 美国国家信息交换标准扩展码
+- extended basic input/output system
+- extended binary coded decimal
+- extended data out (EDO)
+- extended device 扩展器件 
+- extended graphics array (XGA)
+- extended hypertext markup language
+- extended industry standard architecture
+- extended longword serial 扩展的长字串
+- extended memory specification (XMS)
+- extended memory 延伸存储器 
+- extended processing architecture (EPA)
+- extended processing unit (EPU)
+- extended super frame (ESF)
+- extended total access communications
+- extended 延伸；扩展  
+- extensibility 延长性  
+- extensible computing 可扩展计算 
+- extensible markup language (XML)
+- extension 引伸；外延；延伸；延续  
+- extension, multiprocessor architecture (MPAX)
+- exterior gateway protocol (EGP)
+- external access 外部存取 
+- external data representation (XDR)
+- external force 外力 
+- external interrupt 外部中断 
+- external memory interface 外置存储器接口
+- external memory 外存存储器；外置存储器 
+- external routine 外部例行程序 
+- external search 外部搜寻 
+- external sort 外部排序 
+- external test 外部测试 
+- external trigger 外触发；外触发器 
+- external work 外功 
+- external 外部；外置  
+- extinction voltage 熄灭电压 
+- extraction 析出  
+- extraction, parasitic 寄生析出 
+- extraction, resistance 电阻析出 
+- extractor, timing 时序析取器 
+- extrapolation 推演  
+- extreme high frequency (EHF)
+- extreme ultraviolet lithography 远紫外线金属版印刷,远紫外光刻
+- extreme ultraviolet 远紫外，超紫外[线] 
+- extrinsic 外表的，外在的；非本质的，非本征的  
+- extrusion forming 挤压成形 
+- eye phone 可视电话 
+- eye piece 目镜 
+- eyelet 眼孔，小孔  
+- 
+## F
+- 
+- fab 工厂，加工车间  
+- fabrication 制造  
+- fabrication, wafer 晶圆制造 
+- face-surface mirror 表面镜像 
+- facility 设施、设备  
+- facility, post-processing 后处理设施 
+- facility, report generation 报表生成设施
+- facsimile 传真机  
+- factor 因数  
+- factor, amplification 放大因数 
+- factor, crest 峰值因数 
+- factor, damping 阻尼因数 
+- factor, derating 降额因数 
+- factor, dissipation 耗损因数 
+- factor, interleave 交错因数 
+- factor, power 功率因数 
+- factoring 因子分解  
+- factory automation interconnection system
+- fade in 渐强；淡入 
+- fade margin 衰落极限 
+- fade out 渐弱；淡出 
+- fading 褪色  
+- fail-safe 故障保险  
+- failure analysis 故障分析 
+- failure criteria 失效准则 
+- failure mode 失效模式，故障模式 
+- failure rate 故障率 
+- failure, initial 初始故障 
+- failure, random 随机故障 
+- failures, mean time between
+- fall time 下降时间 
+- falling edge 下建边缘 
+- false alarm 假警报 
+- false trigger 假触发 
+- family radio service (FRS)
+- fan cooled 风扇致冷 
+- fan-in cone 扇入驱动电路 
+- fan-in cone 扇入驱动电路 
+- fan-in 扇入  
+- fan-out 扇出  
+- far field 远地 
+- far-end crosstalk 远端交越干扰 
+- farad (F) 法拉 
+- fast Ethernet 快速以太网 
+- fast Fourier transform (FFT)
+- fast Fourier transform algorithm
+- fast SCSI 快速小型计算机系统接口 
+- fast fading 快速衰落 
+- fast handshake 快速握手 
+- fast interrupt request (FIRQ)
+- fast packet switching 快速分组交换，快速包交换
+- fast select calls 快速选择呼叫
+- fast-recovery diode 快速回复二极管 
+- fast-recovery epitaxial diode (FRED)
+- fat client 胖客户端 
+- fatal error 致命错误 
+- fatal-error handler 致命错误处理程序 
+- fatigue 疲乏；疲劳  
+- fatigue, metal 金属疲劳 
+- fault coverage 故障检测范围；错误检测范围 
+- fault current 障碍电流 
+- fault isolation 障碍隔离 
+- fault mode input current
+- fault simulation 故障模拟；错误模拟 
+- fault tolerant 容错 
+- fault 故障；错误  
+- fault, intermittent 间歇性故障 
+- fault, page 分页错误 
+- fault, sustained 持续错误 
+- fault-grading 故障分级；错误分级  
+- fault-tolerant computer 容错电脑 
+- fax machine 传真机 
+- fax-over-IP gateway IP 上传真网关，利用IP实现传真功能的网关
+- feasibility 可行性  
+- feature 特性、特征  
+- feature 特点；功能  
+- feed forward 向前馈送，前馈 
+- feed 馈给；进纸  
+- feed-through cell 给送单元 
+- feed-through placement 给进式布局 
+- feed-through 给进  
+- feedback amplifier 反馈放大器 
+- feedback capacitance 反馈电容量 
+- feedback circuit 反馈电路 
+- feedback control 反馈控制 
+- feedback loop 反馈环路 
+- feedback 反馈  
+- feedback, current 电流反馈 
+- feedback, negative 负反馈 
+- feedback, position 定位反馈 
+- feedback, positive 正反馈 
+- feedback, thermal 热反馈 
+- feedback, voltage 电压反馈 
+- feeder distribution interface (FDI)
+- feeder lockout 馈线阻塞，馈线锁定 
+- feeder 馈入器  
+- feeder, component 元件馈入器 
+- feedforward 前馈  
+- femto E （毫微=10 -15）
+- ferrite core 铁氧体磁心 
+- ferrite toroid 铁氧体环状磁心 
+- ferrite 铁氧体  
+- ferroelectric chip 铁电芯片 
+- ferroelectric liquid crystal (FLC)
+- ferroelectric random access memory
+- ferroelectric 铁电性  
+- ferroelectricity 铁电现象  
+- ferromagnetic substance 铁磁性物质 
+- ferromagnetic 铁磁性  
+- ferromagnetism 铁磁性  
+- ferroresonance 铁磁共振  
+- ferroresonant power supply 铁磁谐振电源
+- ferrule 箍，金属包头，套圈，环圈  
+- fetch request 找取要求 
+- fetch 找取  
+- fetch 提取  
+- fetch, data 数据找取 
+- fetch, operation code 运算代码找取
+- fiber bend radius 光纤弯曲半径
+- fiber buffer 纤维缓冲层 
+- fiber distributed data interface
+- fiber in the curb
+- fiber in the loop
+- fiber local injection and
+- fiber loss 光纤损耗 
+- fiber miles 光纤英里 
+- fiber optic test procedures
+- fiber optics 光纤 
+- fiber 光纤，光缆；纤维  
+- fiber, multi-mode 多模光纤 
+- fiber, optical 光学纤维；光纤 
+- fiber, single-mode 单模光纤 
+- fiber-optic cable 光缆 
+- fiber-optic ring media access
+- fiber-optic ring 光纤环 
+- fiber-optic systems filter 光纤系统滤波器
+- fiber-optic transmission system 光纤传输系统
+- fiber-to-the-curb (FTTC) 光纤到路边 
+- fiber-to-the-home (FTTH) 光纤到家 
+- fidelity 传真度  
+- fidelity, high- (HI-FI) 高度传真
+- fiducial mark 定位标记；基准标志 
+- field application engineer 应用工程师
+- field composable lens 现场可组合镜头，野外可组合镜头
+- field control unit (FCU)
+- field effect transistor (FET)
+- field effect 电场效应 
+- field emission display (FED)
+- field emission 电场放射 
+- field frequency 场效频率 
+- field intensity 场强度 
+- field length 字段长度 （for
+- field of view 视场
+- field preamble 栏位前文 
+- field programmable circuit board
+- field programmable gate array
+- field programmable interconnect component
+- field strength 电场强度；磁场强度 
+- field testing 实地测试 
+- field uniformity 场均匀性 
+- field 栏位  
+- field 字段 （for database）
+- field 字段（java）  
+- field, bit 位资料栏 
+- field, data 数据栏 
+- field, electric 电场 
+- field, electrostatic 静电场 
+- field, magnetic 磁场 
+- field, revolving magnetic 旋转磁场
+- field, static magnetic 稳恒磁场
+- field-emission display (FED) 场式放射显示器
+- field-programmable interconnect device (FPID)
+- fieldbus 现场总线  
+- figure of merit 效益指数
+- figure, noise 噪音系数 
+- figure, significant 有效数字 
+- filament circuit 灯丝电路 
+- filament 灯丝  
+- filament, tungsten 钨丝 
+- file access mode 档案存取模式
+- file allocation table (FAT)
+- file allocation 档案配置 
+- file control block (FCB)
+- file design source (DSF)
+- file handler 档案处理程序 
+- file server 档案伺服器 
+- file transfer access and
+- file transfer protocol (FTP)
+- file 文件  
+- file 档案  
+- file, element list (ELF)
+- file, help 辅助档案 
+- file, object 目的档案 
+- file, register 寄存器档案 
+- file, source 源档案 
+- fill 填入；填补  
+- fill, auto- 自动填充 
+- filler material 填充材料 
+- fillet 焊缝  
+- filling, back- 倒填入 
+- film super-twisted (FTN) 膜式超级扭曲
+- film 薄膜  
+- film, coated 镀膜 
+- film, dry 乾膜 
+- film, plastic 塑料膜 
+- film, thick- 厚膜 
+- film, thin- 薄膜 
+- film, wet 湿膜 
+- filter capacitor 滤波电容器 
+- filter inductor 滤波电感器 
+- filter 筛选 （for database）
+- filter 过滤器；滤光器；滤波器  
+- filter, Butterworth 巴特沃斯滤波器 
+- filter, C-message Ｃ信息滤波器 
+- filter, Gaussian 高斯滤波器 
+- filter, Nyquist 尼奎斯特滤波器 
+- filter, active 主动滤波器 
+- filter, all-pass 旁路滤波器 
+- filter, bypass 旁路滤波器 
+- filter, comb 梳形滤波器 
+- filter, digital 数字滤波器 
+- filter, equiripple finite impulse
+- filter, finite impulse response
+- filter, helical chip 螺旋形芯片式过滤器
+- filter, low-pass 低通滤波器 
+- filter, mechanical 机械式滤波器 
+- filter, multi-gap color 多隙彩色滤波器
+- filter, narrowband 窄频带滤波器 
+- filter, natural glitch 自然干扰过滤器
+- filter, optical 滤光器；滤光镜 
+- filter, power line 电源线滤波器
+- filter, programmable universal 可编程万用滤波器
+- filtering 滤波  
+- filtering, spectrum 光谱过滤 
+- filtration system 过滤系统 
+- filtration 过滤  
+- final test yield (FTY)
+- final velocity 末速 
+- finalization 终结  
+- finalizer 终结器  
+- fine grain 细微粒 
+- fine pitch technology 微间距技术
+- fine pitch 微间距 
+- fine tuning 微调；精调 
+- fine-grained 高密度  
+- fine-pitch ball grid array
+- fine-pitch device (FPD) 微细间距器件
+- finger-type 爪式  
+- finite impulse response (FIR)
+- finite impulse response filter
+- finite overflow 有限溢值 
+- finite state machine 有限状态机器
+- finite-element analysis (FEA) 有限元素分析
+- fire code 法尔码（纠错循环码） 
+- firewall 防火墙  
+- firewall 防火墙  
+- firewalling 防火墙  
+- firmware 固件  
+- firmware 固件  
+- first Fresnel zone 第一菲涅耳区
+- first-in first-out (FIFO) 先进先出
+- fishbone antenna 鱼骨形天线 
+- fission 核裂变  
+- fission, nuclear 核裂变 
+- fixed bias 固定偏压 
+- fixed channel assignment (FCA)
+- fixed phase 固定相位 
+- fixed-bias circuit 固定偏压电路 
+- fixed-point 定点  
+- fixed-wireless access 固定的无线接入 
+- fixture 夹具  
+- fixture, dual-sided 双面夹具 
+- fixture, test 测试夹具 
+- fixture, vacuum 真空夹具 
+- flag alarm 警报信号器 
+- flag 旗标  
+- flag 标记  
+- flag, mode 状态旗标 
+- flame photometer 火焰光度计 
+- flame retardant 阻燃物 
+- flange 凸缘  
+- flare 耀斑  
+- flash card 快闪卡 
+- flash file system (FFS)
+- flash memory 闪存 
+- flash memory 快闪式存储器 
+- flash point 着火点 
+- flat cable 扁平电缆 
+- flat memory model 平面存储模式
+- flat pack 扁平封装 
+- flat panel controller 扁平面板控制器
+- flat panel 扁平面板 
+- flat 直接  
+- flat-panel display (FPD) 扁平面板显示器
+- flat-tension mask (FTM) 扁平面板掩膜
+- flatness 平直度  
+- flex circuit 柔性电路 
+- flexibility 弹性；灵活性  
+- flexible manufacturing system (FMS)
+- flexible printed circuit (FPC)
+- flexural strength 抗弯曲强度 
+- flicker 闪烁  
+- flicker-free 无闪烁  
+- flip TAB 倒装式TAB，倒装式载带自动粘结 
+- flip chip attach (FCA)
+- flip chip bump 倒装片[焊接]凸点，倒装片对准点
+- flip chip in package
+- flip chip on board
+- flip chip on glass
+- flip chip on substrate
+- flip-chip technology 倒装式芯片技术 
+- flip-chip 倒装式芯片  
+- flip-flop 触发器  
+- flip-flop, delay 延迟触发器 
+- flip-flop, resonant 共振触发器 
+- flipped chip 倒装芯片 
+- flipped tab 倒装接头 
+- floating diffusion amplifier 浮动扩散放大器
+- floating gate avalanche injection
+- floating gate 浮门 
+- floating output 浮动输出 
+- floating point 浮点 
+- floating-point intensive 浮点密集 
+- floating-point slave accelerator 浮点附属加速器
+- floating-point unit (FPU) 浮点处理单元
+- flooding 扩散法  
+- floor planning 预布局 
+- floppy disk drive (FDD)
+- floppy disk 软盘 
+- floptical disk 软式光盘 
+- flow chart 流程图 
+- flow control 流程控制 
+- flow diagram 流程图 
+- flow, data 数据流程 
+- flow, electron 电子流 
+- flow, line of 流线
+- flow, solder 焊锡流 
+- flow, steady 稳流 
+- flow-through architecture 流通结构 
+- fluctuating 波动  
+- fluid friction 流体摩擦 
+- fluid 流体  
+- fluorescence 萤光  
+- fluorescent indicator panel (FIP)
+- fluorescent lamp 荧光灯，日光灯 
+- fluorescent light 萤光灯 
+- fluorescent screen 萤光幕 
+- fluorinated ethylene propylene (FEP)
+- flush antenna 嵌入天线，隐蔽天线 
+- flush 刷新  
+- flush-left 左边排齐  
+- flush-mounted 平镶  
+- flush-right 右边排齐  
+- flutter echo 颤动回波，多次回声 
+- flutter 高频抖动  
+- flux activation temperature 焊剂活化温度
+- flux activity 焊剂活性 
+- flux characterization 焊剂特性[化] 
+- flux density 通量密度 
+- flux linkage 磁链 
+- flux residue 焊剂残渣 
+- flux reversal 通量逆转 
+- flux solder connection 焊剂焊料连接
+- flux 焊剂；通量  
+- flux, leakage 漏通量 
+- flux, luminous 光通量 
+- flux, magnetic 磁通量 
+- flux, no-clean 免清洗焊剂 
+- fluxmeter 磁通[量]计，麦克斯韦计  
+- flyback converter 回扫转换器 
+- flyback pulse 回扫脉冲 
+- flyback transformer 回扫变压器 
+- flyback 回扫  
+- flyby 飞越  
+- flying height 飞行高度 
+- foam fluxing 泡沫状焊剂 
+- focal length (f) 焦距；焦长
+- focal line 焦线 
+- focal plane 焦平面 
+- focus 焦点  
+- focus, real 实焦点 
+- focus, virtual 虚焦点 
+- focused-ion beam (FIB) 聚离子束
+- focusing coil 聚焦线圈 
+- focusing screen 对焦屏 
+- focusing 聚焦  
+- foil, copper 铜箔 
+- foldback circuit 监听电路，返送电路 
+- foldback current 折返电流 
+- foldback, power 电源折返 
+- folded dipole 折迭偶极 
+- folded line 折迭线路 
+- foldover distortion 叠象失真，折叠失真 
+- font disk 字模盘，铅字盘 
+- font outlining 字型描绘 
+- font 字体  
+- font 字型  
+- font, outline 空心字 
+- foot length 支脚长度 
+- foot switch 脚踏开关 
+- footprint 占位面积  
+- for GUI 界面 
+- forbidden zone 禁用区 
+- force ratio 力比例 
+- force vector 力向量 
+- force 力  
+- force, action 作用力 
+- force, adhesive 黏著力 
+- force, anti-magnetic 反磁力 
+- force, attractive 引力 
+- force, back electromotive 反电动势
+- force, balance 平衡力 
+- force, centrifugal 离心力 
+- force, centripetal 向心力 
+- force, cohesive 内聚力 
+- force, concurrent 共点力 
+- force, conservative 保守力 
+- force, constant 恒力 
+- force, coplanar 共面力 
+- force, counter electromotive 反电动势
+- force, counter 反作用力 
+- force, dissipative 耗散力 
+- force, electric 电力 
+- force, electromagnetic 电磁力 
+- force, electromotive (EMF) 电动势
+- force, electrostatic 静电力 
+- force, external 外力 
+- force, frictional 摩擦力 
+- force, gravitational 引力 
+- force, induced electromotive 感应电动势
+- force, inertial 惯性力 
+- force, intermolecular 分子间力 
+- force, internal 内力 
+- force, line of 力线
+- force, magnetic 磁力 
+- force, magnetomotive 磁动势 
+- force, mechanical 机械力 
+- force, molecular 分子力 
+- force, moment of 力矩
+- force, net 净力 
+- force, reaction 反作用力 
+- force, restoring 回复力 
+- force, resultant 合力 
+- force, shear 切力 
+- force, spring 弹压 
+- force, thermoelectromotive 热电动势 
+- force, unit of 力的单位
+- force, viscous 黏力 
+- force, zero insertion 零插入力
+- forced convection infrared reflow
+- forced discharge 强制放电 
+- forced-air convection infrared reflow
+- foreground 前景  
+- foreign exchange office (FXO)
+- foreign exchange service (FXS)
+- foreign key （FK） 外键（FK）
+- fork, tuning 音叉 
+- form factor 形状系数 
+- form feed character 换页字符
+- form feed 换页 
+- form 窗体  
+- form 格式；表格  
+- formal parameter 形参 
+- formal testing 正式测试 
+- formal verification 正式验证 
+- format string 格式字串 
+- format 格式；格式化  
+- format, analog data interchange
+- format, data interface (DIF)
+- format, document interchange (DIF)
+- format, electronic design intermediate
+- format, high-level 高阶格式化 
+- format, intermediate 中间格式 
+- format, low-level (LLF) 低阶格式化
+- formation voltage 生成电压，形成电压 
+- forming, extrusion 挤压成形 
+- forward annotation 前向注解 
+- forward bias 前向偏移 
+- forward channel 前向信道，正向信道 
+- forward compatible 前向兼容 
+- forward converter 正向转换器 
+- forward current 正向电流 
+- forward declaration 前置声明 
+- forward error correction (FEC)
+- forward estimation 前向预测，前向估计 
+- forward link trilateration (FLT)
+- forward period 正向周期 
+- forward recovery 正向恢复 
+- forward voltage drop 正向压降
+- forward voltage overshoot 正向过冲电压
+- forward voltage 正向电压 
+- forward-only cursor 只向前游标 （for
+- forward-only 只向前的  
+- forwarder 货运公司  
+- fossil fuel 化石燃料，矿物燃料 
+- foul electrolyte 污秽电解液 
+- foundry 铸造厂, 晶圆代工 
+- four binary three ternary
+- four-quadrant multiplier 四象限乘法器 
+- four-way interleaved memory 四路交错存储器
+- four-wire circuits 四线[制]电路 
+- fourth-generation language 第四代语言 
+- fractal compression 部分压缩，局部压缩，分形压缩,拼图压缩 
+- fractal surface 不规则断裂面，分形面 
+- fractal 分形，分数据，碎片,拼图  
+- fraction 分数；部分  
+- fractional distillation 分馏 
+- fracture 破裂  
+- fragment 报片；段落，片段，分段  
+- fragmentation 碎片 （for database）
+- fragmentation 存储残片；分段存储，分割信息包  
+- frame alignment word 帧定位字
+- frame alignment 信息段定位 
+- frame boundary 信息段范围 
+- frame buffer 帧缓冲器 
+- frame buffering 帧缓冲 
+- frame check sequence (FCS)
+- frame error rate (FER)
+- frame grabber 帧捕获器,帧[图像]接收器 
+- frame rate 帧速率 
+- frame relay access device
+- frame relay assembler/disassembler (FRAD)
+- frame relay 帧中继 
+- frame size 帧大小 
+- frame synchronizer 帧同步器 
+- frame synchronizing pattern 信息段同步模式
+- frame user network interface
+- frame 框架；帧；信息段  
+- frame, beacon 指示信息段 
+- frame, page 分页框架 
+- frame-buffer memory 帧缓冲器存储器 
+- frame-check sequence (FCS) 信息段检测序列
+- frame-to-frame 帧对帧  
+- framework 框架  
+- framework 框架技术  
+- framing bit 信息段划分位 
+- framing synchronization 成帧同步，分帧同步 
+- framing 信息段划分  
+- free capacitance 分离电容 
+- free electron 自由电子 
+- free expansion 自由膨胀 
+- free neutron 自由中子 
+- free oscillation 自由振荡；自激振荡 
+- free space loss (FSL)
+- free space 自由空间 
+- free surface 自由面 
+- free-space optical interconnect 自由空间光互连，无限制光互连
+- freephone 免费电话  
+- freeze mode 冻结状态；冻结模式 
+- freezing point 冰点；凝固点 
+- freezing 冷凝；冻结  
+- freon 氟利昂  
+- frequency allocation 频率分配 
+- frequency band 频带 
+- frequency bandwidth 频率频宽 
+- frequency bias 频偏 
+- frequency control 频率控制 
+- frequency converter 变频器 
+- frequency counter 频率计数器 
+- frequency detector 频率检测器 
+- frequency deviation 频率偏移，频移 
+- frequency difference 频率差 
+- frequency distortion 频率失真 
+- frequency diversity QAM (FDQAM)
+- frequency diversity 频率分集，频率分隔，散频 
+- frequency divider 分频器 
+- frequency domain 频域 
+- frequency drift 频率漂移 
+- frequency filtering 频域滤波，频率滤波 
+- frequency hopping CDMA (FH-CDMA)
+- frequency hopping 跳频，频率跳动 
+- frequency meter 频率计 
+- frequency modulation (FM) 频率调制
+- frequency modulation deviation 频率调制偏差
+- frequency monitor 频率监控器 
+- frequency range 频率范围 
+- frequency resonance 频率谐振 
+- frequency response correction 频率反应更正
+- frequency response 频率反应 
+- frequency reuse 频率再用 
+- frequency selective fading 频率选择性衰落
+- frequency shift keying (FSK)
+- frequency stability 频率稳定度 
+- frequency swing 频率摆动 
+- frequency synthesizer 频率合成器 
+- frequency time matrix 频率-时间矩阵
+- frequency tolerance 频率容隙 
+- frequency translation 频率变换，变频 
+- frequency 频率  
+- frequency, audio (AF) 音频；声频
+- frequency, cutoff 截止频率 
+- frequency, discharge 放电频率 
+- frequency, dual-tone multi- (DTMF)
+- frequency, extreme high (EHF)
+- frequency, field 场效频率 
+- frequency, fundamental 基频 
+- frequency, high (HF) 高频
+- frequency, hopping 跳跃频率 
+- frequency, horizontal scanning 水平扫描频率
+- frequency, image 镜像频率 
+- frequency, intermediate (IF) 中频
+- frequency, low (LF) 频率
+- frequency, natural 自然频率；固有频率 
+- frequency, operating 作业频率 
+- frequency, radio (RF) 射频
+- frequency, resonant 共振频率；谐振频率 
+- frequency, roll-off 衰减频率 
+- frequency, sampling 取样频率 
+- frequency, scanning 扫描频率 
+- frequency, self-resonant (SRF) 自谐振频率
+- frequency, ultra-high (UHF) 超高频
+- frequency, ultra-low (ULF) 超低频
+- frequency, vertical scanning 垂直扫描频率
+- frequency, very-high (VHF) 特高频
+- frequency, very-low (VLF) 特低频
+- frequency-division duplex (FDD) 频分双工
+- frequency-division multiple access (FDMA)
+- frequency-division multiplexing (FDM) 分频多工
+- frequency-domain equalization (FEQ) 频域均衡
+- frequency-hopping spread spectrum 跳频扩展频谱
+- frequency-modulation deviation 频率调制偏差 
+- frequency-response correction 频率反应更正 
+- frequency-selective voltmeter 频率选择式电压计 
+- frequently asked question (FAQ)
+- fretting 微振磨损；流水磨蚀,流水侵蚀  
+- friction 摩擦  
+- friction, coefficient of rolling
+- friction, coefficient of sliding
+- friction, coefficient of static
+- friction, coefficient of 摩擦系数
+- friction, electrification by 摩擦起电
+- friction, fluid 流体摩擦 
+- friction, kinetic 动摩擦 
+- friction, limiting static 极限静摩擦力
+- friction, maximum 最大摩擦 
+- friction, rolling 滚动摩擦 
+- friction, sliding 滑动摩擦 
+- friction, static 静摩擦 
+- frictional force 摩擦力 
+- fringe capacitance 边缘电容 
+- fringing distance 边缘相接范围 
+- frit 熔合，熔接  
+- front panel 面板 
+- front-end network processor 前端网络处理器
+- front-end processor (FEP) 前端处理器
+- front-end 前端  
+- front-end, analog 模拟前端 
+- fulcrum 支点  
+- full SCSI 完全小型计算机系统接口 
+- full availability 完全可利用 
+- full bridge converter 全桥变换器
+- full custom 全定制 
+- full duplex 全双工 
+- full load 全负载 
+- full member 正式会员 
+- full rate (FR) 全速率
+- full scale 全标度 
+- full specialization 完全特化 
+- full subtracter 全减器 
+- full tone 全色调 
+- full-bridge rectifier 全桥整流器 
+- full-height 全高  
+- full-motion video 全动视频，活动视频 
+- full-motion 全动态  
+- full-room videoconferencing 全场视频会议 
+- full-scale absolute accuracy 全标度绝对准确值
+- full-scale deflection 全标度偏转 
+- full-scale reading 全标度读数 
+- full-size card 全长卡 
+- full-wave rectifier 全波整流 
+- fully qualified domain name
+- function call operator （即operator
+- function control protocol (FCP)
+- function decoder 函数解码器 
+- function generator 函数产生器 
+- function management layer 功能管理层
+- function object 函数对象 
+- function overloaded resolution函数重载决议 
+- function template函数模板  
+- function 函数  
+- function 功能；函数  
+- function, contrast transfer (CTF)
+- function, cumulative distribution (CDF)
+- function, heuristic Boolean 启发式布尔函数
+- function, interleaving 交错功能 
+- function, inverse 函数倒数 
+- function, modulation transfer (MTF)
+- function, primitive 基元功能 
+- function, work 功函数 
+- functional analysis 功能分析 
+- functional block 功能区块 
+- functional design 功能设计 
+- functional diagnostic 功能诊断 
+- functional diagram 功能图 
+- functional entity (FE) 功能实体
+- functional groups 功能组 
+- functional latency 功能潜伏时间,功能潜伏状态 
+- functional signaling 功能式发讯 
+- functional simulation 功能模拟 
+- functional simulator 功能模拟器 
+- functional system board (FSB)
+- functional testing 功能测试 
+- functional verification 功能验证 
+- functionality 功能  
+- functor 仿函数  
+- fundamental frequency 基频 
+- fundamental quantity 基本量 
+- fundamental tone 基音 
+- furnace 焊炉；熔炉  
+- furnace, hybrid 混合焊炉 
+- furnace, reflow 回流熔炉 
+- fuse holder 保险丝座 
+- fuse verification 熔接验证 
+- fuse 保险丝；熔丝  
+- fuse, anti- 反熔丝 
+- fuse-programmable logic device 熔丝式可编程逻辑器件
+- fused deposition modeling (FDM)
+- fused fiber coupler 熔接式光纤耦合器
+- fused silica 熔凝石英，石英玻璃 
+- fusibility 熔性  
+- fusible element 可熔元素 
+- fusing 熔丝,保险丝  
+- fusion curve 熔解曲线 
+- fusion point 熔点 
+- fusion splices 熔接点，熔接接头 
+- fusion splicing 熔合 
+- fusion 熔解；聚变  
+- fusion, heat of 熔解热
+- fusion, latent heat of
+- fusion, nuclear 核聚变 
+- fuzz-button 杂乱噪声按钮  
+- fuzzy computational acceleration (FCA)
+- fuzzy inference development environment
+- fuzzy inference language (FIL)
+- fuzzy logic 模糊逻辑 
+- 
+## G
+- 
+- gain accuracy 增益准确度 
+- gain error 增益误差 
+- gain margin 增益裕度 
+- gain stability 增益稳定性 
+- gain 增益  
+- gain, amplifier 放大器增益 
+- gain, open loop 开环增益
+- gain, open-loop voltage 开环电压增益
+- gallium arsenide (GaAs) 砷化镓
+- gallium arsenide field effect
+- gallium arsenide metal semiconductor
+- gallium ion 镓离子 
+- gallium-ion beam 镓离子光束 
+- galvanometer constant 电流计常数 
+- galvanometer 电流计  
+- galvanometer, ballistic 冲击电流计 
+- galvanometer, damping of 电流计阻尼
+- galvanometer, moving-coil 动圈式电流计 
+- galvanometer, tangent 正切电流计 
+- game 游戏  
+- gaming simulation 博奕模拟 
+- gamma correction 伽玛校正 
+- gamma ray 伽玛射线 
+- gang bonding 同轴粘结,同轴键合 
+- gap loss 间隙损耗 
+- gap, total effective air
+- garbage 无用数据  
+- garbage-in garbage-out (gigo) 无用信息输入和输出
+- gas chromatographs 气相色谱 
+- gas conductivity 气体导电能力 
+- gas constant 气体常数 
+- gas entrapment 气体截留 
+- gas laws 气体定律 
+- gas plasma display 气体等离子显示器
+- gas, argon 氩气 
+- gas, ideal 理想气体 
+- gas, inert 惰性气体 
+- gas, reactive 反应气体；活性气体 
+- gaseous state 气态 
+- gasket 密封垫  
+- gassing 气体处理  
+- gate array 门阵列 
+- gate charge curve 选通电极充电曲线，门控充电曲线
+- gate charge 选通电极充电,门控充电 
+- gate count 门数量 
+- gate current 门电流 
+- gate drive 门驱动，栅极驱动 
+- gate length 选通脉冲宽度，门信号宽度 
+- gate oxide 门栅 
+- gate oxide 门氧化物 
+- gate swap 门交换 
+- gate threshold 门阈值 
+- gate utilization rate 门使用率
+- gate voltage 门电压 
+- gate 门  
+- gate, call 呼叫门 
+- gate, digital 数字门 
+- gate, equivalent 等效门 
+- gate, floating 浮门 
+- gate, polysilicon 多硅门 
+- gate-to-source voltage 栅极-源极电压 
+- gate-utilization rate 门使用率 
+- gated sweep 栅控扫描 
+- gates, sea of 门海
+- gates, usable 可用门 
+- gateway GPRS support node
+- gateway exchange 国际接口局 
+- gateway mobile switching center
+- gateway 网关；网间连接器  
+- gateway-to-gateway protocol (GGP) 网关到网关协议，网关间协议
+- gating techniques 脉冲选通技术 
+- gating, series 串连门 
+- gauge R&R R &
+- gauge pressure 计示压强 
+- gauge repeatability 量规重复性 
+- gauge reproducibility 量规重现性，量规再生性 
+- gauge 计量；计量器  
+- gauge, air pressure 气压计
+- gauge, hot-filament ion 热灯丝离子计量器
+- gauge, inverted magnetron 倒置式磁控管计量器
+- gauge, level 水平仪 
+- gauge, magnetron 磁控管计量器 
+- gauge, vacuum 真空计 
+- gauss 高斯  
+- gaussmeter 高斯计量器  
+- gear ratio 齿轮比 
+- gear 齿轮  
+- gear, electronic control (ECG)
+- general communication interface (GCI)
+- general insertion loss 通用插入损耗
+- general logic unit (GLU)
+- general packet radio service
+- general purpose 泛用；通用 
+- general 通用  
+- general-purpose controller 通用控制器 
+- general-purpose instrument bus (GPIB)
+- general-purpose interface bus (GPIB)
+- general-purpose register 通用寄存器 
+- generalized processor sharing (GPS)
+- generate 生成  
+- generate 生成；产生  
+- generation 代；生成；产生  
+- generation, automatic test pattern
+- generation, report 报表生成 
+- generator efficiency 发电机效率 
+- generator recipe 格式产生器 
+- generator 产生程序；产生器；发电机  
+- generator, Chinese character (CCG)
+- generator, address 地址产生器 
+- generator, alternating current 交流发电机
+- generator, automatic program (APG)
+- generator, automatic test (ATG)
+- generator, baud rate 波特率产生器
+- generator, character 字符产生器 
+- generator, chip select 芯片选择信号产生器
+- generator, clock 时钟产生器 
+- generator, current bias 电流偏差产生器
+- generator, data address (DAG)
+- generator, direct current 直流发电机
+- generator, function 函数产生器 
+- generator, negative supply 负供应产生器
+- generator, parity 奇偶产生器 
+- generator, pattern 图形产生器 
+- generator, real-time code (RCG)
+- generator, signal 信号产生器 
+- generator, sine wave 正弦波产生器
+- generator, sound 声音产生器 
+- generator, synthesized frequency 合成频率产生器
+- generator, tacho- 转速产生器 
+- generator, test pattern (TPG)
+- generator, timing 定时产生器 
+- generator, wait state 等候状态产生器
+- generator, waveform 波形产生器 
+- generic access profile (GAP)
+- generic algorithm通用算法  
+- generic array logic (GAL)
+- generic design 通用设计 
+- generic infector 一般感染程序 
+- generic logic block (GLB)
+- generic rule 通用法则 
+- generic 一般；通用  
+- generic 泛化的、一般化的、通用的  
+- genericity 泛型  
+- geographic information services (GIS)
+- geometric mean 几何平均值 
+- geometrical optics 几何光学 
+- geometry 几何学，几何图形  
+- germanium (Ge) 锗 
+- getter （相对于 setter）取值函数 
+- ghost signal 幻影信号 
+- ghost 幻影；重像  
+- giant magnetoresistive recording (GMR)
+- giant magnetoresistive 大磁阻 
+- gigabit (Gb) 十亿位 
+- gigabit Ethernet 千兆位以太网，吉比特以太网 
+- gigabit media independence interface
+- gigabit router 千兆位路由器，吉比特路由器 
+- gigabyte (GB) 十亿字节 
+- gilbert 吉伯  
+- gimbal 万向接头  
+- glare 闪光，强光，光泽；双占用(中继线两端同时被占用)  
+- glare, anti- 不反光 
+- glare, non- 不反光 
+- glass, phosphosilicate (PSG) 硅酸磷玻璃
+- glass, spin 旋转镜片 
+- glass-base laminate 玻璃基层压板 
+- glass-like 玻璃状  
+- glitch 干扰  
+- glitch, timing 时序干扰 
+- global Navigation Satellite System
+- global Reach Internet Consortium
+- global broadcast 通用广播 
+- global mobile personal communications
+- global mode 通用模式 
+- global object 全局对象 
+- global optimization 通用优化 
+- global optimizer 通用优化程序 
+- global positioning system (GPS)
+- global roaming 全球漫游 
+- global scope resolution operator
+- global search 通用研究 
+- global system for mobile
+- global 通用  
+- global 全局的  
+- global, data 通用数据 
+- glossary 字汇；辞汇  
+- glow 白热  
+- glue logic board 胶合逻辑板
+- glue logic 胶合逻辑；黏接逻辑 
+- glue 胶合；酞胶  
+- go/no-go testing 可行－不可行测试；前进－绕道测试；转向－非转向测试 
+- gold flash 金色闪标，黄金闪标 
+- gold leaf electroscope 金箔验电器
+- gold leaf 金箔 
+- government OSI profile (GOSIP)
+- gradation 分级；渐变；浓淡层次  
+- gradation, color 色彩浓淡层次 
+- grade of service (GoS)
+- graded index fiber 分级指标光纤
+- graded-index multimode fiber 渐变折射率多模光纤
+- gradient constant 梯度常数 
+- gradient line 梯度线 
+- gradient projection method 梯度投影法
+- gradient 斜率；梯度  
+- gradient, pressure 压力梯度 
+- gradient, temperature 温度梯度 
+- gradient, velocity 速度梯度 
+- grading 分级  
+- grading, fault- 故障分级；错误分级 
+- gradual failure 渐次故障 
+- grain 微粒  
+- grain, fine 精颗粒 
+- gram 克  
+- grant 授权 （for database）
+- granular 粒状的  
+- granularity 粒度  
+- granule 小粒，颗粒；区组（操作系统用）  
+- graph theory 图形理论 
+- graph 图  
+- graph, straight-line 直线图 
+- graphic equalizer 图形均衡器 
+- graphic interchange format (GIF)
+- graphic page 图像分页 
+- graphic symbol 图像符号 
+- graphic, continuous edge (CEG)
+- graphical input device 图像输入器件
+- graphical kernel system (GKS)
+- graphical user interface (GUI)
+- graphics adapter 图形适配器 
+- graphics card 图像卡 
+- graphics controller 图像控制器 
+- graphics display interface (GDI)
+- graphics language 图像语言 
+- graphics mode 图像模式 
+- graphics processor 图形处理器 
+- graphics vector 图像向量 
+- graphics 图像  
+- graphics, bit-mapped 位映射图像 
+- graphite brush 石墨刷 
+- graphite sheet 石墨片 
+- graphite 石墨  
+- graticule 分度；网线图  
+- grating 光栅  
+- gravitation, universal 万有引力 
+- gravitational acceleration 重力加速度 
+- gravitational constant 引力常数 
+- gravitational force 引力 
+- gravitational mass 引力质量 
+- gravitational potential energy 引力位能
+- gravity 重心  
+- gravity, center of 重心
+- gravity, specific 比重 
+- gray counter 格雷式计数器 
+- gray level 灰度级 
+- gray scale 灰度 
+- grays in silicon 硅片的格雷
+- green ceramic 绿色陶瓷 
+- green strength 绿色度 
+- greenhouse effect 温室效应 
+- grid circuit 栅极电路 
+- grid current 栅极电流 
+- grid distance 栅距 
+- grid line 栅线 
+- grid pulse modulation 栅极脉冲调制
+- grid 栅；栅格；栅极；座标方格  
+- grid, auto- 自动座标方格 
+- grid, control 控制栅 
+- grid, square 方栅 
+- grid, virtual 虚拟座标方格 
+- grid-to-plate capacitance 栅极-板极电容 
+- grind 打磨  
+- grinder 研磨机  
+- groove 凹槽  
+- gross rinse 粗洗 
+- gross 粗；总体  
+- ground bounce 接地跳动 
+- ground bus 接地线 
+- ground clamp 地线夹子 
+- ground current surge 接地电流浪涌
+- ground fault circuit interrupter
+- ground fault protection 接地故障保护
+- ground fault 接地错误 
+- ground loop 接地环路 
+- ground plane 接地平面 
+- ground return 接地回路 
+- ground state 基态 
+- ground wave propagation 地面波传播
+- ground 接地  
+- grounded conductor 接地线 
+- grounded 已接地的  
+- grounding conductor 接地导线，接地导体 
+- grounding electrode 接地电极，地线 
+- grounding equipment conductor 接地设备导体，接地设备导线
+- grounding 接地  
+- group box 分组框 
+- group code recording (GCR)
+- group delay variation (GDV)
+- group delay 群延迟 
+- group 组、群  
+- group 组织；小组；群  
+- groupware 组件，群件，协同件  
+- guard band 防护频带 
+- guard condition 保护条件，保护状态 
+- guard shield 防护屏蔽 
+- guest/host liquid crystal display
+- guidance 导引装置  
+- guide 导引  
+- guided probe 导引探针 
+- guided-wave 导波，定向波  
+- gull-wing lead 翼形引脚 
+- gull-wing package 鸥翼式封装 
+- gullwing 海鸥翼（封装）  
+- gun, electron 电子枪 
+- guy wire [ 天线]拉线
+- gyration, radius of 回转半径
+- gyroscope 回转仪；回转机  
+- 
+## H
+- 
+- hacker [ 电脑]黑客 
+- hair spring 游丝 
+- hair, cross- 十字线 
+- half duplex 半双工 
+- half rate (HR) 半速率
+- half-adder 半加器  
+- half-height 半高  
+- half-load 半负载  
+- half-power bandwidth 半功率带宽 
+- half-size card 半长卡 
+- half-tone output 半色调输出 
+- half-tone 半色调  
+- half-wave dipole 半波偶极 
+- half-wave rectifier 半波整流 
+- half-word 半字组  
+- halide content 卤化物含量 
+- halide 卤化物  
+- halo 光晕，晕圈，光环  
+- halogen 卤  
+- haloing 光晕，光环  
+- halt 停止；暂停  
+- hand shaking 握手 
+- handheld computer 手持式电脑 
+- handheld television 手持式电视机 
+- handheld 手持式  
+- handie-talkie 携带式小型收发报机  
+- handle 句柄  
+- handler 处理器  
+- handler 处理程序；处理器  
+- handler, fatal error 致命错误处理程序
+- handler, file 档案处理程序 
+- handler, interrupt 中断处理程序；中断处理器 
+- handling, automated materials 自动化物料处理
+- handling, materials 物料处理 
+- handling, segment 分段处理 
+- handoff 传送, 越区切换 
+- handover 移交，转移  
+- handset, telephone 听筒；手机 
+- handshake channel 信号交换通道 
+- handshake 信号交换 ；握手联络方式 
+- handshaking 信号交换  
+- hang-up 中止；意外停机  
+- hard copy 硬拷贝；复印文本 
+- hard decision 硬式决策方式 
+- hard disk assembly (HDA)
+- hard disk controller (HDC)
+- hard disk drive (HDD)
+- hard disk 硬盘 
+- hard disk 硬盘 
+- hard error 不可更正的错误；硬错误 
+- hard failure 硬故障 
+- hard macro (macro cell)
+- hard-coded 硬编码的  
+- hard-copy 截屏图  
+- hard-disk recorder (HDR) 硬盘记录器
+- hardware cursor 硬件游标 
+- hardware dependent 从属硬件 
+- hardware description language (HDL)
+- hardware design language 硬件设计语言
+- hardware independent 硬件无关 
+- hardware interface layer 硬件接口层
+- hardware platform 硬件平台 
+- hardware stack 硬件堆栈 
+- hardware trigger 硬件触发 
+- hardware verification 硬件验证 
+- hardware 硬件  
+- hardware 硬件  
+- hardware, link 链路硬件 
+- hardware/software co-design 硬软件协同设计 
+- hardwire 固定线路  
+- hardwired circuit 固定电路 
+- hardwired control logic 固定线路控制逻辑
+- hardwired logic 固定线路逻辑 
+- harmonic analyzer 谐波分析仪 
+- harmonic balance simulator 谐波平衡模拟器
+- harmonic distortion 谐波失真 
+- harmonic voltage distortion 谐波电压失真
+- harmonic 谐波  
+- harmonic, even 偶谐波 
+- harmonic, odd 奇谐波 
+- harmonic, sub- 次谐波 
+- hash chain 散列链 
+- hash table 散列表 
+- hash table 散列表、哈希表 
+- hash 杂乱信号  
+- hashing 散列法  
+- hatch 阴影  
+- hazard 冒险；相关危险  
+- hazardous conditions 危险情况 
+- head gap 磁头缝隙 
+- head node 头节点 
+- head park 磁头锁定 
+- head position error 磁头定位错误
+- head positioning 磁头定位 
+- head, read/write 读／写头 
+- head, thin-film magnetic 薄膜磁头
+- head-disk interface 磁头磁盘介接 
+- head-up display 平视显示器 
+- headend router 头端路由器 
+- headend 起点, 开始部分, 端头
+- header error control (HEC)
+- header file头文件  
+- header suppression 数据报头压缩 
+- header 起始码；标头  
+- heap 堆  
+- heap 堆阵  
+- hearing, threshold 听觉阈 
+- heat capacity 热容量 
+- heat conduction 热传导 
+- heat dissipation 散热 
+- heat energy 热能 
+- heat exchanger 热交换器 
+- heat of combustion 燃烧热
+- heat of condensation 凝结热
+- heat of evaporation 蒸发热
+- heat of fusion 熔解热
+- heat of solidification 凝固热
+- heat of sublimation 升华热
+- heat of vaporization 汽化热
+- heat pump 热泵，热力泵，蒸汽泵， 汽泵
+- heat radiation 热辐射 
+- heat sink 散热片 
+- heat spreader 散热器 
+- heat treatment 热处理 
+- heat zone 加热区 
+- heat 热  
+- heat, latent 潜热 
+- heat, mechanical equivalent of
+- heat, radiant 辐射热 
+- heat, specific latent 比潜热
+- heating effect of electricity
+- heating, Joule 焦耳发热 
+- heatsink 散热器  
+- heavy duty 重载；高功率 
+- hecto- (h) 百 
+- hectometer (hm) 百米 
+- height, double- 倍高 
+- height, flying 飞行高度 
+- height, full- 全高 
+- height, half- 半高 
+- helical chip filter 螺旋形片式过滤器
+- helical scan 螺旋式扫描 
+- helium (He) 氦 
+- help file 帮助文件 
+- help file 辅助档案 
+- hemisphere 半球体  
+- henry (H) 亨利 
+- heptode 七极管；五栅管  
+- hermetic device 密闭式器件 
+- hermetic 密闭  
+- hermetically sealed 密闭的 
+- hertz (Hz) 赫兹 
+- heterodyne 外差  
+- heterogeneous 不同的；相异的  
+- heterojunction bipolar transistor (HBT)
+- heterojunction 异质结  
+- heuristic Boolean function 启发式布尔函数
+- heuristic reasoning ability 启发式推论能力
+- heuristic 启发式  
+- hexadecimal (HEX) 十六进制 
+- hexode 六极管  
+- hibernation mode 冬眠模式 
+- hidden Markov model (HMM)
+- hidden node 隐藏节点 
+- hierarchical cell structure (HCS)
+- hierarchical data 阶层式数据、层次式数据 
+- hierarchical database 层次结构数据库 
+- hierarchical file system (HFS)
+- hierarchical menu 层次结构式操作指引 
+- hierarchical sequential access method
+- hierarchical 层次结构；层阶架构  
+- hierarchy 层次结构、继承体系  
+- hierarchy, synchronous digital (SDH)
+- high data rate (HDR)
+- high definition television (HDTV)
+- high definition 高清晰度 
+- high density (HD) 高密度
+- high density packaging 高密度封装，高密度组装
+- high electron mobility transistor
+- high frequency (HF) 高频
+- high impedance state 高阻状态
+- high intensity discharge (HID)
+- high level 高阶、高层 
+- high memory 高地址存储器 
+- high order 高值位 
+- high precision 高精度 
+- high priority routing (HPR)
+- high sierra format 高锯齿格式，高S格式(通信中使用)
+- high speed circuit switched
+- high speed serial interface
+- high speed subscriber data
+- high split 高度分隔, 高度拆分
+- high temperature stability 高温稳定性
+- high threshold logic (HTL)
+- high voltage spikes 脉冲高电压
+- high-definition monitor 高清晰度显示器，高分辨率监控器 
+- high-density channeled array 高密度通道式阵列
+- high-density interconnect (HDI) 高密度互连
+- high-density module (HDM) 高密度模块
+- high-end 高档  
+- high-fidelity (HI-FI) 高度传真 
+- high-frequency amplifier 高频放大器 
+- high-level data link control
+- high-level format 高阶格式化 
+- high-level language (HLL) 高阶语言
+- high-level synthesis 高阶合成 
+- high-memory area (HMA) 高地址存储器区域
+- high-pass filter 高通滤波器 
+- high-performance connections (HPC) 高性能连接
+- high-performance controller (HPC) 高性能控制器
+- high-performance memory 高性能内存 
+- high-power amplifier (HPR) 大功率放大器
+- high-pressure chemical vapor deposition
+- high-quality matrix (HQM) 高品质矩阵
+- high-resolution TV 高分辨率电视 
+- high-speed parallel (HSP) 高速平行
+- high-speed parallel channel 高速平行通道
+- high-temperature reverse-bias (HTRB) 高温反向偏压
+- high-temperature reverse-bias burn-in 高温反向偏压老化测试
+- high-temperature soldering 高温焊接 
+- high-temperature superconductor (HTSC) 高温超导体
+- high-voltage integrated circuit (HVIC)
+- high-voltage surge 高压浪涌 
+- high-voltage test system (HVTS)
+- higher-layer protocol identifier (HLPI)
+- highly accelerated stress testing
+- hiss 嘶嘶声  
+- histogram 直方图；柱状图  
+- hit ratio 命中率；适配率 
+- hit 命中  
+- hold 保留；保存  
+- hold, sample-and- (S/H) 取样及保持
+- hold, track-and- (T/H) 追踪及保持
+- hold-off diode 隔离二极管 
+- hold-up time 占用时间；保持时间 
+- holder, fuse 保险丝座 
+- holding current 保持电流 
+- holding time 占用时间 
+- hole 空穴  
+- hole, blind 闭孔 
+- hole, buried 埋孔 
+- hole, index 索引孔 
+- hole, mounting 安装孔 
+- hole, plated through- 镀通孔
+- hole, tooling 工具孔 
+- hologram 全息图  
+- holographic interconnect 全息图互连 
+- holography 全息学  
+- home agent 本地代理 
+- home banking 电子银行业务 
+- home location register (HLR)
+- home network 本地网，局部网 
+- home page 主页 
+- home shopping 网上购物，电子购物，通过打电话等直接购物 
+- home wireless network (HWN)
+- homeRF homeRF 家用无线连接协议 
+- homogeneous region 同特性区 
+- homogeneous 相同的；相似的  
+- homojunction 同质结  
+- homopolar electrolytic capacitor 无极性电解电容器
+- honeycomb coil 蜂房式线圈 
+- hook switch 挂断开关 
+- hook 钩子  
+- hook, off- 挂断 
+- hook, on- 接通 
+- hop selection 中继段选择，路程段选择 
+- hopping frequency 跳跃频率 
+- horizontal DBS 水平直播卫星 
+- horizontal amplifier 水平放大器 
+- horizontal cabling 水平布线 
+- horizontal component 水平分量 
+- horizontal counter 水平计数器 
+- horizontal cross-connect 水平交叉连接 
+- horizontal direction counter 水平方向计数器
+- horizontal element spacing 水平元件间隔
+- horizontal flyback pulse 水平回扫脉冲
+- horizontal intercept 横截距 
+- horizontal jitter 水平抖动 
+- horizontal parity bit 水平奇偶位
+- horizontal range 水平射程 
+- horizontal reference signal (Href)
+- horizontal resolution 水平解析度 
+- horizontal scale 水平标度 
+- horizontal scanning frequency 水平扫描频率
+- horizontal scanning 水平扫描 
+- horizontal sensitivity vernier 水平敏感度游标尺
+- horizontal 水平的  
+- horn 喇叭形扬声器  
+- horsepower 马力  
+- host adapter 主适配器 
+- host bus 主总线 
+- host computer 主[计算]机 
+- host digital terminal (HDT)
+- host processor 主处理器 
+- host proximity service (HPS)
+- host 主机  
+- hot air solder leveled
+- hot bar soldering 热压焊接
+- hot cathode 热阴极 
+- hot electron injection 热电子注入
+- hot key 热键 
+- hot pluggable 可热插的 
+- hot plugging 带电插拔 
+- hot spare 热备份 
+- hot spot 过热点 
+- hot swap controller 热交换控制器
+- hot swap 热对换，热调换 
+- hot-electron injection 热电子喷注 
+- hot-filament ion gauge 热灯丝离子计量器
+- hour, ampere- (Ah) 安培小时
+- hour, components-per- (CPH) 每小时元件置放数目
+- housing 外壳  
+- hub 插孔；插座  
+- hub-and-spoke 对话中枢  
+- hue 色彩；颜色  
+- hum 交流哼声  
+- human interface device (HID)
+- human-computer interface 人机界面 
+- human-machine interface (HMI) 人机接口
+- humidity sensor 湿度感应器 
+- humidity 湿度  
+- humidity, relative 相对湿度 
+- hybrid cable 混合电缆 
+- hybrid circuit 混合电路 
+- hybrid coil 混合线圈 
+- hybrid device 混合器件 
+- hybrid encoder 混合编码器 
+- hybrid fiber coax (HFC)
+- hybrid furnace 混合焊炉 
+- hybrid integrated circuit (HIC)
+- hybrid ring control (HRC)
+- hybrid signature 混合签名 
+- hybrid simulation 混合模拟 
+- hybrid tester 混合测试器 
+- hybrid transformer 混合变压器 
+- hybrid transistor 混合晶体管 
+- hybrid 混合的  
+- hydraulic press 液压机 
+- hydraulic pump 水泵 
+- hydride, nickel 镍氢 
+- hydrodynamics 流体动力学  
+- hydroelectric 水力电气的  
+- hydrophilic solvent 亲水溶剂 
+- hydrophilic solvent 非亲水溶剂 
+- hydrophilic 吸湿的  
+- hydrostatic bearing 静液压轴承 
+- hydrostatic 静液压  
+- hygrometer 湿度计  
+- hygrometer, Daniel 丹聂耳湿度计 
+- hygrometer, dew point 露点湿度计
+- hypercard 超级卡, 超级插件 
+- hyperlink 超链接  
+- hyperlink 超链接  
+- hypermedia 超媒体  
+- hypertext markup language (HTML)
+- hypertext transfer protocol (HTTP)
+- hypertext 超文本  
+- hyphenation 用连字符连接  
+- hysteresis loop 磁滞环路 
+- hysteresis loss 磁滞损耗 
+- hysteresis 磁滞  
+- hysteresis, magnetic 磁滞 
+- 
+## I
+- 
+- ice-point compensation 冰点补偿 
+- icon 图像  
+- icon 图标  
+- ideal gas model 理想气体模型
+- ideal gas 理想气体 
+- ideal mechanical advantage 理想机械利益
+- ideal network 理想网络 
+- ideal noise diode 理想噪声二极管
+- ideal radiator 理想辐射体 
+- ideal value 理想值 
+- identification code 识别码 
+- identification 识别  
+- identification, exchange (XID) 交换识别
+- identifier 标识符  
+- identifier 识别码  
+- identifier, node 网点识别码 
+- identifier, service access point
+- identifier, terminal endpoint (TEI)
+- identifier, terminal equipment (TEI)
+- identifier, virtual circuit (VCI)
+- ideographic 表意文字的；表意的  
+- idle character 闲置字符 
+- idle time 空闲时间 
+- idle time 闲置时间 
+- idle 闲置  
+- if and only if当且仅当
+- if-then-else 若－则－否则  
+- ignition point 燃点 
+- ignition switch 点火开关 
+- illegal character 非法字符 
+- illegal code 非法代码 
+- illegal instruction 非法指令 
+- illuminance 光照度  
+- illuminated body 受照体 
+- illumination 照明  
+- image acquisition 影像采集 
+- image analysis 图像分析，析像 
+- image antenna 镜像天线 
+- image area 映像区 
+- image buffer 影像缓冲器 
+- image compression 影像压缩 
+- image dissector 析像器，析像管 
+- image distance 像距 
+- image editing tool 影像编辑工具
+- image enhancement 影像增强 
+- image frequency 镜像频率 
+- image generator 图像生成器 
+- image iconoscope 图像光电摄像管，图像映像管 
+- image intensifier 影像增强器 
+- image interchange facility (IIF)
+- image map 图像图 
+- image mapping 图像映射，图像变换 
+- image orthicon 超正析像管 
+- image phase 图像相位 
+- image processing system 影像处理系统
+- image reconstruction 影像重现 
+- image scanner 影像扫描器 
+- image sensor 影像感应器 
+- image transfer mechanism (ITM)
+- image transfer 影像转移 
+- image 图象  
+- image 影像  
+- image, bit-mapped raster 位映射光栅影像
+- image, erect 正立像 
+- image, ghost 重影；鬼影 
+- image, inverse 倒像 
+- image, inverted 倒立像 
+- image, perverted 反像 
+- image, real 实像 
+- image, virtual 虚像 
+- image-acquisition 影像采集  
+- image-editing tool 影像编辑工具 
+- image-processing system 影像处理系统 
+- imaginary part 虚部 
+- imaging quantization 影像量化 
+- immediate access 快速存取 
+- immediate base 直接基类 
+- immediate derived 直接派生类 
+- immediate instruction 立即指令 
+- immediate updating 即时更新 （for
+- immunity 免疫  
+- immunity, noise 无噪声干扰 
+- impact printer 撞击式打印机 
+- impact strength 抗冲击强度 
+- impairment 损毁；破坏  
+- impedance drop 阻抗降 
+- impedance heating 阻抗加热 
+- impedance matrix 阻抗矩阵 
+- impedance mismatch 阻抗不匹配 
+- impedance 阻抗  
+- impedance, active 有源阻抗 
+- impedance, characteristic 特征阻抗 
+- impedance, input 输入阻抗 
+- impedance, output 输出阻抗 
+- impedance, thermal 热阻 
+- impedance, winding 绕线阻抗 
+- imperfect debugging 不完整的除错 
+- imperial 英制的  
+- implantation, ion 离子注入； 离子植入
+- implement 实现  
+- implementation 实现、实现品  
+- implication 蕴涵；隐含  
+- implicit transaction隐式事务 （for database）
+- implicit 隐式  
+- implied addressing 蕴含选址 
+- import 导入  
+- impregnate 浸渍  
+- imprint, voice 声音痕迹 
+- impulse current 脉冲电流 
+- impulse generator 脉冲发生器 
+- impulse inertia 脉冲惯性 
+- impulse noise 脉冲噪声 
+- impulse relay 脉冲继电器 
+- impulse strength 脉冲强度 
+- impulse transmission 脉冲传输 
+- impulse 冲量  
+- impulse, angular 角冲量 
+- impure spectrum 不纯粹光谱 
+- impurity absorption 杂质吸收 
+- impurity concentration 杂质浓度 
+- impurity 杂质  
+- impurity, acceptor 受体杂质 
+- impurity, donor 施体杂质 
+- in service 使用中 
+- in-band signaling 带内信令 
+- in-circuit emulator (ICE) 内电路仿真器
+- in-circuit probing (ICP) 内电路探测
+- in-circuit reconfigurable (ICR) 电路内可重构
+- in-circuit tester (ICT) 内电路试器
+- in-circuit testing (ICT) 内电路测试
+- in-circuit 内电路  
+- in-coming inspection 进货检查 
+- in-line defect measurement 连机故障测量,在线故障测量
+- in-line image 在线图像 
+- in-line placement machine 顺序式元件置放机
+- in-line system 顺序系统 
+- in-line 顺序  
+- in-page burst access 页内资料组存取
+- in-phase 同相；同相位  
+- in-place active 现场激活 
+- in-rush current 起动电流 
+- in-system programmable (ISP) 系统内可编程
+- in-system programmable large scale
+- inactive area 无效区 
+- inactive region 无效区 
+- inactive 非使用；无效  
+- inbound 入站  
+- incandescent lamp 白炽灯 
+- incandescent 白炽的  
+- inch, dots per (DPI)
+- inch, tracks per (TPI)
+- incidence, oblique 斜入射 
+- incident angle 入射角 
+- incident ray 入射光 
+- incident wave 入射波 
+- incident 入射  
+- incident, photon 光子入射 
+- incipient failure 起始故障 
+- inclination 倾角  
+- inclined plane 斜面 
+- inclined 倾斜  
+- inclinometer 倾角计，倾斜计，倾角罗盘  
+- incoherent 不连贯的  
+- incoming inspection 进货检查 
+- incoming quality control (IQC)
+- incompressibility 不可压性  
+- increment address pointer 增量地址指标
+- increment instruction 增量指令 
+- increment operator 增加操作符 
+- increment 增量  
+- incremental measuring system 增量测量系统
+- incremental permeability 增量磁导率，磁导率增量 
+- incremental recompilation 增量再编译 
+- incremental update 增量更新 （for
+- incremental 增量的  
+- incumbent local exchange carrier
+- indefinite admittance matrix 不定导纳矩阵
+- independent 独立于  
+- independent, hardware 硬件无关 
+- independent, machine 设备无关 
+- index bus 索引总线 
+- index hole 索引孔 
+- index of refraction (IOR)
+- index register 索引寄存器 
+- index sequential access method
+- index table 索引表 
+- index 索引  
+- index 索引 （for database）
+- index, disk 磁盘索引 
+- index, refraction 折射率 
+- index, sector 区段索引 
+- index-matching fluid 折射率匹配液 
+- indexed file 索引文件 
+- indexed sequential access method
+- indexing, cylinder surface 磁柱面索引法
+- indicated value 指示值 
+- indication 指示  
+- indicator, null 零指示器 
+- indices 指数  
+- indirect addressing 间接定址 
+- indirect jump 间接跳越 
+- individual address 个别地址 
+- individual axially-leaded diode 单轴向引线二极管
+- indoor equipment 室内设备 
+- induced charge 感应电荷 
+- induced electromotive force 感应电动势
+- induced voltage 感应电压 
+- inducing charge 施感电荷 
+- inducing current 施感电流 
+- inductance factor 电感因数，电感系数 
+- inductance 电感  
+- inductance, grounded 接地电感 
+- inductance, mutual 互感 
+- inductance, parasitic 寄生电感 
+- inductance, path 通路电感 
+- inductance, self- 自感 
+- induction coil 感应线圈 
+- induction factor 感应因素 
+- induction furnace 感应电炉 
+- induction generator 感应发电机，异步发电机 
+- induction heater 感应加热器 
+- induction motor 感应电动机 
+- induction 感应；电感  
+- induction, charging by 感应生电
+- induction, coefficient of mutual
+- induction, coefficient of self
+- induction, electromagnetic 电磁感应 
+- induction, electrostatic 静电感应 
+- induction, magnetic 磁感应 
+- inductive coupling 感应耦合 
+- inductive exposure 感应曝光 
+- inductive load 电感负载 
+- inductive reactance 感抗 
+- inductor 电感器  
+- inductor, shielded 屏蔽式电感器 
+- industry standard architecture (ISA)
+- industry, computer-aided electronic (CAEI)
+- inelastic collision 非弹性碰撞 
+- inert atmosphere 惰性气体 
+- inert gas 惰性气体 
+- inertia constant 惯性常数，惰性常数 
+- inertia latch 惯性锁存 
+- inertia relay 惯性继电器 
+- inertia 惯性  
+- inertial force 惯性力 
+- inertial mass 惯性质量 
+- inertial sensor 惯性传感器 
+- inertial space 惯性空间,惯性作用区，过载作用区 
+- infant mortality 早期失效 
+- infector 感染程序  
+- infector, boot 启动感染程序 
+- infector, generic 一般感染程序 
+- infector, system 系统感染程序 
+- inference engine 推理机，推理引挚 
+- infiltration 过滤  
+- infinite impulse response (IIR)
+- infinite loop 无限循环 
+- infinite recursive 无限递归 
+- inflammability 可燃性  
+- inflection point 转折点 
+- informal testing 非正式测试 
+- informatics 信息学  
+- information Sciences Institute (ISI)
+- information interchange 信息交换 
+- information kiosk 信息台，信息咨询处 
+- information retrieval 信息检索 
+- information storage 信息储存 
+- information superhighway 信息超级高速公路 
+- information system network 信息系统网络
+- information system 信息系统 
+- information technology 信息技术 
+- information theory 信息理论 
+- information 信息  
+- information 信息；信息  
+- information, status 状态信息 
+- infrared (IR) 红外线 
+- infrared link access control
+- infrared link access protocol
+- infrared radiation 红外线放射 
+- infrared reflow 红外回流 
+- infrared, near 近红外线 
+- infrastructure 基础设施  
+- ingle aperture 单孔径 
+- inherent 固有  
+- inheritance 继承、继承机制  
+- inhibit 禁止；阻止  
+- initial access latency 初始存取等待时间
+- initial failure 初始故障 
+- initial graphic exchange specification
+- initial permeability 初始磁导率 
+- initial state 初始状态 
+- initial velocity 初始速度 
+- initial wave 初始波 
+- initialization list 初始化列表、初始值列表 
+- initialization 初始化  
+- initialization 设定初值  
+- initialize 初始化  
+- initialize 设定初值  
+- initiator 起动器  
+- initiator, write access connection
+- injection molded board 注塑模板
+- injection, electronic fuel (EFI)
+- injection, hot electron 热电子喷注
+- ink-jet printer 喷墨式打印机 
+- inline expansion 内联展开 
+- inline 内联  
+- inner conductor colors 内导体颜色
+- inner join 内联接 （for
+- inner lead bonding (ILB)
+- inner lead 内部引线 
+- inner node 内节点 
+- inner register 内寄存器 
+- inner ring 内部环 
+- inorganic flux 无机焊剂 
+- input attenuator 输入衰减器 
+- input bias current 输入偏流
+- input buffer 输入缓冲器 
+- input device 输入装置 
+- input edge 输入边缘 
+- input impedance 输入阻抗 
+- input line filter 输入线路滤波器
+- input loop 输入环路 
+- input offset current drift
+- input offset current 输入偏移电流
+- input offset voltage drift
+- input offset voltage 输入偏移电压
+- input pin 输入接脚 
+- input threshold variation 输入临限变化
+- input threshold 输入临限 
+- input voltage range 输入电压范围
+- input 输入  
+- input, coprocessor (CPI) 协同处理器输入
+- input, current sense 电流感应输入
+- input, differential 差动输入 
+- input, drain sense 漏极感应输入
+- input, inverted 反相输入 
+- input, test data (TDI)
+- input, work 功输入 
+- input-bias current 输入偏置电流 
+- input/output (I/O) 输入／输出 
+- input/output card 输入／输出卡 
+- inrush current 侵入电流 
+- insert 加入；插入  
+- insertion gain 插入增益，介入增益 
+- insertion loss 插入损耗 
+- insertion pin 插入式管脚 
+- insertion sort 插入分类 
+- insertion voltage 插入电压 
+- inspection, automatic optical (AOI)
+- inspection, incoming 进货检查 
+- installation manual 安装说明书 
+- installation 安装  
+- instance 实例  
+- instantaneous acceleration 瞬时加速度 
+- instantaneous value 瞬时值 
+- instantaneous velocity 瞬时速度 
+- instantiated 具现化、实体化（常应用于template）  
+- instantiation 例示  
+- instantiation 具现体、具现化实体（常应用于template）  
+- instruction cache 指令高速缓冲存储器 
+- instruction code 指令代码 
+- instruction cycle 指令周期 
+- instruction decode 指令解码 
+- instruction format 指令格式 
+- instruction length 指令长度 
+- instruction path 指令通路 
+- instruction pointer 指令指标 
+- instruction sequence 指令序列 
+- instruction set architecture (ISA)
+- instruction set simulation (ISS)
+- instruction type 指令类型 
+- instruction 指令  
+- instruction, computer-aided (CAI) 电脑辅助教学
+- instruction, cycles-per- (CPI) 每指令周期数
+- instruction, decrement 减量指令 
+- instruction, illegal 非法指令 
+- instruction, increment 增量指令 
+- instruction, micro- 微指令 
+- instruction, pipeline 管线指令 
+- instruction, privileged 特许指令 
+- instruction, purge 清除指令 
+- instruction, set 指令集 
+- instruction, string handling 字串处理指令
+- instruction-set architecture (ISA) 指令集体系结构
+- instrument driver 仪器驱动器 
+- instrument multiplier 仪器倍增器 
+- instrumentation amplifier 仪器放大器 
+- instrumentation 仪表设备；测试设备  
+- insulated joint 绝缘门场效应管 
+- insulated metal substrate 绝缘金属基片
+- insulated wire 绝缘线 
+- insulated-gate bipolar transistor (IGBT)
+- insulated-gate field-effect transistor (IGFET)
+- insulating layer 绝缘层 
+- insulating strength 绝缘强度 
+- insulation class 绝缘等级，绝缘种类 
+- insulation failure 绝缘失效 
+- insulation fault 绝缘故障 
+- insulation level 绝缘等级 
+- insulation resistance 绝缘电阻 
+- insulation voltage 绝缘电压 
+- insulation 绝缘  
+- insulation, thermal 热绝缘 
+- insulator 绝缘体  
+- insulator, silicon-on- (SOI) 硅片上绝缘体
+- insulator, thermal 热绝缘体 
+- integer 整数  
+- integer-intensive 整数密集  
+- integral linearity (IL) 积分线性
+- integral nonlinearity (INL) 积分非线性
+- integrate 整合  
+- integrate 集成、整合  
+- integrated access device 综合接入设备
+- integrated circuit (IC) 集成电路
+- integrated circuit card 集成电路卡
+- integrated circuit, application-specific (ASIC)
+- integrated circuit, custom logic
+- integrated circuit, custom 定制集成电路
+- integrated circuit, customer specific
+- integrated circuit, dial 拨号集成电路
+- integrated circuit, epitaxial passivated
+- integrated circuit, high-voltage (HVIC)
+- integrated circuit, hybrid (HIC)
+- integrated circuit, large scale
+- integrated circuit, linear 线性集成电路
+- integrated circuit, medium scale
+- integrated circuit, memory card
+- integrated circuit, microwave (MIC)
+- integrated circuit, mixed signal
+- integrated circuit, monolithic microwave
+- integrated circuit, optoelectronic (OEIC)
+- integrated circuit, small outline
+- integrated circuit, small scale
+- integrated circuit, speech 语音集成电路
+- integrated circuit, super large
+- integrated circuit, very high
+- integrated circuit, very large
+- integrated data processing 综合数据处理
+- integrated data protocol controller
+- integrated development environment (IDE)
+- integrated device electronics (IDE)
+- integrated device manufacturer (IDM)
+- integrated digital access (IDA)
+- integrated dispatch enhanced network
+- integrated drive electronics (IDE)
+- integrated network management (INM)
+- integrated power management unit
+- integrated private network-to-network interface
+- integrated receiver/decoder (IRD) 集成的接收机/解码器
+- integrated serial communication controller
+- integrated services architecture (ISA)
+- integrated services digital network
+- integrated services private branch
+- integrated thickness method (ITM)
+- integrated voice/data (IVD) 集成的话音/数据
+- integrated yield management (IYM)
+- integration circuit 积分电路 
+- integration, in-system programmable large-scale
+- integration, real-time system (RTSI)
+- integration, small scale (SSI)
+- integrator 积分器  
+- integrity constraint完整性约束 （for database）
+- integrity 完整性、一致性  
+- intellectual property right (IPR)
+- intelligence, artificial (AI) 人工智能
+- intelligent distributed control system
+- intelligent modem 智能型调制解调器 
+- intelligent network (IN) 智能网络
+- intelligent peripheral (IP) 智能外设
+- intelligent terminal 智能型终端机 
+- intelligent test 智能测试，智力测验 
+- intensity modulation (IM) 密度调制
+- intensity 亮度；强度  
+- intensity, absolute 绝对强度 
+- intensity, current 电流强度 
+- intensity, electric field 电场强度
+- intensity, field 场强度 
+- intensity, luminous 光度 
+- intensity, magnetic field 磁场强度
+- intensive 密集  
+- intensive, bus 总线密集 
+- intensive, central processing unit
+- intensive, floating-point 浮点密集 
+- intensive, integer 整数密集 
+- intensive, labor 人力密集 
+- inter-carrier interference (ICI) 载波间干扰
+- inter-winding capacitance 跨绕线电容 
+- interaction 交互作用  
+- interaction, nonlinear optical 非线性光学作用
+- interactive mode 互动模式；交谈模式 
+- interactive routing 交谈式路由 
+- interactive voice response (IVR)
+- interactive 互动；交谈  
+- interactivity 互动性  
+- interacts 交互  
+- interblock gap 数据区块间隔 
+- interbuilding backbone 楼宇[通信]干线 
+- intercarrier sound system 内载波音响系统
+- intercept call 截听电话 
+- intercept 截听  
+- intercept, horizontal 横截距 
+- intercept, vertical 纵截距 
+- interchange sort 交换式排序 
+- interchange, electronic data (EDI)
+- interchange, time-slot (TSI) 时序间隙交换
+- interchange, zero-byte time-slot (ZBTSI)
+- interchangeability 互换性；互换能力  
+- interchannel interference 通道间干扰 
+- intercom 内部通讯  
+- interconnect analysis 互连分析 
+- interconnect parasitic 互连寄生 
+- interconnect resistivity 互连电阻率 
+- interconnect 互连  
+- interconnect, triple-layer metal 三层金属互连
+- interconnection simulation 互连模拟 
+- interconnection 互连；芯片插座  
+- interdigit interval 拨号数字间隔 
+- interdigital magnetron 叉指式磁控管 
+- interexchange carrier (IXC) 局间载波
+- interface data unit (IDU)
+- interface definition language (IDL)
+- interface message processor (IMP)
+- interface processor 接口处理器 
+- interface repository 接口库 
+- interface testing 接口测试，接口测试法 
+- interface 接口  
+- interface 接口  
+- interface, Chinese system (CSI)
+- interface, application binary (ABI)
+- interface, application programming (API)
+- interface, application 应用接口 
+- interface, asynchronous communication 异步通讯接口
+- interface, asynchronous serial communication
+- interface, attachment unit (AUI)
+- interface, basic rate (BRI)
+- interface, bus 总线接口 
+- interface, command user (CUI)
+- interface, communication 通讯接口 
+- interface, computer graphics (CGI)
+- interface, data unit (IDU)
+- interface, data 数据接口 
+- interface, digital system (DSI)
+- interface, digital trunk 数字中继线路接口
+- interface, dispatcher 分配程序接口 
+- interface, enhanced small device
+- interface, external memory 外置存储器接口
+- interface, fiber distributed data
+- interface, general communication, (GCI)
+- interface, graphical user (GUI)
+- interface, graphics display (GDI)
+- interface, head-disk 磁头磁盘接口 
+- interface, high-performance parallel (HPPI)
+- interface, human-machine 人机接口 
+- interface, intelligent peripheral (IPI)
+- interface, link 链路接口 
+- interface, logical 逻辑接口 
+- interface, media dependent (MDI)
+- interface, message processor (IMP)
+- interface, microwave control 微波控制接口
+- interface, multi-protocol serial communication
+- interface, multisystem extension (MXI)
+- interface, musical instrument digital
+- interface, open programming 开放编程接口
+- interface, primary rate (PRI)
+- interface, scalable coherent (SCI)
+- interface, serial peripheral (SPI)
+- interface, serial pulse code
+- interface, shell driven 壳体驱动接口
+- interface, small computer system
+- interface, target/debugger (TDI) 目标／除错程序接口
+- interface, transport layer (TLI)
+- interface, user-to-network (UNI) 用户至网络接口
+- interface, user/machine (UMI) 用户机器接口
+- interface, video 视频接口 
+- interface, virtual control program
+- interface, virtual device (VDI)
+- interference field strength 干扰场强度
+- interference immunity 抗干扰度，抗干扰性 
+- interference rejection combining (IRC)
+- interference 干涉；干扰  
+- interference, cross 互串干扰；交越干扰 
+- interference, destructive 相消干扰 
+- interference, electromagnetic (EMI) 电磁干扰
+- interference, radio frequency (RFI)
+- interference-signal ratio (ISR) 干扰-信号比
+- interferential measuring system 干扰测量系统
+- interferometer antenna 干涉仪天线 
+- interferometer 干涉仪  
+- interferometer, laser 激光干涉仪 
+- interframe coding 帧间编码 
+- intergranular corrosion 晶间腐蚀，颗粒间腐蚀 
+- interim local management interface
+- interim standard 136 (IS-136)
+- interim standard 41 (IS-41)
+- interim standard 54 (IS-54)
+- interim standard 95 (IS-95)
+- interim standard version B
+- interim standard version C
+- interior gateway protocol (IGP)
+- interlace factor 交错因素 
+- interlace scan 隔行扫描 
+- interlaced GIF 隔行GIF 格式
+- interlaced scanning 交织扫描；隔行扫描 
+- interlaced 交织的；隔行的  
+- interlaced, non- 非交织的；非隔行的 
+- interlayer connection 层间连接 
+- interleave factor 交错因数 
+- interleave 交错  
+- interleave, page 分页交错 
+- interleaved bit 位交错 
+- interleaved character 字元交错 
+- interleaver 分界；衬垫  
+- interleaving function 交错功能 
+- interleaving memory 存储器交错 
+- interleaving, memory bank 存储器组交错
+- interlevel dielectric 夹层电介质 
+- interlock bypass 联锁旁路,互锁旁路 
+- interlock relay 联锁继电器,互锁继电器 
+- interlock 联锁  
+- intermediate cross-connect 中间交叉连接 
+- intermediate format 中间格式 
+- intermediate frequency (IF) 中频
+- intermediate layer 中间层 
+- intermediate subcarrier 中间载波 
+- intermediate system 中间系统 
+- intermediate system-to-intermediate system (IS-IS)
+- intermediate-frequency transformer 中频变压器 
+- intermetalic compound 金属互化物，金属间化合物 
+- intermetalic layer 金属间化合层 
+- intermittent duty 间歇性工作 
+- intermittent fault 间歇性故障 
+- intermittent rating 间歇性定额 
+- intermittent test 间歇测试，断续测试 
+- intermodulation distortion 交互调制失真 
+- intermodulation noise 互调噪声 
+- intermodulation 交互调制  
+- intermolecular force 分子间力 
+- internal access 内部存取 
+- internal algorithm 内部演算法 
+- internal bias 内部偏压 
+- internal calibration 内部校准法 
+- internal calibrator 内部校准仪；内部校准器 
+- internal combustion engine 内燃机
+- internal connector 内部连接器 
+- internal data area (IDA)
+- internal energy 内能 
+- internal force 内力 
+- internal insulation 内部绝缘 
+- internal memory 内存存储器；内置存储器 
+- internal oxidation 内部氧化 
+- internal read-only-memory pass bus
+- internal reflection 内反射 
+- internal resistance 内电阻 
+- internal routine 内部例行程序 
+- internal schema 内部规划 
+- internal search 内部搜寻 
+- internal sort 内部排序 
+- internal work 内功 
+- internal 内部；内置  
+- international Mobile Telecommunications 2000
+- international Society for Telecommunications
+- international call 国际直拨长途电话 
+- international mobile equipment identity
+- international mobile subscriber identity
+- international value-added network (IVAN)
+- internet protocol (IP) 互联网协定
+- internet relay chat (IRC)
+- internet service provider (ISP)
+- internetwork communications 跨网络通讯 
+- internetwork packet exchange (IPX)
+- internetwork 跨网络  
+- internetworking 网络互连  
+- interoperability 互动能力  
+- interoperability 互操作性、互操作能力  
+- interpolation 内插法；插值法  
+- interpretation 解译  
+- interpreter 解释器  
+- interpreter 解译程序  
+- interpreter, language 语言解译程序 
+- interpreter, threaded code 链接代码解译程序
+- interprocess communication （IPC）进程间通讯（IPC） 
+- interprocess communications (IPC) 跨程序通讯
+- interrupt acknowledge cycle 中断确认周期
+- interrupt acknowledge 中断确认 
+- interrupt acknowledgment latency (IACKL)
+- interrupt bus 中断总线 
+- interrupt controller 中断控制器 
+- interrupt descriptor table (IDT)
+- interrupt descriptor 中断描述信息 
+- interrupt driven 中断驱动 
+- interrupt handler 中断处理程序；中断处理器 
+- interrupt latency 中断等待时间 
+- interrupt level 中断水平 
+- interrupt logic 中断逻辑 
+- interrupt mask 中断屏蔽 
+- interrupt priority 中断优先 
+- interrupt request 中断请求 
+- interrupt service routine (ISR)
+- interrupt vector 中断向量 
+- interrupt 中断  
+- interrupt, edge-triggered 边缘触发中断 
+- interrupt, external 外部中断 
+- interrupt, level-triggered 电平触发中断 
+- interrupt, real-time 实时中断 
+- interrupt, segment handling 分段处理中断
+- interrupt, source 中断源 
+- interrupt-acknowledge cycle 中断确认周期 
+- interrupt-acknowledgment latency (IACKL) 中断确认等待时间
+- interrupter rating 断续器标称值，断续器额定值 
+- interrupter 中断器  
+- interrupter, photo- 光中断器 
+- interruptible power 可断续电功率 
+- interruptible rate 可中断率 
+- intersection 直交；交点  
+- interval timer 区间时计 
+- interwinding backbone 楼宇[通信]干线 
+- interwinding capacitance 互绕电容 
+- intrasegment 内分段  
+- intrinsic 本征  
+- intrinsically safe 内部安全 
+- introspection 自省  
+- introspection 自省，自我测量，自我测试  
+- invalid 无效  
+- invalidated 宣告无效；设定失效  
+- invar 殷钢，镍铁合金  
+- invariants 不变性  
+- invarient 不变量  
+- inventory turn 存货周转 
+- inverse compensation 倒向补偿 
+- inverse fast Fourier transform
+- inverse function 函数倒数 
+- inverse image 倒像 
+- inverse photoelectric effect 反光电效应
+- inverse rectifier 逆向整流器 
+- inverse square law 平方反比定率
+- inverse 反向；倒数  
+- inversion 逆转；转换  
+- inversion, alternate mark (AMI)
+- inversion, population 粒子分布倒置 
+- inversion, signal 信号逆转 
+- inversion, topological 拓扑式转换 
+- inverted image 倒立像 
+- inverted input 反相输入 
+- inverted magnetron gauge 倒置式磁控管计量器
+- inverter 反相器；直交流转换器  
+- inverter, capacitive voltage 电容性电压反相器
+- inverter, voltage 电压反相器 
+- invisible range 不可见范围 
+- invoke 调用  
+- involution rule 自乘规则 
+- iodine (I) 碘 
+- ion beam technology 离子束技术
+- ion beam 离子束 
+- ion concentration 离子密度 
+- ion gun 离子枪 
+- ion implantation 离子注入； 离子植入
+- ion migration 离子迁移 
+- ion mobility 离子迁移率 
+- ion pair 离子偶 
+- ion projection lithography (IPL)
+- ion sputtering 离子溅镀 
+- ion 离子  
+- ion, gallium 镓离子 
+- ion, negative 负离子 
+- ion, positive 正离子 
+- ion-assisted deposition 离子辅助沉积 
+- ion-beam technology 离子束技术 
+- ion-flow printing 离子流打印 
+- ionic bond 离子键 
+- ionic contaminant 离子杂质 
+- ionization by collision 碰撞离子
+- ionization potential 离子电位 
+- ionization 电离  
+- ionization, specific 离子比值 
+- ionizing radiation 离子辐射 
+- ionosphere 电离层  
+- ionospheric storm 电离层风暴 
+- ip address IP 地址
+- iris 膜片；光圈，可变光阑；虹膜；窗孔  
+- iron-powder core 铁粉磁心 
+- irradiation 发光；照射  
+- irreversible process 不可逆过程 
+- isoEthernet 同步以太网  
+- isobar 等压线  
+- isobaric process 等压过程 
+- isochronism 等时性  
+- isochronous Ethernet 同步以太网 
+- isochronous communications 同步通信 
+- isochronous oscillation 等时振动 
+- isochronous transmission 同步发送 
+- isolated flyback regulator 隔离式回扫变压器
+- isolating switch 切断开关，断路器 
+- isolation boundary 隔离边界 
+- isolation level 隔离级别 （for
+- isolation transformer 隔离变压器 
+- isolation voltage 隔离电压 
+- isolation, dielectric (DI) 介电质隔离
+- isolation, diffused 扩散隔离 
+- isolation, junction (JI) 连结隔离
+- isolation, lateral 横向隔离 
+- isolator 隔离器  
+- isolator, optical 光学隔离器 
+- isolator, photo- 光隔离器 
+- isopropyl alcohol 等丙醇 
+- isopropyl 等丙基  
+- isotherm 等温线  
+- isotherm, critical 临界恒温线 
+- isothermal process 等温过程 
+- isothermal 等温  
+- isotope 同位素  
+- isotropic conductive adhesive 各向同性传导粘合剂
+- isotropic 各向同性  
+- isovolumetric process 等容过程 
+- item 项目；零件  
+- item 项、条款、项目  
+- iterate 迭代  
+- iteration 反覆；反覆运作  
+- iteration 迭代（回圈每次轮回称为一个iteration）  
+- iteration, successive 连续反覆运作 
+- iterative 反复的、迭代的  
+- iterator 迭代器  
+- 
+## J
+- 
+- jack 插座；塞孔  
+- jacket 套；外套  
+- jagged line 锯齿状线 
+- jagged 锯齿状的  
+- jamming margin [ 人为]干扰极限
+- jamming 干扰；干扰杂音  
+- jaw, bottom-centering 下定中爪 
+- jaw, centering 定中爪 
+- jaw, top-centering 上定中爪 
+- jitter 抖动  
+- jitter, horizontal 水平抖动 
+- jitter, phase 相位抖动 
+- jitter, timing 时序抖动 
+- jitter, vertical 垂直抖动 
+- job transfer and management
+- joint time-frequency analysis (JTFA)
+- joint 结；结点  
+- joint-type field-effect transistor (JFET)
+- joule (J) 焦耳 
+- joystick 摇杆  
+- jump 跳越  
+- jump, indirect 间接跳越 
+- jumper 跨接线  
+- junction circuits 连接电路，中继电路，汇接电路 
+- junction depth 连结深度 
+- junction diode 连结式二极管 
+- junction field-effect transistor (JFET)
+- junction isolation (JI) 连结隔离
+- junction leakage 接点泄漏 
+- junction temperature 接点温度 
+- junction transistor 连结式晶体管 
+- junction 接点；连结；结点  
+- junction, solder 焊接点 
+- junctor 连接器，联络线  
+- just-in-time (JIT) 及时 
+- justification bit 码速调整位 
+- justification ratio 码速调整比 
+- justification 码速调整，调整  
+- justify 对齐；调整  
+- juxtaposition 并列  
+- 
+## K
+- 
+- kerf 截口，切缝，槽  
+- kernel boundary 核心边缘 
+- kernel mode 核心模式 
+- kernel 核心  
+- kevlar 凯芙拉（一种合成纤维）  
+- key column 键列 （for
+- key compression 主要压缩 
+- key macro 关键指令组 
+- key server 密钥服务程序；密钥服务器 
+- key telephone system (KTS)
+- key value 关键值 
+- key 键 （for database）
+- key, alphanumeric 字母数字键 
+- key, shift lock 字母变换锁定键
+- key, shift 字母变换键 
+- key, soft 软键 
+- keyboard asynchronous receiver/transmitter (KART)
+- keyboard terminal 键盘式终端机 
+- keyboard 键盘  
+- keying, amplitude shift (ASK)
+- keying, binary frequency shift
+- keying, binary phase shift
+- keying, differential phase shift
+- keying, differential quadrature phase
+- keying, frequency shift (FSK)
+- keying, minimum shift (MSK)
+- keying, on-off (OOK) 开关键控
+- keying, phase shift (PSK)
+- keying, quadrature phase shift
+- keyword 关键字  
+- kiln 炉  
+- kilo- (K) 千(x1024) 
+- kilo- (k) 千(x1000) 
+- kilo-ohm 千欧姆  
+- kiloampere (kA) 千安 
+- kilobit (Kb) 千位 
+- kilobyte (KB) 千字节 
+- kilogram (kg) 千克 
+- kilohm (k? 千欧姆 
+- kilometer (km) 千米 
+- kilovolt (kV) 千伏 
+- kilowatt (kW) 千瓦 
+- kilowatt-hour (kWh) 千瓦小时，千瓦时，度 
+- kinematics 运动学  
+- kinetic energy 动能 
+- kinetic friction 动摩擦 
+- kinetics 动力学  
+- kiosk 公用电话亭，电话间  
+- kit, training 培训组件 
+- know-how 技术知识  
+- knowledge base 知识库 
+- knowledge query and manipulation
+- knowledge-based system 知识库系统 
+- 
+## L
+- 
+- label distribution protocol 标签分布协议
+- label switching router 标签交换路由器
+- label 标记；标志  
+- labor intensive 人力密集 
+- laboratory (lab) 实验室；研究室 
+- ladder network 阶梯式网络 
+- laden, protocol- 协定负载 
+- lag 延迟  
+- lambda 入  
+- lamina 薄片  
+- laminate selection 分层选择 
+- laminate 压层板  
+- laminate, copper-clad 压层板 
+- laminate, dry film 压层板
+- laminate, epoxy-glass 覆铜压层板 
+- laminate, epoxy-paper 环氧纸基层压板 
+- laminate, glass-base 玻璃基层压板 
+- laminate, paper-base 纸基层压板 
+- laminated object manufacturing (LOM)
+- lamination 层压，层压结构；分层，叠层  
+- lamp, incandescent 白炽灯 
+- lamp, infrared-reflow 灯管式红外线回流 
+- lamp, mercury 水银灯 
+- lamp, sodium 钠弧灯 
+- lamp, stroboscope 频闪灯 
+- lamp, tungsten 钨丝灯 
+- land grid array (LGA)
+- land mobile radio (LMR)
+- land patten 引脚排列图形 
+- land pattern 焊盘图形，焊盘图案 
+- land 岸面  
+- language interpreter 语言解译程序 
+- language, BASIC 培基语言 
+- language, FORTRAN 福传语言 
+- language, VHSIC hardware description
+- language, analog hardware description
+- language, assembly 汇编语言 
+- language, boundary scan description
+- language, common business oriented
+- language, description 描述语言 
+- language, digital microprocessor plotting
+- language, fuzzy inference (FIL)
+- language, graphics 图像语言 
+- language, hardware description (HDL)
+- language, high-level (HLL) 高阶语言
+- language, hypertext markup (HTML)
+- language, machine 机器语言 
+- language, open programmable architecture
+- language, printer command (PCL)
+- language, printer description (PDL)
+- language, pseudo- 虚拟语言 
+- language, query 咨询语言 
+- language, standard generalized markup
+- language, structured query (SQL)
+- language, test and measurement
+- language, virtual reality modeling
+- language-independent 语言无关性  
+- language-independentIVD 语言无关性  
+- laptop computer 膝上型电脑 
+- large area electronic device
+- large scale integration circuit
+- laser beam 激光光束 
+- laser diode 激光二极管 
+- laser driver 激光驱动器,激光激励器 
+- laser interferometer 激光干涉仪 
+- laser printer 激光打印机 
+- laser soldering 激光焊接 
+- laser source 激光源 
+- laser trimming 激光修整 
+- laser 激光  
+- laser 激光  
+- laser, argon 氩激光 
+- laserdisc 激光视盘  
+- last mile 端英里，尾英里 
+- last-in first-out (LIFO) 后进先出
+- latch circuit 锁存电路 
+- latch 锁存  
+- latch, addressable 可定址锁存 
+- latch, inertia 惯性锁存 
+- latch, transparent 透明锁存 
+- late binding 后联编 
+- late binding 迟绑定 
+- latency 等待时间  
+- latency, bus 总线等待时间 
+- latency, context switching (CSL)
+- latency, initial access 初始存取等待时间
+- latency, interrupt acknowledgment (IACKL)
+- latency, interrupt 中断等待时间 
+- latency, rotational 转断等待时间 
+- latency, timer interrupt 时计中断等待时间
+- latency, zero 零等待时间 
+- latent heat of fusion
+- latent heat of melting
+- latent heat of vaporization
+- latent heat 潜热 
+- latent period 潜伏期 
+- lateral PNP transistor 横向PNP晶体管
+- lateral current 横向电流 
+- lateral edge 横向边 
+- lateral encroachment 横向侵蚀 
+- lateral isolation 横向隔离 
+- lateral thermal conductivity 横向热传导性，横向热导率
+- lateral transistor 横向晶体管 
+- lateral wave 横向波 
+- lateral 横向  
+- lattice dynamics 晶格动力学 
+- lattice network 晶格网络 
+- lattice vibration 晶格振荡 
+- lattice 晶格  
+- lattice, crystal 晶格 
+- launch angle 发射角 
+- law of conservation 守恒定律
+- law 定律  
+- law, Ohm‘s 欧姆定律 
+- law, inverse square 平方反比定律
+- laws, gas 气体定律 
+- laydown 沉积，沉淀；搁置，叠置  
+- layer 2 tunneling protocol
+- layer 层  
+- layer, application 应用层 
+- layer, board 电路板层 
+- layer, buried 埋层 
+- layer, contact 接触层 
+- layer, data link 数据链路层
+- layer, epitaxial 外延层 
+- layer, function management 功能管理层
+- layer, hardware interface 硬件接口层
+- layer, insulating 绝缘层 
+- layer, link 链路层 
+- layer, network interface (NIL)
+- layer, network 网络层 
+- layer, ozone 臭氧层 
+- layer, physical 实体层 
+- layer, polycrystalline silicon 多硅晶体层
+- layer, polycrystalline 多结晶体层 
+- layer, presentation 展示层 
+- layer, protective 保护层 
+- layer, session 对话层 
+- layer, silicon dioxide 二氧化硅层
+- layer, single crystalline silicon
+- layer, single crystalline 单晶体层
+- layer, sub- 次级层 
+- layer, transmission 传输层 
+- layer, transport 传送层 
+- layout algorithm 布局演算法 
+- layout design 布局设计 
+- layout versus schematic (LVS)
+- layout 布局  
+- layout, circuit 电路布局 
+- lead coplanarity 引线共面[性] 
+- lead count 引脚数 
+- lead forming 引线形成，引线成形 
+- lead frame 引导框，引线框 
+- lead parasitic 引线寄生 
+- lead pitch 引线间距 
+- lead plating 引线电镀 
+- lead spacing 引线间距 
+- lead storage battery 铅蓄电池
+- lead thickness 引线厚度,引线层 
+- lead through-hole (LTH) 引线通孔
+- lead width 引线宽度 
+- lead 引线  
+- leaded device 有引线器件 
+- leader 标题；引出线  
+- leadframe 引脚框  
+- leading edge 前沿；上升边缘 
+- leading zero 起首零位 
+- leadless ceramic chip carrier
+- leadless chip carrier (LCC)
+- leadless component 无引线元件 
+- leadless device 无引线器件 
+- leadless 无引线  
+- leaf switch 片状开关；叶片式开关 
+- leaf, gold 金叶 
+- leakage current 漏泄电流 
+- leakage flux 漏通量 
+- leakage inductance 漏感 
+- leakage 漏，泄漏，渗漏  
+- leakage, junction 节点泄漏 
+- learning curve 学习曲线 
+- leased line 租用线路 
+- least frequently used (LFU)
+- least recently used (LRU)
+- least recently used algorithm
+- least significant bit (LSB)
+- least significant digit (LSD)
+- least-mean-square (LMS) 最小均方 
+- left hand circular polarization
+- left outer join 左向外联接
+- leg 支架  
+- length shifter 长度位移器 
+- length, focal (f) 焦长；焦距
+- length, instruction 指令长度 
+- lens 透镜  
+- lens, biconcave 双凹面透镜 
+- lens, biconvex 双凸面透镜 
+- lens, bifocal 双焦点透镜 
+- lens, collimating 准直镜 
+- lens, concave 凹透镜 
+- lens, convergent 会汇透镜 
+- lens, convex 凸透镜 
+- lens, cylindrical 圆柱形透镜 
+- lens, divergent 发散透镜 
+- lens, objective 物镜 
+- lens, plano-concave 平凹透镜 
+- lens, plano-convex 平凸透镜 
+- lens, zoom 变焦镜 
+- level gauge 水平仪 
+- level of documentation 文件编制水平
+- level sensitive 电平敏感 
+- level shift 电平位移 
+- level shifter 电平位移器 
+- level trigger 电平触发 
+- level 阶、层例  
+- level 水平；级；阶；层次  
+- level, clip 限幅电平 
+- level, energy 能阶；能量水平 
+- level, interrupt 中断水平 
+- level, modulation reference 调制参考水平
+- level, noise 噪声水平 
+- level, priority 优先水平 
+- level, register 寄存器水平 
+- level, register-transfer (RTL) 寄存器转移水平
+- level, symbolic source 信号源水平
+- level, transfer 传输水平；转移水平 
+- level-sensitive scan design (LSSD)
+- level-triggered interrupt 电平触发中断 
+- lever 杆杠  
+- library management 程序库管理 
+- library 库  
+- library 程序库  
+- library, adapter description (ADL)
+- library, board 电路板程序库 
+- library, component 元件程序库 
+- library, device template 器件样板程序库
+- library, macro 指令组程序库 
+- library, parts 零件程序库 
+- library, public shared 公用分享程序库线性前置属性中间表示法
+- library, routine 例行程序程序库 
+- library, shared 分享式程序库 
+- library, symbol 符号程序库 
+- library, test pattern 测试模式程序库
+- license 授权，许可  
+- licensing standard 许可标准 
+- life cycle 生命周期 
+- life test 寿命测试 
+- lifetime 生命期、寿命  
+- light amplifications by radiation
+- light current 视频电流 
+- light emission microscope 光发射显微镜
+- light emitting diode (LED)
+- light pen 光笔 
+- light sensitivity 光敏度 
+- light source 光源 
+- light 光  
+- light, arc 电弧灯 
+- light, fluorescent 萤光灯 
+- light, monochromatic 单色光 
+- light, polarized 偏光 
+- light, scattered 散射光 
+- lightguide 光导  
+- lighting efficiency 照明效率 
+- lightly doped drain (LDD)
+- lightly doped offset (LDO)
+- lightning arrestor 避雷器，过压保险丝 
+- lightning rod 避雷针 
+- lightwave transmission 光波传输 
+- lightwave 光波  
+- lightweight directory access protocol
+- limit of error 错误极限
+- limit switch 限位开关 
+- limit 限制  
+- limit, output current 输出电流限制
+- limit, output foldback current
+- limit, power foldback 功率折返限制
+- limited, run-length (RLL) 游程长度限制
+- limiter circuit 限幅电路 
+- limiter 限幅电路；限幅器  
+- limiting amplifier 受限放大器 
+- limiting angle 极限角 
+- limiting static friction 极限静摩擦力
+- line address 线地址 
+- line balance impedance 线路平衡阻抗
+- line code 线路代码 
+- line conditioner 线路调节器 
+- line current 线电流 
+- line driver 线路驱动器 
+- line echo cancellation 连线回音消除
+- line extender 线路延长器, 线路延伸器
+- line hunting 线路捕捉，线路搜索 
+- line interface 线路接口 
+- line loss 线损耗 
+- line of action 作用线
+- line of flow 流线
+- line of force 力线
+- line of sight (LoS)
+- line overhead 线路开销 
+- line printer 行式打印机 
+- line probe router 线路探测路由器
+- line regulation 线路调节 
+- line repeater 线路转发器 
+- line signaling 线路信令 
+- line source 线发射源 
+- line termination (LT) 线路终端
+- line transient 线路瞬变，线路瞬态 
+- line 线, 线路, 行
+- line, coupled data 耦合数据线路
+- line, dedicated 专用线路 
+- line, delay 延迟线 
+- line, dial-up 拨号线路 
+- line, double scanning 双扫描线
+- line, equipotential 等位线 
+- line, focal 焦线 
+- line, folded 折迭线路 
+- line, gradient 梯度线 
+- line, grid 栅线 
+- line, leased 租用线路 
+- line, liquid 液态曲线 
+- line, module identification (MODID)
+- line, on- 在线 
+- line, peripheral select 外设选择线
+- line, private 专用线路 
+- line, resonant 共振线 
+- line, saturation 饱和线 
+- line, scanning 扫描线 
+- line, spectral 光谱线 
+- line, ultra-fine grid 超微细栅线
+- line-mode browser 行模式浏览器 
+- line-source 线路源  
+- linear array 线性阵列 
+- linear bus network 线性总线网络
+- linear circuitry 线性电路 
+- linear delta modulation (LDM)
+- linear density recording 线性密度记录
+- linear device 线性元件 
+- linear feet per minute
+- linear integrated circuit 线性集成电路
+- linear list 线性列 
+- linear modulation 线型调制 
+- linear polarization 线性极化 
+- linear power amplifier 线性功率放大器
+- linear power supply 线性电源供应
+- linear predictive coding (LPC)
+- linear programming 线性规划 
+- linear regulator 线性调节器 
+- linear search 线性搜寻 
+- linear sort 线性分类 
+- linear 线性  
+- linear, sub- 次线性 
+- linear-density recording 线性密度录写 
+- linearity error 线性误差 
+- linearity 线性度  
+- linearity, differential (DL) 差动线性
+- linearity, integral (IL) 积分线性
+- linewidth 线宽  
+- link access procedure (LAP)
+- link access protocol balanced
+- link access protocol for
+- link adapter chip (LAC)
+- link aggregation 链路群，链路集合 
+- link autonomous, 独立链路 
+- link control protocol (LCP)
+- link digital microwave, 数字微波链路
+- link hardware 链路硬件 
+- link identifier 链路标识符 
+- link interface 链路接口 
+- link layer control (LLC)
+- link layer 链路层 
+- link management proxy 链路管理代理
+- link state routing 链路状态路由选择
+- link thread 链路线 
+- link 连接、链接  
+- link 联结；链接；链路  
+- link, autonomous 自控链路 
+- link, digital microwave 数字微波链路
+- link, microwave 微波链路 
+- link, protocol-laden 协定负载链路 
+- link-editing software 链接编辑软件 
+- link-layer control (LLC) 链路层控制
+- linkage 连接、链接  
+- linkage 连接；联动  
+- linked list 链路串列 
+- linker 联结程序  
+- linker 连接器、链接器  
+- liquid air 液态空气 
+- liquid cooling 液体冷却 
+- liquid crystal display (LCD)
+- liquid crystal display television
+- liquid crystalline polymer encapsulation
+- liquid crystalline polymer 液晶高分子，液晶聚合物
+- liquid line 液态曲线 
+- liquid photo imageable (LPI)
+- liquid photoimagable solder mask
+- liquid state 液态 
+- liquid 液体  
+- liquid, photo-imagable 感光液 
+- liquid, propellant 推动液体 
+- list box 列表框 
+- list wire, 线表列 
+- list 列表、表、链表  
+- list 列；表列；清单  
+- list, adjacency 相邻列 
+- list, check 检查表列 
+- list, double-linked 双链结串列 
+- list, linear 线性列 
+- list, linked 链结串列 
+- list, ordered 有序列 
+- list, parts 零件表列 
+- list, pin 接脚表列 
+- list, sequential 顺序列 
+- list, state 状态表列 
+- listing 表列  
+- listserver 列表服务器  
+- literal constant 字面常数 
+- literal 文字，字面值，句节  
+- lithium (Li) 锂 
+- lithography 平版刻法  
+- lithography, optical 光学平版刻法 
+- live backplane 带电底板 
+- livelock 活锁 （for database）
+- load balancing 负载均衡 
+- load balancing 负载平衡 
+- load cell 载入单元 
+- load control 负载控制 
+- load decoupling 负载去耦 
+- load factor 负载因数，负载系数； 
+- load impedance 负载阻抗 
+- load regulation 负载调节 
+- load shedding 减载 
+- load up/down, 可逆负载 
+- load 装载、加载  
+- load 负荷；负载；载入  
+- load, capacitive 电容负载 
+- load, down- 负载；载入 
+- load, electrical 电力负载；电气负载 
+- load, full 全负载 
+- load, half 半负载 
+- load, inductive 电感负载 
+- load, overlap 重迭载入 
+- load, parallel 平行负载 
+- load, reactive 电抗负载 
+- load, up- 逆载；载出 
+- loader 装入器  
+- loader 装载器、载入器  
+- loader, bootstrap 启动式载入器 
+- loading coils 加载线圈 
+- loading, parasitic 寄生负载 
+- lobe 凸角  
+- local access and transport
+- local area network (LAN)
+- local attenuation 局部衰减 
+- local bus video 本区总线视频
+- local bus 本区总线 
+- local distributed data network
+- local exchange carrier (LEC)
+- local exchange 市话交换机(局) 
+- local injection and detection
+- local injection and detection
+- local loop 区域性环路 
+- local multichannel digital service
+- local multipoint communications system
+- local object 局部对象 
+- local oxidation of silicon
+- local packet-switched network (LPN)
+- local segment 本部分段 
+- local sensing 本地读出 
+- local 局部的  
+- local 本地；本区；局部；区域  
+- local, data 区域性数据 
+- location 定位  
+- locator 定位器  
+- lock 锁  
+- locked, phase- 锁相 
+- lockout 分离；闭锁  
+- lodestone 磁石  
+- log 日志  
+- logarithm 对数  
+- logarithmic algorithm 对数算法 
+- logarithmic 对数的  
+- logic AND (LAND) 逻辑和
+- logic OR (LOR) 逻辑或
+- logic analyzer 逻辑分析仪 
+- logic array block (LAB)
+- logic cell array (LCA)
+- logic description 逻辑描述 
+- logic design 逻辑设计 
+- logic emulation 逻辑仿真 
+- logic ground 逻辑地 
+- logic inhibit/enable 逻辑禁止/允许 
+- logic level 逻辑电平 
+- logic node 逻辑节点 
+- logic slice 逻辑片 
+- logic synthesis 逻辑合成 
+- logic 逻辑  
+- logic, Boolean 布尔逻辑 
+- logic, backplane transceiver (BTL)
+- logic, bipolar 双极逻辑 
+- logic, buried 隐敝式逻辑 
+- logic, clocked sequential 时钟式序列逻辑
+- logic, combinational 混合式逻辑 
+- logic, complementary transistor (CTL)
+- logic, complementary 互补逻辑 
+- logic, control 控制逻辑 
+- logic, current mode (CML)
+- logic, diode-transistor (DTL) 二极管晶体管逻辑
+- logic, direct-coupled transistor (DCTL)
+- logic, discrete 胶合逻辑 
+- logic, emitter-coupled (ECL) 射极耦合逻辑
+- logic, emitter-coupled transistor (ECTL)
+- logic, fuzzy 模糊逻辑 
+- logic, generic array (GAL)
+- logic, glue 胶合逻辑 
+- logic, hardwired control 固定线路控制逻辑
+- logic, hardwired 固定线路逻辑 
+- logic, high threshold (HTL)
+- logic, interrupt 中断逻辑 
+- logic, multiple array programmable
+- logic, negative 负逻辑 
+- logic, positive emitter-coupled (PECL)
+- logic, positive 正逻辑 
+- logic, programmable array (PAL)
+- logic, resistor-capacitor-transistor (RCTL) 电阻电容晶体管逻辑
+- logic, resistor-transistor (RTL) 电阻晶体管逻辑
+- logic, standard discrete 标准离散逻辑元件
+- logic, state 状态逻辑 
+- logic, testing 测试逻辑 
+- logic, transistor-transistor (TTL) 晶体管晶体管逻辑
+- logic, tristate 三态逻辑 
+- logic, unclocked sequential 非时钟式序列逻辑
+- logic-level shifter 逻辑水平位移器 
+- logical architecture 逻辑架构 
+- logical block address (LBA)
+- logical channel 逻辑信道 
+- logical circuit 逻辑电路 
+- logical diagram 逻辑图 
+- logical interface 逻辑接口 
+- logical link control (LLC)
+- logical page 逻辑分页 
+- logical subnet 逻辑子网 
+- logical sum 逻辑和 
+- logical unit (LU) 逻辑单元，逻辑部件
+- login security mode登录安全模式 （for
+- login 登录  
+- long haul 长程网络 
+- long-reach 长到达  
+- longitudinal balance 纵向平衡 
+- longitudinal redundancy check (LRC)
+- longitudinal vibration 纵振动 
+- longitudinal wave 纵波 
+- look-ahead buffer 先行缓冲器 
+- look-ahead read 读取先行 
+- look-up table (LUT) 搜寻列表
+- lookaside buffer 旁视缓冲器 
+- lookup table 查找表 （for
+- loop antenna 环形天线 
+- loop back 回环 
+- loop compensation amplifier 环路补偿放大器
+- loop gain 环路增益 
+- loop response 环路响应 
+- loop start signaling 环路启动信令
+- loop 循环  
+- loop 环路  
+- loop, closed 闭合环路；闭环 
+- loop, digital adapter for
+- loop, digital phase-locked (DPLL)
+- loop, electrical ground 电气接地环路
+- loop, feedback 反馈环路 
+- loop, ground 接地环路 
+- loop, hysteresis 磁滞环路 
+- loop, input 输入环路 
+- loop, local 区域性环路 
+- loop, null 零位环路 
+- loop, open 开放环路；开环 
+- loop, output 输出环路 
+- loop, phase-locked (PLL) 锁相环路
+- loop-back test 回环测试 
+- loop-compensation amplifier 环路补偿放大器 
+- loop-gain error 环路增益误差 
+- loos factor 损耗因数 
+- loos of lock (LOL)
+- loos of power (LOP)
+- loos of signal 信号损耗
+- loos of synchronization 失步,同步丢失
+- loos 损耗  
+- loos, conduction 低传导损耗 
+- loos, crossover 交接损耗；交越损耗 
+- loos, dielectric 介电质损耗 
+- loos, hysteresis 磁滞损耗 
+- loos, insertion 插入损耗 
+- loos, power 功率损耗 
+- loos, return 回送损耗 
+- loos, shunt 分流损耗 
+- loos, switch 交换损耗 
+- loos, switching 开关损耗 
+- loose coupling 松散耦合 
+- loose tube cable 松套电缆
+- loosely coupled 松弛耦合 
+- lossless compression 非损耗式压缩 
+- lossless transmission 无损耗式传输 
+- lossy compression 损耗式压缩 
+- lossy medium 损耗式媒介 
+- lost call probability 呼损概率
+- lost calls cleared 呼损[记录]清除
+- lost calls held 呼损[记录]保持
+- loudness 响度  
+- loudspeaker 扬声器  
+- low frequency (LF) 低频放大器
+- low order 低值位 
+- low probability of intercept
+- low switching transient 低转换瞬变
+- low temperature cofired ceramic
+- low-end 低档  
+- low-frequency amplifier 低频放大器 
+- low-frequency bypass 低频旁路 
+- low-jitter clock 低抖动时钟 
+- low-level format (LLF) 低阶格式化
+- low-noise block converter (LNB)
+- low-pass filter 低通滤波器 
+- low-power television (LPTV) 低功耗电视，低功率电视
+- low-pressure chemical vapor deposition
+- low-voltage technology (LVT) 低电压技术
+- lower bit 低位 
+- lower limit 下限 
+- lower-triangular matrix 下三角形矩阵 
+- lowpass filter (LPF) 低通滤波器
+- lowpass 低通  
+- lubricant 润滑剂  
+- lug 套管  
+- lumen (lm) 流明 
+- luminaire 光源，发光体  
+- luminance bandwidth 亮度频宽 
+- luminance sample 亮度取样 
+- luminance 亮度  
+- luminance, cross 亮度互串 
+- luminescent, electro- (EL) 场致发光
+- luminosity 光度  
+- luminous body 发光体 
+- luminous efficiency 发光效率 
+- luminous energy 光能 
+- luminous flux 光通量 
+- luminous intensity 光度 
+- lumped capacitive load 总集电容负载
+- lumped 总集的  
+- lux (lx) 勒克司 
+- lvalue 左值  
+- 
+## M
+- 
+- machine address 机器地址 
+- machine code 机器代码 
+- machine code 机器码、机器代码 
+- machine control system (MCS)
+- machine dependent 从属于机器的 
+- machine efficiency 机器效率 
+- machine language 机器语言 
+- machine 机械；机器  
+- machine, arbitration state 判优状态机器
+- machine, asynchronous state 异步状态机器
+- machine, auto answering 自动电话接听机
+- machine, component placement 元件置放机
+- machine, in-line placement 顺序式元件置放机
+- machine, perfect 理想机器 
+- machine, pick-and-place 取放机器 
+- machine, state 状态机器 
+- machine, wave soldering 波峰式焊锡机
+- machine, write-state (WSM) 写入状态机器
+- machine-dependent 从属于机器  
+- machine-independent 独立于机器  
+- macro cell 宏小区 
+- macro diversity 宏分集 
+- macro function 宏功能 
+- macro library 宏程序库 
+- macro 宏  
+- macro 宏指令  
+- macro, key 关键宏 
+- macro-assembler 宏汇编程序  
+- macro-blocks 宏模块  
+- macrophysics 宏观物理学  
+- magnesium titanate 钛酸镁 
+- magnet 磁石；磁铁钛酸体  
+- magnet, artificial 人造磁铁 
+- magnet, bar 条形磁铁 
+- magnet, molecular 分子磁 
+- magnet, permanent 永久磁体 
+- magnet, plastic 塑料磁体 
+- magnet, rubber 橡胶磁体 
+- magnet, temporary 暂时磁体 
+- magnetic axis 磁轴 
+- magnetic bubble memory 磁泡存储器
+- magnetic circuit 磁路 
+- magnetic core memory 磁心存储器
+- magnetic declination 磁偏角 
+- magnetic dip 磁力线 
+- magnetic domain 磁畴 
+- magnetic equator 磁赤道 
+- magnetic field intensity 磁场强度
+- magnetic field 磁场 
+- magnetic flux density 磁通量密度
+- magnetic flux 磁通量 
+- magnetic force 磁力 
+- magnetic hysteresis 磁滞现象 
+- magnetic induction 磁感应 
+- magnetic materials 磁性物质 
+- magnetic meridian 磁子午线 
+- magnetic moment 磁矩 
+- magnetic monopole 磁单极 
+- magnetic resistance 磁阻 
+- magnetic saturation 磁饱和 
+- magnetic shielding 磁屏 
+- magnetic susceptibility 磁化率 
+- magnetic tunnel junction (MTJ)
+- magnetic variation 磁变 
+- magnetic wave 磁波 
+- magnetic-flux density 磁通量密度 
+- magnetic-north pole 磁北极 
+- magnetic-south pole 磁南极 
+- magnetically soft material 软磁材料
+- magnetism 磁性；磁学  
+- magnetism, residual 剩磁 
+- magnetism, terrestrial 地磁 
+- magnetite 磁铁矿  
+- magnetization 磁化  
+- magneto signaling 磁电机信令 
+- magneto 磁力  
+- magneto-optical disk 磁光盘 
+- magneto-optical drive 磁光驱动 
+- magnetometer 磁强针  
+- magnetometer, deflection 偏转磁强针 
+- magnetomotive force 磁动势 
+- magnetoresistive 磁阻的  
+- magnetron gauge 磁控管计量器 
+- magnetron 磁控管  
+- magnification power 放大率 
+- magnification, angular 角放大率 
+- magnifying power 放大率 
+- magnitude 大小；强度；等级  
+- mail server 邮件服务器 
+- mail store 邮件存储;邮箱 
+- mail, electronic 电子邮递 
+- mail, voice 声音邮递 
+- mailbox service 邮箱服务 
+- mailbox 邮箱  
+- main anode 主阳极 
+- main board 主机板 
+- main cross-connect 主群组交叉连接 
+- main distribution frame (MDF)
+- main exciter 主激发器 
+- main terminal 主终端 
+- mainframe computer 大型电脑 
+- mainframe 大型电脑  
+- mains 总线；电源  
+- maintain 维护  
+- maintainability 维修能力  
+- maintenance 维修；检修  
+- maintenance, preventative (PM) 预防性检修
+- major diatonic scale 自然音阶
+- major failure 主要故障 
+- majority carrier 多数载流子 
+- make-break operation 通－断操作 
+- malfunction 故障；失灵  
+- malicious call identification (MCI)
+- man-machine interface 人机接口 
+- man-machine language (MML) 人机语言
+- managed code 受控代码、托管代码 
+- managed network services (MNS)
+- managed object 受控对象、托管对象 
+- managed objects for IP
+- management information base (MIB)
+- management information format (MIF)
+- management information system (MIS)
+- management, configuration 配置管理 
+- management, distributed data (DDM)
+- management, dynamic storage 动态存储器管理
+- management, file transfer access
+- management, integrated network (INM)
+- management, library 程序库管理 
+- management, network 网络管理 
+- management, on-chip dynamic memory
+- management, power 功率管理 
+- management, process 过程管理；工艺管理 
+- management, station (SMT) 站管理
+- management, total quality (TQM)
+- manager, expanded memory (EMM)
+- manager, presentation 表示管理程序 
+- mandatory extension mechanism 强制扩充机制
+- mangled name  
+- manifest 清单  
+- manipulator 操纵器（iostream预先定义的一种东西）  
+- manometer 流体压强计  
+- manual 手动；人工控制  
+- manufacturability analysis tool (MAT)
+- manufacturability 可生产性  
+- manufacturability, design-for- (DFM) 使设计具可制造能力
+- manufacturing automation protocol (MAP)
+- manufacturing defects analyzer 制造缺陷分析程序（分析器）
+- manufacturing for reliability (MFR)
+- manufacturing phase 制造阶段 
+- manufacturing planning and control
+- manufacturing resources planning (MRP)
+- manufacturing, computer-aided (CAM) 电脑辅助生产
+- manufacturing, computer-integrated (CIM) 电脑综合制造
+- manuscript 原图；加工图  
+- many-to-many relationship 多对多关系 （for
+- many-to-one relationship 多对一关系 （for
+- map 映射；图；图像；变换  
+- map, attach 附带变换 
+- map, bit- 位映射图 
+- map, detach 分离变换 
+- map, numerical 数值变换 
+- mappable 可变换  
+- mapped, direct- 直接变换 
+- mapper 变换器  
+- mapping 映射；变换  
+- mapping, function 功能变换 
+- mapping, sequential 顺序映射 
+- mapping, topological 拓朴绘图 
+- margin 边缘；界限  
+- margin, noise 噪音容限 
+- margin, phase 相位边缘 
+- marginal timing error 边际定时错误
+- mark scanning 特徵扫描 
+- mark 记号  
+- mark, fiducial 定位标记；基准标志 
+- marker 记号；标记  
+- markup language 标识语言; 记帐语言
+- marshal 列集  
+- maser 微波激射  
+- mask programmable 掩模可编程 
+- mask tooling 掩膜加工 
+- mask 掩膜  
+- mask, flat-tension (FTM) 固定张力掩膜
+- mask, solder 阻焊剂；焊锡掩膜；绿漆 
+- masked gate array 掩膜式门阵列
+- maskless array synthesizer (MAS)
+- mass flow controller 大流量控制器
+- mass number 质量数 
+- mass rest, 静止质量 
+- mass 质量  
+- mass, atomic 原子质量 
+- mass, center of 质量中心
+- mass, critical 临界质量 
+- mass, gravitational 引力质量 
+- mass, inertial 惯性质量 
+- mass, spectrum 质谱 
+- mass, thermal 热质量 
+- mass-energy relation 质能关系 
+- mass-flow controller (MFC) 主流动控制器
+- master antenna (MATV) 主天线[电视]
+- master device 主控器件；主器件 
+- master switch 主开关 
+- master telemetry unit (MTU)
+- master 主；主控；主控器；控制  
+- master, bus 总线主控器 
+- master-slave determination 主从判断 
+- master-slave synchronization 主从同步 
+- master/slave operation 主从操作 
+- matched condition 匹配条件 
+- matching device 匹配器件 
+- material handling 物料处理 
+- material management system 物料管理系统
+- material safety data sheet
+- material, encapsulating 灌封材料 
+- material, passivation 钝化物料 
+- materials, magnetic 磁性物质 
+- math coprocessor 算术协处理器 
+- matrix circuit 矩阵电路 
+- matrix 矩阵  
+- matrix, active (AM) 动态矩阵
+- matrix, adjacency 相邻矩阵 
+- matrix, diode 二极管矩阵 
+- matrix, high-quality (HQM) 高品质矩阵
+- matrix, lower-triangular 下三角形矩阵 
+- matrix, simple 简单矩阵 
+- matrix, symmetric 对称矩阵 
+- matrix, transpose 转置矩阵 
+- matrix, upper-triangular 上三角形矩阵 
+- maximal displacement 最大位移，最大偏差 
+- maximal length 最大长度 
+- maximum average power 最大平均功率
+- maximum capacity 最大容量 
+- maximum demand 最大需求 
+- maximum distance separable (MDS)
+- maximum friction 最大摩擦 
+- maximum load 最大负载 
+- maximum power transfer 最大功率输送
+- maximum time interval error
+- maximum transmission unit (MTU)
+- maxwell 麦克斯韦  
+- max‘s algorithm 最大值算法 
+- maze router 迷宫路由器 
+- mean free path 平均自由通路
+- mean free time 平均自由时间
+- mean terrain level 平均地面高度
+- mean time between failures
+- mean time to repair
+- mean value 平均值 
+- mean-squared error (MSE) 均方差误
+- means, electrochemical 电化学方法 
+- measling 生白点，生白斑  
+- measurement 测量；量度  
+- measurement, parametric 参数式测量 
+- measurement, phase-coherent 相位一致测量 
+- mechanical advantage 机械利益 
+- mechanical consideration 机械特性考虑 
+- mechanical deformation 机械变形 
+- mechanical efficiency 机械效率 
+- mechanical energy 机械能 
+- mechanical equivalent of heat
+- mechanical filter 机械式滤波器 
+- mechanical force 机械力 
+- mechanical strength 机械强度 
+- mechanical wobble 机械晃动 
+- mechanical 机械的  
+- mechanical, electro- 机电式 
+- mechanics 力学  
+- mechanics, quantum 量子力学 
+- mechanics, wave 波动力学 
+- mechanism 机制；机械装置；机构  
+- mechanism, decision 决策机能 
+- mechanism, image transfer (ITM)
+- mechanism, trap 陷阱机制 
+- mechanism, write-through 透写式机制 
+- media access control (MAC)
+- media access unit (MAU)
+- media control interface (MCI)
+- media streaming 媒体数据流式传输 
+- media 媒介；媒体  
+- media-dependent interface (MDI) 媒体独立接口
+- median 中线  
+- medium attachment unit (MAU)
+- medium density polyethylene (MDPE)
+- medium wave (MW) 中波
+- medium 介质；媒体  
+- medium, optically denser 光密介质
+- medium, optically thinner 光疏介质
+- medium-scale integrated circuit (MSI)
+- mega- (M) 百万 
+- mega-cycle 百万周期  
+- megabit (Mb) 百万位 
+- megabyte (MB) 百万字节 
+- megacell 百万储存单元  
+- megapixel 百万图素  
+- megger 高阻表，高阻计  
+- melting point 溶点；熔点 
+- melting, latent heat of
+- member access operator 成员取用运算子（有dot和arrow两种）
+- member function 成员函数 
+- member initialization list成员初始值列表 
+- member 成员  
+- member, full 正式会员 
+- memberwise copy  
+- memberwise 以member为单元…、members 逐一… 
+- membrane switch 薄膜开关 
+- memorandum of understanding (MoU)
+- memory available 可用存储器 
+- memory bank interleaving 存储器组交错
+- memory bank 存储器组 
+- memory bus 存储器总线 
+- memory cell array 存储器存储单元阵列
+- memory cell 存储器存储单元 
+- memory control unit (MCU)
+- memory controller (MEMC) 存储器控制器
+- memory counter 存储器计数器 
+- memory device 存储器器件 
+- memory effect 记忆效应 
+- memory integrated circuit 存储器集成电路，内存集成电路
+- memory leak 内存泄漏 
+- memory management unit (MMU)
+- memory mapped input/output 存储器映射输入／输出
+- memory plane 存储器层 
+- memory pointer 存储器指标 
+- memory reference 存储器参考 
+- memory refresh 存储器更新 
+- memory resident 存储器驻留 
+- memory segmentation 存储器分段 
+- memory space 存储器空间 
+- memory subsystem 存储器子系统 
+- memory word 存储[器]字 
+- memory 内存  
+- memory 存储器  
+- memory, associative 关联存储器 
+- memory, bubble 磁泡存储器 
+- memory, byte-oriented 面向字节存储器 
+- memory, compact disc read
+- memory, content addressable (CAM)
+- memory, conventional 常规存储器 
+- memory, demand-paged virtual 需求分页虚拟存储器
+- memory, dual-access 双重存取存储器 
+- memory, dual-port random access
+- memory, dual-port 双端口存储器 
+- memory, dynamic random access
+- memory, electrically erasable programmable
+- memory, electrically erasable read
+- memory, erasable programmable read
+- memory, error correcting 错误纠正存储器
+- memory, expanded 扩充存储器 
+- memory, extended 延伸存储器 
+- memory, external 外存存储器；外置存储器 
+- memory, ferroelectric random access
+- memory, flash 快闪存储器 
+- memory, four-way interleaved 四路交错存储器
+- memory, frame buffer 画面缓冲器存储器
+- memory, high 高地址存储器 
+- memory, interleaving 存储器交错 
+- memory, internal 内存存储器；内置存储器 
+- memory, least recently used
+- memory, magnetic bubble 磁泡存储器
+- memory, magnetic core 磁心存储器
+- memory, nonvolatile random access
+- memory, page 分页存储器 
+- memory, physical 实质存储器 
+- memory, processor specific (PSM)
+- memory, programmable read only
+- memory, random access (RAM)
+- memory, read only (ROM)
+- memory, shadow random access
+- memory, shared 分享存储器 
+- memory, static random access
+- memory, static-column page-mode 静态纵列分页式存储器
+- memory, tag 标志存储器 
+- memory, vector 向量存储器 
+- memory, video random access
+- memory, video 视频存储器 
+- memory, virtual 虚拟存储器 
+- memory-mapped input/output 存储区标示输入／输出 
+- memory-resident database (MRD) 存储器驻留数据库
+- memory-resident program 存储器驻留程序 
+- meniscus 月形透镜，凹凸透镜  
+- menu 菜单  
+- menu 功能表；操作指引  
+- menu, hierarchical 层次结构式操作指引 
+- menu, pop-up 弹出式操作指引 
+- menu, pull-down 下拉式操作指引 
+- menu-driven 操作指引驱动  
+- mercury lamp 水银灯 
+- merge sort 合并式排序 
+- merge 合并  
+- meridian, magnetic 磁子午线 
+- merit figure 效益指数 
+- mesh network topology 网格网络技术
+- mesh pattern 网状 
+- mesh porosity 网孔孔隙度 
+- mesh size 网目大小，筛眼大小，筛孔尺寸 
+- mesh 网；网孔  
+- mesochronous 均步的，平均同步的  
+- mesomorphic substances 多相物质 
+- mesomorphic 多相的  
+- meson 介子  
+- message based 基于消息的 
+- message descriptor list 信息描述符列表
+- message digest algorithm (MD5)
+- message identifier 信息识别码 
+- message loop 消息环 
+- message protocol 信息协定 
+- message queuing消息队列  
+- message sequence charts (MSC)
+- message switching 报文交换,报文转接 
+- message transfer part (MTP)
+- message unit 信息单元 
+- message 信息  
+- message 消息  
+- message-based device 信息类器件 
+- message-oriented middleware 面向报文的中间设备（中间件） 
+- messaging application programming interface
+- meta signaling 元信令 
+- meta-stable 元稳定性的，亚稳定的，准稳的  
+- metabase 元数据库  
+- metadata 元数据  
+- metadata 元数据  
+- metafile 元文件  
+- metal composition 金属复合物 
+- metal content 金属含量 
+- metal electrode face bonding
+- metal electrode leadless face
+- metal fatigue 金属疲劳 
+- metal interconnect 金属互连 
+- metal, double-layer (DLM) 双层金属
+- metal, single-layer (SLM) 单层金属
+- metal, triple-layer (TLM) 三层金属
+- metal-core board 金属芯板 
+- metal-in-gap (MIG) 金属夹层 
+- metal-oxide semiconductor (MOS) 金属氧化半导体
+- metal-oxide surge arrestor (MOSA)
+- metal-oxide varistor (MOV) 金属氧化压敏电阻
+- metalanguage 元语言  
+- metalization layer 金属化层 
+- metallic bond 金属键 
+- metallic thermometer 金属温度计 
+- metallization 金属化  
+- metallized polyester-film capacitor 金属聚脂膜电容器
+- metallized polypropylene capacitor 金属聚丙烯电容器
+- metaprogramming元编程   
+- meter (m) 米 
+- meter 表；计；仪表  
+- meter, panel 面板仪表 
+- meter, phase 相位表 
+- meter, signal-level (SLM) 信号电平计
+- metering 测光  
+- method 方法  
+- method, access 存取方法 
+- method, basic telecommunications access
+- method, boundary tag (BTM)
+- method, boundary-element (BEM) 临界元素法
+- method, common access (CAM)
+- method, gradient projection 梯度投影法
+- method, index sequential access
+- method, queued telecommunications access
+- method, telecommunications access (TCAM)
+- method, teleprocessing access (TPAM)
+- method, virtual telecommunications access
+- methodology 方法论；方法学  
+- metric system 十进制 
+- metric 公制的  
+- metrology 度量衡学；计量学  
+- metropolitan area network (MAN)
+- mho 姆欧  
+- mica sheet 云母片 
+- micro cell 微小区 
+- micro connectors 微连接器 
+- micro electromechanical systems (MEMS)
+- micro imaging 缩微成像，显微摄像 
+- micro 微  
+- micro- 微  
+- micro-channel autodecode bus controller
+- micro-channel bus architecture (MCA)
+- micro-instruction 微指令  
+- microarchitecture 微体系结构  
+- microbend 微弯曲,微型弯头  
+- microcellular 微型蜂窝电话  
+- microchip 微芯片  
+- microcode 微编码  
+- microcomputer 微电脑  
+- microcomputer, single-chip (SCM) 单芯片微电脑
+- microcontroller 微控制器  
+- microdrive 微驱动，微动  
+- microfarad 微法拉  
+- microhenry 微亨利  
+- micrometer 测微计  
+- micron 微米  
+- microphone 传声器；微音器  
+- microphonics 低颤噪效应  
+- microphysics 微观物理学  
+- microprocessor without interlocked pipeline
+- microprocessor 微处理器  
+- microprocessor, digital signal 数字信号微处理器
+- microprocessor, digital tuning 数字调频微处理器
+- microprogramming 微编程  
+- microscope 显微镜  
+- microscope, electron 电子显微镜 
+- microscope, scanning electron 扫描式电子显微镜
+- microscope, scanning tunneling (STM)
+- microsecond 微秒  
+- microstructure of material 材料的微观结构
+- microvia 通过微波  
+- microvolt 微伏特  
+- microwatt 微瓦  
+- microwave communications 微波通信 
+- microwave control interface 微波控制接口
+- microwave integrated circuit (MIC)
+- microwave link 微波链路 
+- microwave radio 微波无线电[通信] 
+- microwave 微波  
+- microwire 微细线  
+- middle tier 中间层 
+- middle wave (MW) 中波
+- middleware 中件  
+- middleware 中间件  
+- migration, stress 应力迁移 
+- milli- (m) 毫 
+- milliampere (mA) 毫安 
+- millibar 毫巴  
+- milligram (mg) 毫克 
+- millihenry (mH) 毫亨利 
+- milliliter (ml) 毫升 
+- millimeter (mm) 毫米 
+- milling system 研磨系统 
+- million floating-point operations per
+- million instruction bytes per
+- million instructions per second
+- million samples per second
+- millisecond (ms) 毫秒 
+- millivolt (mV) 毫伏特 
+- milliwatt (mW) 毫瓦 
+- mime 多用途Internet邮件扩充  
+- mini-circular connector 迷你圆型连接器 
+- mini-computer 小型电脑  
+- miniature small-outline package (MSOP)
+- minimal encapsulation 最小封装，最小包装 
+- minimal phase 最小相位 
+- minimum bend radius 最小弯曲半径
+- minimum deviation 最小偏向 
+- minimum distance code 最小远程代码
+- minimum load 最小负载 
+- minimum mean square error
+- minimum-shift keying (MSK) 最小变换调制
+- minor cycle 次周期 
+- minor failure 轻微故障 
+- minute 分  
+- mirror effect 镜像效应 
+- mirror 镜  
+- mirror, aspherical 非球面镜 
+- mirror, concave 凹镜 
+- mirror, convergent 会聚镜 
+- mirror, convex 凸镜 
+- mirror, divergent 发散球面镜 
+- mirror, spherical 球面镜 
+- mirroring 反射  
+- misalignment 移位  
+- misfire 点火不良  
+- mismatch 不匹配  
+- misorientation 极向错误  
+- misregistration 定位失准  
+- misrouted calls 错误指向呼叫 
+- miss ratio 失配率；落空率；错失率 
+- miss 落空；错失  
+- missing bit 缺失位 
+- mission-critical application 临界任务应用程序 
+- mission-critical server 临界任务服务程序；临界任务服务器 
+- mixed logic 混合逻辑 
+- mixed mode 混合方式 
+- mixed technology 混合技术 
+- mixed-signal design 混合信号设计 
+- mixed-signal integrated circuit (MSIC)
+- mixed-signal simulation 混合信号仿真 
+- mixed-signal test 混合信号测试 
+- mixer 混频器；混声器  
+- mnemonic 助忆符号  
+- mobile IP 移动IP 
+- mobile application part(MAP) 移动通信应用程序部分（原CCITT七号信令系统技术规范）
+- mobile communication systems 移动通讯系统
+- mobile computing device 移动计算设备
+- mobile data 移动数据 
+- mobile database station (MDBS)
+- mobile phone 移动电话 
+- mobile processor 移动处理器 
+- mobile programming system （可）移动程序设计系统
+- mobile satellite service 移动卫星业务
+- mobile satellite system (MSS)
+- mobile station 移动站 
+- mobile subscriber routing number
+- mobile switching center (MSC)
+- mobile telephone exchange (MTX)
+- mobile telephone service 移动电话业务
+- mobility 迁移率  
+- mock-up 模型；样品  
+- mod or modulus 模数或模量
+- modal analysis 模态分析 
+- mode flag 状态旗标 
+- mode 状态；模式  
+- mode, answer 回应模式 
+- mode, asynchronous balanced (ABM)
+- mode, asynchronous receiving 异步接收模式
+- mode, asynchronous response (ARM)
+- mode, asynchronous sending 异步发送模式
+- mode, asynchronous transfer (ATM)
+- mode, auto-detect 自动检测模式 
+- mode, auto-zero 自动归零模式 
+- mode, block 区块模式；资料段模式 
+- mode, burst 脉冲模式；资料组模式 
+- mode, command 命令状态 
+- mode, continuous current 连续电流模式
+- mode, control 控制状态；控制模式 
+- mode, current 电流模式 
+- mode, dot join 光点汇集模式
+- mode, dot roll 光点延伸模式
+- mode, doze 休止模式 
+- mode, exception 异常状态；异常模式 
+- mode, freeze 冻结状态；冻结模式 
+- mode, global 通用模式 
+- mode, graphics 图像模式 
+- mode, hibernation 冬眠模式 
+- mode, interactive 互动模式；交谈模式 
+- mode, kernel 核心模式 
+- mode, normal 正常状态；正常模式 
+- mode, originate 发信状态 
+- mode, power-down 省电状态；省电模式 
+- mode, privileged 特许状态；特许模式 
+- mode, protected 保护状态；保护模式 
+- mode, real 真实状态；真实模式 
+- mode, realtime 实时状态 
+- mode, receiving 接收模式 
+- mode, ring 环状模式 
+- mode, saturation 饱和状态 
+- mode, sending 发送模式 
+- mode, sleep 休止模式 
+- mode, standby 候命状态；预备状态 
+- mode, switch 开关式 
+- mode, tandem 复式状态 
+- mode, text 文字模式 
+- mode, virtual 虚拟状态；虚拟模式 
+- model verification 模型验证 
+- model 模式；模型  
+- model, basic access 基本存取模式
+- model, behavioral simulation 性能模拟模型
+- model, detailed 精细模型 
+- model, ideal gas 理想气体模型
+- model, reference 参考模型 
+- model, state-average 状态平均模型 
+- model-based spectral analysis (MBSA)
+- modeling language 建模语言 
+- modeling 建模  
+- modem pooling 公用MODEM组 
+- modem 调制解调器  
+- modem 调制解调器  
+- modem, dumb 基本型调制解调器 
+- modem, intelligent 智能型调制解调器 
+- modem, optical 光学调制解调器 
+- modem, smart 聪敏型调制解调器 
+- modification 改进；修正；修改  
+- modified modified-frequency modulation (MMFM)
+- modified modular jack (MMJ)
+- modified refractivity 修正的折射率 
+- modified-frequency modulation (MFM) 改进频率调制
+- modifier 修改程序  
+- modifier 修饰字、修饰符  
+- modifier, address 地址修改程序 
+- modular connector 模块式连接器 
+- modular 模数的，模块的  
+- modulation rate 调制[速]率 
+- modulation reference level 调制参考水平
+- modulation section 调制部分 
+- modulation transfer function (MTF)
+- modulation 调制  
+- modulation, adaptive differential pulse
+- modulation, amplitude (AM) 振幅调制
+- modulation, collector 集极调制 
+- modulation, differential pulse code
+- modulation, frequency (FM) 频率调制
+- modulation, intensity 密度调制 
+- modulation, modified modified-frequency (MMFM)
+- modulation, modified-frequency 改进频率调制 
+- modulation, phase (PM) 相位调制
+- modulation, pulse (PM) 脉冲调制
+- modulation, pulse code (PCM)
+- modulation, pulse frequency (PFM)
+- modulation, pulse length (PLM)
+- modulation, pulse width (PWM)
+- modulation, quadrature amplitude (QAM)
+- modulation, quadrature 正交调制 
+- modulation, residual frequency 残留的频率调制
+- modulation, self-phase (SPM) 自相位调制
+- modulatior 调制器  
+- modulator, differential phase shift-keyed
+- modulator, electro-optic 电光调制器 
+- modulator, pulse 脉冲调制器 
+- module generation 模块生成 
+- module identification line (MODID)
+- module 模块  
+- module 模组  
+- module, audio mixing (AMU)
+- module, multichip (MCM) 多芯片模组
+- module, single-in-line memory (SIMM)
+- module, sub- 次模组 
+- module, translator 转换程序模组 
+- modulo (mod) 模数 
+- modulus of elasticity 弹性模数
+- modulus 模数  
+- modulus, bulk 容变弹性模数 
+- modulus, shear 切变模量 
+- molar heat capacity 克分子热容
+- mold flash 模子溢料;模子毛刺 
+- mole (mol) 克分子 
+- molecular action 分子作用 
+- molecular beam 分子束 
+- molecular force 分子力 
+- molecular kinetic theory 分子运动理论
+- molecular magnet 分子磁 
+- molecular theory 分子理论 
+- molecular weight 分子量 
+- molecular-beam epitaxy 分子束外延 
+- molecule 分子  
+- molecule, polar 极向分子 
+- molten carbonate fuel cell
+- moment arm 力矩臂 
+- moment of couple 力偶
+- moment of force 力矩
+- moment of momentum 动量矩
+- moment, anti-clockwise 反时针力矩 
+- moment, clockwise 顺时针力矩 
+- moment, effective magnetic 有效磁矩
+- moment, electric dipole 电偶极矩
+- moment, magnetic 磁矩 
+- moment, net 净力矩 
+- momentum 动量  
+- momentum, angular 角动量 
+- momentum, conservation of angular
+- momentum, conservation of 动量守恒
+- momentum, moment of 动量矩
+- monitor 监视器  
+- monitor, black-and-white 黑白监视器 
+- monitor, color 彩色监视器 
+- monitor, power waveform 电子波形监察仪
+- mono-channel universal serial controller
+- mono-mode optical fiber 单模光纤
+- monochromatic light 单色光 
+- monochromatic 单色  
+- monochrome display adapter (MDA)
+- monochrome super-twisted 单色超级扭曲 
+- monochrome 单色  
+- monolithic microwave integrated circuit
+- monolithic 单片  
+- monomer 单基体  
+- monopole 单极子  
+- monopole, magnetic 磁单极 
+- moore‘s law 摩尔定律 
+- morphology, surface 表面形态 
+- mosaic 马赛克  
+- most derived class最底层的派生类 
+- most significant bit 最大有效数字
+- motherboard 母板  
+- motion Picture Experts Group
+- motion Picture Experts Group
+- motion Picture Experts Group
+- motion estimator 运动估算量，移动估算器 
+- motion vector 运动矢量 
+- motion 运动  
+- motion, acceleration in circular
+- motion, angular harmonic 角谐运动
+- motion, angular 角运动 
+- motion, circular 圆周运动 
+- motion, curvilinear 曲线运动 
+- motion, period 周期运动 
+- motion, projectile 抛体运动 
+- motion, rectilinear 直线运动 
+- motion, relative 相对运动 
+- motion, simple harmonic 简谐运动
+- motion, uniform circular 均匀圆周运动
+- motion, wave 波动 
+- motor controller 电动机控制器；马达控制器 
+- motor 马达；电动机  
+- motor, brushless 无刷式马达 
+- motor, direct current 直流马达
+- motor, disc spindle 碟式转轴马达
+- motor, servo 伺服马达 
+- motor, spin 旋转马达 
+- motor, step 步进马达 
+- motor, voice coil 音圈马达
+- mount 安装；装设；装置  
+- mounter, chip 芯片安装器；片式元件组装机 
+- mounting hole 安装孔 
+- mouse 鼠标  
+- mouse 鼠标器  
+- mouse, optical 光学鼠标器 
+- move 搬移  
+- movement, substrate dopant 基板渗染运动
+- moving standard deviation (MSD)
+- moving-coil galvanometer 圈转电流计 
+- multi-block transfer 多重资料组传送多信道, 多点分布业务
+- multi-dimensional 多维  
+- multi-gap color filter 多隙彩色滤波器
+- multi-layer transient voltage suppressor
+- multi-physical media 多重实体媒介 
+- multi-protocol operation 多重协定作业 
+- multi-protocol serial communication interface
+- multi-protocol serial communications 多重协定串行通讯
+- multi-protocol 多重协定  
+- multi-purpose 多用途  
+- multi-range 多量程  
+- multi-register bank 多重暂存器组 
+- multi-register set (MRS) 多重暂存器集
+- multi-register 多重暂存器  
+- multi-segmented 多重分区的  
+- multi-slope conversion 多重斜率转换 
+- multi-station access unit (MAU)
+- multi-tasking 多任务  
+- multi-thread 多线程  
+- multi-tone power ratio (MTPR)
+- multi-user dimension (MUD) 多用户空间
+- multi-user domain 多用户域 
+- multi-user 多用户  
+- multi-vendor interface protocol (MVIP)
+- multiburst 多重脉冲  
+- multicast address resolution server
+- multicast address resolution service
+- multicast delegate 组播委托、多点委托 
+- multicast 多路广播，多播，组播  
+- multichip integrated circuit 多芯片集成电路
+- multichip module (MCM) 多芯片模组
+- multidimensional OLAP （MOLAP） 多维OLAP（MOLAP）
+- multidrop connection 分支式连接 
+- multidrop parallel bus 分支平行总线
+- multidrop 分支  
+- multifiber cable 多纤光缆 
+- multifrequency (MFC) 多频率 
+- multifrequency dialing 多频率拨号 
+- multifrequency signaling 多频率信令 
+- multifunction card 多功能卡 
+- multifunction channel 多功能通道 
+- multifunction 多功能  
+- multilayer board 多层板 
+- multilayer ceramic 多层陶瓷 
+- multilayer substrate 多层基片,多层衬底 
+- multilayer 多层的  
+- multimaster arbitration 多控制判优 
+- multimaster 多控制  
+- multimedia cable network system
+- multimedia personal computer 多媒体个人电脑
+- multimedia 多媒体  
+- multimeter 万用表  
+- multimeter, digital (DMM) 数字万用表
+- multimode fiber 多模光纤 
+- multipath error 多径误码 
+- multipath 多径干扰  
+- multiple algorithm 多重算法 
+- multiple apertur 多孔径 
+- multiple array programmable logic
+- multiple backbone network 多重中枢网络
+- multiple bus master device
+- multiple channel access (MCA)
+- multiple channel amplifier 多通道放大器
+- multiple channel 多通道 
+- multiple configuration 复式配置 
+- multiple instruction/multiple data (MIMD)
+- multiple memory planes 多重存储器层
+- multiple metal layer tape
+- multiple passes 多次通过 
+- multiple reflection 多次反射 
+- multiple reuse pattern (MRP)
+- multiple service-class support 多重服务级支持
+- multiple system operator 多系统操作员,
+- multiple time programmable 可多次编程的
+- multiple track 多磁道 
+- multiplex 多工；多路  
+- multiplexed analog component (MAC)
+- multiplexed analog compression (MAC)
+- multiplexed non- 非多工式 
+- multiplexed pixel input port
+- multiplexer (MUX) 多工器 
+- multiplexer, two-input 双输入多工器 
+- multiplexing, frequency-division (FDM) 分频多工
+- multiplexing, nearly-instantaneously companded audio(NICAM)
+- multiplexing, statistical 统计多工 
+- multiplexing, time division (TDM)
+- multiplexing, time-compression (TCM) 时间压缩多工
+- multiplexing, variable-rate adaptive (VRAM)
+- multiplexing, wavelength-division (WDM) 分波长多工
+- multiplication factor 倍增因素 
+- multiplier 乘法器；倍加器  
+- multiplier, current 电流倍增器 
+- multiply and accumulate unit
+- multiply instruction 乘法指令 
+- multiplying converter 乘法转换器 
+- multipoint control unit (MCU)
+- multipoint 多点连接  
+- multipole 多极  
+- multiprocessing, Parallel Reduced Instruction
+- multiprocessor architecture extension (MPAX)
+- multiprocessor synchronization 多处理器同步化 
+- multiprocessor 多处理器  
+- multiprogramming 多重编程  
+- multipulse LPC (MPLPC) 多脉冲线性预测编码
+- multipulse maximum likelihood quantization
+- multipurpose internet mail extensions
+- multirate DSL (MDSL) 多速率数子用户线
+- multisystem extension interface (MXI)
+- multisystem extension interface bus
+- multisystem 多线路系统  
+- multitasking operating system 多任务作业系统
+- multitasking system 多任务系统 
+- multitasking 多任务  
+- multithreaded server application 多线程服务器应用程序
+- multiturn rotary encoder 多匝旋转编码器，多圈回转编码器
+- multiuser 多用户  
+- multiuser 多用户  
+- music synthesizer 音乐合成器 
+- musical instrument digital interface
+- musical scale 音阶 
+- mutable 可变的  
+- mute 哑音  
+- mutex 互斥元、互斥体  
+- muting 噪声抑制  
+- mutual inductance 互感 
+- mutual synchronization 互同步 
+- myopia 近视  
+- 
+##  N
+- 
+- n-well diode n阱二极管 
+- nack (negative acknowledgement) 否定应答
+- name server 名称服务器 
+- named parameter 命名参数 
+- named pipe 命名管道 
+- namespace 名字空间、命名空间  
+- nano- (n) 毫微:纳 
+- nanobot 毫微瓦，纳级泥塞  
+- nanocode 纳代码  
+- nanoinstruction 纳指令  
+- nanometer (nm) 毫微米 
+- nanophase materials 纳相材料 
+- nanosecond (ns) 毫微秒 
+- nanotechnology 纳 (10-9 )
+- narrow band 窄频带 
+- narrow-band amplifier 窄频放大器 
+- narrow-band axis 窄频轴 
+- narrow-band filter 窄频带滤波器 
+- national ISDN-1 国家综合业务数字网-1 
+- national center for supercomputing
+- national society of cable
+- nationwide paging network 全球寻呼网络
+- native code 本地码、本机码 
+- native 原生的、本地的  
+- natural air cooling 自然空气冷却
+- natural frequency 自然频率 
+- natural glitch filter 自然干扰过滤器
+- natural oscillation 自然振荡 
+- navigation software 导引软体；导航软体 
+- navigation 导引；导航  
+- near infrared 近红外线 
+- near video on demand
+- near-body capacitance 近体电容 
+- near-end crosstalk 近端交越干扰 
+- near-letter quality 接近优质字符 
+- near-letter-quality printing 接近优质字符打印 
+- nearly instantaneous companded audio
+- negate 否定；非  
+- negation 否定；非  
+- negative acknowledge character 否认字符
+- negative bias 负偏压 
+- negative charge 负电荷 
+- negative electrode 负电极 
+- negative feedback 负反馈 
+- negative gate drive 非门驱动
+- negative ion 负离子 
+- negative logic 负逻辑 
+- negative potential 负电位 
+- negative pressure 负压力 
+- negative regulator 负[压]调节器 
+- negative resist 负电阻，负阻 
+- negative resistance 负电阻 
+- negative sequence 负序列 
+- negative supply generator 负供应产生器
+- negative temperature coefficient (NTC)
+- negative transient 负瞬态 
+- negative-edge （脉冲）负沿，（脉冲）下降沿  
+- negative-true 假-真(逻辑)  
+- nematic 向列  
+- nematic, twisted (TN) 扭曲向列
+- neodymium 钕  
+- neon 氖  
+- neper 奈培  
+- nested class 嵌套类 
+- nested query 嵌套查询 （for
+- nested table 嵌套表 （for
+- nested 嵌套  
+- nesting 箝套  
+- net force 净力 
+- net moment 净力矩 
+- net pattern 网模式 
+- net 网  
+- net, parasitic 寄生网 
+- netcitizen 网民; 网上公民 
+- netiquette 网上礼仪  
+- netizen 从事网络的人  
+- netlist comparator 排线表列比较器 
+- netlist 排线表列  
+- network access points (NAP)
+- network access server 网络接入服务器
+- network adapter 网络适配器 
+- network address translator (NAT)
+- network administrator 网络管理员 
+- network architecture 网络结构 
+- network attached resource computer
+- network card 网卡 
+- network computing system (NCS)
+- network control program (NCP)
+- network control protocol (NCP)
+- network element 网络部件 
+- network file system (NFS)
+- network function 网络函数 
+- network information center (NIC)
+- network interface card (NIC)
+- network interface unit (niu)
+- network layer 网络层 
+- network linear bus 网络线性总线
+- network management system 网络管理系统
+- network management unit (NMU)
+- network management 网络管理 
+- network master 网络主机 
+- network model 网络模型 
+- network news transfer protocol
+- network node interface (NNI)
+- network operating system (NOS)
+- network processing unit (NPU)
+- network server 网络伺服器 
+- network service provider (NSP)
+- network station 网络站 
+- network subsystem (NSS) 网络子系统
+- network terminal unit (NTU)
+- network termination (NT) 网络终端
+- network termination - level
+- network termination - level
+- network time protocol (NTP)
+- network user identification (NUI)
+- network 网络  
+- network 网络  
+- network, backbone 中枢网络 
+- network, baseband 基频带网络 
+- network, branch 分支网络 
+- network, broadband 宽频带网络 
+- network, circuit switched data
+- network, digital 数字网络 
+- network, distributed operating multi-access
+- network, distributed system (DSN)
+- network, distributed 分布式网络 
+- network, enterprise 企业网络 
+- network, ethernet 以太网络 
+- network, ideal 理想网络 
+- network, information system (ISN)
+- network, integrated digital (IDN)
+- network, integrated services digital
+- network, interface layer (NIL)
+- network, international value-added (IVAN)
+- network, local area (LAN)
+- network, local distributed data
+- network, local packet switched
+- network, metropolitan area (MAN)
+- network, multiple backbone 多重中枢网络
+- network, optical 光纤网络 
+- network, packet switched data
+- network, parasitic 寄生网络 
+- network, public data 公共数据网络
+- network, public switched telephone
+- network, ring 环状网络 
+- network, speech 语音网络 
+- network, star 星形网络 
+- network, synchronous optical (SONET)
+- network, token-ring 令牌环网络 
+- network, value-added (VAN) 加值网络
+- network, wide area (WAN)
+- networked multimedia 网络多媒体 
+- networking node 网络节点 
+- neural network 神经网络 
+- neutral equilibrium 随遇平衡 
+- neutral ground 中性接地 
+- neutral particle 中性粒子 
+- neutral point 中和点 
+- neutral 中性  
+- neutralization 中和  
+- neutrino 中微子  
+- neutron activation 中子激发 
+- neutron 中子  
+- neutron, free 自由中子 
+- newsgroup 新闻组  
+- next-generation Internet 下一代互连网 
+- nibble 半字节  
+- nick 刻痕；沟；槽  
+- nickel (Ni) 镍 
+- nickel cadmium battery 镍镉电池
+- nickel hydride 镍氢 
+- nickel metal hydride battery
+- nine‘s complement 十进制反码 
+- niobate 酸盐  
+- nit 尼特  
+- nitride, plasma silicon 等离子氮化硅
+- nitride, silicon 氮化硅 
+- nitrogen (N) 氮 
+- no load voltage 空载电压
+- no-clean flux 免清洗焊剂 
+- no-clean soldering 免清洗焊接 
+- no-go 不通过  
+- no-load test 无负载测试 
+- no-op 无操作  
+- noble gas 惰性气体 
+- noble metal 贵金属 
+- nodal analysis 节点分析 
+- nodal verification 节点验证 
+- node delay 节点延迟 
+- node equations 节点方程序 
+- node identifier 网点识别码 
+- node number 节点编号 
+- node 波节；节点  
+- node, head 头节点 
+- node, hidden 隐藏节点 
+- node, inner 内节点 
+- node, logic 逻辑节点 
+- node, summing 总和节点 
+- noise figure 噪声系数 
+- noise immunity 无噪声干扰 
+- noise level 噪声水平 
+- noise margin 噪声容限 
+- noise power ration (NPR)
+- noise reduction (NR) 噪声抑制
+- noise 噪音；噪声  
+- noise, common-mode 共态噪声 
+- noise, impulse 脉冲噪声 
+- noise, resistor thermal 电阻热噪声
+- noise, single side band
+- noise, sub-harmonic 次谐波噪声 
+- noise, white 白噪音 
+- noise, wide band 宽频带杂讯
+- nomenclature 术语；命名  
+- nominal operating current 标称操作电流
+- nominal value 面值 
+- nominal voltage 额定电压 
+- nominal 标称  
+- non linear trigger 非线性触发
+- non-adjustable 不可调校  
+- non-cacheable 非缓冲存储器化  
+- non-conductive 非导电的  
+- non-conductor 非导体  
+- non-coplanar 非共面  
+- non-critical failure 非关键故障 
+- non-destructive testing 无破坏测试 
+- non-erasable storage 不可拭除储存 
+- non-glare 不反光  
+- non-interlaced 非交织的；非隔行的  
+- non-interlocking pipeline 非互锁式管线 
+- non-ionic contaminant 非离子污染物 
+- non-linear load 非线性负载 
+- non-linear optical interaction 非线性光学作用
+- non-linear trigger 非线性触发 
+- non-linearity, differential (DNL) 微分非线性
+- non-linearity, integral (INL) 积分非线性
+- non-luminous body 非发光体 
+- non-multiplexed 非多工式  
+- non-orthogonal 非正角正交  
+- non-participant mode 非参与方式，非共享方式 
+- non-persistent CSMA 非持续型CSMA 
+- non-recurring engineering cost (NRE)
+- non-repeating runout (NRR) 非重复性振摆
+- non-return to zero (NRZ)
+- non-volatile memory 非易失性存储器 
+- non-wetting 不润湿  
+- nonactivated 未激活的，非活动的  
+- nondependent name  
+- nonindialing PBX 非拨入PBX 
+- nonionic 非离子的,非电离的  
+- nonplanar microstrip antenna 非平面微带天线
+- nonpolar 无极性的  
+- nonrepudiation 认可  
+- nonvolatile memory 非易失性存储器 
+- normal mode 正常状态；正常模式 
+- normal reaction 正交力 
+- normal 法线  
+- normal-mode noise 正常状态噪声 
+- normalize 正常化  
+- normalized packet delay 规范化分组延迟
+- normally closed contact 常闭触点
+- normally open contact 常开触点
+- not connected 非连接 
+- notation 符号；记号  
+- notch filter 陷波滤波器 
+- notch 槽口  
+- notebook computer 笔记本电脑 
+- nozzle 喷管；喷嘴  
+- nozzle, ultrasonic atomizing 超音波雾化喷管
+- nuclear fission 核裂变 
+- nuclear fusion 核聚变 
+- nuclear physics 核物理学 
+- nuclear radiation 核幅射 
+- nuclear reaction dynamics 核反应动力学
+- nuclear reaction 核反应 
+- nuclear reactor 核反应器 
+- nucleon 核粒  
+- nucleus 核子  
+- nucleus, atomic 原子核 
+- nucleus, daughter 子核 
+- nucleus, parent 母核 
+- nucleus, product 生成核 
+- null balance 衡消 
+- null characters 空字符 
+- null loop 零位环路 
+- null modem 无效调制解调器 
+- null point 零点 
+- null 零  
+- number portability 数字可移植性, 号码可移植性
+- number 号码；编号  
+- number, atomic 原子序数 
+- number, mass 质量数 
+- number, node 网点编号 
+- numeric pagers 数字传呼机 
+- numeric, code 代码数字 
+- numerical aperture 数值孔径 
+- numerical application 数值应用 
+- numerical control (NC) 数控
+- numerical estimator 数字估值器 
+- numerical map 数值变换 
+- numerical 数字的；数值的  
+- numerically controlled oscillator (NCO)
+- 
+## O
+- 
+- object based 基于对象的 
+- object distance 目标距离 
+- object file 目标文件 
+- object file 目标文件 
+- object model 对象模型 
+- object oriented 目标取向 
+- object oriented 面向对象的 
+- object pooling 对象池化 
+- object program 目标程序 
+- object 对象  
+- object 目的；物  
+- object-oriented language 面向目标语言 
+- object-oriented programming system (OOPS)
+- objective lens 物镜 
+- oblique incidence 斜入射 
+- observer, built-in logic block
+- occupied bandwidth 占用频带 
+- occurrence 发生；发生率  
+- octal 八进制  
+- octave 八度音阶  
+- octet 八位字节  
+- odd harmonic 奇谐波 
+- odd parity 奇数奇谐校验 
+- odd-form assembly 异形件组装,不规则件组装 
+- odd-form component 异形元件,不规则元件 
+- odometer 测距计  
+- oersted 奥斯特  
+- off board 外接；板外 
+- off contact 断开触点 
+- off 关断  
+- off, Gaussian roll- 高斯转出
+- off, roll- 转出 
+- off-board 离板的  
+- off-hook 挂断  
+- off-line flyback 脱机回扫，离线逆程 
+- off-line power supply 脱机电源
+- off-line 离线  
+- off-page access 离页存取 
+- off-peak energy 非峰值能量 
+- off-state 关断状态  
+- off-the-shelf hardware 现成硬件，流行硬件，畅销硬件 
+- offered traffic 流入通信量,提供通信量 
+- office automation 办工室自动化 
+- offset address 偏移地址 
+- offset compensation 偏移补偿 
+- offset current 偏移电流 
+- offset pointer 偏移指标 
+- offset quadrature phase shift
+- offset voltage 偏移电压 
+- offset, lightly doped (LDO)
+- offset, section 区段偏移 
+- offset, segment 分段偏移 
+- ohm 欧姆  
+- ohmmeter 电阻计  
+- oil-immersed 油浸的  
+- omnidirectional 全向的  
+- on 接通；导通  
+- on-board memory 在板存储器,板上存储器 
+- on-board programming 在板编程 
+- on-board 板上  
+- on-chip delay 片上延迟 
+- on-chip dynamic memory management
+- on-chip interconnect 片内互连 
+- on-chip 片上；芯片上  
+- on-hook 接通  
+- on-line analytical processing (OLAP)
+- on-line compiler 连线编译器 
+- on-line processing 联机处理 
+- on-line system 在线系统 
+- on-line transaction processing (OLTP)
+- on-line 连线  
+- on-off keying (OOK) 开关调制
+- on-page access 页上存取 
+- on-peak energy 峰巅能量,峰值能量 
+- on-resistance 导通电阻  
+- on-screen display (OSD) 萤幕显示
+- on-state resistance 导通状态电阻 
+- on-state 使用状态；接通状态；导通状态  
+- on-track verification 磁轨上验证 
+- on/off 通／断；开／关  
+- one dimensional (1-D) 一维
+- one wait-state 一个等候状态 
+- one-ahead addressing 隐寻址 
+- one-chip product 单片产品 
+- one-dimensional array 一维阵列 
+- one-hour rating 一小时定额 
+- one-loop circuit 单环电路 
+- one-page structure 单一分页结构 
+- one-shot 单稳态  
+- one-slot interleaving 单槽交错 
+- one-time fuse 一次性的保险丝 
+- one-time programmable 可一次性编程的，一次可编程的 
+- one-to-many relationship 一对多关系 （for
+- one-to-one relationship 一对一关系 （for
+- one-way trunk 单向中继线 
+- ones complement 二进制反码 
+- ongoing reliability testing (ORT)
+- online analytical processing （OLAP）
+- online redo log 联机重做日志
+- online transaction processing （OLTP）
+- op, pseudo- 虚运算 
+- opaque body 不透明体 
+- opaque 不透明  
+- open architecture 开放式结构 
+- open circuit voltage (OCV)
+- open circuit 开路 
+- open collector 集电极开路 
+- open data-link interface (ODI)
+- open distributed processing (ODP)
+- open ended 可扩充 
+- open loop 开环（回路） 
+- open network architecture (ONA)
+- open programming interface 开放编程接口
+- open shortest path first
+- open software description (OSD)
+- open software foundation (OSF)
+- open source 开放资源 
+- open sources 源代码开放 
+- open system architecture 开放系统结构
+- open systems 开放系统 
+- open video system 公共视频系统
+- open 开启；开路  
+- open-circuit voltage (OCV) 开路电压，断路电压
+- open-ended system 可扩充系统 
+- open-ended 可扩充的  
+- open-frame construction 开放式框架结构 
+- open-loop gain 开环增益 
+- open-loop voltage gain 开环电压增益
+- operability 操作能力  
+- operand register 运算元寄存器 
+- operand 操作数  
+- operand 运算元  
+- operand, destination 目的运算元 
+- operand, source 源运算元 
+- operate 操作；运算  
+- operated, air- 气动的 
+- operating conditions 操作条件 
+- operating frequency 作业频率 
+- operating period 操作期 
+- operating system (OS) 操作系统
+- operating system （OS） 操作系统
+- operating temperature range 工作温度范围
+- operating temperature 作业温度 
+- operating voltage 作业电压 
+- operation Class B linear
+- operation code (opcode) 运算代码
+- operation 操作  
+- operation, multi-protocol 多重协定作业 
+- operation, pipeline 管线作业 
+- operation, transform 变换操作 
+- operation-code fetch 运算代码找取 
+- operational amplifier (opamp) 运算放大器
+- operational register 操作寄存器 
+- operational state 作业状态 
+- operational transconductance amplifier (OTA)
+- operations and maintenance (O&M)
+- operations support system (OSS)
+- operator 运算子  
+- operator 操作符、运算符  
+- operator, Boolean 布尔运算子 
+- opposite phase 反相 
+- ops pseudo- 虚运算 
+- optical activity 旋光性 
+- optical alignment 光学定位 
+- optical assembly 光学部件,光学配件 
+- optical attenuator 光学衰减器 
+- optical axis 光轴 
+- optical bandwidth 光频带 
+- optical cable 光学电缆 
+- optical carrier level 1
+- optical carrier level 12
+- optical carrier level 192
+- optical carrier level 3
+- optical carrier level 48
+- optical center 光心 
+- optical character recognition (OCR)
+- optical circulator 光学循环器 
+- optical coherence tomography (OCT)
+- optical connector 光连接器 
+- optical densitometer 光密度计 
+- optical disk 光盘 
+- optical drive 光盘机 
+- optical fiber 光学纤维；光纤 
+- optical filter 滤光器；滤光镜 
+- optical imaging system (OIS)
+- optical interconnect 光互连 
+- optical isolator 光学隔离器 
+- optical line termination (OLT)
+- optical lithography 光学平板刻法 
+- optical mask 光掩模，光屏蔽 
+- optical memory 光存储器 
+- optical modem 光学调制解调器 
+- optical mouse 光学鼠标器 
+- optical network interface (oni)
+- optical network unit (ONU)
+- optical network 光纤网络 
+- optical path 光程 
+- optical phase correction (OPC)
+- optical power 光学功率 
+- optical processor 光学处理器 
+- optical proximity correction (OPC)
+- optical receiver 光学接收器 
+- optical spectrum 光谱 
+- optical storage 光存储[器] 
+- optical switch 光学开关 
+- optical transmitter 光学传送器 
+- optical waveguide 光学波导 
+- optical-disk controller 光盘机控制器 
+- optical-disk drive 光盘驱动器 
+- optical-neuro chip 光学神经芯片 
+- optically denser medium 光密介质
+- optically thinner medium 光疏介质
+- optics 光学  
+- optics, fiber 光纤 
+- optics, geometrical 几何光学 
+- optimization 优化；优化过程  
+- optimization, global 通用优化 
+- optimization, zone 分区优化 
+- optimizer 优化器  
+- optimizer 优化程序；优化器  
+- optimizer, global 通用优化程序 
+- optimizing compiler 优化编译程序 
+- option 选项  
+- option 选件；选择  
+- optional tasks 任选事项 
+- opto-electronic device 光电器件 
+- opto-electronics 光电  
+- optocoupler 光耦合器  
+- optoelectronic integrated circuit (OEIC)
+- optoisolator 光隔离器，光绝缘体  
+- orbit 轨道  
+- order of magnitude 数量级
+- order, engineering change (ECO)
+- order, high 高值位 
+- order, low 低值位 
+- ordered list 有序列 
+- ordinary wave 普通波 
+- organic LED 有机发光二极管 
+- organic photo conductor 有机感光导体
+- organic resist 有机保护层 
+- organic solvent 有机溶剂 
+- organic substrate 有机基片，有机基板，存机基底 
+- oriented 主导；取向；导向  
+- oriented, object 面向目标 
+- oriented, process 面向过程 
+- orifice 孔；眼  
+- origin 原点  
+- original design manufacturer (ODM)
+- original equipment manufacturer (OEM)
+- originate 发讯  
+- originating-call screening (OCS) 主叫显示
+- orthogonal code division multiplexing
+- orthogonal frequency division multiplexing
+- orthogonal operation code 正交运算代码
+- orthogonal 互相垂直；直角正交  
+- orthogonal, non- 非直角正交 
+- orthogonality 正交性  
+- oscillating current 振荡电流 
+- oscillation wavelength 振荡波长 
+- oscillation 振荡  
+- oscillation, continuous 连续振荡 
+- oscillation, damped 阻尼振荡 
+- oscillation, isochronous 等时振荡 
+- oscillation, natural 自然振荡 
+- oscillator 振荡器  
+- oscillator, clock 时钟振荡器 
+- oscillator, collector tuning 集电极调谐振荡器
+- oscillator, crystal 晶体振荡器 
+- oscillator, phase shift 相位位移振荡器
+- oscillator, relaxation 张弛振荡器 
+- oscillator, voltage controlled (VCO)
+- oscilloscope 示波器  
+- oscilloscope, cathode ray (CRO)
+- oscilloscope, digital storage (DSO)
+- oscilloscope, digital 数字示波器 
+- osmosis 渗透；渗透性  
+- osmotic pressure 渗透压 
+- out phase 异相；异相位 
+- out, first-in first- (FIFO)
+- out, last-in first- (LIFO)
+- out-gassing 排气，吹气处理  
+- out-of-band signaling 频带外传讯 
+- out-of-frame (OOF) 帧失调,帧失步 
+- out-of-phase 异相；异相位  
+- out-page access 离页存取 
+- out-phase 异相  
+- outage 停用；终止；断电  
+- outbound calls 网外呼叫，出网呼叫 
+- outdoor use 户外使用 
+- outer join 外联接 （for
+- outer lead bonding window
+- outer lead bonding 外引线粘结，外引线键合
+- outer lead 外引线 
+- outgassing 排气，除气  
+- outgoing call barred (OCB)
+- outline font 空心字 
+- outlining, font 字形描绘 
+- output attenuation 输出衰减 
+- output choke 输出扼流圈 
+- output current limit 输出电流限制
+- output current 输出电流 
+- output device 输出装置 
+- output enable 输出允许 
+- output filter 输出滤波器 
+- output foldback current limit
+- output impedance 输出阻抗 
+- output input/ (I/O) 输入／输出
+- output load current 输出负载电流
+- output loop 输出环路 
+- output pin 输出接脚 
+- output rectifier 输出整流器 
+- output saturation voltage 输出饱和电压
+- output setting time 输出设定时间
+- output slew rate 输出转换率
+- output transformer 输出变压器 
+- output voltage swing 输出电压摆动
+- output voltage 输出电压 
+- output 输出  
+- output, converging 会聚输出 
+- output, floating 浮动输出 
+- output, half-tone 半色调输出 
+- output, photodiode 光电二极管输出 
+- output, push-pull 推挽式输出 
+- output, test data (TDO)
+- output, work 功输出 
+- output-load current 输出负载电流 
+- output-voltage swing 输出电压摆动 
+- outsourcing 外包;外购  
+- oven 炉  
+- overall performance 整体性能 
+- overcharge 过充电；超载  
+- overcurrent 过电流  
+- overdamped 过阻尼  
+- overdrive 过驱动  
+- overflow 溢位；溢值  
+- overflow 上限溢位（相对于underflow）  
+- overflow, finite 有限溢值 
+- overglassing 全玻璃覆盖,全玻璃封装  
+- overhead projector 投影机 
+- overhead time 开销时间 
+- overhead 开销  
+- overhead 额外开销  
+- overlap angle 重叠角 
+- overlap capacitance 重叠电容 
+- overlap load 重叠载入 
+- overlap 重叠  
+- overlapped register window 重叠寄存器视窗
+- overlay accuracy 覆盖准确度 
+- overlay program 重叠程序 
+- overlay register 叠层寄存器 
+- overlay 重叠；覆盖；叠层  
+- overload protection 过载保护 
+- overload resolution 重载决议 
+- overload 过载  
+- overload 重载  
+- overloaded function 重载的函数 
+- overloaded operator 被重载的操作符 
+- override 超越；过量负荷  
+- override 覆写、重载、重新定义  
+- overrun 超越误差  
+- overshoot voltage 过电压，过冲电压 
+- overshoot 超越；超越度；过冲  
+- overtone 泛音  
+- overvoltage protection (OVP) 过压保护
+- overvoltage 过电压  
+- overwrite error 重写错误；覆写错误 
+- overwrite 重写；覆写  
+- own-brand manufacturer (OBM) 自有品牌生产商
+- oxidant 氧化剂  
+- oxidation 氧化  
+- oxidation, thermal 热氧化 
+- oxide content 氧化物含量 
+- oxide, gate 门氧化物 
+- oxygen (O) 氧 
+- ozone layer 臭氧层 
+- ozone-depletion potential (ODP) 臭氧层损耗潜能值
+- 
+## P
+- 
+- p-frame P- 帧 
+- pH level pH 级
+- pack, battery 电池包；电池组件 
+- pack, ceramic quad flat
+- pack, flat 扁平封装 
+- pack, plastic quad flat
+- pack, quad flat (QFP)
+- pack, self-solder quad flat
+- pack, thin quad flat
+- package outline 封装外形 
+- package 包  
+- package 包装；封装； 封装组件；套装软件 
+- package, ceramic dual-in-line (CerDIP)
+- package, ceramic leaded chip
+- package, ceramic 陶瓷封装 
+- package, dual-in-line (DIP) 双列直插式封装
+- package, gull-wing 鸥翼式封装 
+- package, pin grid array
+- package, plastic dual-in-line (PDIP)
+- package, plastic flat (PFP)
+- package, plastic leadless chip
+- package, plastic 塑料封装 
+- package, quarter-sized outline (QSOP)
+- package, shrink quad flat
+- package, shrink small outline
+- package, single-in-line (SIP) 单列直插式封装
+- package, small outline (SOP)
+- package, small outline J-lead
+- package, software 软件封装 
+- package, thin small outline
+- package, vertical surface-mount (VSMP)
+- package, zigzag in-line (ZIP)
+- packaging density 封装密度 
+- packaging level 封装等级 
+- packaging machine 包装机；封装机 
+- packaging 打包  
+- packed data 数据信息包 
+- packet ID 包标志 
+- packet assembler/disassambler (PAD) 包组装/拆卸器，包组装/拆卸程序
+- packet assembly/disassembly (PAD) 信息包汇编；反汇编
+- packet caching 分组缓存,包缓存 
+- packet channel feedback (PCF)
+- packet data unit (PDU)
+- packet delay variation (PDV)
+- packet delay 包延迟 
+- packet handler interface (PHI)
+- packet handler 包处理程序 
+- packet header 包报头 
+- packet internet groper (ping)
+- packet layer protocol 信息包层协定
+- packet reservation multiple access
+- packet switched data network
+- packet switching 分封交换 
+- packet 信息包  
+- packet-over-Sonet (POS)SONET 之上的分组模式 
+- packetization 分组，分包  
+- packing density 组装密度 
+- packing, tape 带式包装 
+- pad array carrier 焊盘阵列载体
+- pad cell 填补储存格 
+- pad grid array (PGA)
+- pad ring 填补环 
+- pad stack 插入栈,扩充栈 
+- pad 焊垫  
+- pad, test 测试焊垫 
+- padcap 焊帽  
+- paddle switch 闸门式开关 
+- page access 分页存取 
+- page attribute 分页属性 
+- page description language 页描述语言
+- page fault 分页错误 
+- page frame 分页框架 
+- page interleave 分页交错 
+- page space 页空间 
+- page zero 零页面 
+- page 分页  
+- page, graphic 图像分页 
+- page, logical 逻辑分页 
+- page, swapping out 交换出分页
+- paged, demand 需求分页 
+- pager printer 分页打印程序, 分页打印机
+- pager 调页程序；传呼机  
+- paging by zone 分区寻呼,
+- paging message processor 寻呼信息处理器
+- paging segment 分页分段 
+- paging speakers 寻呼员 
+- paging unit 分页单元 
+- paging, virtual 虚拟分页 
+- pair selected ternary (PST)
+- pair, ion 离子偶 
+- pair, wire 对偶线 
+- pair-wise routing 双层路由法 
+- palette 调色板  
+- palette 调色板  
+- palette, color 彩色调色板 
+- palette, true-color 真色调色板 
+- palladium 钯  
+- pan 摇全景；摇镜头  
+- panel board 配电盘，配电箱；操作控制盘 
+- panel emitter 平板放射器 
+- panel meter 面板仪表 
+- panel 平板；面板  
+- panel, back 背板 
+- panel, flat 扁平面板 
+- panel, fluorescent indicator (FIP)
+- panel, front 面板 
+- panning 摇摄全景  
+- paper-base laminate 纸基层压板 
+- parabolic reflector 抛物线反射器 
+- paradigm shift 思考模式的转移 
+- parallax method 视差法 
+- parallax 视差  
+- parallel T-network 平行T形网络 
+- parallel bit, 位平行 
+- parallel circuit 并联电路 
+- parallel combination 并联汇编 
+- parallel communications 平行通讯 
+- parallel interface 并行接口 
+- parallel load rate 平行负载率
+- parallel load 平行负载 
+- parallel operation 并行操作 
+- parallel poll 平行轮询 
+- parallel port 平行端口 
+- parallel processing 并行处理 
+- parallel processor 并行处理器 
+- parallel rays 平行光束 
+- parallel transmission 平行传输 
+- parallel 并行  
+- parallel 平行；并行；并联  
+- parallel, bit 位平行 
+- parallel-in serial-out (PISO) 并行输入串行输出
+- parallel-plate capacitor 并行片电容器 
+- paralleling 并行，并联  
+- paramagnetic substance 顺磁性物质 
+- paramagnetism 顺磁性  
+- parameter limited yield (PARLY)
+- parameter list 参数列表 
+- parameter 参数  
+- parameter 参数、形式参数、形参  
+- parameterize 参数化  
+- parametric amplifier 参数式放大器 
+- parametric measurement 参数式量测 
+- parametric plotter 参数绘图机 
+- parametric search 参数搜索 
+- parametric test 参数式测试 
+- parametric transform 参数变换 
+- parasitic component 寄生元素 
+- parasitic diode 寄生二极管 
+- parasitic element 寄生元素 
+- parasitic extraction 寄生析出 
+- parasitic inductance 寄生电感 
+- parasitic interconnect 寄生互连 
+- parasitic lead 寄生引线 
+- parasitic loading 寄生负载 
+- parasitic net 寄生网 
+- parasitic network 寄生网络 
+- parasitic 寄生  
+- paraxial ray 傍轴光线 
+- parent class 父类 
+- parent node 母节点 
+- parent nucleus 母核 
+- parentheses 圆括弧、圆括号  
+- parity bit 奇偶位 
+- parity check 奇偶检测 
+- parity control 奇偶控制 
+- parity error 奇偶错误 
+- parity generator 奇偶产生器 
+- parity violation 奇偶违犯 
+- parity 奇偶  
+- park, head 磁头锁定 
+- parse 解析  
+- parse 语法分析  
+- parser 解析器  
+- part lead 零部件引线 
+- part 部分；零件  
+- part 零件、部件  
+- partial carry 部分进位 
+- partial specialization 局部特化 
+- partial sum 部分和 
+- partial 部分  
+- particle 粒子  
+- particle, alpha 阿尔发粒子 
+- particle, charged 带电粒子 
+- particle, elementary 基本粒子 
+- particle, neutral 中性粒子 
+- partition exchange sort 划分交换式排序
+- partition 分区  
+- partitioning 分割  
+- parts library 零件程序库 
+- parts list 零件表列 
+- parts per million 百万分率
+- parts per minute 每分钟含量比例
+- parts 零件  
+- party line 合用线 
+- pascal 帕斯卡, 帕斯卡定律 
+- pass band 通频带 
+- pass by address 传址（函式引数的传递方式）（非正式用语）
+- pass by reference 传地址、按引用传递
+- pass by value 按值传递
+- pass 通行；通过  
+- pass, tentative 试验性通行 
+- pass-band ripple 通频带脉动 
+- pass/fail criteria 合格／不合格准则 
+- passes, multiple 多种通行 
+- passivated 钝化的  
+- passivation layer 纯化层 
+- passivation material 钝化物件 
+- passivation 钝化  
+- passive branching device 无源分支器件,
+- passive component 无源器件 
+- passive electronics 无源电子器件,无源电子技术 
+- passive hold-down 无源保持 
+- passive network 无源网络 
+- passive optical network (PON)
+- passive trimming 无源调整，无源微调 
+- password authentication protocol (PAP)
+- password 口令；密码；通行密码  
+- paste, solder 焊膏；锡膏 
+- path inductance 通路电感 
+- path overhead (POH) 路径开销
+- path 通路  
+- path, data 数据通路 
+- path, delay 通路延迟 
+- path, direct single-bit serial-scan
+- path, instruction 指令通路 
+- path, optical 光程 
+- path, physical 实体通路 
+- path, receive audio 接收声频通路
+- path, reduced intrusion scan
+- path, speech 语音通路 
+- path, transmit audio 传输声频通路
+- pattern frame synchronizing, 信息段同步模式
+- pattern generator 图形产生器 
+- pattern recognition 图形识别 
+- pattern router 图形路由器 
+- pattern 模式  
+- pattern 式样；图形；模式；模型  
+- pattern, frame synchronizing 信息段同步模式
+- pattern, net 网模式 
+- pattern, simulation 模拟模式 
+- pattern, stimulus 刺激模式 
+- pattern, test 测试模式 
+- pattern, trace 线迹图形 
+- patterned anisotropic conductive adhesive
+- pause frame 停顿帧,暂停帧 
+- pause 暂停  
+- pay-TV 付费电视  
+- pay-per-TV 付费电视  
+- pay-per-view (ppv) 按观看以数计费, 按画面计费
+- payload 有效载荷  
+- peak cell rate (PCR)
+- peak charging 峰值充电 
+- peak current rating 额定峰值电流
+- peak detector 波峰检测器 
+- peak inverse voltage (PIV)
+- peak limiter 峰值限制器 
+- peak output current 峰值输出电流
+- peak value 峰值 
+- peak 峰值  
+- peak-to-peak 峰到峰  
+- pedestal 基座（脉冲）, 消隐脉冲电平 
+- peel strength 剥离强度 
+- peel 剥离  
+- peel-away speed 剥离速度 
+- peer protocol 同级协定 
+- peer-to-peer 对等，端对端, 端到端 
+- pel 图素  
+- pen plotter 笔式绘图机 
+- pen, light 光笔 
+- pen-based computer 笔控型电脑 
+- penetration depth 渗透深度 
+- penetration 透过, 贯穿, 渗透,
+- pentium Intel 推出的CPU产品名称 
+- pentode 五极管  
+- penumbra 半影  
+- percentage error 百分误差 
+- percussion, center of 撞击中心
+- perfect machine 理想机器 
+- perfectly elastic body 完全弹性体
+- performance optimization 性能状化 
+- performance test 性能测试 
+- performance 性能  
+- performance 性能  
+- period motion 周期运动 
+- period 周期  
+- period, activation 活化期 
+- periodic and random deviation
+- periodic check 周期性检测 
+- periodic table 周期表 
+- peripheral cell 外设储存格 
+- peripheral compatibility 外设兼容性 
+- peripheral component interconnect (pci)
+- peripheral interface bus 外设接口总线
+- peripheral leaded package 周边引脚封装
+- peripheral select line 外设选择线
+- peripheral vision 边界视力 
+- peripheral 外设设备  
+- periscope 潜望镜  
+- perl programming language perl
+- permanent magnet 永久磁体 
+- permanent virtual circuit (PVC)
+- permeability 磁导率  
+- permeability, absolute 绝对磁导率 
+- permeability, relative 相对磁导率 
+- permeameter 磁导计  
+- permeance 可渗透的  
+- permitivity 介电常数；电容率  
+- permutation and combination 排列汇编
+- permutation index 轮排索引，排列索引 
+- permutation 排列  
+- persistence time 存留时间 
+- persistence 持久性  
+- persistence 存留；持续  
+- persistent connection 持久连接,持续连接 
+- personal Java 个人Java 
+- personal access communications system
+- personal communications services (pcs)
+- personal computer (PC) 个人电脑
+- personal digital assistant (PDA)
+- personal digital cellular (PDC)
+- personal handyphone system (PHS)
+- personal locator system (PLS)
+- personal mobility 个人移动 
+- personal number 个人号码 
+- personal telecommunication number (PTN)
+- personal television (PTV) 个人电视，便携式电视
+- personal wireless telecommunications (PWT)
+- personal-area network (PAN) 个人区域网络，个人环境网络
+- perverted image 反像 
+- phanotron 热阴极充气二极管  
+- phantom cell 储存单元虚像 
+- phantom 非真实；虚像  
+- phase accumulator 相位累加器 
+- phase alternating line (PAL)
+- phase angle 相角 
+- phase changer 相位变换器，换相器 
+- phase coherent measurement 相位一致测量
+- phase coherent 相位一致 
+- phase comparator 相位比较器 
+- phase compensation 相位补偿 
+- phase detection 相位检测 
+- phase detector 相位检测器 
+- phase difference 相位差 
+- phase displacement 相位移 
+- phase distortion 相位畸变,相位失真 
+- phase equalization 相位均衡 
+- phase evaluation 相位评估，相位估计，相位测定 
+- phase grating scale 相光栅刻度
+- phase inverter circuit 倒相电路
+- phase jitter 相位抖动 
+- phase lock loop (PLL)
+- phase locked 锁相 
+- phase margin 相位边缘 
+- phase modulation (PM) 相位调制
+- phase rotator 相位旋转器 
+- phase shift mask (PSM)
+- phase shift 相位位移；相位移转 
+- phase synchronous 相位同步 
+- phase voltage 相位电压 
+- phase, differential 差动相位 
+- phase, fixed 固定相位 
+- phase, minimal 最小相位 
+- phase, opposite 反相 
+- phase, out- 异相；异相位 
+- phase, out-of- 异相；异相位 
+- phase, single 单相；单相位 
+- phase, three 三相；三相位 
+- phase, two 二相；二相位 
+- phase, vapor- 汽相 
+- phase, virtual 虚拟相位 
+- phase-coherent measurement 相位一致测量 
+- phase-inverter circuit 反相电路 
+- phase-locked detector (PLD) 锁相检测器
+- phase-locked loop (PLL) 锁相环路
+- phase-shift keying (PSK) 相位变换调制法
+- phase-shift oscillator 相位位移振荡电路 
+- phase-synchronous 相位同步  
+- phased-array antenna 相位阵列式天线 
+- phasor quantity 相量 
+- phenomena, capillary 毛细管现象 
+- phone, cellular 蜂巢式无线电话 
+- phone, cordless 室内无线电话 
+- phone, mobile 移动电话 
+- phosgene 光气  
+- phosphene 磷化氢  
+- phosphor 磷  
+- phosphosilicate glass (PSG) 硅酸磷玻璃
+- photo etching 光蚀刻法 
+- photo sensor 光感应器 
+- photo thyristor 光闸流晶体管 
+- photo transistor 光晶体管 
+- photo-cd 感光CD，光电CD,照片CD  
+- photo-charge 光电荷  
+- photo-coupler 光偶合器  
+- photo-imagable liquid 感光液 
+- photo-imageable dielectric 光可成像的电介质 
+- photo-interrupter 光中断器  
+- photo-isolator 光隔离器  
+- photo-sensitive surface 光敏表面 
+- photocell 光电池  
+- photocomposition 照相排版  
+- photoconductive effect 光传导效应 
+- photocurrent 光电流  
+- photodetector 光检测器  
+- photodiode output 光电二极管输出 
+- photodiode 光电二极管  
+- photoelasticity 光弹性学  
+- photoelectric cell 光电池 
+- photoelectric current 光电流 
+- photoelectric effect 光电效应 
+- photoelectric sensor 光电传感器 
+- photoelectron 光电子  
+- photolithographic beam 光刻线 
+- photolithography 光刻法  
+- photomask 遮光膜，光掩膜，光罩  
+- photometer 光度计  
+- photometer, flame 火焰光度计 
+- photometer, shadow 阴影光度计 
+- photon incident 光子入射 
+- photon 光子  
+- photon, ultraviolet 紫外线光子 
+- photonic switching 光子交换 
+- photonics in switching 交换光子学;交换纤维光学
+- photonics 光子学  
+- photoplotter 照相绘图机  
+- photopolymer 感光聚合物  
+- photoresist system 光阻系统 
+- photoresist 光阻  
+- photoresist, dry film 乾膜光阻
+- photoresister dry strip 光刻胶干式剥离
+- photorisister dry strip 光刻胶干式剥除
+- photovoltaic generator 光电发生器 
+- photovoltaics 光生伏打  
+- physical address unit 物理地址单元
+- physical address 物理地址 
+- physical artifact 物理赝像 
+- physical coding sublayer (PCS)
+- physical constraint 物理限制 
+- physical data 物理数据 
+- physical definition 物理定义 
+- physical effect 物理效应 
+- physical estimator 物理估值器 
+- physical layer (PHY) 物理层
+- physical layer controller (PLAYER)
+- physical layer overhead 物理层开销
+- physical layer protocol 物理层协定
+- physical path 物理通路 
+- physical quantity 物理量 
+- physical unit type 2.1
+- physical vapor deposition (PVD)
+- physical 实体  
+- physical-layer controller 物理层面控制器 
+- physical-layer protocol 物理层协定 
+- physics 物理学  
+- physics, classical 经典物理学 
+- physics, nuclear 核物理学 
+- physics, solid-state 固态物理学 
+- physics, statistical 统计物理学 
+- pi filter π型滤波器 
+- pick-and-place accuracy 拾取和放置精度 
+- pick-and-place machine 取放机器 
+- pick-and-place 拾取和放置  
+- pick-up system 检拾系统 
+- pick-up 检拾  
+- pico cell 微微蜂窝；皮可信元 
+- picoammeter 微微安培计  
+- picofarad (pF) 微微法拉 
+- picosecond (ps) 微微秒 
+- picture element (pixel) 图素
+- picture-in-picture 画面中显示画面  
+- piezoelectric device 压电器件 
+- piezoelectric 压电的  
+- piezoelectricity 压电  
+- piggybacking 背袱，机载  
+- pigtail 抽头；柔韧铜辫；辫型导线，引线  
+- pillow distortion 枕形失真 
+- pin & paste 压住并粘贴，钉住并粘贴
+- pin grid array package
+- pin list 接脚表列 
+- pin swap 接脚交换 
+- pin 接脚  
+- pin, input 输入接脚 
+- pin, output 输出接脚 
+- pin, tooling 工具接脚 
+- pin-count 接脚数目  
+- pin-through-hole 引脚通孔  
+- pin-through-paste 穿过焊剂的管脚，穿过焊剂的引线  
+- pincushion distortion 枕形失真 
+- pinhole 针孔  
+- pinout 接脚分布  
+- pipeline architecture 管线结构 
+- pipeline instruction 管线指令 
+- pipeline operation 管线作业 
+- pipeline processing 管线处理 
+- pipeline 管线  
+- pipeline, non-interlocking 非互锁式管线 
+- piston 活塞  
+- pit 坑;缺陷;槽  
+- pitch 音调；间距  
+- pitch, dot 点距 
+- pitch, lead 引线间距 
+- pivot 支持点  
+- pixel clock (Pclk) 象素显示时钟
+- pixel replication 图素重复 
+- pixel stream 图素串 
+- pixel 像素  
+- pixel 图素  
+- place and route 布局及路由
+- place 布局  
+- placeholder 占位符  
+- placement delete  
+- placement new  
+- placement 布局；置放  
+- placement, feed-through 给进式布局 
+- plain old telephone service
+- planar epitaxial process 平面外延工艺
+- planar network 平面网络 
+- planarity 平面性；平面化  
+- plane polarization 平面偏振；偏极面 
+- plane principal focal, 主焦平面
+- plane wave 平面波 
+- plane 平面；层  
+- plane, bit 位层 
+- plane, buried power 隐蔽式电源板层
+- plane, color 颜色层 
+- plane, data 数据层 
+- plane, focal 焦平面 
+- plane, ground 接地面 
+- plane, inclined 斜面 
+- plane, memory 存储器层 
+- plane, principal focal 主焦平面
+- planes, multiple memory 多重存储器层
+- planning, computer-aided (CAP) 电脑辅助计划
+- planning, manufacturing resources (MRP)
+- plano-concave lens 平凹透镜 
+- plano-convex lens 平凸透镜 
+- plasma chamber cleaning 等离子腔清洗
+- plasma cleaning 等离子清洗 
+- plasma display 等离子显示器 
+- plasma enhanced chemical vapor
+- plasma etch process 等离子蚀刻工艺
+- plasma etching 等离子蚀刻 
+- plasma silicon nitride 等离子氮化硅
+- plasma 等离子  
+- plasma, transformer-coupled (TCP) 变换偶合等离子
+- plastic deformation 塑性形变 
+- plastic dual-in-line package (PDIP)
+- plastic electronics 塑料电子学，有机电子器件 
+- plastic encapsulated microcircuit (PEM)
+- plastic film 塑胶膜 
+- plastic flat package (PFP)
+- plastic leaded chip carrier
+- plastic leaded chip carrier
+- plastic leadless chip carrier
+- plastic leadless chip carrier
+- plastic magnet 塑料磁体 
+- plastic package 塑料封装 
+- plastic quad flat pack
+- plastic 塑料  
+- plate circuit 板极电路 
+- plate, ground 接地平面 
+- plate, probe 探针面板 
+- plated axial lead 电镀轴向引脚
+- plated through-board 镀通电路板 
+- plated through-hole (PTH) 镀通孔
+- plated thru-board 镀通板 
+- plated thru-hole 镀通孔 
+- plated-through hole 金属化孔 
+- platform for Internet content
+- platform 平台  
+- platform, hardware 硬体台 
+- plating inconsistency 电镀不匀 
+- platter 磁盘机  
+- plenum 充满，充实；增压,高压  
+- plesiochronous communication 准同步通信 
+- plotter 绘图机  
+- plotter, parametric 参数绘图机 
+- plotter, pen 笔式绘图机 
+- plug delay 插接延迟 
+- plug 插头  
+- plug-in 插座；插入  
+- plunger travel 引缩行程 
+- plunger 活塞  
+- pneumatic actuator 气动起动器 
+- pneumatic dispensing 气动涂料 
+- pneumatic drill 风钻 
+- point charge 点电荷 
+- point of application 作用点
+- point source 点光源 
+- point, boiling 沸点 
+- point, conjugate 共扼点 
+- point, curie 居里点 
+- point, dew 露点 
+- point, entry 进入点 
+- point, freezing 冰点；凝固点 
+- point, fusion 熔点 
+- point, ignition 燃点 
+- point, melting 溶点；熔点 
+- point, neutral 中和点 
+- point, null 零点 
+- point, reference 参考点 
+- point, saturation 饱和点 
+- point, solidifying 凝固点 
+- point, test 测试点 
+- point, triple 三态点 
+- point, yield 屈折点 
+- point-of-presence (POP) 出现点，存在的点 
+- point-of-sale terminal (POS) 销售终端机
+- point-to-multipoint 点对多点, 单点对多点 
+- point-to-point protocol (PPP) 点对点串行线协定
+- point-to-point transmission 点对点传输 
+- point-to-point tunneling protocol (PPTP)
+- point-to-point 点对点  
+- pointer register 指标寄存器 
+- pointer 指标  
+- pointer 指针  
+- pointer, address 地址指标 
+- pointer, decrement address 减量地址指标
+- pointer, increment address 增量地址指标
+- pointer, instruction 指令指标 
+- pointer, memory 存储器指标 
+- pointer, offset 偏移指标 
+- pointer, register 寄存器指标 
+- pointer, workspace 作业空间指标 
+- pointing device 指点器 
+- polar modulation 极化调制 
+- polar molecule 极向分子 
+- polar 极向型  
+- polarimeter 偏光计  
+- polariscope 偏光器  
+- polarity 极性  
+- polarization angle 偏极角 
+- polarization filter 极化滤波器 
+- polarization of a cell
+- polarization of dielectric 介质之极化
+- polarization plane 偏极面 
+- polarization 极化，极化作用，偏振  
+- polarization, circular 圆偏极化 
+- polarized component 极向元件 
+- polarized, plane- 偏光 
+- pole strength 极强度 
+- pole 极  
+- pole, magnetic north 磁北极
+- pole, magnetic south 磁南极
+- pole, totem 推拉输出电路 
+- polish 修饰；磨光  
+- poll and select 轮询和选择
+- poll 轮询  
+- poll 轮询  
+- poll, parallel 平行轮询 
+- polling delay 轮询延迟 
+- polling 轮询  
+- pollution, thermal 热污染 
+- polyacetal 多乙缩醛  
+- polycarbonate 聚碳酸酯  
+- polychlorinated biphenyls 多氯联苯 
+- polycrystalline layer 多结晶体层 
+- polycrystalline silicon layer 多硅晶体层
+- polycrystalline 多结晶体  
+- polyester film capacitor 聚脂膜电容器
+- polyester film condenser 聚脂薄膜电容器
+- polyester 聚脂  
+- polyethylene (PE) 聚乙烯 
+- polyethylene condenser 聚乙烯电容器 
+- polyethylene 聚乙烯  
+- polygate 多门  
+- polyhedron 多面体  
+- polyimide 聚酰亚胺  
+- polymer film interconnect (PFI)
+- polymer thick film 聚合物厚膜，高分子厚膜
+- polymer 聚合物  
+- polymer, conductive 导电聚合物 
+- polymerization reaction 聚合反应 
+- polymerization 聚合  
+- polymerized rosin 聚合树脂 
+- polymorphism 多态  
+- polynomial code 多项式码 
+- polynomial 多项式  
+- polyphase 多相  
+- polyphonic 多调  
+- polypropylene condenser 聚丙烯电容器 
+- polypropylene 聚丙烯  
+- polysilicon gate 多晶硅栅 
+- polysilicon layer 多晶硅层 
+- polysilicon process rule 多晶硅处理规则
+- polysilicon process 多晶硅处理 
+- polysilicon 多晶硅  
+- polysilicon, dual-layer 双层多晶硅 
+- polystyrene condenser 聚苯乙烯电容器 
+- polystyrene 聚苯乙烯  
+- polyvinyl-difluoride (PVDF) 聚二氟乙烯 
+- pooling 池化  
+- pop up 弹出式 
+- pop-up menu 弹出式操作指引 
+- populated board inspection 组装板检查，成板检验
+- populated board 附有元件的电路板 
+- populating 繁殖，增生，填充，提供  
+- population inversion 粒子分布倒置 
+- porous solder joint 多孔焊点
+- porous 多孔的  
+- port multiplier 端口多路器 
+- port 端口  
+- port 端口；移接  
+- port, dual- 双端口 
+- port, multiplexed pixel input
+- port, parallel 平行端口 
+- port, random access memory
+- port, serial read 串行读取端口
+- port, serial 串行端口 
+- port, test access (TAP)
+- portability 可移接性  
+- portability, source level 源水平可移接性
+- portable appliance tester (PAT)
+- portable battery 手提式电池 
+- portable computer 手提式电脑 
+- portable electronics 便携式电子设备 
+- portable network graphics (PNG)
+- portable television 手提电视机 
+- portable 可移接；手提式  
+- position error 位置误差 
+- position feedback 定位反馈 
+- position sensor 位置感应器 
+- position, relative 相对位置 
+- positioner, closed-loop servo 闭环伺服定位器
+- positioning 定位  
+- positioning, head 磁头定位 
+- positive charge 正电荷 
+- positive electrode 正电极 
+- positive emitter coupled logic
+- positive feedback 正反馈 
+- positive grid 正栅格 
+- positive ion 正离子 
+- positive justification 正调整 
+- positive logic 正逻辑 
+- positive resist 正电阻，正阻 
+- positive temperature coefficient (PTC)
+- positive-edge （脉冲) 正沿，上升沿 
+- positive-true 正-真[逻辑]  
+- positron 阳电子  
+- post processing 后处理 
+- post-layout simulator 后布置模拟器 
+- post-processing facility 后处理设施 
+- postfix 后缀  
+- potassium cyanide 氰化钾 
+- potential difference (PD) 电位差；电势差
+- potential drop 电位降 
+- potential energy (PE) 位能
+- potential energy difference 位能差
+- potential failure mode and
+- potential source 电位源；电势源 
+- potential transformers 测量用变压器，仪表用变压器 
+- potential well 电势井 
+- potential 电位；电势  
+- potential, contact 接触电位 
+- potential, critical 临界电位 
+- potential, discharge 放电电位 
+- potential, electrical 电位；电势 
+- potential, electrode 电极电位 
+- potential, excitation 激发电位 
+- potential, ionization 电离电位 
+- potential, negative 负电位 
+- potential, ozone-depletion (ODP) 臭氧层损耗潜能值
+- potential, space 空间电位 
+- potential, temperature 温度势 
+- potential-energy difference 位能差 
+- potentiometer 电位计；电位器  
+- potentiometer, wire-wound 绕线式电位器 
+- pothead 电缆终端套管，配电箱  
+- potting compound 封装化合物 
+- potting 封装  
+- power ASIC 增强型专用集成电路 
+- power amplifier 功率放大器 
+- power circuitry 功率电路 
+- power control 功率控制 
+- power converter 功率变换器；功率整流器 
+- power density 功率密度 
+- power dissipation 功率耗散 
+- power distribution 功率分布 
+- power down 电源中断 
+- power drain 电源泄漏 
+- power electronics 动力电子设备 
+- power factor control (PFC)
+- power factor 功率因素 
+- power fail detect (PFD)
+- power failure signal 电源故障信号
+- power foldback limit 电源折返限制
+- power foldback 电源折返 
+- power line communications (PLC)
+- power line filter 电源线滤波器
+- power loss density 功率损失密度
+- power loss 功率损耗 
+- power management 功率管理 
+- power package 电源组，动力组 
+- power plant 发电厂，发电站 
+- power pool 联合电力系统；联合电网 
+- power rating 额定功率 
+- power sags 电压突降 
+- power saver 省电器 
+- power sequencer 电源定序器 
+- power spectral density 功率谱密度
+- power supply cord 电源线
+- power supply rejection ratio
+- power supply 电源供应；电源供应器 
+- power surges 电压浪涌 
+- power transistor 功率晶体管 
+- power waveform monitor 电力波形监察仪
+- power 功率  
+- power, apparent 表观功率 
+- power, effective 有效功率 
+- power, electric 电功率 
+- power, magnification 放大率 
+- power, magnifying 放大率 
+- power, optical 光学功率 
+- power, rated 额定功率 
+- power, resolving 分辨率 
+- power, reverse 反向电源 
+- power, smart 灵巧化功率 
+- power, stabilizing 稳压电源 
+- power-down mode 省电状态；省电模式 
+- power-factor corrector (PFC) 功率因素修正器
+- power-fail detect (PFD) 电源故障检测
+- power-foldback limit 电源折返限制 
+- power-line filter 电源线滤波器 
+- power-on diagnostics 通电诊断 
+- power-on reset 通电重设 
+- power-on self test (POST)
+- power-on-demand (PoD) 需求式供电 
+- practical extraction and report
+- pre-emphasis 预先强调  
+- pre-regulation 预调整  
+- preamble transmission 前文传送 
+- preamble 前文  
+- preamble, field 栏位前文 
+- preamplifier (PreAmp) 前置放大器 
+- precedence 优先序（通常用于运算子的优先执行次序）  
+- precise positioning service (PPS)
+- precision adaptive sub-band coding
+- precision architecture (PA) 精密体系结构
+- precision 精准  
+- precision, double- 双精度 
+- precision, high 高精度 
+- precision, single- 单精度 
+- precision-wound 精密卷绕  
+- precompensation 预补偿  
+- precompensation, write 写入预补偿 
+- precompiler 预编译器  
+- precondition 预先调校  
+- predicted image 预测图象 
+- prediction gain 预测增益 
+- predictor 预示器  
+- preemption 先取  
+- prefetch queue 预找取队列 
+- prefetch 预找取  
+- prefix 前缀  
+- preflow 预流程  
+- prefusing 预熔  
+- preheat 预热  
+- prepreg 预浸料坯，半固化片  
+- preprocessor 预处理器  
+- preprocessor 预运算器  
+- presbyopia 老花眼  
+- prescaler 预标定器  
+- presentation layer 展示层 
+- presentation manager 展示管理程序 
+- presentation protocol data unit
+- presentation software 简报软件 
+- presentation 展示  
+- preset 预设  
+- press fit 压合 
+- press, hydraulic 液压机 
+- pressing 加压  
+- pressure gradient 压力梯度 
+- pressure, absolute 绝对压力 
+- pressure, atmospheric 大气压力 
+- pressure, base 基本压力 
+- pressure, constant 定压 
+- pressure, critical 临界压力 
+- pressure, gauge 计示压强 
+- pressure, negative 负压力 
+- pressure, osmotic 渗透压 
+- pressure, saturated vapor 饱和汽压
+- pressure, standard atmospheric 标准大气压力
+- pressure, vapor 汽压 
+- pretty good privacy (PGP)
+- preventive maintenance (PM) 预防性检修
+- primary address 原地址 
+- primary battery 原电池 
+- primary cell 原电池；一次性电池 
+- primary circuit 初级电路 
+- primary coil 初级线圈 
+- primary color 原色 
+- primary key （PK）主键（PK） （for
+- primary rate access 初级速率存取
+- primary rate interface (PRI)
+- primary rate 初级速率 
+- primary table 主表 （for
+- primary template原始模板  
+- primary voltage 初级电压 
+- primary 初级；基本  
+- prime mover 原动机 
+- primitive function 基元功能 
+- primitive process 原处理 
+- primitive type 原始类型 
+- primitive 基元  
+- primitive 原语，基元, 底层原语 
+- principal axis 主轴 
+- principal focal plane 主焦平面
+- principal section 主截面 
+- print head 打印头 
+- print 打印  
+- printed circuit assembly 电路板装配，电路板组装
+- printed circuit board (PCB)
+- printed wiring assembly (PWA)
+- printed wiring board (PWB)
+- printed-circuit substrate 印制电路基底 
+- printer command language (PCL)
+- printer description language (PDL)
+- printer 打印机  
+- printer 打印机  
+- printer, daisy wheel 菊轮式打印机
+- printer, dot matrix 点阵式打印机
+- printer, impact 撞击式打印机 
+- printer, ink-jet 喷墨式打印机 
+- printer, laser 激光打印机 
+- printer, line 行式打印机 
+- printer, screen 丝网印刷机；网印机 
+- printer, solder paste 焊浆打印机
+- printer, thermal 热感式打印机 
+- printing, ion-flow 离子流打印 
+- printing, near-letter quality 优质字符打印
+- printing, screen 丝网印刷机 
+- priority interrupt system 优先顺序中断系统
+- priority level 优先水平 
+- priority queue 优先队列 
+- priority 优先顺序；优先权  
+- priority, interrupt 中断优先 
+- prism angle 棱镜角 
+- prism 三棱镜；棱镜  
+- prism, total reflection 全反射棱镜
+- private automatic branch exchange
+- private branch exchange (PBX)
+- private key 个人密码 
+- private land mobile radio
+- private line 专用线路 
+- private mobile radio (PMR)
+- private network-to-network interface (PNNI)
+- privileged instruction 特许指令 
+- privileged mode 特许状态；特许模式 
+- probabilistic method 概率方法 
+- probability density function (PDF)
+- probability 或然率；几率  
+- probable error 可能误差 
+- probe contact 探针接触点 
+- probe plate 探针面板 
+- probe registration 探针定位 
+- probe spacing 探针距离 
+- probe 探针  
+- probe, clamp-on current 钳式电流探测器
+- probe, guided 导引探针 
+- probe, pick-up 接收探视器 
+- probe, universal temperature 通用温度探测器
+- probing, dual 双探测 
+- probing, in-circuit (ICP) 内电路探测
+- problem 难题  
+- procedural language 过程型语言 
+- procedural 过程式的、过程化的  
+- procedure 程序  
+- procedure 过程  
+- procedure, link access (LAP)
+- process control 过程控制；工艺控制 
+- process equipment 处理设备 
+- process flow diagram 工艺流程图
+- process management 过程管理；工艺管理 
+- process oriented 处理导向 
+- process signature 进程标记图 
+- process 进程  
+- process 处理；程序；过程；过程  
+- process, adapter signal (ASP)
+- process, adiabatic 绝热过程 
+- process, analog 模拟过程 
+- process, argon sputter etch
+- process, assembly 汇编过程 
+- process, bipolar analog 双极模拟工艺
+- process, black oxide 黑氧化处理
+- process, dielectric isolation 介电质隔离工艺
+- process, dual-layer aluminum wiring
+- process, interconnection 互连工艺 
+- process, isobaric 等压过程 
+- process, isothermal 等温过程 
+- process, isovolumetric 等容过程 
+- process, planar epitaxial 平面外延工艺
+- process, plasma etch 等离子蚀刻工艺
+- process, polysilicon 多硅晶体处理 
+- process, primitive 原处理 
+- process, reversible 可逆过程 
+- process, sequential 序列处理 
+- process, sputter etch 溅镀蚀刻工艺
+- process, swell 涨大工艺 
+- process, throttling 节流过程 
+- process, vapor pressure control
+- processing distributed transaction, (DTP)
+- processing electronic data, (EDP)
+- processing gain 处理增益，加工盈余 
+- processing 处理；进程  
+- processing, batch 批次处理作业 
+- processing, communications 通讯处理 
+- processing, concurrent 并行处理 
+- processing, data 数据处理 
+- processing, digital signal (DSP)
+- processing, distributed transaction (DTP)
+- processing, electronic data (EDP)
+- processing, on-line transaction (OLTP)
+- processing, parallel 并行处理 
+- processing, pipeline 管线处理 
+- processing, post 后处理 
+- processing, rapid thermal (RTP)
+- processing, tree 树状处理 
+- processing, wet 润湿处理 
+- processor signal converter 处理器信号转换器
+- processor, application specific automation
+- processor, application specific integrated
+- processor, basic audio (BAP)
+- processor, channel 通道处理器 
+- processor, co- 协处理器 
+- processor, command 命令处理器 
+- processor, consumer control (CCP)
+- processor, digital optical 数字光学处理器
+- processor, digital signal 数字信号处理器
+- processor, distributed array (DAP)
+- processor, enhanced audio (EAP)
+- processor, front-end (FEP) 前端处理器
+- processor, front-end network 前端网络处理器
+- processor, interface message, (IMP)
+- processor, interface 接口处理器 
+- processor, optical 光学处理器 
+- processor, parallel 并行处理器 
+- processor, raster graphics 光栅图像处理器
+- processor, streamlined instruction 流线式指令处理器
+- processor, universal (UP) 万用处理器
+- processor, vector 向量处理器 
+- processor, virtual channel (VCP)
+- processor, vision (VP) 视频处理器
+- processor, voltage synthesizing micro-
+- processor-specific memory (PSM) 特殊处理器存储器
+- product nucleus 生成核 
+- product term 乘积项 
+- product, application-specific standard (ASSP)
+- product, scalar 标积 
+- production test 生产测试 
+- professional mobile radio (PMR)
+- profile 评测  
+- profile 外形；描述；轮廓  
+- profile, servo 伺服描述 
+- profiler 铣床  
+- profiler 效能（性能）评测器  
+- prognosis 预测  
+- program association table 程序关联表
+- program editor 程序编辑器 
+- program elementary stream (PES)
+- program status word 程序状态字
+- program stream (PS) 程序流
+- program translation 程序转换 
+- program 程序  
+- program 程序  
+- program, benchmarking 基准点测试程序 
+- program, carrier 载体程序 
+- program, memory resident 存储器驻留程序
+- program, network control (NCP)
+- program, object 目的程序 
+- program, overlay 重叠程序 
+- program, source 源程序 
+- program, terminate and stay
+- program, translation 转换程序 
+- programmable array logic (PAL)
+- programmable gain amplifier (PGA)
+- programmable gate array (PGA)
+- programmable interrupt controller 可编程中断控制器
+- programmable logic array (PLA)
+- programmable logic controller (PLC)
+- programmable logic device (PLD)
+- programmable logic 可编程逻辑 
+- programmable lookup table 可编程搜寻列表
+- programmable networks 可编程网络 
+- programmable power supply 可编程电源
+- programmable read only memory
+- programmable sequencer (PROSE) 可编程定序器
+- programmable system device (PSD)
+- programmable universal filter 可编程通用滤波器
+- programmable universal micro accelerator
+- programmable voltage range 可编程电压范围
+- programmable wait-state controller 可编程等候状态控制器
+- programmable 可编程  
+- programmable, in-system (ISP) 系统内可编程
+- programmer 程序员  
+- programming environment 编程环境 
+- programming编程、程序设计   
+- progress bar 进度指示器 
+- progress, call 呼叫过程 
+- progressive wave 前进波 
+- project 项目、工程  
+- projectile motion 抛体运动 
+- projectile 抛射体  
+- projection optics 投影光学 
+- projector, overhead 投影机 
+- prompt, voice 声音提示 
+- proof-of-concept 概念验证  
+- propagation delay 传播延迟 
+- propagation velocity 传播速度 
+- propagation 传播  
+- propagation, rectilinear 直线传播 
+- propellant liquid 推动液体 
+- property 属性  
+- property, thermal 热特性 
+- proportional control 比例控制；线性控制 
+- proportional plus derivative control
+- proportional plus integral control
+- proportional plus integral plus
+- proprietary 专有的  
+- protected area 受保护区域 
+- protected mode 保护状态；保护模式 
+- protection switching 保护交换（技术，方法） 
+- protection, thermal 热保护 
+- protective action 保护行动 
+- protective layer 保护层 
+- protocol access, 存取协定 
+- protocol analyzer 协定分析仪 
+- protocol control information (PCI)
+- protocol converter 协定转换器 
+- protocol data unit (PDU)
+- protocol engine 协议引擎 
+- protocol laden 协定负载 
+- protocol spoofing 协议欺骗 
+- protocol stack porting 协议栈移植
+- protocol suite 协议集（套件） 
+- protocol 协定  
+- protocol 协议  
+- protocol, access 存取协定 
+- protocol, binary synchronous (BISYNC)
+- protocol, bit-oriented (BOP) 位导向协定
+- protocol, byte control (BCP)
+- protocol, byte-oriented 字节取向协定 
+- protocol, configuration testing (CTP)
+- protocol, data compression 数据压缩协定
+- protocol, digital data communications
+- protocol, error detection 错误检测协定
+- protocol, file transfer (FTP)
+- protocol, manufacturing automation (MAP)
+- protocol, message 信息协定 
+- protocol, multi- 多重协定 
+- protocol, packet layer 信息包层协定
+- protocol, physical layer 物理层协定
+- protocol, point-to-point (PPP) 点对点串行线协定
+- protocol, shared memory 分享存储器协定
+- protocol, technical office (TOP)
+- protocol, terminal adaption (TAP)
+- protocol, transmission control (TCP)
+- protocol, transmission control protocol/internet
+- protocol, transport (TP) 传送协定
+- protocol, virtual terminal (VTP)
+- protocol-laden link 协定负载链接 
+- proton exchange membrane (PEM)
+- proton 质子  
+- prototype 原型  
+- prototyping 原型建造  
+- proximity routing 邻近效应路由 
+- proximity switch 接近开关 
+- proximity 邻近  
+- proxy cache 代理高速缓存 
+- proxy server 代理服务商 
+- pseudo code伪码  
+- pseudo-code 虚代码  
+- pseudo-color component 虚拟色彩元素 
+- pseudo-color 虚拟色彩  
+- pseudo-concurrency 虚并行作业  
+- pseudo-instruction 虚拟指令  
+- pseudo-language 虚拟语言  
+- pseudo-ops 虚运算  
+- pseudo-random noise (PN) 伪随机噪声
+- pseudo-random sequence 虚随机序列 
+- pseudo-static 虚静态  
+- pseudoplastic 仿塑料，假塑料  
+- public access channels 公共接入信道
+- public data network 公共数据网络
+- public domain software 公用软件
+- public key encryption 公共密钥加密
+- public key infrastructure (PKI)
+- public key infrastructure for
+- public key 公共密钥 
+- public shared library region
+- public shared library 公用分享程序库
+- public switched telephone network
+- pull strength 拉力，拉力强度 
+- pull, push- 推拉式；推挽式 
+- pull-down menu 下拉式操作指引 
+- pull-down resistor 下拉电阻器 
+- pull-up resistor 上拉电阻器 
+- pulse amplitude modulation (PAM)
+- pulse broadening 脉冲扩宽 
+- pulse burst 脉冲串 
+- pulse dispersion 脉冲漂移 
+- pulse frequency modulation (PFM)
+- pulse loading 脉冲加载，脉冲装载 
+- pulse modulation 脉冲调制 
+- pulse modulator 脉冲调制器；脉冲延伸器 
+- pulse position modulation (PPM)
+- pulse spreading 脉冲展宽 
+- pulse stuffing 脉冲插入,脉冲填充 
+- pulse train 脉冲串 
+- pulse transformer 脉冲变压器 
+- pulse 脉冲  
+- pulse, dialing 拨号脉冲 
+- pulse, equalizing 等化脉冲 
+- pulse, flyback 返驰脉冲 
+- pulse, horizontal flyback 水平回扫脉冲
+- pulse, vertical flyback 垂直回扫脉冲
+- pulse, voltage 电压脉冲 
+- pulse-code modulation (PCM) 脉冲编码调制
+- pulse-duration modulation 脉冲宽度调制 
+- pulse-length modulation (PLM) 脉冲长度调制
+- pulse-width modulation (PWM) 脉冲宽度调制
+- pump, air 气泵 
+- pump, hydraulic 水泵 
+- pump, vacuum 真空泵 
+- pure spectrum 纯粹光谱 
+- pure tone 纯音 
+- purge instruction 清除指令 
+- purpose, general 通用 
+- push and pop 压入和取出
+- push 压入  
+- push-button switch 按扭式开关 
+- push-button 按扭  
+- push-pull amplifier 推挽式放大器 
+- push-pull converter 推挽式变换器，推挽式变频器 
+- push-pull output 推拉式输出；推挽式输出 
+- push-pull 推拉式；推挽式  
+- push-to-talk operation 按键通话操作 
+- pushbutton switch 按扭开关 
+- pushbutton 按扭  
+- pyroelectricity 热电现象  
+- pyrometry 测高温学  
+- 
+## Q
+- 
+- quad flat pack (QFP)
+- quad operational amplifier 四重组装运算放大器
+- quad power driver 四重功率驱动器
+- quad raster operational chip
+- quad tree structure 四象限树状结构
+- quad 四元组  
+- quadrant 象限  
+- quadrature amplitude modulation (QAM)
+- quadrature axis 正交轴 
+- quadrature modulation 正交调制 
+- quadrature multiplexing 正交多路复用 
+- quadrature partial response signaling
+- quadrature phase shift keying
+- qualification testing 合格性试验 
+- qualification 资格  
+- qualified life 合格寿命 
+- qualified logical link control
+- qualified name  
+- qualified 经过资格修饰（例如加上scope运算子）  
+- qualifier 修饰符  
+- qualitative techniques 定性技巧 
+- quality assurance (QA) 品质保证
+- quality control circle 品管圈
+- quality factor (Q) 品质因数
+- quality flow control (QFC)
+- quality of service (QOS)
+- quality 品质  
+- quality 质量  
+- quality-factor meter (Q-meter) 品质因数计
+- quantitative techniques 定量技巧 
+- quantity, derived 导出量 
+- quantity, fundamental 基本量 
+- quantity, physical 物理量 
+- quantity, scalar 标量 
+- quantization error 量化误差 
+- quantization noise 量化噪声 
+- quantization 量化  
+- quantization, imaging 影像量化 
+- quantized 量化  
+- quantizer 量化器  
+- quantizing 量化  
+- quantum Hall effect 量子霍尔效应
+- quantum efficiency (QE) 量子效率
+- quantum mechanics 量子力学 
+- quantum noise 量子噪声 
+- quantum theory 量子论 
+- quantum tunneling 量子隧道 
+- quantum 量子  
+- quantum-tunnel effect 量子隧道效应 
+- quantum-tunneling transistor 量子隧道晶体管 
+- quark 夸克  
+- quarter-phase circuit 二相电路 
+- quarter-sized outline package (QSOP)
+- quartz crystal 石英晶体 
+- quartz 石英  
+- quasi-analog signal 拟模拟信号 
+- quasi-impulsive noise 拟脉冲噪声 
+- quasi-peak detector 准波峰检测器 
+- quasi-random signal 拟随机信号 
+- quasi-saturation 准饱和  
+- quasi-square wave 准方波 
+- quaternary code 四元代码 
+- quench detector 终止检测器 
+- query language 谘询语言 
+- query processing unit (QPU)
+- query 谘询  
+- queue 排列  
+- queue 队列  
+- queue, code 代码排列 
+- queue, double-ended 双端排列 
+- queue, prefetch 预找取排列 
+- queued arbitrated segment 排列判优区段
+- queued telecommunications access method
+- queuing, tagged 标记式排列 
+- quick assembly optical encoder
+- quick charge 快速充电 
+- quick sort 快速排序 
+- quick-break switch 快断开关 
+- quick-make 快速接通  
+- quiescent current 静态电流 
+- quiescent line 静态线 
+- quiescent point 静点 
+- quiescent-carrier transmission 抑止载波传输 
+- quiet line 不受干扰的线路 
+- quiet tuning 静态调谐 
+- quinary 五进制的，五倍的，五元的  
+- 
+## R
+- 
+- race condition 竞争状态；竞态 
+- race condition 竞争条件（多线程环境常用语） 
+- racing 追赶  
+- rack-and-stack 机架汇编式  
+- rad 拉德（吸收辐射剂量单位，＝每克组织吸收100尔格能量）  
+- rad-hard 抗辐射  
+- radar 雷达  
+- radial lead 径向引线 
+- radial split 径向分离 
+- radian (rad) 弧度 
+- radian 弧度  
+- radiant energy 辐射能 
+- radiant heat 辐射热 
+- radiant infrared reflow 辐射式红外线回流
+- radiation hardened circuit 抗辐射电路
+- radiation 辐射  
+- radiation, black body 黑体辐射
+- radiation, cosmic 宇宙辐射 
+- radiation, electromagnetic 电磁辐射 
+- radiation, heat 热辐射 
+- radiation, ionizing 电离辐射 
+- radiation, nuclear 核辐射 
+- radiation, synchrotron (SR) 同步器辐射
+- radiation, thermal 热辐射 
+- radiator 发光体；辐射体  
+- radiator, ideal 理想辐射体 
+- radical 原子圈  
+- radio astronomy 射电天文学 
+- radio button 单选按钮 
+- radio frequency (RF) 射频
+- radio frequency identification (RFID)
+- radio link protocol (RLP)
+- radio modem 无线调制解调器 
+- radio resource management (RRM)
+- radio resources management entity
+- radio spectrum 无线电频谱 
+- radio telescope 射电望远镜 
+- radio transmission technology (RTL)
+- radio wave 无线电波 
+- radio 无线电，无线通信  
+- radio-frequency amplifier 射频放大器 
+- radio-frequency choke (RFC) 射频抗流线圈
+- radio-frequency interference (RFI) 射频干扰
+- radio-frequency transformer (RFT) 射频变压器
+- radioactive chain 连锁幅射 
+- radioactive decay 放射性衰变 
+- radioactive deposit 放射沉积 
+- radioactive dust 放射尘 
+- radioactive equilibrium 放射平衡 
+- radioactive substance 放射性物质 
+- radioactive waste 放射性废料 
+- radioactivity 放射活动；放射强度  
+- radioactivity, artificial 人工放射 
+- radioisotope 放射性同位素  
+- radioisotope, artificial 人工放射性同位素 
+- radiometer 辐射计  
+- radionuclide 放射性核种  
+- radium (Ra) 镭 
+- radius of curvature 曲率半径
+- radius of gyration 回转半径
+- radix 基，基数，根值  
+- radon (Rn) 氡 
+- raid 非法盗用，侵入，突然袭击  
+- raintight 不漏雨的，防雨的  
+- raise 引发（常用来表示发出一个exception）  
+- random access memory (RAM)
+- random access memory buffer
+- random access memory digital/analog
+- random access memory disk
+- random access memory port
+- random access storage (RAS)
+- random error 随机误差 
+- random failure 随机故障 
+- random number 随机数 
+- random-repetitive 随机重复  
+- range 射程；范围  
+- range 范围、区间  
+- range, audible 可闻音域 
+- range, common-mode voltage (CMVR)
+- range, common-mode 共态范围 
+- range, dynamic 动态范围 
+- range, horizontal 水平射程 
+- range, multi- 多量程 
+- rank 等级  
+- rapid prototyping 原型速成，快速实现样机 
+- rapid thermal processing (RTP)
+- rare earth materials 稀土元素
+- raster graphics processor 光栅图像处理器
+- raster scan 光栅扫描 
+- raster 光栅，扫描栅，网板，屏面  
+- rate adaption 速率调整 
+- rate adaptive digital subscriber
+- rate controller 速率控制器 
+- rate, Nyquist 尼奎斯特速率 
+- rate, absolute disintegration 绝对衰变率
+- rate, activation 触动率 
+- rate, basic 基本速率 
+- rate, bit error (BER)
+- rate, block error (BLER)
+- rate, burst transfer 突发传送速率
+- rate, deposition 沉积率 
+- rate, discharge 放电率 
+- rate, drift 漂移速率 
+- rate, evaporation 蒸发率 
+- rate, gate utilization 门使用率
+- rate, output slew 输出转换率
+- rate, parallel load 平行负载率
+- rate, primary 初级速率 
+- rate, repetition 重复率 
+- rate, scan 扫描率 
+- rate, shift 位移率 
+- rate, slew (SR) 转换率
+- rate, sweep 扫描率 
+- rate, transfer 传送速率 
+- rated capacity 额定容量 
+- rated output current 额定输出电流
+- rated power 额定功率 
+- rated voltage 额定电压 
+- rating contact 接触额定值 
+- rating current 额定电流 
+- rating 额定值  
+- rating, absolute maximum 绝对最大额定值
+- rating, breakdown 击穿额定值 
+- rating, maximum 最大额定值 
+- ratio, aspect (AR) 长宽比
+- ratio, book-to-bill 订购运销值比 
+- ratio, carrier-to-noise (CNR) 载波杂讯比
+- ratio, common-mode rejection (CMRR)
+- ratio, displacement 位移比 
+- ratio, expansion 膨胀比率 
+- ratio, force 力比例 
+- ratio, hit 命中率；适配率 
+- ratio, miss 失配率；落空率；错失率 
+- ratio, power supply rejection
+- ratio, rejection (RR) 抑制比率
+- ratio, signal to noise
+- ratio, spacing (SR) 空间比；间隔比
+- ratio, step-down 降压比率 
+- ratio, step-up 升压比率 
+- ratio, velocity (VR) 速度比
+- ratio, voltage feedback 电压反馈率
+- ratio, winding 绕线比例 
+- ratiometric 比率计  
+- rats nest 鼠迹网 
+- raw 未经处理的  
+- ray tracing 射线跟踪，射线寻迹 
+- ray, alpha 阿尔发射线 
+- ray, cosmic 宇宙射线 
+- ray, gamma 伽玛射线 
+- ray, incident 入射光 
+- ray, paraxial 傍轴光线 
+- ray, reflected 反射线 
+- ray, refracted 折射线 
+- ray, ultraviolet 紫外光 
+- rays, parallel 平行光束 
+- re-dial 重拨  
+- re-direction 重定向  
+- re-try router 试算式路由器 
+- reactance 电抗  
+- reactance, capacitive 容抗 
+- reactance, inductive 感抗 
+- reaction force 反作用力 
+- reaction 反应  
+- reaction, action and 作用与反作用
+- reaction, chain 连锁反应 
+- reaction, normal 正交力 
+- reaction, nuclear 核反应 
+- reaction, polymerization 聚合反应 
+- reaction, thermonuclear 热核反应 
+- reactive cathode 阴极 
+- reactive gas 反应气体；活性气体 
+- reactive ion etching (RIE)
+- reactive load 电抗负载 
+- reactor 反应器  
+- reactor, nuclear 核反应器 
+- read bandwidth 读出频宽 
+- read only memory (ROM)
+- read strobe 读出选通 
+- read 读出  
+- read, burst 资料组读出 
+- read, look-ahead 读取先行 
+- read, word 字读出；字组读出 
+- read/write head 读／写头 
+- read/write 读／写  
+- readOnly只读   
+- reader, bar code 条码阅读器
+- reader, character 字符阅读器 
+- reading 读数  
+- reading, full scale 全标度读数
+- ready-for-sending delay 发送就绪延迟 
+- real depth 实际深度 
+- real estate 成品电路板，不动产 
+- real expansion 真膨胀 
+- real focus 实焦点 
+- real image 实像 
+- real mode 真实状态；真实模式 
+- real-time clock 实时时计 
+- real-time code generator (RCG)
+- real-time control protocol (RTCP)
+- real-time controller 实时控制器 
+- real-time interrupt response 实时中断反应
+- real-time interrupt 实时中断 
+- real-time operating system (RTOS)
+- real-time protocol (RTP) 实时协议
+- real-time recording (RTR) 实时记录
+- real-time requirements 实时需求 
+- real-time simulation 实时模拟 
+- real-time streaming protocol (RTSP)
+- real-time system integration (RTSI)
+- real-time system integration bus
+- real-time tracing 实时追踪 
+- realtime 实时；实时  
+- reasoning 推论  
+- reasoning, symbolic 符号推论法 
+- receive audio path 接收声频通道
+- receive gain 接收增益 
+- receive signal strength indicator
+- receive 接收  
+- received signal-strength indicator (RSSI)
+- receiver 接收器  
+- receiver, optical 光学接收器 
+- receiving device 接收器件 
+- receiving mode 接收模式 
+- receptacle 插座  
+- rechargeable 可充电的  
+- recipe generator 格式产生器 
+- recipe 格式  
+- reciprocal mixing 互惠混合，交互混合;交互溶解 
+- recirculating remainder conversion 重复余数转换
+- reclosure 再次接入  
+- recognition accuracy 识别准确度 
+- recognition of connected words
+- recognition of continuous speech
+- recognition of individual words
+- recognition, optical character (OCR)
+- recognition, speech 语音辨认 
+- recognition, voice 声音辨认 
+- recognizer, word 字组辨认器 
+- recoil 反冲  
+- recompilation 再编译  
+- recompilation, incremental 增量再编译 
+- recompile 再编译  
+- reconfigurable hardware 可再配置硬件，可重构硬件 
+- record 记录 （for database）
+- recordable, compact disk- (CD-R)
+- recorder, digital video silicon
+- recorder, digital 数字录音机 
+- recording, constant density (CDR)
+- recording, group code (GCR)
+- recording, linear density 线性密度录写
+- recording, zone bit (ZBR)
+- recording, zoned density (ZDR)
+- recordset 记录集 （for database
+- recover 修复  
+- recovery time 恢复时间 
+- recovery, bus error 总线错误修复
+- rectangular coordinate 直角座标 
+- rectangular resolution 直角分解法 
+- rectification 整流  
+- rectification, active 动态整流 
+- rectifier diode 整流二极管 
+- rectifier efficiency 整流效率 
+- rectifier 整流器  
+- rectifier, full-wave 全波整流 
+- rectifier, half-wave 半波整流 
+- rectifier, selenium 硒整流器 
+- rectifier, silicon-controlled (SCR) 硅控整流器
+- rectifier, voltage-doubled 倍电压整流电路 
+- rectilinear motion 直线运动 
+- rectilinear propagation 直线传播 
+- rectilinear 直线  
+- recursive 循环  
+- recursive 递归  
+- recursive-subranging converter 循环次分程转换器 
+- red, green and blue
+- redial 重拨  
+- reduced instruction set computer
+- reduced instruction set computing
+- reduced intrusion scan path
+- reduced latency DRAMRA 时延减少型DRAM
+- reduction 简约  
+- reduction, Boolean 布尔约简 
+- reduction, noise (NR) 噪声抑制
+- redundancy 冗余度，冗码码，冗余，多余  
+- redundant array of independent
+- redundant arrays of inexpensive
+- reed relay 簧片继电器 
+- reed-m*ller logic 里德-马勒逻辑 
+- reel table 转盘 
+- refactoring 重构  
+- refer 引用、参考  
+- reference counting引用计数  
+- reference design 参考设计，基准设计 
+- reference ground 参考地 
+- reference mark 参考标记；基准标记 
+- reference model 参考模型 
+- reference point 参考点 
+- reference pulse 基准脉冲 
+- reference voltage 参考电压 
+- reference 参考  
+- reference 引用、参考  
+- reference, memory 存储器参考 
+- referential integrity （RI）引用完整性（RI） （for
+- reflectance 反射率  
+- reflected ray 反射线 
+- reflected ripple current 反射脉动电流
+- reflected wave 反射波 
+- reflecting angle 反射角 
+- reflecting telescope 反射式望远镜 
+- reflection 反射  
+- reflection 反射  
+- reflection, diffuse 漫反射 
+- reflection, double 双反射 
+- reflection, internal 内反射 
+- reflection, multiple 多次反射 
+- reflection, regular 常规反射；单向反射 
+- reflection, selective 选择反射 
+- reflection, specular 镜面反射 
+- reflection, total internal 全内反射
+- reflection, total 全反射 
+- reflectometry, time domain (TDR)
+- reflector 反射器  
+- reflector, black-surface (BSR) 黑面反射器
+- reflector, ceramic 陶瓷反射器 
+- reflector, infrared reflow 反射器式红外线回流
+- reflow bulb, infrared 灯泡式红外线回流
+- reflow furnace 回流熔炉 
+- reflow lamp, infrared 灯管式红外线回流
+- reflow oven 回流焊炉，回溶焊炉 
+- reflow soldering 回流式焊接 
+- reflow, forced convection infrared
+- reflow, forced-air convection infrared
+- reflow, infrared 红外线回流 
+- refracted ray 折射线 
+- refracted wave 折射波 
+- refracting angle 折射角 
+- refracting edge 折射边 
+- refracting telescope 折射式望远镜 
+- refraction index 折射率 
+- refraction 折射  
+- refraction, absolute index of
+- refraction, double 双折射 
+- refractory metal 耐溶金属，耐火金属 
+- refresh controller 重清控制器 
+- refresh cycle 更新周期 
+- refresh data 刷新数据 （for
+- refresh 更新  
+- refresh, memory 存储器更新 
+- refrigerant 冷冻剂  
+- regeneration 再生  
+- region 区域  
+- region, doped 渗染区 
+- region, public shared library
+- region, saturation 饱和区 
+- register bank scheme 寄存器组电路
+- register bank 寄存器组 
+- register file 寄存器文件 
+- register level 寄存器级 
+- register stack cache 寄存器堆栈高速缓冲存储器
+- register stack 寄存器堆栈 
+- register window 寄存器视频 
+- register 寄存器  
+- register 寄存器  
+- register, accumulator 累加寄存器 
+- register, base 基本寄存器； 基底寄存器
+- register, command 命令寄存器 
+- register, configuration 配置寄存器 
+- register, data 数据寄存器 
+- register, descriptor 描述信息寄存器 
+- register, display 显示寄存器 
+- register, general-purpose 通用寄存器 
+- register, index 索引寄存器 
+- register, inner 内寄存器 
+- register, multi- 多重寄存器 
+- register, operand 运算元寄存器 
+- register, operational 操作寄存器 
+- register, overlay 叠层寄存器 
+- register, pointer 指标寄存器 
+- register, regular 规则寄存器 
+- register, segment 分段寄存器 
+- register, serial 串行寄存器 
+- register, set 寄存器集 
+- register, shift 位移寄存器 
+- register, special function (SFR)
+- register, universal shift 通用位移寄存器
+- register, video shift 视频位移寄存器
+- register-based device 寄存器类器件 
+- register-level compatibility 寄存器水平兼容 
+- register-transfer level (RTL) 寄存器转移水平
+- registration 定位  
+- registration, probe 探针定位 
+- regression test 回归测试 
+- regular expression 正则表达式 
+- regular pulse code (RPC)
+- regular reflection 常规反射；单向反射 
+- regular register 规则寄存器 
+- regulated voltage 稳定电压 
+- regulating valve 节制活门 
+- regulator 调节器  
+- regulator, automatic voltage (AVR)
+- regulator, isolated flyback 隔离式回扫调节器
+- regulator, linear 线性调节器 
+- regulator, switching 交换调节器 
+- regulator, voltage 电压调节器 
+- rejection ratio (RR) 抑制比率
+- rejection 抑制  
+- rejection, common-mode 共态抑制 
+- relation, mass-energy 质能关系 
+- relational database management system
+- relational database system (RDS)
+- relational database 关系数据库 
+- relational database 关系数据库 
+- relational structure 相关结构 
+- relative blackening 相对黑度 
+- relative density 相对密度 
+- relative error 相对 误差
+- relative humidity 相对湿度 
+- relative motion 相对运动 
+- relative permeability 相对磁导率 
+- relative position 相对位置 
+- relative velocity 相对速度 
+- relativity 相对性；相对论  
+- relaxation oscillator 张弛振荡器 
+- relay circuit 延迟电路 
+- relay 延迟；继电器  
+- relay, electromagnetic 电磁继电器 
+- relay, reed 簧片继电器 
+- relay, solid-state (SSR) 固态继电器
+- reliability 可靠性  
+- relocatable 可重置  
+- relocate 再重置  
+- relocation 再定位  
+- reluctance 磁阻  
+- remainder 余数  
+- remanence 顽磁性  
+- remote access servers (RSA)
+- remote access 远程访问 
+- remote authentication dialup user
+- remote enable/disable 远程允许/禁止 
+- remote execution 远程执行,遥控执行 
+- remote file service (RFS)
+- remote login (R-login) 远程登录
+- remote method invocation (RMI)
+- remote monitoring (RMON) 远程监控
+- remote monitoring II (RMON
+- remote operation service element
+- remote procedure call (RPC)
+- remote redirection 远程重定向 
+- remote request 远程请求 
+- remote sensing 遥感 
+- remote terminal unit (RTU)
+- remote 远程  
+- remote 远程  
+- remotely reconfigurable hardware 远程可再配置硬件，远程可重构
+- removal hard disk 可拆装式硬盘
+- removal 可拆装的  
+- repair, mean time to
+- repeatability 可重复性  
+- repeater 中继器  
+- repetition rate 重复率 
+- repetition, automatic request for
+- repetitive peak reverse voltage
+- repetitive 重复  
+- repetitive, random- 随机重复 
+- repetitive, sequential- 顺序重复 
+- replacement algorithm 替换演算法 
+- replacement, conditional 条件式替换 
+- replicate 再生  
+- replicated database 复制的数据库 
+- replicated directory 复制目录 
+- replication 复制  
+- replication, pixel 图素复制 
+- report generation facility 报表生成设施
+- report generation 报表生成 
+- report 报表  
+- represent 表述，表现  
+- representation 表示法  
+- representation, linear prefix attributed
+- reproducibility 可复制性  
+- reprogrammable 可再编程  
+- reprogramming 再编程  
+- repulsion 斥力  
+- request for technology (RFT)
+- request to send 请求发送
+- request 要求；请求  
+- request, automatic repeat (ARQ)
+- request, direct memory access
+- request, fast interrupt (FIRQ)
+- request, fetch 找取要求 
+- request, interrupt (IRQ) 中断要求
+- requester 请求器  
+- requester, bus 总线请求器 
+- resale carriers 转售媒体[数据] 
+- reservation 保留；预定  
+- reset signal 复位信号 
+- reset 复位  
+- reset, power-on 通电复位 
+- resident 驻留  
+- resident, memory 存储器驻留 
+- resident, terminate and stay
+- residual contamination 残余污染物 
+- residual frequency modulation 残留的频率调制
+- residual gas analysis (RGA)
+- residual magnetism 剩磁 
+- residual response 残余反应 
+- residue 残渣  
+- residue, flux 焊剂残渣 
+- resin flux 树脂熔剂,树脂焊剂 
+- resin impregnation 树脂浸渍 
+- resin 树脂  
+- resin-coated copper (RCC) 树脂涂膜铜，涂松香铜
+- resist 抗蚀剂，保护层，阻档，抵抗  
+- resistance (R) 电阻；电阻值 
+- resistance coil 电阻线圈 
+- resistance temperature detector (RTD)
+- resistance thermometer 电阻式温度计 
+- resistance, contact 接触电阻 
+- resistance, effective 有效电阻 
+- resistance, electric 电阻 
+- resistance, equivalent 等效电阻 
+- resistance, extraction 析出电阻 
+- resistance, insulation 绝缘电阻 
+- resistance, internal 内电阻 
+- resistance, magnetic 磁阻 
+- resistance, negative 负电阻 
+- resistance, on-state 导通状态电阻 
+- resistance, sheet 表面电阻；薄层电阻 
+- resistance, shunt 分流电阻 ；旁路电阻
+- resistance, surface 表面电阻 
+- resistance, temperature coefficient of
+- resistance, thermal 热阻性 
+- resistance, winding 绕线电阻 
+- resistivity correction factor (RCF)
+- resistivity of solvent extract
+- resistivity 电阻率  
+- resistivity, interconnect 互连电阻率 
+- resistivity, substrate 基板电阻率 
+- resistivity, thermal 热阻率 
+- resistor divider 电阻分割器 
+- resistor thermal noise 电阻热噪声
+- resistor 电阻器  
+- resistor, diffused 扩散电阻器 
+- resistor, pull-down 下拉电阻器 
+- resistor, pull-up 上拉电阻器 
+- resistor, standard 标准电阻 
+- resistor, thick-film 厚膜电阻器 
+- resistor, thin-film 薄膜电阻器 
+- resistor, variable 可变电阻器 
+- resistor, wound 绕线电阻器 
+- resistor-capacitor diode (RCD) 电阻器电容器二极管
+- resistor-capacitor-transistor logic (RCTL) 电阻电容晶体管逻辑
+- resistor-transistor logic (RTL) 电阻晶体管逻辑
+- resolution bandwidth 解析度频宽 
+- resolution 解析过程  
+- resolution 分解；解析度  
+- resolution, horizontal 水平解析度 
+- resolution, rectangular 直角分解法 
+- resolution, vector 向量分解 
+- resolution, vertical 垂直解析度 
+- resolve 解析、决议  
+- resolvent 分解物；溶剂  
+- resolving power 分辨率 
+- resonance circuit 谐振电路 
+- resonance 共振；谐振  
+- resonance, electrical 电气共振 
+- resonance, electron cyclotron (ECR)
+- resonance, frequency 共振频率；谐振频率 
+- resonant cavity 共振腔 
+- resonant circuit 谐振电路 
+- resonant frequency 共振频率；谐振频率 
+- resonant line 共振线 
+- resonator 共振器；谐振器  
+- resource catalog 资源目录 
+- resource description framework (RDF)
+- resource request 资源请求 
+- resource reservation protocol (RSVP)
+- resource scheduling 资源调度 
+- resource translation 资源转化 
+- resource, shared- 资源分享 
+- response time 反应时间；响应时间 
+- response, finite impulse (FIR)
+- response, frequency 频率反应 
+- response, infinite impulse (IIR)
+- response, interactive voice (IVR)
+- response, real-time interrupt 实时中断反应
+- response, residual 残余反应 
+- response, spurious 寄生反应 
+- rest mass 静止质量 
+- restart 再起动  
+- restart, bus cycle 总线周期再起动
+- restoration circuit 修复电路 
+- restore 再存入；还原  
+- restoring force 回复力；合力 
+- restricted response 限定（约束）应答 
+- result set 结果集 （for
+- resultant vector 合向量 
+- resume 恢复  
+- resurrect 修复  
+- retardation 减速度  
+- retargetable 可转移目标  
+- retentiveness 顽磁力  
+- retentivity 顽磁性  
+- reticle 交叉线，分度线，标度线，十字线  
+- retrace 回扫  
+- retrace, vertical 垂直回扫 
+- retrack 再跟踪  
+- retrieve data 检索数据 
+- retrieve 检索；撷取  
+- return loss 回送损耗 
+- return path 返回路径 
+- return type 返回类型 
+- return value 返回值 
+- return 返回  
+- return 回送；返回  
+- return, ground 接地返回 
+- reuse pattern 复用模式 
+- reuse, frequency 频率再用 
+- reversal error 翻转误差 
+- reversal, flux 通量逆转 
+- reverse address resolution protocol
+- reverse avalanche energy 反向雪崩能量
+- reverse blocking 反向阻断 
+- reverse channel 反向信道 
+- reverse conversion 还原转换 
+- reverse current 逆向电流 
+- reverse direction protection switch
+- reverse engineering 还原工程 
+- reverse leak current 逆向漏泄电流
+- reverse polarity 逆极性；逆偏振 
+- reverse power 反向电源 
+- reverse recovery 反向恢复 
+- reverse voltage protection 逆电压保护
+- reverse voltage transient 反向电压瞬变
+- reverse, surge 反向浪涌 
+- reverse-biased input transistor 反向偏压输入晶体管
+- reversibility 可逆性  
+- reversible process 可逆过程 
+- revoke 撤销  
+- revolving magnetic field 旋转磁场
+- rework 重做；修复作业  
+- rheology 流变学  
+- rheostat 可变电阻；变阻器  
+- ribbon cable 带状电缆 
+- rich media programming 多种媒体编程技术
+- right hand circular polarization
+- right outer join 右向外联接
+- rigid body 刚体 
+- rigid flex 刚性弯曲，刚性扭曲 
+- ring mode 环状模式 
+- ring network 环状网络 
+- ring topology 环路拓朴 
+- ring, fiber optic 光纤环
+- ring, pad 填补环 
+- ring, token 令牌环 
+- ringer 振铃器  
+- ringing 振铃  
+- rinse 冲洗  
+- rinse, gross 粗洗 
+- rip 分割；割开  
+- ripple current 脉动电流 
+- ripple voltage 脉动电压 
+- ripple 脉动；脉动干扰  
+- rise time 上升时间 
+- rising edge 上升边缘 
+- roaming 漫游  
+- robbed bit signaling (RBS)
+- robot arm 机械臂 
+- robot 机械人  
+- robust open architecture distributed
+- robust 健壮  
+- robustness 健壮性  
+- rocker switch 摇杆式开关 
+- rod, lightning 避雷针 
+- rod, tungsten 钨线 
+- roll back 回滚 （for
+- roll forward 前滚 （for
+- roll off 转降 
+- roll-about videoconferencing 滚动式视频会议 
+- roll-off frequency 衰减频率 
+- rolled annealed copper 轧制退火铜
+- roller bearing 滚桶轴承 
+- roller 滚筒，辊子  
+- rolling blackouts 滚动式删除，滚动式灯火管制 
+- rolling friction 滚动摩擦 
+- rollout 首次展示  
+- romable operating system (ROS)
+- romable 可只读存储器化；只读存储器化  
+- root-mean-square (RMS) 均方根 
+- rosin activated 活性树脂 
+- rosin flux 松香焊剂，松香熔剂 
+- rosin mildly activated (RMA)
+- rosin super activated (RSA)
+- rosin 松香，松脂  
+- rotary switch 转动式开关 
+- rotary uninterruptable power supply
+- rotary vane 旋转叶片 
+- rotation, axis of 转动轴
+- rotational equilibrium 转动平衡 
+- rotational latency 转动等待时间 
+- rotator 旋转器  
+- rotator, phase 相位旋转器 
+- rotor 转子；路由  
+- round trip time (RTT)
+- route optimization 路由最佳化 
+- route selection metrics 路由选择量度
+- route, automatic place and
+- route, place and 布局及路由
+- router 路由器  
+- router, Lee flood 李氏扩式路由器
+- router, line probe 线路探测路由器
+- router, maze 迷宫路由器 
+- router, pattern 图形路由器 
+- router, re-try 试算式路由器 
+- routine 例程  
+- routine 例行程序  
+- routine, external 外部例行程序 
+- routine, internal 内部例行程序 
+- routine, interrupt service (ISR)
+- routine, run time 运行时间例行程序
+- routine, sub- 次例行程序 
+- routing algorithm 路由算法 
+- routing control 路由选择控制 
+- routing information base (RIB)
+- routing information protocol (RIP)
+- routing information table (RIT)
+- routing policy specification language
+- routing, interactive 交谈式路由 
+- routing, pair-wise 双层路由法 
+- routing, proximity 邻近效应路由 
+- row address strobe (RAS)
+- row comparator 行比较器 
+- row lock 行锁 （for
+- row 行  
+- row 行 （for database）
+- rowset 行集 （for database）
+- royalty 技术专利费  
+- rubber banding 弹性连接 
+- rubber magnet 磁性橡胶 
+- ruggedized 强化  
+- rule of thumb 经验法则
+- rule 法则；规则  
+- rule, basic encoding 基本编码法则
+- rule, generic 通用法则 
+- rule, polysilicon process 多晶硅处理规则
+- run time routine 运行时间例行程序
+- run time 运行时间 
+- run-length limited (RLL) 游程长度限制
+- runner 转子  
+- runout, non-repeating (NRR) 非重复性振摆
+- runtime 执行期、运行期、执行时、运行时  
+- rvalue 右值  
+- 
+## S
+- 
+- safety ground 安全接地 
+- samarium 钐  
+- sample and hold 采样和保持
+- sample, luminance 亮度取样 
+- sample-and-hold amplifier (SHA) 取样及保持放大器
+- sampling converter 取样转换器 
+- sampling frequency bandwidth 取样频率频宽
+- sampling frequency 取样频率 
+- sampling scope 取样显示器 
+- sampling theorem 采样定理，抽样定理 
+- sampling 取样  
+- sampling, equivalent time 等效时间取样
+- sampling, simultaneous (SS) 同时取样
+- sandbox model 砂箱模型 
+- sandbox security 砂箱安全 
+- saponifier 皂化剂；皂化器  
+- satellite communications 卫星通信 
+- satellite master antenna television
+- satellite transmission 卫星转播 
+- satellite 卫星  
+- satellite, direct broadcast (DBS)
+- saturated effect 饱和效应 
+- saturated vapor pressure 饱和汽压
+- saturated vapor 饱和蒸汽 
+- saturation condition 饱和状态 
+- saturation flux density 助剂饱和密度
+- saturation line 饱和曲线 
+- saturation point 饱和点 
+- saturation region 饱和区 
+- saturation value 饱和值 
+- saturation, magnetic 磁饱和 
+- saturation, quasi- 虚饱和 
+- save 保存  
+- savepoint 保存点 （for database）
+- saver, power 省电器 
+- scalability 伸缩性  
+- scalable architecture 可定标结构 
+- scalable coherent interface (SCI)
+- scalable 可定标  
+- scalable 可伸缩的、可扩展的  
+- scalar product 标积 
+- scalar quantity 标量 
+- scalar 标量  
+- scalar, pre- 预标定器 
+- scale 刻度；标度  
+- scale, Celsius 摄氏温标 
+- scale, Fahrenheit 华氏温度计 
+- scale, Kelvin 开氏温标 
+- scale, absolute temperature 绝对温标
+- scale, angular 角度盘 
+- scale, diatonic 自然音阶 
+- scale, equally tempered 同特征标度
+- scale, full 全标度 
+- scale, gray 灰度 
+- scale, horizontal 水平标度 
+- scale, major diatonic 大自然音阶
+- scale, musical 音阶 
+- scale, temperature 温差 
+- scale, vertical 垂直标度 
+- scaler 定标器  
+- scan path 扫描路径 
+- scan rate 扫描率 
+- scan 扫描  
+- scan, boundary 边缘扫描 
+- scan, double 双扫描 
+- scan, helical 螺旋式扫描 
+- scan, raster 光栅扫描 
+- scanner 扫描器  
+- scanner, bar code 条码扫描器
+- scanner, image 影像扫描器 
+- scanning acoustic microscope 扫描声学显微镜
+- scanning electron microscope 扫描式电子显微镜
+- scanning frequency 扫描频率 
+- scanning line 扫描线 
+- scanning tunneling microscope (STM)
+- scanning 扫描  
+- scanning, arc 弧形扫描 
+- scanning, horizontal 水平扫描 
+- scanning, interlaced 交织扫描；隔行扫描 
+- scanning, sequential 逐行扫描；顺序扫描 
+- scanning, vertical 垂直扫描 
+- scatter propagation 散射传播 
+- scattered light 散射光 
+- scattering 散射  
+- scattering, back- 反向散射 
+- scattering, total 总散射 
+- scatternet 分布网，分散网，散射网  
+- scavenge pad 清洗焊盘，清洗焊接点 
+- schedule 调度  
+- scheduler 调度程序  
+- scheduler 调度程序  
+- schema 模式、纲目结构  
+- schemata 图解  
+- schematic capture 原理图攫取 
+- schematic 原理图  
+- scheme 电路；模式  
+- scheme, arbitration 判优电路 
+- scheme, register bank 寄存器组电路
+- science, cognitive 认知科学 
+- scope operator 生存空间操作符 
+- scope resolution operator 生存空间解析操作符
+- scope 范围  
+- scope 作用域、生存空间  
+- scope, sampling 取样示波器 
+- scoreboarding 寄存器记数  
+- scrambler circuit 密码转换器电路 
+- scrambling 加扰  
+- scrap 报废；废料  
+- screen printer 丝网印刷机；网印机 
+- screen printing 丝网印刷 
+- screen 屏幕  
+- screen 屏幕  
+- screen, anti-glare 不反光屏幕 
+- screen, fluorescent 萤光幕 
+- screen, focusing 对焦屏 
+- screen, solar projection 太阳投射屏幕
+- screen, touch control 触按式屏幕
+- screen, touch 触按式屏幕 
+- scribe and break 划线及折断
+- scripting language 描述语言，[UNIX]过程语言 
+- scroll bar滚动条  
+- scroll 卷页  
+- sea of gates 门海
+- sea-of-cells 海量单元  
+- sea-of-gates 海量门数  
+- sealed class 密封类 
+- seamless 无接口  
+- search engine 搜索引擎 
+- search 查找  
+- search, binary tree 二元树状搜寻
+- search, binary 二元搜寻 
+- search, comparative 比较式搜寻 
+- search, distributive 分配式搜寻 
+- search, external 外部搜寻 
+- search, internal 内部搜寻 
+- search, linear 线性搜寻 
+- search, sequential 顺序搜寻 
+- searching 搜寻  
+- secant 正割  
+- second source 第二源 
+- second 秒  
+- second, byte-per- 每秒字节数 
+- second, character-per- (CPS) 每秒字数
+- second, cycle-per- (CPS) 每秒周期数
+- second, micro- 微秒 
+- second, milli- (ms) 毫秒
+- second, million floating point
+- second, million instruction bytes
+- second, million instructions per
+- second, million samples per
+- second, nano- (ns) 毫微秒
+- second, pico- (ps) 微微秒
+- second-level cache (L2) 次级高速缓冲存储器
+- secondary battery 次级电池 
+- secondary breakdown 次级击穿 
+- secondary coil 次级线圈 
+- secondary current 次级电流 
+- secondary data structure 次级数据结构
+- secondary ion mass spectrometry
+- secondary output 二次输出；次级输出 
+- secondary storage 次级储存 
+- secondary voltage 次级电压 
+- secondary 次级；辅助  
+- section offset 区段偏移 
+- section overhead (SOH) 段过载，段开销
+- section 区段  
+- section, cross- 截面 
+- section, principal 主截面 
+- sectionalizer 分段器  
+- sector antenna 扇面天线 
+- sector index 磁区索引 
+- sector 磁区  
+- sector, boot 启动磁区 
+- secure hash algorithm (SHA)
+- secure hypertext transfer protocol
+- secure multimedia Internet mail
+- secured electronic transaction (SET)
+- security management 安全性管理 
+- sedimentation 沉积  
+- seed value 晶粒值，晶种数量 
+- seek time 寻找时间 
+- seesaw switch 反相式开关 
+- segment address 分段地址 
+- segment handling interrupt 分段处理中断
+- segment handling 分段处理 
+- segment offset 分段偏移 
+- segment register 分段寄存器 
+- segment 分段  
+- segment, code 代码分段 
+- segment, local 本部分段 
+- segment, paging 分页分段 
+- segmentation and reassembly (SAR)
+- segmentation 分段  
+- segmentation, memory 存储器分段 
+- seismic wave 地震波 
+- selected area chemical vapor
+- selection sort 选择式排序 
+- selective area laser deposition
+- selective laser sintering (SLS)
+- selective reflection 选择反射 
+- selector 选择器  
+- selenium (Se) 硒 
+- self discharge 自放电 
+- self healing network 自愈网
+- self-alignment 自对准，自定位  
+- self-diagnostics 自我诊断  
+- self-healing network 自愈网络 
+- self-inductance 自感  
+- self-phase modulation (SPM) 自相位调制
+- self-resonant frequency (SRF) 自谐振频率
+- self-solder quad flat pack
+- semantic content 语意内容 
+- semantics 语义  
+- semaphore 信号  
+- semaphore 信号量  
+- semi-aqueous cleaning 半水洗 
+- semi-custom 半定制  
+- semi-customize 半定制  
+- semiaqueous cleaning 半水洗 
+- semiconductor manufacturing technology research
+- semiconductor 半导体  
+- semiconductor, N-channel metal oxide
+- semiconductor, N-type N 型半导体
+- semiconductor, P-channel metal oxide
+- semiconductor, P-type P 型半导体
+- semiconductor, bipolar complementary metal
+- semiconductor, bipolar metal oxide
+- semiconductor, complementary metal oxide
+- semiconductor, dielectric isolated complementary
+- semiconductor, metal oxide (MOS)
+- send 发送  
+- sending mode 发送模式 
+- sensing, remote 遥感 
+- sensitive, edge 边缘敏感 
+- sensitive, level- 电平敏感 
+- sensitivity, light 光敏度 
+- sensor 传感器  
+- sensor, humidity 湿度感应器 
+- sensor, image 影像感应器 
+- sensor, photo 光感应器 
+- sensor, thermocouple 热偶感应器 
+- separate audio program (SAP)
+- separation 分隔；分离  
+- separator 分隔字符；分隔器  
+- separator, data 数据分隔器 
+- separator, encoder/decoder data 编码器／解码器数据分隔器
+- sequence function chart (SFC)
+- sequence number 序号，顺序号，流水号 
+- sequence 序列  
+- sequence, data 数据序列 
+- sequence, frame check (FCS)
+- sequence, instruction 指令序列 
+- sequence, pseudo-random 虚随机序列 
+- sequencer 定序器  
+- sequencer, programmable (PROSE) 可编程定序器
+- sequencer, timing 时序定序器 
+- sequencer, trigger 触发定序器 
+- sequential access 序列存取；顺序存取 
+- sequential build-up 顺序内建 
+- sequential chain 序列链路 
+- sequential construct 序列构造 
+- sequential container序列式容器  
+- sequential list 顺序列 
+- sequential mapping 顺序映射 
+- sequential packet exchange (SPX)
+- sequential process 序列处理 
+- sequential scanning 逐行扫描；顺序扫描 
+- sequential search 顺序搜寻 
+- sequential system 序列式系统 
+- sequential transfer 顺序传输 
+- sequential transmission 顺序传输 
+- sequential trigger 序列触发 
+- sequential 序列的；顺序的  
+- sequential-repetitive 顺序重复  
+- serial adapter 串行配接器 
+- serial bit 串行位 
+- serial byte 串行字节 
+- serial communication controller (SCC)
+- serial communications 串行通讯 
+- serial compiler 串行编译器 
+- serial controller 串行控制器 
+- serial copy management system
+- serial data in (SDI)
+- serial data out (SDO)
+- serial interface engine (SIE)
+- serial interface 串行接口 
+- serial line Internet protocol
+- serial line internet protocol
+- serial peripheral interface (SPI)
+- serial port 串行端口 
+- serial pulse-code modulation interface
+- serial read port 串行读取端口
+- serial register 串行寄存器 
+- serial transmission 串行传输 
+- serial 串行  
+- serial 串行  
+- serial, word 字串行 
+- serial-in parallel-out (SIPO) 串入并出
+- serial-in serial-out (SISO) 串入串出
+- serialization/serialize 序列化  
+- serialize 串行化  
+- serializer shift clock 串行器变换时钟
+- serializer 串行器  
+- series combination 串联汇编 
+- series gating 串连门 
+- series spectrum 系线谱 
+- series 序列；系列；串联；串行  
+- server cursor服务端游标、服务器游标 （for database）
+- server 服务器  
+- server 服务器、服务端  
+- server, communication 通讯服务器 
+- server, disk 磁盘服务器 
+- server, file 文件服务器 
+- server, network 网络服务器 
+- service access point (SAP)
+- service access point identifier
+- service access protocol (SAP)
+- service advertising protocol (SAP)
+- service control function (SCF)
+- service control point (SCP)
+- service creation environment (SCE)
+- service creation environment function
+- service data function (SDF)
+- service data point (SDP)
+- service data unit (SDU)
+- service ids/sids 多重服务识别代码 
+- service lateral 服务支线 
+- service level agreement (SLA)
+- service level agreement/slas 服务级协议
+- service location protocol (SLP)
+- service logic program 业务逻辑程序
+- service management function (SMF)
+- service management system (SMS)
+- service node (SN) 业务节点
+- service point 服务点 
+- service switching function (SSF)
+- service switching point (SSP)
+- service, advanced communications (ACS)
+- service, bulletin board (BBS)
+- service, dataphone digital (DDS)
+- service, quality of (QOS)
+- service, remote file (RFS)
+- service, wide area telecommunications
+- service-specific convergence sublayer (SSCS)
+- services switching point (SSP)
+- services, basic communications 基本通讯服务
+- serving GPRS support node
+- serving office (SO) 服务处，维修处
+- servo burst 伺服脉冲 
+- servo controller 伺服控制器 
+- servo demodulator 伺服解调器 
+- servo motor 伺服马达 
+- servo profile 伺服描述 
+- servo signal 伺服信号 
+- servo 伺服  
+- servo, continuous composite (CCS)
+- servowriting 伺服写入  
+- session initiation protocol (SIP)
+- session layer 对话层 
+- session 对话  
+- session 会话 （for database）
+- set instruction 指令集 
+- set 集  
+- set, character 字符集 
+- set, multi-register (MRS) 多重寄存器集
+- set, register 寄存器集 
+- set, virtual command 虚拟命令集
+- set-point 设定值，给定值；调整点  
+- set-top box 机顶盒 
+- set-top cable boxes 有线电视机顶盒
+- setter 设值函数  
+- setting time 建立时间，稳定时间，置位时间 
+- setting, aperture 光圈调校 
+- setting, default 缺省设定 
+- setup 装设  
+- severely errored second (SES)
+- shade 色调；阴影；浓淡  
+- shadow photometer 阴影光度计 
+- shadow random access memory
+- shadow 阴影  
+- shadowing 遮蔽；加阴影；变暗  
+- shaft 传动轴；轮轴  
+- shallow discharge 表面放电 
+- shallow trench isolation (STI)
+- shape deposition manufacturing (SDM)
+- shape deposition modeling (SDM)
+- shared library 分享程序库 
+- shared lock 共享锁 （for
+- shared memory protocol 分享存储器协定
+- shared memory 分享存储器 
+- shared wireless access protocol
+- shared-resource 分享资源  
+- shareware 共享件  
+- sharing, time 分时 
+- shear force 切力 
+- shear modulus 切变模量 
+- shear strength 剪切强度 
+- shear 切力  
+- sheath miles of fiber
+- sheath 护套  
+- sheet dielectric 片状介电质 
+- sheet resistance 表面电阻；薄层电阻 
+- sheet 薄层  
+- sheet, mica 云母片 
+- shelf life 保存期限，储存寿命 
+- shell driven 壳体驱动 
+- shell 壳体  
+- shell-driven interface 壳体驱动接口 
+- shield 屏蔽；掩蔽  
+- shielded inductor 隔离电感器 
+- shielded twisted pair (STP)
+- shielded wire 屏蔽线；隔离线 
+- shielding 屏蔽  
+- shielding, magnetic 磁屏 
+- shift clock 变换时钟 
+- shift key 字母变换键 
+- shift lock key 字母变换锁定键
+- shift rate 位移率 
+- shift register 位移寄存器 
+- shift, bit 位移位 
+- shift, level 电平位移 
+- shift, phase 相位位移；相位转移 
+- shift, under-phase- 下相位位移 
+- shifter 位移器  
+- shifter, barrel 柱式位移器 
+- shifter, length 长度位移器 
+- shifter, level 电平位移器 
+- shifter, logic-level 逻辑水平位移器 
+- shipper 船务公司  
+- shipping tube 输送管道,航运通道 
+- shock wave 冲击波 
+- shock, thermal 热击 
+- shooter, chip 片式元件组装机 
+- shop floor line management
+- short circuit 短路 
+- short dipole 短偶极天线，短偶极振子，短偶极子 
+- short message service (SMS)
+- short wave 短波 
+- short 短路  
+- short-circuit protection 短路保护 
+- short-reach 短到达  
+- shrink quad flat package
+- shrink small-outline package (SSOP)
+- shrinkable tube 热缩管 
+- shunt capacitance 分流电容 
+- shunt circuit 分流电路 
+- shunt compensation 分流补偿；旁路补偿；旁路电阻 
+- shunt loss 分流损耗 
+- shunt regulation 分流调节，并联调节 
+- shunt resistance 分流电阻；旁路电阻 
+- shunt transistor 分流晶体管 
+- shunt 分流；分流器；旁路  
+- shunted condenser 旁路电容器 
+- shutdown 停机  
+- shutter speed 快门速度 
+- shutter 快门  
+- sibling 同级  
+- side band 频带 
+- side effect 副作用 
+- side, component 元件板面 
+- side, solder 焊接板面 
+- sideband signaling 边带信令 
+- sideband 边带  
+- sidetone 侧音调  
+- sign convention 符号规约 
+- sign up 签约雇用 
+- signal attenuation 信号衰减 
+- signal circuitry 信号电路 
+- signal computing system architecture
+- signal dispersion 信号散射，信号弥散现象 
+- signal fade margin 信号衰落储备，信号衰落界限
+- signal fidelity 信号保真度 
+- signal generator 信号产生器 
+- signal ground 信号地 
+- signal integrity analysis 信号完整性分析,信号完备性分析
+- signal integrity 信号完整性,信号完备性 
+- signal inversion 信号逆转 
+- signal processing 信号处理 
+- signal quality error SQE
+- signal state diagram 信号状态图
+- signal timing 信号时序,信号定时 
+- signal 信号  
+- signal, acknowledge 收完成信号 
+- signal, baseband 频带信号 
+- signal, color difference 彩色区分信号
+- signal, common clock 共同时钟信号
+- signal, common-mode 共态信号 
+- signal, cross 信号交接；信号交越 
+- signal, down-converted 下转换信号 
+- signal, reset 重设信号 
+- signal, servo 伺服信号 
+- signal, spurious 寄生信号 
+- signal, status 状态信号 
+- signal, strobe 选通信号 
+- signal, time-sampled 时间取样信号 
+- signal, video 视频信号 
+- signal-level meter (SLM) 信号电平计
+- signal-to-noise ratio (SNR) 信噪比
+- signal-to-quantization noise ratio (SQNR)
+- signaling connection control part
+- signaling data link (SDL)
+- signaling data link functions
+- signaling end point (SEP)
+- signaling link functions 综合链路功能
+- signaling message handling 信令消息处理
+- signaling network functions 信令网功能
+- signaling network management 信令网管理
+- signaling point (SP) 信令点
+- signaling transfer and end
+- signaling transfer point (STP)
+- signaling 信令；发信号，发码  
+- signaling, common channel (CCS)
+- signaling, functional 功能式发信 
+- signaling, out-of-band 频带外传信 
+- signaling, stimulus 激发性发信 
+- signaling, system 信令系统 
+- signature analysis 署名特征分析 
+- signature 签名  
+- signature 标记图；辨认记号  
+- significant bit 有效位 
+- significant figure 有效数字 
+- silence suppression 静音抑制 
+- silicide 硅化物  
+- silicon (Si) 硅 
+- silicon dioxide 二氧化硅 
+- silicon nitride 氮化硅 
+- silicon real estate 硅片空间
+- silicon wafer 硅晶圆 
+- silicon, local oxidation of
+- silicon-controlled rectifier (SCR) 硅控整流器
+- silicon-dioxide layer 二氧化硅层 
+- silicon-on-insulator (SOI) 绝缘体上硅芯片 
+- siliconization 硅片化  
+- silkscreen 丝网  
+- simple distributed security infrastructure
+- simple harmonic motion 简谐运动
+- simple mail transfer protocol
+- simple matrix display 简单矩阵显示
+- simple matrix 简单矩阵 
+- simple network management protocol
+- simple network management protocol
+- simple network time protocol
+- simple public key infrastructure
+- simple workflow access protocol
+- simplex transmission 单工传输，单向传输 
+- simplex 单工  
+- simulate 模拟  
+- simulated performance with integrated
+- simulation board design (SBD)
+- simulation pattern 模拟模式 
+- simulation program with integrated
+- simulation vector 模拟向量 
+- simulation 模拟  
+- simulation, behavioral 性能模拟 
+- simulation, device 器件模拟 
+- simulation, fault 故障模拟；错误模拟 
+- simulation, functional 功能模拟 
+- simulation, interconnection 互连模拟 
+- simulation, realtime 实时模拟 
+- simulation, transient linear 瞬变线性模拟
+- simulator 模拟器  
+- simulator, functional 功能模拟器 
+- simulator, harmonic balance 谐波平衡模拟器
+- simulator, post-layout 后布置模拟器 
+- simulcast 同时联播  
+- simultaneous sampling (SS) 同时取样
+- simultaneously switching noise 并发开关噪声
+- sine wave 正弦波 
+- sine 正弦  
+- sine-wave generator 正弦波产生器 
+- single channel per carrier
+- single crystalline layer 单晶体层
+- single crystalline silicon layer
+- single crystalline 单晶体 
+- single density (SD) 单密度
+- single instruction/multiple data (SIMD)
+- single layer TAB tape
+- single layer ceramic (SLC)
+- single mode fiber 单模光纤
+- single phase line 单相线路，单相输电线路
+- single phase 单相／单相位 
+- single precision 单精度 
+- single side band noise
+- single sideband 单边带 
+- single sided board 单面频带
+- single-attached connection 单配附连接 
+- single-attached station (SAS) 单配附传讯站
+- single-chip microcomputer (SCM) 单芯片微电脑
+- single-cycle address translation 单周期循环地址转换
+- single-in-line memory module (SIMM)
+- single-in-line package (SIP) 单列直插式封装
+- single-layer board 单层板 
+- single-layer metal (SLM) 单层金属
+- single-line DSL (SDSL) 单线DSL,单线数字用户线
+- single-mode fiber 单模光纤 
+- single-sideband noise 单面频带噪声 
+- single-sided board 单面电路板 
+- single-threaded 单线程  
+- single-tone desensitization 单音灵敏度下降 
+- sinking current 吸收电流 
+- site 地址，场所，现场  
+- skew 歪曲率  
+- skew, time 时滞 
+- skid control 滑动控制，刹车控制 
+- skin effect 趋肤效应，集肤效应 
+- sky wave propagation 天波传播
+- slave 从属；从属器  
+- sleep mode 休止模式 
+- slew rate (SR) 转换率
+- slice 截割  
+- slice, bit 位截割 
+- slice, cache 高速缓冲存储器截割 
+- slice, time 分时 
+- slicer 截割电路；截割器  
+- slide carrier 幻灯片托架 
+- slide switch 滑动式开关 
+- slider 滑杆  
+- slider滑块   
+- sliding friction 滑动摩擦 
+- sliding window protocol 滑动窗口协议
+- slip connection 滑动连接 
+- slip 电报纸条；滑动，滑步  
+- slope overload 斜率过载 
+- slope 斜率  
+- slope, bias 偏移斜率 
+- slot antenna 槽形天线，隙缝天线 
+- slot connector 槽连接器 
+- slot 槽  
+- slot 间隙；磁格；槽口  
+- slot, expansion 扩展槽 
+- slot, time 时序间隙 
+- slump, solder mask 焊锡掩膜下陷
+- small computer system interface
+- small loop antenna 小环形天线
+- small office and home
+- small-outline J-lead package (SOJ)
+- small-outline integrated circuit (SOIC)
+- small-outline package (SOP) 小外型封装
+- small-outline transistor (SOT) 小外型晶体管
+- small-scale integrated circuit (SSIC)
+- small-scale integration (SSI) 小规模集成
+- smart card 灵巧卡 
+- smart modem 灵巧型调制解调器 
+- smart phone 智能电话 
+- smart pointer 智能指针 
+- smart power 灵巧化功率 
+- smart sensor 智能传感器 
+- snapshot 快照 （for database）
+- snapshot 截屏图  
+- snooping 窥探  
+- snooping, bus 总线窥探 
+- snooping, cache 高速缓冲存储器窥探 
+- snubber 缓冲器，消声器，减振器  
+- soak zone 均热处理器 
+- society of cable television
+- socket 插座  
+- socket, test 测试用插座 
+- sodium (Na) 钠 
+- sodium cyanide 氰化钠 
+- sodium lamp 钠弧灯 
+- soft ACD 软件ACD 
+- soft adjacent layer (SAL)
+- soft error 可更正错误；软错误 
+- soft handover 软件切换; 软件移交
+- soft key 软键 
+- soft logic 软逻辑 
+- soft permanent virtual circuit
+- soft permanent virtual path
+- soft start circuit 软启动电路
+- soft start 软启动 
+- soft state 软状态 
+- software algorithm 软件演算法 
+- software driver 软件驱动程序 
+- software fault isolation (SFI)
+- software library 软件库 
+- software modem 软件调制解调器 
+- software package 套装软件 
+- software portability 软件可移植性 
+- software repository 软件存储库 
+- software reusability 软件可复用性 
+- software tool 软件工具 
+- software trigger 软件触发 
+- software 软件  
+- software 软件  
+- software, navigation 导引软件；导航软件 
+- software, presentation 简报软件 
+- software, public domain 公用软件
+- software-transparent cache 软件透明高速缓冲存储器 
+- software-transparent 软件透明  
+- solar battery 太阳电池 
+- solar cell 太阳能电池 
+- solar energy 太阳能 
+- solar projection screen 太阳投射屏幕
+- solder ball 焊锡球 
+- solder bath 焊浴 
+- solder bead 焊珠 
+- solder bridge 焊桥 
+- solder bump 撞击焊；焊接凸点 
+- solder connection 焊料连接 
+- solder flow 焊锡流 
+- solder junction 焊接点 
+- solder leveling 焊料匀称 
+- solder mask over bare
+- solder mask 阻焊剂；焊锡掩膜；绿漆 
+- solder paste 焊膏；锡膏 
+- solder powder 焊料粉末 
+- solder side 焊接板面 
+- solder spatter 焊料飞溅 
+- solder spike 焊料毛刺 
+- solder wicking 焊芯 
+- solder 焊接  
+- solder-mask slump 焊锡掩膜下陷 
+- solderability 可焊性；可焊度  
+- soldering technique 焊接技巧 
+- soldering time 焊接时间 
+- soldering, double-wave 双波峰焊接 
+- soldering, high-temperature 高温焊接 
+- soldering, no-clean 免清洗焊接 
+- soldering, reflow 回流焊接 
+- soldering, vapor-phase reflow 汽相回流焊接
+- soldering, wave 波峰焊接 
+- soldering, zero defect 零缺点焊接
+- solenoid 螺线管  
+- solid angle 立体角 
+- solid 固体  
+- solid-oxide fuel cell (SOFC)
+- solid-state laser 固体激光器 
+- solid-state physics 固态物理学 
+- solid-state relay (SSR) 固态继电器
+- solid-state 固态  
+- solidification 凝固  
+- solidification, heat of 凝固热
+- solidifying point 凝固点 
+- soliton 孤子，光孤子  
+- solubility 溶度  
+- solution, aqueous 水溶剂 
+- solvent extraction 溶剂萃取；溶剂抽取 
+- solvent 溶剂  
+- sonar 声纳  
+- sonobuoy 声纳浮标  
+- sonometer 听力计；弦音计  
+- sort, bubble 气泡排序 
+- sort, comparative 比较式排序 
+- sort, distributive 分配式排序 
+- sort, external 外部排序 
+- sort, insertion 插入式排序 
+- sort, interchange 交换式排序 
+- sort, internal 内部排序 
+- sort, merge 合并式排序 
+- sort, partition exchange 划分交换式排序
+- sort, quick 快速排序 
+- sort, selection 选择式排序 
+- sorting 排序  
+- sound spectrum 声谱 
+- sound speed 声速 
+- sound track 声迹 
+- sound wave 声波 
+- sound 声  
+- source code 源代码 
+- source code 源码、源代码 
+- source coherent, 相干源 
+- source file 源文件 
+- source interrupt 中断源 
+- source operand 源运算元 
+- source program 源程序 
+- source route bridging 源路由桥接
+- source routing 源路由选择，源选路 
+- source voltage effect 源电压效应
+- source 源  
+- source, light 光源 
+- source, line- 线发射源 
+- source, point 点光源 
+- source, potential 电位源；电势源 
+- source, second 第二源 
+- source-code debugger 源代码除错程序 
+- source-level portability 源水平可移接性 
+- source-measure unit (SMU) 源量度单元
+- source/drain extension (SDE) 源/漏极外延，源/漏极扩展
+- sources, coherent 相干源 
+- space charge 空间电荷 
+- space diversity 空间分集 
+- space division switching 空分交换
+- space network 空间网络 
+- space potential 空间电位 
+- space wave propagation 空间波传播
+- space 空间，间隔，间距，留空白  
+- space, Faraday dark 法拉第暗区
+- space, cathode dark 阴极黑暗区
+- space-division multiple access (SDMA)
+- space-time coded modulation (STCM)
+- space-time-space switching (STS) 空-时-空交换,空-时-空交换网络
+- spacing ratio (SR) 空间比；间隔比
+- spacing 空间；距离；间距  
+- spacing, probe 探针距离 
+- spanning tree algorithm 生成树算法
+- spark 火花  
+- spark-gap capacitor 放电电容器 
+- spatial attenuation 空间衰减 
+- spawning networks 衍生网络 
+- spawning 大量生成,衍生  
+- speaker 扬声器  
+- speaker-dependent recognition 与口音相关的语音识别 
+- speaker-independent recognition 与说话者无关的语音识别，与口音无关的语音识别 
+- speakerphone 免提听筒电话  
+- special function register (SFR)
+- specialization 特化  
+- specialized mobile radio (SMR)
+- specialized resource function (SRF)
+- specialty memory 专用存储器 
+- specific gravity 比重 
+- specific heat at constant
+- specific heat at constant
+- specific heat capacity 比热容
+- specific ionization 电离比值 
+- specific latent heat 比潜热
+- specification and description language
+- specification 规格  
+- specification 规范、规格  
+- specification, enhanced expanded memory
+- specification, expanded memory (EMS)
+- specification, extended memory (XMS)
+- specification, initial graphic exchange
+- spectral analysis 频谱分析 
+- spectral bandpass 频谱带通，光谱带通 
+- spectral efficiency 频谱效率 
+- spectral line 光谱线 
+- spectral shaping 频谱定形 
+- spectrogram 光谱图  
+- spectrometer 分光仪；光谱仪；能谱仪  
+- spectrometer, X-ray X 射线光谱仪
+- spectrophotometer 分光光度计  
+- spectrophotometry 分光光度学  
+- spectroscope 分光镜  
+- spectroscopy 光谱学  
+- spectrum analysis 光谱分析 
+- spectrum analyzer 频谱分析仪 
+- spectrum filtering 光谱过滤 
+- spectrum 光谱；频谱  
+- spectrum, X-ray X 射线谱
+- spectrum, absorption 吸收光谱 
+- spectrum, band 频带光谱 
+- spectrum, continuous 连续谱 
+- spectrum, dark line 暗线光谱
+- spectrum, electromagnetic 电磁波谱 
+- spectrum, emission 放射光谱 
+- spectrum, impure 不纯粹光谱 
+- spectrum, mass 质谱 
+- spectrum, optical 光谱 
+- spectrum, pure 纯粹光谱 
+- spectrum, series 系线谱 
+- spectrum, sound 声谱 
+- spectrum, visible 可见光谱 
+- specular reflection 镜面反射 
+- speech digit signaling 语音数字信令
+- speech integrated circuit 语音集成电路
+- speech network 语音网络 
+- speech path 语音通路 
+- speech recognition 语音识别 
+- speech synthesizer 语音合成器 
+- speech-actuated manipulator 声控操纵器,语音激励发报机 
+- speed dialing 快速拨号 
+- speed 速度  
+- speed, shutter 快门速度 
+- speed, sound 声速 
+- speed, uniform 均速 
+- speedometer 速度计  
+- spherical aberration 球面像差 
+- spherical mirror 球面镜 
+- spherical wave 球面波 
+- spike 尖峰；尖峰信号  
+- spin glass 旋转镜片 
+- spin motor 旋转马达 
+- spin 旋转  
+- spindle bearing 转轴轴承 
+- spiral inductors 螺旋电感 
+- splice closure 接头盒，接头套管 
+- splice tray 粘贴槽，接合盘 
+- splice 接头，叠接，绞接  
+- splicing 拼接;粘贴  
+- splitter 分离器  
+- splitter 切分窗口  
+- splitter, beam 分光镜 
+- spoke type 辐条式 
+- spontaneous emission 自发放射 
+- spoofing 电子欺骗  
+- spooking 鬼影  
+- spooling 假脱机[打印]  
+- spot size 光点 
+- spot, blind 盲点 
+- spot, hot 过热点 
+- spread spectrum 扩展频谱 
+- spread 伸展，扩展;发散  
+- spreader, heat 散热器 
+- spreading code 扩展代码 
+- spreadsheet 试算表  
+- spring force 弹压力 
+- spring, hair 游丝 
+- sprite controller 浮标控制器 
+- sprite 浮标  
+- sprocket holes 中导孔，输送孔，定位孔 
+- sprocket pitch 链轮齿距 
+- spurious free dynamic range
+- spurious phase modulation (SPM)
+- spurious response 寄生反应 
+- spurious signal 寄生信号 
+- sputter etch process 溅镀蚀刻过程
+- sputtering 溅镀  
+- sputtering, ion 离子溅镀 
+- square grid 方栅 
+- square wave 方形波 
+- square, least-mean- (LMS) 最小均方
+- square, root-mean- (RMS) 均方根
+- square, true root-mean- (TRMS)
+- squeegee stroke 刮板印刷行程 
+- squeegee 印刷刮板，印刷刮刀  
+- ssinging 振鸣，啸声  
+- stability 稳定性  
+- stability, high-temperature 高温稳定性 
+- stability, thermal 热稳定性 
+- stabilizing power 稳压电源 
+- stable equilibrium 稳定平衡 
+- stack register 暂存堆栈器 
+- stack unwinding 叠辗转开解（此词用于exception主题） 
+- stack 堆栈  
+- stack 栈、堆栈  
+- stack, circular 环形堆栈 
+- stack, hardware 硬件堆栈 
+- stack, rack-and- 机架汇编式 -vacuum
+- stacked chip-scale package 堆栈式CSP封装，叠式CSP封装
+- standalone ACD 独立的自动呼叫分配 
+- standard Ethernet cable 标准以太网电缆
+- standard MIB 标准管理信息库 
+- standard MIDI file (SMF)
+- standard atmospheric pressure 标准大气压力
+- standard candle 标准烛光 
+- standard cell 标准电池；标准储存格 
+- standard condition 标准状况 
+- standard definition TV (SDTV)
+- standard definition television 标准清晰度电视
+- standard deviation 标准偏差 
+- standard discrete logic 标准离散逻辑元件
+- standard error 标准误差 
+- standard exponential atmosphere 标准指数大气压，标准指数大气层
+- standard library 标准库 
+- standard linear atmosphere 标准线性大气压
+- standard positioning service (SPS)
+- standard resistor 标准电阻 
+- standard template library 标准模板库
+- standard test interface language
+- standard unit 标准单位 
+- standard, data encryption 数据加密标准
+- standard, de facto 约定俗成的标准
+- standards bodies 标准体，标准机盒 
+- standby current 待机电流 
+- standby mode 候命状态；预备状态 
+- standby network link group
+- standing wave 驻波 
+- standoff 隔开；支座；远离  
+- star connection 星形连接 
+- star coupler 星形偶合器 
+- star network topology 星形网络拓扑
+- star network 星形网络 
+- start bit 起始位 
+- start-up circuitry 起动电路 
+- start-up delay 启动延时 
+- start-up sequence 启动顺序 
+- start/stop transmission 起止式传输 
+- state data 状态数据 
+- state detection 状态检测 
+- state diagram 状态图 
+- state list 状态表列 
+- state logic 状态逻辑 
+- state machine 状态机器 
+- state one wait, 一个等候状态
+- state zero-wait, 零等候状态 
+- state 状态  
+- state, crystalline 晶态 
+- state, excited 受激状态 
+- state, gaseous 气态 
+- state, ground 基态 
+- state, initial 初始状态 
+- state, logic 逻辑状态 
+- state, steady- 稳定状态 
+- state, wait 等候状态 
+- state-average model 状态平均模型 
+- state-machine compiler 状态机器编译程序 
+- stateless 无状态的  
+- statement 语句、声明  
+- statement 述句；陈述  
+- statement, conditional 条件式述句 
+- statement, trace 追迹陈述 
+- statfarad 静电法拉  
+- static SQL statements 静态SQL语句
+- static burn-in 静态老化测试 
+- static charge 静电荷 
+- static control system 静电防护系统
+- static cursor 静态游标 （for
+- static dissipative material 静态损耗材料
+- static electricity 静电 
+- static flex 静态弯曲 
+- static friction 静摩擦 
+- static load 静态负载 
+- static magnetic field 稳恒磁场
+- static random access memory
+- static scanning 静态扫描 
+- static structural analysis 静态结构分析
+- static uninterruptable power supply
+- static 静态  
+- static, pseudo- 虚静态 
+- static-column page-mode memory 静态纵列分页模式存储器
+- static-safe area 静电安全区 
+- static-sensitive device 静电敏感元件 
+- statics 静力学  
+- station management (SMT) 站管理
+- station message detail recording
+- station 站，台，局；用户话机；用户设备；用户点  
+- station, base 基站 
+- station, dual-attached (DAS) 双配附传讯站
+- station, network 网络站 
+- station, single-attached (SAS) 单配附传讯站
+- stationary wave 驻波 
+- statistical analysis 统计分析 
+- statistical multiplexing 统计多工 
+- statistical physics 统计物理学 
+- statistical process control (SPC)
+- statistical quality control (SQC)
+- status bar 状态条 
+- status bit 状态位 
+- status byte 状态字节 
+- status information 状态信息 
+- status signal 状态信号 
+- status 状态  
+- steady flow 稳流 
+- steady state 稳定状态 
+- stencil printing 模版印刷 
+- stencil wiping [ 漏印]模版擦拭
+- stencil 模板，漏印板  
+- step change 步长变化，节距变化 
+- step control 步进控制 
+- step motor 步进马达 
+- step-Index multimode fiber 阶跃折射率多模光纤
+- step-down ratio 降压比率 
+- step-down transformer 降压变压器 
+- step-index monomode fiber 阶跃折射率单模光纤
+- step-up ratio 升压比率 
+- step-up transformer 升压变压器 
+- stepper motor 步进电机 
+- stereo graphic equalizer 立体声图形均衡器
+- stereolithography 立体平版印刷  
+- stiction 黏滞  
+- still-video camera 静止视频照相机 
+- stimulated emission 受激发射 
+- stimuli, test 测试刺激 
+- stimulus pattern 刺激模式 
+- stimulus signaling 激发式发讯 
+- stimulus vector 刺激向量 
+- stoichiometry 化学计量学  
+- stop bit 终止位 
+- storage bit 储存位 
+- storage class 储存类别 
+- storage temperature 储存温度 
+- storage, content addressable (CAS)
+- storage, random access (RAS)
+- storage, secondary 辅助储存 
+- store and forward 存储转发
+- store-and-forward switching 存储转发交换 
+- stored procedure 存储过程 （for
+- stored program control (SPC)
+- straight pin terminal 直插接头终端
+- straight-line graph 直线图 
+- straight-through termination 直达终端设备，直达端接法 
+- strain 应变；应变力  
+- strain, compressive 压缩应变 
+- strain, tensile 张力应变 
+- stratosphere 同温层  
+- stray capacitance 杂散电容 
+- stray inductance 杂散电感，漏电感 
+- stray 杂散  
+- stream signing 射流迹，流线迹；流标记 
+- stream 流  
+- stream 串；流  
+- stream, bit 位串 
+- stream, pixel 图素串 
+- streaming data cassette 数据流卡式带；数据流卡式带机
+- streaming media 流式传输媒体；数据流媒体 
+- streamlined instruction process 流线式指令处理
+- streamlined instruction processor 流线式指令处理器
+- strength, dielectric 介电质强度 
+- strength, field 电场强度；磁场强度 
+- strength, flexural 抗弯曲强度 
+- strength, impact 抗冲击强度 
+- strength, insulating 绝缘强度 
+- strength, mechanical 机械强度 
+- strength, peel 剥离强度 
+- stress migration 应力迁移 
+- stress 应力  
+- stress, tensile 张应力 
+- stress, thermal 热应力 
+- stretcher, pulse 脉冲延伸器 
+- string handling 字串处理 
+- string 字串  
+- string 字符串  
+- string, adhesive 黏著剂串 
+- string-handling instruction 字串处理指令 
+- strip, bimetallic 双层金属条 
+- striping 带状处理法  
+- strobe signal 选通信号 
+- strobe time 选通时间 
+- strobe 选通  
+- strobe, column address (CAS)
+- strobe, read 读出选通 
+- strobe, row address (RAS)
+- strobe, write 写入选通 
+- stroboscope lamp 频闪灯 
+- stroboscope 频闪仪  
+- strontium (Sr) 锶 
+- structural analysis 结构分析 
+- structural cell 结构储存单元 
+- structural data 结构数据 
+- structural definition 结构定义 
+- structure, atomic 原子结构 
+- structure, crystalline 晶体结构 
+- structure, one-page 单一分页结构 
+- structure, quad tree 四象限树状结构
+- structure, relational 关系结构 
+- structure, secondary data 辅助数据结构
+- structure, tree 树状结构 
+- structure, user 用户结构 
+- structured block diagram (SBD)
+- structured data transfer (SDT)
+- structured query language (SQL)
+- structured text 结构化文本 
+- stub 存根  
+- stub 线脚  
+- stuck-at fault 受干扰故障 
+- stud bump bonding (SBB)
+- stud termination 螺栓端接法 
+- sub-addressing 子地址寻址，子寻址  
+- sub-band coding 子带编码 
+- sub-carrier wave 副载波 
+- sub-carrier 副载波  
+- sub-harmonic noise 次谐波噪声 
+- sub-harmonic 次谐波  
+- sub-layer 次级层  
+- sub-linear 次线性  
+- sub-micron 亚微米  
+- sub-module 次模组  
+- sub-routine call 子例行程序调用 
+- sub-routine 子例行程序  
+- sublimation 升华  
+- sublimation, heat of 升华热
+- submarine cable 海底电缆 
+- subnet 子网  
+- subobject子对象   
+- subphase 子阶段  
+- subquery 子查询 （for database）
+- subranging, digitally corrected 数字更正次分程
+- subroutine 子例程  
+- subroutine 子程序，子例行程序  
+- subscriber identification module (SIM)
+- subscriber loop 用户环路 
+- subscriber number 用户数量 
+- subscriber 非会员成员  
+- subscript operator 下标操作符 
+- subset 子集  
+- subset 子集  
+- subsonic 低于音速的  
+- subsplit 子分裂，子拆分，子缝隙  
+- substance, amorphous 非晶物质 
+- substance, artificial radioactive 人工放射性物质
+- substance, crystalline 晶质 
+- substance, diamagnetic 抗磁物质 
+- substance, ferromagnetic 铁磁性物质 
+- substance, paramagnetic 顺磁性物质 
+- substance, radioactive 放射性物质 
+- substrate alkali-halide 硷卤化物基板 
+- substrate dopant movement 基板渗杂运动
+- substrate geometry 基片几何形状 
+- substrate resistivity 基板电阻率 
+- substrate 基板  
+- substrate, ceramic 陶瓷基板 
+- substrate, dielectric isolation 介电隔离基板
+- subsystem bus 子系统总线 
+- subsystem 子系统  
+- subsystem, base station (BSS)
+- subsystem, memory 存储器子系统 
+- subsystem, network (NSS) 网络子系统
+- subtracter, full 全减器 
+- subtype 子类型  
+- subvolt 亚电压，低于1V以下的电压  
+- successive approximation register (SAR)
+- successive iteration 连续反覆运作 
+- successive-approximation (S-A) 连续－渐近法 
+- successive-approximation converter 连续－渐近转换器 
+- suite, system verification (SVS)
+- sum of terms 和数项
+- sum, check 核对和；检查和 
+- sum, vector 向量和 
+- summary 摘要  
+- summing bus 加法总线 
+- summing circuit 加法电路 
+- summing node 总和节点 
+- super audio compact disk
+- super cell 超级储存单元 
+- super insulation 超级绝缘；超级隔离 
+- super large scale integrated
+- super mini-computer 超级迷你电脑 
+- super twisted pneumatic (STN)
+- super video graphics adapter
+- super-twist nematic liquid crystal
+- super-twisted liquid crystal display
+- super-vhs (svhs) 超级家用录像系统 
+- superconductive 超导性  
+- superconductivity 超导率  
+- superconductor 超导体  
+- superconductor, high-temperature (HTSC) 高温超导体
+- superficial expansion 表面膨胀 
+- superficial expansivity 表面膨胀系数 
+- superframe phase (SFP) 超帧相位,超帧状态
+- superscalar architecture 超标量结构 
+- superset expansion board connector
+- superset 超集  
+- supersonic wave 超音波 
+- supersonics 超音波学  
+- supersound 超音  
+- supertrunk 主干线路，超级干线，超级信息通路  
+- supervisory audio tone (SAT)
+- supervisory control and data
+- superwavelength 超波长  
+- superworkstation 超级工作站  
+- supplementary restraint system (SRS)
+- supplementary service 辅助业务，补充业务 
+- supply, direct current power
+- supply, linear power 线性电源供应
+- supply, power 电源供应；电源供应器 
+- supply, rotary uninterruptable power
+- supply, static uninterruptable power
+- supply, switching power 交换式电源供应
+- supply, uninterruptable power (UPS)
+- support 支持  
+- support, air 空气支承 
+- suppression, echo 回波抑制 
+- surface acoustic wave (SAW)
+- surface charge 电荷表面 
+- surface density of charge
+- surface energy 表面能 
+- surface expansion 面膨胀 
+- surface insulation resistance (SIR)
+- surface map point 表面映像点，表面测绘点
+- surface micro-structure 表面微结构 
+- surface modeling 表面造型 
+- surface morphology 表面形态 
+- surface resistance 表面电阻 
+- surface servo system 表面伺服系统
+- surface tension 表面张力 
+- surface, caustic 焦散面 
+- surface, equipotential 等位面 
+- surface, free 自由面 
+- surface, photo-sensitive 光敏表面 
+- surface, work 作业表面 
+- surface-mount gas 表面安装[工艺]用气体 
+- surface-mount package (SMP) 适用于表面安装的封装形式
+- surface-mount technology (SMT) 表面安装技术
+- surface-mounted device (SMD) 表面安装元件
+- surfactant 表面活化剂  
+- surge voltage 浪涌电压 
+- surge 浪涌  
+- surge, current 电流浪涌 
+- surge, ground current 接地电流浪涌
+- surge, high-voltage 高压浪涌 
+- surge, reverse 反向浪涌 
+- surround sound audio signal
+- surround sound 环绕声 
+- susceptibility, magnetic 磁化率 
+- suspend 挂起  
+- suspend 暂停  
+- sustainable cell rate (SCR)
+- sustained data 持续数据 
+- sustained fault 持续错误 
+- swap 交换  
+- swap, gate 门交换 
+- swap, pin 接脚交换 
+- swapping out page 交换出分页
+- sweep circuit 扫描电路 
+- sweep rate 扫描率 
+- sweep 扫描  
+- sweeper 频率扫描器  
+- swell process 涨大过程 
+- swing 偏差；摆动  
+- swing, output voltage 输出电压摆动
+- swing, voltage 电压摆动 
+- switch computer application interface
+- switch drop 交换电压降 
+- switch fabric 交换光纤 
+- switch loss 交换损耗 
+- switch mode 开关式 
+- switch reluctance 开关磁阻 
+- switch resistance 切换电阻 
+- switch 交换；开关  
+- switch, analog 模拟开关 
+- switch, bus matrix 总线矩阵交换
+- switch, current monitoring 电流监督开关
+- switch, diode alternating current
+- switch, dual-in-line 双列直插式开关 
+- switch, hook 挂断开关 
+- switch, knife 闸刀开关 
+- switch, leaf 片状开关；叶片式开关 
+- switch, membrane 薄膜开关 
+- switch, motor-circuit 马达电路开关 
+- switch, optical 光学开关 
+- switch, paddle 闸门式开关 
+- switch, pushbutton 按扭式开关 
+- switch, rocker 摇杆式开关 
+- switch, rotary 转动式开关 
+- switch, seesaw 反相式开关 
+- switch, slide 滑动式开关 
+- switch, transfer 转接开关，转换开关 
+- switch, voice-operated (VOX) 音控开关；声音操作开关
+- switch-leg 开关引线  
+- switchboard 交换台  
+- switched access 转换接入，交换访问 
+- switched digital video (SDV)
+- switched line 交换线路 
+- switched multimegabit data service
+- switched network backup 交换网络备份
+- switched networks 交换网络，开关网络 
+- switched service 交换业务 
+- switched telephone network 电话交换网
+- switched virtual circuit (SVC)
+- switcher 转换器；开关  
+- switching fabric 交换结构 
+- switching fall time 交换下降时间
+- switching frequency 交换频率 
+- switching loss 开关损耗 
+- switching module 交换模块 
+- switching power supply 交换式电源供应
+- switching regulator 交换调节器 
+- switching rise time 交换上升时间
+- switching time 交换时间 
+- switching transients 瞬态状态变化 
+- switching 切换；交换  
+- switching, bank 存储器组转换 
+- switching, circuit 电路交换；电路转换 
+- switching, context 上下文交换 
+- switching, message 信息交换 
+- switching, packet 分封交换 
+- switching, task 任务交换 
+- switching, time multiplexed (TMS)
+- swivel 旋转  
+- symbol error rate (SER)
+- symbol library 代号程序库；符号程序库 
+- symbol rate 符号速率 
+- symbol 记号  
+- symbol 代号；符号  
+- symbolic debugger 符号除错器 
+- symbolic reasoning 符号推论法 
+- symbolic source level 信号源水平
+- symbolic 符号的  
+- symmetric cryptographic systems 对称加密系统
+- symmetric digital subscriber line
+- symmetric matrix 对称式矩阵 
+- symmetric self electro-optic effect
+- symmetry 对称  
+- synchronism 同步性  
+- synchronization 同步化  
+- synchronization, multiprocessor 多处理器同步化 
+- synchronized multimedia integration language
+- synchronous CDMA (S-CDMA) 同步CDMA
+- synchronous binary counter 二进制同步计数器
+- synchronous code division multiple
+- synchronous communications channel 同步通讯通道
+- synchronous data link control
+- synchronous digital hierarchy (SDH)
+- synchronous graphics random access
+- synchronous optical network (SONET)
+- synchronous optical transmission 同步光学传输
+- synchronous rectifier 同步整流器 
+- synchronous residual time stamp
+- synchronous serial data transfer
+- synchronous time-division multiplexing (STM)
+- synchronous transfer mode (STM)
+- synchronous transfer mode level
+- synchronous transfer mode level
+- synchronous transfer mode level
+- synchronous transfer module level
+- synchronous transmission 同步传输 
+- synchronous 同步  
+- synchronous, binary (Bisync) 二进制同步
+- synchronous, bit 位同步 
+- synchronous, byte 字节同步 
+- synchronous, dual 双同步 
+- synchronous, phase 相位同步 
+- synchrotron radiation (SR) 同步器辐射
+- synchrotron 同步加速器  
+- syntax 语法  
+- syntax 语法  
+- synthesis, analysis by (ABS)
+- synthesis, data 数据合成 
+- synthesis, digital 数字合成 
+- synthesis, direct digital (DDS)
+- synthesis, high-level 高阶合成 
+- synthesis, logic 逻辑合成 
+- synthesis, voltage 电压合成 
+- synthesized frequency generator 合成频率产生器
+- synthesizer 合成器  
+- synthesizer, frequency 频率合成器 
+- synthesizer, music 音乐合成器 
+- synthesizer, speech 语音合成器 
+- synthesizer, voice 话音合成器 
+- syringe 注射器  
+- sysop 系统操作员  
+- system clock driver 系统时钟驱动器
+- system clock reference (SCR)
+- system clock 系统时钟 
+- system crash 系统故障 
+- system customer information control,
+- system databases 系统数据库 （for
+- system down 系统停机 
+- system engineering 系统工程 
+- system gain 系统增益 
+- system infector 系统感染程序 
+- system integration modeling language
+- system integration 系统集成 
+- system management function (SMF)
+- system network architecture (SNA)
+- system services control point
+- system tables 系统表 （for
+- system time clock (STC)
+- system uptime 系统运行时间 
+- system verification suite (SVS)
+- system verification 系统验证 
+- system 系统  
+- system, Berkeley intelligent processing
+- system, Nicam 丽音系统 
+- system, analog/discrete test 模拟／离散测试系统
+- system, application control and
+- system, automatic storage and
+- system, bar code 条码系统
+- system, basic input/output (BIOS)
+- system, business planning and
+- system, card access 磁卡存取系统
+- system, centimeter-gram-second (CGS) 厘米－克－秒制
+- system, closed feedback control
+- system, computer vision inspection
+- system, computer-integrated manufacturing 电脑综合生产系统
+- system, corporate information network
+- system, data acquisition 数据采集系统
+- system, database management (DBMS)
+- system, decision support (DSS)
+- system, desktop publishing 桌上印刷系统
+- system, development 研发系统 
+- system, digital audio tape
+- system, digital compact cassette
+- system, digital tuning (DTS)
+- system, digitizing camera (DCS)
+- system, distributed 分布式系统 
+- system, electronic data (EDS)
+- system, electronic reservation 电子预订系统
+- system, electronic switching 电子交换系统
+- system, electronic toll-collection 电子道路收费系统
+- system, end 终端系统 
+- system, expert 专家系统 
+- system, factory automation interconnection
+- system, filtration 过滤系统 
+- system, flash file (FFS)
+- system, flexible manufacturing (FMS)
+- system, graphical kernel (GKS)
+- system, hierarchical file (HFS)
+- system, high voltage test
+- system, image processing 影像处理系统
+- system, in-line 顺序系统 
+- system, information 信息系统 
+- system, intelligent distributed control
+- system, knowledge-based 知识库系统 
+- system, machine control (MCS)
+- system, management information (MIS)
+- system, manufacturing planning and
+- system, material management 物料管理系统
+- system, metric 十进制 
+- system, milling 研磨系统 
+- system, multi-tasking 多任务系统 
+- system, multitasking operating 多任务作业系统
+- system, network file (NFS)
+- system, network management 网络管理系统
+- system, object-oriented programming (OOPS)
+- system, open 开放系统 
+- system, open-ended 可扩充系统 
+- system, operating (OS) 作业系统
+- system, photoresist 光阻系统 
+- system, pick-up 检拾系统 
+- system, priority interrupt 优先顺序中断系统
+- system, real-time operating (RTOS)
+- system, relational database (RDS)
+- system, romable operating (ROS)
+- system, sequential 序列式系统 
+- system, serial copy management
+- system, static control 静电防护系统
+- system, target 目标系统 
+- system, thermodynamic 热力学系统 
+- system, trade electronic data
+- system, turnkey 监管控制系统 
+- system, vision 视觉系统 
+- system, visual communication (VCS)
+- system-level description language (SLDL)
+- system-specific compiler 特殊系统编译器 
+- systematic error 系统误差；恒常误差 
+- systeme electronique couleur avec
+- systems application architecture (SAA)
+- 
+## T
+- 
+- table lock 表锁 （for
+- table 表 （for database）
+- table 列表；表  
+- table, color lookup (CLUT)
+- table, file allocation (FAT)
+- table, index 索引表 
+- table, interrupt descriptor (IDT)
+- table, lookup (LUT) 搜寻列表
+- table, periodic 周期表 
+- table, programmable lookup 可编程搜寻列表
+- table, truth 真值表 
+- table-driven routing 表驱动路由选择，表驱动选路 
+- table-level constraint 表级约束 （for
+- tablet 图形输入板  
+- tacho generator 转速产生器 
+- tachometer 转速计  
+- tackiness 黏度  
+- tag memory 标签存储器 
+- tag propagation 标记传送，标记传播；辅助信息传播 
+- tag switching 标记交换 
+- tag 贴纸；标记；标贴；标签  
+- tagged image file format
+- tagged queuing 标记式排列 
+- tail adhesive, 黏着剂尾 
+- talk through 电话接通（开始讲话）；通话完毕（准备拆线） 
+- tandem exchange 汇接局，转接局，汇接交换机 
+- tandem mode 汇接状态 
+- tandem 汇接  
+- tangent galvanometer 正切电流计 
+- tangent 正切；切线  
+- tangential acceleration 切向加速度 
+- tangential velocity 切向速度 
+- tank circuit 旁路 
+- tantalum capacitor 钽质电容器 
+- tantalum nitride (TaN) 氮化钽
+- tantalum oxide 氧化钽 
+- tantalum-foil electrolytic capacitor 钽箔电解电容器
+- tap changer [ 变压器]抽头转换器
+- tape automated bonding (TAB)
+- tape backup 磁带备份 （for
+- tape ball grid array
+- tape bonding 载带粘结，载带键合 
+- tape drive 磁带机 
+- tape packing 卷带式包装 
+- tape, adhesive paper carrier
+- tape, cassette 卡式带 
+- tape, digital audio (DAT)
+- tape, digital compact cassette
+- tape, embossed carrier 压模式载体
+- taper charge 减流式充电 
+- taping 图样黏贴  
+- target system 目标系统 
+- target 标的,目标  
+- target/debugger interface (TDI) 目标／除错程序接口
+- task switch 工作切换 
+- task switching 任务交换 
+- technical office protocol (TOP)
+- technique, soldering 焊接技巧 
+- technology, ion beam 离子束技术
+- technology, low-voltage (LVT) 低电压技术
+- technology, surface-mount (SMT) 表面安装技术
+- telco 电话公司，市话公司  
+- telecom 电信，电讯，远距离通信  
+- telecommunication service 电信业务；（ISDN）的用户终端业务 
+- telecommunications access method (TCAM)
+- telecommunications information networking architecture
+- telecommunications management network (TMN)
+- telecommunications 电传通讯；远程通讯  
+- telecommunications, broadband 宽频带远程通讯 
+- telecommuting 远程上班，居家上班（办公）  
+- telecoms 电信，通讯；电信学  
+- teleconferencing 远程会议，电话会议  
+- teleconsolation 远程问候，远程慰问  
+- telegraphy 电报，电报学  
+- telematics 远程信息处理业务  
+- telemedicine 远程医疗  
+- telemetering 遥测  
+- telemetery 遥测技术，远距离测量术  
+- telephone answering device (TAD)
+- telephone base unit 电话机基座
+- telephone handset 听筒；手机 
+- telephone user part (TUP)
+- telephone 电话，电话机，受话机，打电话  
+- telephone, video 视频电话 
+- telephony application programming interface
+- telephony service provider interface
+- telephony 电话[技术]，电话学  
+- telephony-over-cable 电缆电话技术，电缆电话标准  
+- telepoint 公用无绳电话,电信点  
+- teleporting 远程端口  
+- teleprocessing access method (TPAM)
+- teleprocessing 远程信息处理  
+- teleradiology 远距辐射学  
+- telescope, radio 射电望远镜 
+- telescope, reflecting 反射式望远镜 
+- telescope, refracting 折射式望远镜 
+- telescript 电视广播[稿]；书写电报  
+- teleservice （ISDN）用户终端业务  
+- teletex 文字电视广播，智能用户电报  
+- teletypewriter 电传打字机，电传机  
+- television receive-only (TVRO) 纯电视接收[机]
+- television, cable 有线电视 
+- television, digital 数字电视机 
+- television, handheld 手持式电视机 
+- television, high-definition (HDTV) 高清晰度电视机
+- television, liquid crystal display
+- television, portable 手提电视机 
+- telewriting 电传打字  
+- telex 用户电报，电传  
+- temperature coefficient (TC) 温度系数
+- temperature coefficient of resistance
+- temperature controller 温度控制器 
+- temperature difference 温差 
+- temperature equilibrium 温度平衡 
+- temperature gradient 温度梯度 
+- temperature potential 位温势 
+- temperature scale 温标 
+- temperature 温度  
+- temperature, absolute 绝对温度 
+- temperature, ambient 环境温度 
+- temperature, annealing 退火温度 
+- temperature, critical 临界温度 
+- temperature, curie 居里温度 
+- temperature, environmental 环境温度 
+- temperature, evaporation 蒸发温度 
+- temperature, junction 接点温度 
+- temperature, operating 作业温度 
+- temperature, storage 储存温度 
+- temperature, thermodynamic scale of
+- template argument deduction 模板参数推导
+- template explicit specialization 模板显式特化
+- template matching 模板匹配，型板重合 
+- template parameter 模板参数 
+- template template parameter 
+- template 模板  
+- template 样板；模板  
+- template, device 器件样板 
+- template, drill 钻孔样板 
+- template-id   
+- templating 放样，制模  
+- temporal firewall 暂时防火墙 
+- temporary flow identity (TFI)
+- temporary magnet 暂时磁体 
+- temporary object 临时对象 
+- temporary table 临时表 （for
+- tensile strain 张应变 
+- tensile strength 抗拉强度，抗张强度 
+- tensile stress 张应力 
+- tension 张力  
+- tension, surface 表面张力 
+- tentative pass 试验式通行 
+- tenting 掩蔽，遮盖  
+- tera- 太[拉]（10 12） 
+- term 项  
+- terminal adapter (TA) 终端配接器
+- terminal blocks 端接模块 
+- terminal emulation 终端仿真 
+- terminal endpoint identifier (TEI)
+- terminal equipment (TE) 终端设备
+- terminal equipment identifier (TEI)
+- terminal mobility 终端移动性 
+- terminal mode 终端方式 
+- terminal server 终端服务器 
+- terminal voltage 终端电压 
+- terminal 终端  
+- terminal, data 数据终端机 
+- terminal, intelligent 智能型终端机 
+- terminal, keyboard 键盘式终端机 
+- terminal, point-of-sale (POS) 销售终端机
+- terminal, virtual (VT) 虚拟终端机
+- terminate and stay resident
+- terminate and stay resident
+- termination area 终接区 
+- termination 端头  
+- termination, exchange (TE) 交换终端
+- termination, line (LT) 线路终端
+- termination, network (NT) 网络终端
+- terminator 终断程序  
+- ternary coding 三进制编码；三态编码 
+- ternary signal 三元信号，三重信号 
+- terrestrial magnetism 地磁 
+- terrestrial trunked radio (TETRA)
+- tertiary logic 三元逻辑 
+- test access port (TAP)
+- test and measurement (T&M)
+- test and measurement systems
+- test board 试验板，测试板 
+- test cell 测试储存单元 
+- test charge 检验电荷 
+- test clock (TCK) 测试时钟
+- test data input (TDI)
+- test data output (TDO)
+- test during burn-in (TDBI)
+- test fixture 测试夹具 
+- test pad 测试焊盘，测试焊点,测试凸缘 
+- test pattern generator (TPG)
+- test pattern library 测试模式程序库
+- test pattern 测试模式 
+- test patterns 测试图，测试图卡，测试码模式 
+- test point 测试点 
+- test probe 测试探针，测试探测器 
+- test socket 测试用插座 
+- test stimuli 测试激励 
+- test vector 测试向量 
+- test vehicle 测量车，试验车 
+- test, at-speed 全速度测试 
+- test, boundary functional (BFT)
+- test, boundary in-circuit (BICT)
+- test, built-in self (BIST)
+- test, burn-in 老化测试 
+- test, device-under- (DUT) 受测试器件
+- test, drop-in 混合测试 
+- test, drop-out 漏失测试 
+- test, loop back 回环测试
+- test, parametric 参数式测试 
+- test, power-on self (POST)
+- test, unit-under- (UUT) 受测试单元
+- test, virtual interconnect (VIT)
+- test-pattern generator (TPG) 测试模式产生程序
+- test-pattern library 测试模式程序库 
+- testability analysis 可测试性分析 
+- testability 可测试性  
+- testability, design-for- (DFT) 针对测试之设计
+- tester, combinational 混合式测试器 
+- tester, data 数据测试器 
+- tester, hybrid 混合测试器 
+- testing alignment 测试定位 
+- testing display 测试显示[器] 
+- testing logic 测试逻辑 
+- testing, bare board 空电路板测试
+- testing, bit error rate
+- testing, computer automated (CAT)
+- testing, computer-aided (CAT) 电脑辅助测试
+- testing, design maturing (DMT)
+- testing, design verification (DVT)
+- testing, engineering verification (EVT)
+- testing, field 实地测试 
+- testing, functional 功能测试 
+- testing, go/no-go 可行－不可行测试； 前进－绕道测试；转向－非转向测试
+- testing, in-circuit 内电路测试 
+- testing, ongoing reliability (ORT)
+- text file 文本文件 
+- text mode 文字模式 
+- text 文字  
+- text 文本  
+- textual 文字式  
+- theorem, work-energy 功能定理 
+- theory 理论；学说  
+- theory, graph 图形理论 
+- theory, molecular kinetic 分子运动理论
+- theory, molecular 分子理论 
+- theory, unified field 统一场论
+- thermal agitation 热震动；热扰乱 
+- thermal capacity 热容量 
+- thermal characteristics 热特性 
+- thermal conductance 热传导 
+- thermal conductivity 导热性；导热率 
+- thermal conductor 导热体 
+- thermal cycling 热循环 
+- thermal efficiency 热效率 
+- thermal envelope 热封套 
+- thermal equilibrium 热平衡 
+- thermal equivalent 热当量 
+- thermal expansion 热膨胀 
+- thermal feedback 热反馈 
+- thermal impedance 热阻，热阻抗 
+- thermal insulation 热绝缘 
+- thermal management 热量管理，热量控制 
+- thermal mass 热质量 
+- thermal noise 热噪声 
+- thermal oxidation 热氧化 
+- thermal pollution 热污染 
+- thermal printer 热感式打印机 
+- thermal property 热特性 
+- thermal protection 热保护 
+- thermal radiation 热辐射 
+- thermal relief pad 热卸荷垫片，降温垫片，热释放基座
+- thermal resistance 热阻性 
+- thermal resistivity 热阻率 
+- thermal shock 热击 
+- thermal shunt 热分流 
+- thermal stability 热稳定性 
+- thermal stress 热应力 
+- thermal tracking 热跟踪 
+- thermal unit 热单位 
+- thermal, impedance 热阻 
+- thermal, insulator 热绝缘体 
+- thermionic current 热离子电流 
+- thermionic emission 热离子放射 
+- thermionics 热离子学  
+- thermistor 热控管；热敏电阻  
+- thermistor, ceramic 陶瓷热敏电阻 
+- thermocompression bonding 热压粘结，热压键合 
+- thermocouple linearization 热耦线性化 
+- thermocouple sensor 热耦感应器 
+- thermocouple 热耦  
+- thermode 热电极  
+- thermodynamic scale of temperature
+- thermodynamic system 热力系统 
+- thermodynamics 热力学  
+- thermoelectric effect 热电效应 
+- thermoelectromotive force 热电动势 
+- thermometer 温度计  
+- thermometer, Celsius 摄氏温度计 
+- thermometer, Centigrade 摄氏温度计 
+- thermometer, Fahrenheit 华氏温度计 
+- thermometer, metallic 金属温度计 
+- thermometer, resistance 电阻式温度计 
+- thermonuclear reaction 热核反应 
+- thermopile 热电堆  
+- thermoplastic elastomer 热塑性弹性体 
+- thermoplastic 热塑性塑料  
+- thermoscope 测温器  
+- thermosetting plastic 热固塑料 
+- thermosetting 热固，热硬化  
+- thermostat 自动调温器；恒温器  
+- thick-film hybrid circuit 厚膜混合电路
+- thick-film process 厚膜工艺，厚膜处理 
+- thick-film resistor 厚膜电阻器 
+- thick-film 厚膜  
+- thickwire 粗线，粗导线  
+- thin client 瘦客户机 
+- thin client 瘦客户端 
+- thin film on glass
+- thin quad flat pack
+- thin small-outline package (TSOP)
+- thin-film capacitor 薄膜电容器 
+- thin-film magnetic head 薄膜磁头
+- thin-film resistor 薄膜电阻器 
+- thin-film transistor liquid crystal
+- thin-film transistor 薄膜晶体管 
+- thin-film 薄膜  
+- thinwire 细线，细导线  
+- third-generation wireless (3G) 第三代无线通信
+- third-party 第三方  
+- third-party 第三者；第三方  
+- thixotropic ratio 触变比,摇溶比 
+- thixotropy 摇溶现象  
+- thorium (Th) 钍 
+- thread binary tree 引线二元树
+- thread 线程  
+- thread 线；螺纹；线程  
+- thread-safe 线程安全的  
+- threaded code 链接代码 
+- threaded-code interpreter 链接代码解译程序 
+- three dimensional (3-D) 三维
+- three phase line 三相线路，三相输电线路
+- three phase 三相；三相位 
+- three-dimensional array 三维阵列 
+- three-phase alternating current 三相交流电
+- three-phase alternator 三相交流发电机 
+- threshold current 临限电流 
+- threshold voltage 临限电压 
+- threshold 临界；临限  
+- threshold, hearing 听觉阈 
+- threshold, input 输入临限 
+- throttling process 节流过程 
+- through, write- 透写 
+- through-hole assembly 有引线器件装配 
+- through-hole board 穿孔式电路板 
+- through-hole component 穿孔式元件 
+- through-hole via 经由通孔，通孔 
+- through-hole 穿孔  
+- through-silicon contact 硅接触,硅连接 
+- throughput 吞吐量  
+- throw 抛出、引发（常指发出一个exception）  
+- thru-hole 穿孔  
+- thumb, rule of 经验法则
+- thyristor 门流体  
+- thyristor 晶体闸流管，可控硅整流器，半导体开关元件  
+- thyristor, photo 光门流体 
+- tie bar 拉杆,系杆 
+- tie trunk （PBX之间的）连接线路，中继连线 
+- tight, vacuum 真空密闭 
+- tight-buffered cable 紧密缓冲电缆 
+- tightly coupled 紧密耦合 
+- tile array 耐火砖阵，瓷砖阵 
+- tilt 摆动  
+- time assignment speech interpolation
+- time base 时基 
+- time compression multiplexing (TCM)
+- time constant 时间常数 
+- time correlation 时间相关 
+- time critical 时间先决 
+- time derivative 时间导数，时间微商 
+- time difference of arrival
+- time dilation 时间膨胀 
+- time division multiple access
+- time division multiplexer 时分多路复用器
+- time division multiplexing (TDM)
+- time division switching 时分交换
+- time division 时分 
+- time domain 时域 
+- time interval analysis 时间区间分析
+- time interval error (TIE)
+- time multiplexed switching (TMS)
+- time out 超时；暂停；断开时间，停工时间 
+- time scale 时标，时间量程 
+- time sharing 分时 
+- time skew 时滞 
+- time slot interchange (TSI)
+- time slot 时隙 
+- time stamp 时间标记 
+- time to live (TTL)
+- time trigger 时间触发器 
+- time triggered protocol (TTP)
+- time triggered protocol/class C
+- time, central processing unit
+- time, compile 编译时间 
+- time, conversion 转换时间 
+- time, fall 下降时间 
+- time, mean free 平均自由时间
+- time, output setting 输出设定时间
+- time, response 反应时间；响应时间 
+- time, rise 上升时间 
+- time, run 运行时间 
+- time, seek 寻找时间 
+- time, slice 分时 
+- time, soldering 焊接时间 
+- time, strobe 选通时间 
+- time, switching fall 交换下降时间
+- time, switching rise 交换上升时间
+- time, switching 交换时间 
+- time, token rotation (TRT)
+- time, transition 转换时间 
+- time-base counter (TBC) 时基计数器
+- time-compression multiplexing (TCM) 时间压缩多工
+- time-division duplex (TDD) 时分双工
+- time-division multiple access (TDMA)
+- time-division multiplexing (TDM) 时分多路复用
+- time-domain equalization 时域均衡 
+- time-domain reflectometry (TDR) 时域反射测量法
+- time-interval analysis 间时分析 
+- time-multiplexed switching (TMS) 时间复用交换
+- time-sampled signal 时间取样信号 
+- time-slot interchange (TSI) 时隙交换
+- time-to-market 上市时间  
+- time-to-volume 批量生产时间  
+- timeout 超时；暂停  
+- timer interrupt latency 时计中断等候时间
+- timer 时计；计时器  
+- timer, interval 区间时间 
+- timer, watchdog 监视器时计 
+- timeshifting playback 重放 
+- timeshifting 时移播放  
+- timing alignment 定时调校 
+- timing analysis 定时分析, 时序分析
+- timing constraint 定时限制 
+- timing data 定时数据 
+- timing delay 定时延迟 
+- timing diagram 定时图 
+- timing edge 定时边缘 
+- timing error 定时错误 
+- timing extractor 定时析取器 
+- timing generator 定时产生器 
+- timing glitch 定时干扰 
+- timing jitter 定时颤动 
+- timing processor unit (TPU)
+- timing sequencer 定时定序器 
+- timing translation 定时转换 
+- timing verifier 定时验证器 
+- timing, arbitration 判优定时 
+- timing, trigger 触发定时 
+- tin-lead plating 镀锡铅[合金] 
+- tinning 镀锡，包锡  
+- tip-to-tip dimension 全翼展尺寸 
+- titanate, barium 钛酸钡 
+- titanate, calcium 钛酸钙 
+- titanate, magnesium 钛酸镁 
+- titanate, strontium 钛酸锶 
+- titanium (Ti) 钛 
+- toggle 触发器，双稳电路  
+- token bus controller (TBC)
+- token bus network 令牌总线网
+- token ring switch 令牌环交换
+- token ring 令牌环 
+- token rotation time (TRT)
+- token 令牌；权标  
+- token 符号、标记、令牌（看场合）  
+- token-ring bus controller (TBC)
+- token-ring interface coupler (TIC)
+- token-ring network 令牌环网络 
+- tolerance 容差；宽容度  
+- tolerance, frequency 频率容差 
+- tolerant, fault 容错 
+- toll exchange 长途交换机，长途电话局 
+- toll ticketing 长途电话记录,长途电话费 
+- tombstone 墓石  
+- tone decoder 语音解码器 
+- tone dialing 音调拨号 
+- tone 色调；音调  
+- tone, beat 拍音 
+- tone, combination 合音 
+- tone, dual 双音调 
+- tone, full 全色调 
+- tone, fundamental 基音 
+- tone, guard 防护音调 
+- tone, half 半色调 
+- tone, pure 纯音 
+- tone, supervisory audio (SAT)
+- tool cutting 切削工具 
+- tool, automated reasoning (ART)
+- tool, image editing 影像编辑工具
+- tooling hole 工具孔 
+- tooling pin 工具接脚 
+- top-centering jaw 上定中爪 
+- top-plane connector 顶板连接器 
+- topological inversion 拓朴式转换 
+- topological mapping 拓朴绘图 
+- topology 拓扑，拓扑学  
+- topology, ring 环路拓朴原理 
+- toroid 环状磁心  
+- torque 力矩；转矩  
+- torsional stiffness 抗扭刚度 
+- torsional strength 抗扭强度 
+- total dose 总剂量，总投配量 
+- total effective air gap
+- total harmonic distortion (THD)
+- total inelastic collision 完全非弹性碰撞
+- total internal reflection 全内反射
+- total quality management (TQM)
+- total reflection prism 全反射棱镜
+- total reflection 全反射 
+- total scattering 总散射 
+- totalizer 总和器  
+- totally arbitrary 完全任意的 
+- totem pole 推拉输出电路 
+- touch control screen 触控式屏幕
+- touch screen 触按式屏幕 
+- touch tone 按键音，按钮音 
+- touch-up 修整，修饰；润色  
+- toughness 韧度  
+- trace pattern 线迹图形 
+- trace scheduling 跟踪调度 
+- trace statement 追踪陈述 
+- trace 跟踪  
+- trace 追踪；线迹  
+- traceable calibration 可追踪式校准法 
+- traceable uncertainty 可追踪的不可测性 
+- traceable 可追踪的  
+- tracing 追踪  
+- tracing, bus cycle 总线循环追踪
+- tracing, realtime 实时追踪 
+- track 连线；磁轨  
+- track, electron 电子轨迹 
+- track, multiple 多磁道 
+- track, sound 声迹 
+- track-and-hold (T/H) 追踪及保存 
+- track-and-hold amplifier (THA) 追踪及保存放大器
+- tracks per inch (TPI)
+- traction control system (TCS)
+- traffic generator 业务量生成器，访问量生成器 
+- traffic shaping 流量定形 
+- traffic 业务，话务，业务量，报务量，信息量  
+- trailing packet discard (TPD)
+- training kit 培训组件 
+- training 培训  
+- trajectory correction maneuvers (TCM)
+- trajectory 轨道  
+- trans-multiplexer 复用转换器，模/数复用转换器  
+- transaction capabilities (TC) 交易能力；事务处理能力
+- transaction capabilities application part
+- transaction language 1 (TL-1)
+- transaction log 事务日志 （for
+- transaction processing system (TPS)
+- transaction rollback 事务回滚 （for
+- transaction 事务 （for database）
+- transaction 交互作用；交易  
+- transaction, burst 资料组交互作用 
+- transactional processing 事务处理 
+- transactional replication 事务复制 （for
+- transceiver cable 无线收发机电缆，收发器电缆 
+- transceiver 收发器  
+- transceiver, data bus 数据总线收发器
+- transceiver, universal bus (UBT)
+- transcendental 超越；超越指令  
+- transcoder 代码转换器，变码器  
+- transconductance 跨导  
+- transducer 传感器  
+- transducer, active 主动传感器 
+- transducer, differential 差动传感器 
+- transfer level 传输水平；转移水平 
+- transfer molding 传递模塑法，连续自动送进成型 
+- transfer rate 传输速率 
+- transfer 传送；传输；转移  
+- transfer, bit aligned block
+- transfer, bit-block (BitBLT) 位区块传输
+- transfer, block mode 资料段传输模式
+- transfer, burst bus 资料组总线传输
+- transfer, charge 电荷转移 
+- transfer, data 数据传输 
+- transfer, image 影像传输 
+- transfer, multi-block 多重资料组传输 
+- transfer, sequential 顺序传输 
+- transfer, synchronous serial data
+- transferred account procedure (TAP)
+- transferred-bump tape automated bonding
+- transform operation 变换操作 
+- transform 变换  
+- transform, Fourier 傅立叶变换 
+- transform, discrete Fourier (DFT)
+- transform, discrete cosine (DCT)
+- transform, fast Fourier (FFT)
+- transformation 变换  
+- transformation, adiabatic 绝热变换 
+- transformation, artificial 人工变换 
+- transformation, discrete 离散变换 
+- transformer 变压器  
+- transformer, differential 差动变压器 
+- transformer, distribution 配电变压器 
+- transformer, flyback 回扫变压器 
+- transformer, intermediate frequency 中频变压器
+- transformer, isolation 隔离变压器 
+- transformer, output 输出变压器 
+- transformer, radio frequency (RFT)
+- transformer, step-down 降压变压器 
+- transformer, step-up 升压变压器 
+- transformer-coupled plasma (TCP) 变换偶合等离子
+- transient behavior 瞬变行为 
+- transient current 瞬变电流 
+- transient enhanced diffusion 瞬态增强性扩散
+- transient linear simulation 瞬变线性模拟
+- transient load step 瞬态加载步骤
+- transient over-voltage 瞬态过电压，瞬变过电压 
+- transient radiation 瞬时辐射，瞬时发光，瞬时发热 
+- transient recovery time 瞬态恢复时间
+- transient response time 瞬态响应时间
+- transient response 瞬态响应，瞬变响应，过渡响应，瞬态特性 
+- transient suppression diode 瞬变抑制二极管
+- transient suppression 瞬变抑制 
+- transient thermal impedance 瞬态热阻抗
+- transient 瞬变  
+- transient, reverse voltage 反向电压瞬变
+- transient, voltage 电压瞬变 
+- transimpedance amplifier 跨阻抗放大器 ，互阻抗放大器
+- transistor current switching circuit
+- transistor transistor logic (TTL)
+- transistor 晶体管  
+- transistor, base 基极晶体管 
+- transistor, bipolar power 双极功率晶体管
+- transistor, bipolar 双极晶体管 
+- transistor, diffused base 基极扩散晶体管
+- transistor, diffused junction 扩散连结式晶体管
+- transistor, field effect (FET)
+- transistor, high electron mobility
+- transistor, hybrid 混合晶体管 
+- transistor, insulated gate bipolar
+- transistor, joint-type field effect
+- transistor, junction field effect
+- transistor, junction 结式晶体管 
+- transistor, lateral PNP 横向PNP晶体管
+- transistor, lateral 横向晶体管 
+- transistor, photo 光晶体管 
+- transistor, power 功率晶体管 
+- transistor, quantum tunneling 量子隧道晶体管
+- transistor, reverse-biased input 反向偏压输入晶体管
+- transistor, shunt 分流晶体管 
+- transistor, small outline (SOT)
+- transistor, thin-film 薄膜晶体管 
+- transistor, unipolar 单极晶体管 
+- transit exchange 转接局，[申报]中转交换局 
+- transition time 转换时间 
+- transition 转换；变换  
+- transition-time delay 转换时间延迟 
+- translation lookaside buffer (TLB)
+- translation program 转换程序；程序转换 
+- translation unit 翻译单元 
+- translation 翻译；转换  
+- translation, single-cycle address 单周期循环地址转换
+- translation, timing 时序转换 
+- translational energy 平移能量 
+- translator module 转换程序模组 
+- translator 翻译程序；转换程序  
+- translator, cross binary 交叉二进制转换器
+- translucent body 半透明体 
+- transmission analyzer 传输分析仪 
+- transmission control protocol (TCP)
+- transmission control protocol/internet protocol
+- transmission impairment measurement set
+- transmission layer 传输层 
+- transmission line effect 传输线效应
+- transmission line 传输线，波导 
+- transmission power control (TPC)
+- transmission 透射；传输  
+- transmission, analog 模拟传输 
+- transmission, asynchronous 异步传输 
+- transmission, digital 数字传输 
+- transmission, lightwave 光波传输 
+- transmission, lossless 无损耗式传输 
+- transmission, parallel 平行传输 
+- transmission, preamble 前文传送 
+- transmission, satellite 卫星传播 
+- transmission, sequential 顺序传输 
+- transmission, serial 串行传输 
+- transmission, synchronous optical 同步光学传输
+- transmission, synchronous 同步传输 
+- transmission, transparent 透明传输 
+- transmit audio path 传输声频通道
+- transmit gain 传输增益 
+- transmit queue 发送队列 
+- transmit 传送；传输  
+- transmitter 发送器；传送器  
+- transmitter, optical 光学传送器 
+- transmitting device 发送器件 
+- transparent latch 透明锁存 
+- transparent mode 透明方式 
+- transparent transmission 透明传输 
+- transparent 透明  
+- transparent, software 软件透明 
+- transponder 转发器，发送-应答器  
+- transport function 传送功能 
+- transport layer interface (TLI)
+- transport layer security (TLS)
+- transport layer 传送层 
+- transport protocol 传送协定 
+- transport stream (TS) 传送流
+- transport 传送  
+- transporter 运输公司  
+- transpose matrix 转置矩阵 
+- transposition error 对换错误 
+- transposition 对换  
+- transverse wave 横波 
+- trap mechanism 陷阱机制 
+- trap 陷阱  
+- travel, plunger 伸缩行程 
+- traverse 遍历  
+- tray, wafer 晶圆承载器 
+- treatment, heat 热处理 
+- tree network topology 树状网拓扑[技术]
+- tree structure 树状结构 
+- tree thread binary, 引线二元树
+- tree 树  
+- trellis code modulation (TCM)
+- trellis coding 格式编码 
+- trench isolation 沟道隔离 
+- trench 沟道；沟漕  
+- trench-type capacitor 沟道式电容器 
+- tri-state function 三态功能，三态模式 
+- tributary unit (TU) 支路单元，从属单元,辅助单元
+- tributary unit group (TUG)
+- trichloro- 三氯  
+- trichloroethane 三氯乙烷  
+- trickle charge 小电流充电 
+- trifluoro- 三氟  
+- trigger current 触发电流 
+- trigger detection 触发检测 
+- trigger sequencer 触发定序器 
+- trigger timing 触发时序 
+- trigger 触发器  
+- trigger 触发器 （for database）
+- trigger, Schmitt 史密特触发器 
+- trigger, analog 模拟触发器 
+- trigger, breakpoint 触断点 
+- trigger, device 器件触发 
+- trigger, edge- 边缘触发 
+- trigger, external 外触发；外触发器 
+- trigger, false 假触发 
+- trigger, hardware 硬件触发 
+- trigger, level- 电平触发 
+- trigger, sequential 序列触发 
+- trigger, software 软件触发 
+- trigger-detection architecture 触发检测结构 
+- trim small-outline package (TSOP)
+- trim 修整；微调  
+- trimming, laser 激光修整 
+- triode 三极管  
+- trip-out 跳闸，断路  
+- triphosphate, adenosine- 三磷酸腺甘 
+- triple point 三态点 
+- triple-layer metal (TLM) 三层金属
+- triple-layer metal interconnect 三层金属互连
+- tristate buffer 三态缓冲器 
+- tristate logic 三态逻辑 
+- tristate output buffer 三态输出缓冲器
+- tristate 三态  
+- tritium (T) 氚 
+- trivial file transfer protocol
+- troposphere 对流层  
+- true color 真实色彩 
+- true root-mean-square (TRMS) 真实均方根
+- true root-mean-square converter 真实均方根转换器
+- true-color palette 真色调色板 
+- trunk amplifier 中继线放大器，干线放大器 
+- trunk cards 中继卡，干线卡 
+- trunk group 集群，中继线群，干线群 
+- trunk wire 中继线 
+- trunk 中继线；信息通路  
+- trunked radio 集群无线通信 
+- trunking 中继[方式]；线槽[方式]，管道[方式]  
+- truth table 真值表 
+- tub 盘位  
+- tube 映像管  
+- tube, X-ray X 射线管
+- tube, capillary 毛细管 
+- tube, cathode ray (CRT)
+- tube, coaxial 同轴管 
+- tube, shrinkable 热缩管 
+- tube, vacuum 真空管 
+- tubelet 小管子  
+- tuner 调频器  
+- tungsten (W) 钨 
+- tungsten lamp 钨丝灯 
+- tungsten rod 钨线 
+- tungsten wire 钨丝 
+- tuning and control interface
+- tuning fork 音叉 
+- tuning 调谐；调频  
+- tuning, fine 微调；精调 
+- tunnel diode 隧道二极管 
+- tunnel effect 隧道效应 
+- tunneling 隧道技术  
+- tunneling, quantum 量子隧道 
+- tuple   
+- turbine 涡轮  
+- turboelectric （IBMPC)涡轮机发电的，用涡轮发电机的  
+- turbulence 扰流  
+- turn around time 周转时间；换向时间，往返时间
+- turnkey system 监管控制系统 
+- turnkey 监管控制  
+- turns, ampere- 安培圈数 
+- turret terminal 转盘式终端 
+- twin-ax 双轴电缆  
+- twisted nematic (TN) 扭曲向列
+- twisted-nematic liquid crystal display
+- twisted-pair cable 双绞式电缆 
+- twisted-pair flat cable 双绞式扁平电缆
+- two coordinate 双坐标 
+- two dimensional (2-D) 二维
+- two phase 二相；二相位 
+- two-bit algorithm 两位算法 
+- two-coordinate parity check 双坐标奇偶检测
+- two-coordinate 双坐标  
+- two-dimensional array 二维阵列 
+- two-input multiplexer 双输入多工器 
+- two-input 双输入  
+- two-phase commit 两阶段提交 （for
+- two-phase lookup 两阶段查找 
+- two-step charge 两步充电 
+- two-way cable system 双向电缆系统
+- two-way set-associative architecture 双向集关联结构
+- two-wire circuit 二线电路 
+- twos complement 二进制补码 
+- type C conditioning C
+- type D conditioning D
+- type approval 类别认可 
+- type 类型  
+- type, bus 总线类型 
+- type, instruction 指令类型 
+- type-1 assembly 组装-1类 
+- type-2 assembly 组装-2类 
+- 
+## U
+- 
+- ultimate period 基本周期 
+- ultra fine pitch 超细间距
+- ultra large scale integration
+- ultra-audible frequency 超声频率 
+- ultra-deep submicron (UDSM) 超深亚微米
+- ultra-fine grid line 超微细栅线
+- ultra-fine 超微细  
+- ultra-high frequency (UHF) 超高频
+- ultra-high vacuum (UHV) 超高真空
+- ultra-high vacuum physical vapor
+- ultra-low frequency (ULF) 超低频
+- ultrafiche 超微卡片  
+- ultrasonic agitation 超音波振荡 
+- ultrasonic atomization 超音波雾化 
+- ultrasonic atomizing nozzle 超音波雾化喷管
+- ultrasonic cleaning 超音波清洗 
+- ultrasonic delay line 超音波延迟线
+- ultrasonic spray nozzle system
+- ultrasonic wave 超声波 
+- ultrasonics 超声学  
+- ultraviolet (UV) 紫外线 
+- ultraviolet photon 紫外线光子 
+- ultraviolet radiation 紫外线辐射 
+- ultraviolet ray 紫外光 
+- umbra 本影  
+- unallocated 非分配式  
+- unary function 单参函数 
+- unary operation 一元运算 
+- unary operator 一元操作符 
+- unasserted 未肯定的  
+- unavailability 不可用性  
+- unbalance 不平衡  
+- unbalanced error 不平衡误差 
+- unblanking 信号开启；启通  
+- unblocked record 非成块记录 
+- unbound mode 无约束模式 
+- unboxing 拆箱、拆箱转换  
+- uncertainty 不可测性；不定性  
+- unclocked sequential logic 非时钟式序列逻辑
+- uncommitted logic array (ULA)
+- unconditional jump 无条件转移 
+- uncontrollable 不受控  
+- uncorrelated jitter 无关联的颤动 
+- undefined 未定义的  
+- under-phase shift 下相位位移 
+- undercurrent release 久流释放 
+- underdamped 阻尼不足  
+- underfill 底部填充  
+- underflow 下限溢位（相对于overflow）  
+- underground cable 地下电缆 
+- underlap 图像缩窄  
+- underruns 减少节目播出时间；欠载运行  
+- undershoot 下冲；负尖峰  
+- undervoltage protection 欠压保护 
+- undesired radiated power 不希望有的放射功率
+- ungrounded 不接地  
+- unicast 点播  
+- unidirection 单向  
+- unidirectional backtrace algorithm 单向回索演算法
+- unidirectional link routing 单向链路路由选择
+- unidirectional 单向的  
+- unified atomic mass unit
+- unified field theory 统一场论
+- uniform acceleration 等加速度 
+- uniform circular motion 等速圆周运动
+- uniform current density 均匀电流密度
+- uniform resource locator (URL)
+- uniform resource name (URN)
+- uniform velocity 均速；等速 
+- unilateral conductivity 单向导电性 
+- unilateral connection 单向连接 
+- uninterruptable power supply(UPS) 不间断电源供应
+- unipolar transistor 单极晶体管 
+- unipolar 单极  
+- unique index 唯一索引 （for
+- unit charge 电荷单位 
+- unit derating 降低装置的额定值 
+- unit interval 单位区间 
+- unit of force 力的单位
+- unit vector 单位向量 
+- unit 单位；单元  
+- unit, British thermal 英国热力单位
+- unit, arithmetic logic (ALU)
+- unit, audio processor (APU)
+- unit, basic transmission (BTU)
+- unit, binary 二进制单元 
+- unit, bus control 总线控制单元
+- unit, cache 高速缓冲存储器单元 
+- unit, central processing (CPU)
+- unit, cluster control 丛集控制单元
+- unit, derived 导出单位 
+- unit, dual memory management
+- unit, electrostatic 静电单位 
+- unit, execution 执行单元 
+- unit, extended processing (EPU)
+- unit, floating-point (FPU) 浮点处理单元
+- unit, general logic (GLU)
+- unit, integrated power management
+- unit, interface data (IDU)
+- unit, media access (MAU)
+- unit, medium attachment (MAU)
+- unit, memory control (MCU)
+- unit, memory management (MMU)
+- unit, multi-station access (MAU)
+- unit, multiply and accumulate
+- unit, network management (NMU)
+- unit, network processing (NPU)
+- unit, paging 分页单元 
+- unit, physical address 实体地址单元
+- unit, source-measure (SMU) 源量度单元
+- unit, standard 标准单位 
+- unit, telephone base 电话机基座
+- unit, thermal 热单位 
+- unit, timing processor (TPU)
+- unit-area capacitance 单位面积电容 
+- unit-impulse function 单位脉冲函数 
+- unit-under-test (UUT) 受测试单元 
+- unity gain 整体增益 
+- universal ADSL (G.lite) 通用ADSL
+- universal asymmetric digital subscriber
+- universal asynchronous receiver/transmitter (UART)
+- universal buffer 通用缓冲器 
+- universal bus transceiver (UBT)
+- universal counter 通用计数器 
+- universal data protocol (UDP)
+- universal gravitation 万有引力 
+- universal gravitational constant 万有引力常数
+- universal markup language (UML)
+- universal mobile telecommunications System
+- universal personal communications (UPC)
+- universal personal telecommunications (UPT)
+- universal processor (UP) 通用处理器
+- universal product code 通用产品代码
+- universal serial controller (USC)
+- universal shift register 通用位移寄存器
+- universal synchronous bus (USB)
+- universal synchronous/asynchronous receiver/transmitter (USART)
+- universal temperature probe 通用温度探测器
+- universal 通用  
+- universal-input power supply 通用输入电源
+- unix Unix 操作系统 
+- unlatch 非锁存  
+- unloader 卸除器  
+- unmanaged code 非受控代码、非托管代码 
+- unmarshal 散集  
+- unordered list 无序表列 
+- unpack 拆开  
+- unpacked decimal data 未压缩十进制数据
+- unqualified 未经限定的、未经修饰的  
+- unrecoverable loss 不可恢复损耗 
+- unregulated voltage 未调电压 
+- unsaturated vapor 不饱和蒸汽 
+- unsegmented 非分段的  
+- unshielded bit rate (UBR)
+- unshielded cable 无屏蔽电缆 
+- unshielded twisted pair (UTP)
+- unsigned data 无符号的数据 
+- unspecified 非指定的  
+- unstable equilibrium 不稳定平衡 
+- unstable 不稳定  
+- up/down counter 上／下计数器 
+- up/down load 可逆负载 
+- upgradability 升格能力／提升能力  
+- upgrade 升级  
+- uplink status flag (USF)
+- uplink 上行链路  
+- upload 逆载；载出  
+- upper bit 高位 
+- upper layer protocol (ULP)
+- upper limit 上限 
+- upper-memory block (UMB) 上存储器区块
+- upper-triangular matrix 上三角形矩阵 
+- upstream 上游  
+- upthrust 浮力；上推力  
+- uptime 运行时间  
+- uptime, system 系统运行时间 
+- upward compatible 上向兼容 
+- uranium (U) 铀 
+- usability 可用性  
+- usage parameter control (UPC)
+- useful life 有效寿命 
+- user datagram protocol (UDP)
+- user environment component (UEC)
+- user friendly 易于使用的 
+- user interface 用户界面 
+- user interface 用户接口，用户界面 
+- user part 用户部分 
+- user port function (UPF)
+- user structure 用户结构 
+- user 用户  
+- user 用户  
+- user, end 终端用户 
+- user-defined 用户定义  
+- user-to-network interface (UNI) 用户至网络接口
+- user/machine interface (UMI) 用户机器接口
+- utility bus 公用总线 
+- utility 实用程序  
+- utilization ratio 利用率,使用率 
+- utilization, bus 总线使用量 
+- 
+## ## VV
+- 
+- vacant code 空码 
+- vacuum chamber 真空室 
+- vacuum fixture 真空夹具 
+- vacuum fluorescent display (VFD)
+- vacuum gauge 真空计 
+- vacuum pump 真空泵 
+- vacuum tight 真空密闭 
+- vacuum tube 真空管 
+- vacuum 真空  
+- vacuum, ultra-high (UHV) 超高真空
+- valence band 价带 
+- valence electron 原子价电子 
+- valency 原子价  
+- valid memory address 有效存储器地址
+- valid 有效  
+- validation 确认  
+- validity check 有效性检测 
+- validity 有效性  
+- valley point 谷点 
+- value added service (VAS)
+- value types 值类型 
+- value 数值；价值  
+- value, absolute 绝对值 
+- value, default 缺设值 
+- value, effective 有效值 
+- value, instantaneous 瞬时值 
+- value, mean 平均值 
+- value, peak 峰值 
+- value, saturation 饱和值 
+- value-added network (VAN) 加值网络
+- value-added 加值  
+- valve 活门；活塞  
+- valve, regulating 节制活门 
+- van jacobson compression 范。杰克逊压缩算法
+- vane 叶片  
+- vane, rotary 旋转叶片 
+- vapor barrier 防潮层 
+- vapor degreaser 蒸汽去污机，蒸汽去污剂 
+- vapor phase system 汽压
+- vapor phase 汽相 
+- vapor pressure control process
+- vapor pressure 汽压 
+- vapor 汽  
+- vapor, saturated 饱和蒸汽 
+- vapor, unsaturated 不饱和蒸汽 
+- vapor-phase reflow soldering 汽相回流式焊锡
+- vapor-phase system 汽相系统 
+- vaporization, heat of 汽化热
+- vaporization, latent heat of
+- vaporware 汽相成品，汽相制成品  
+- var 无功伏安  
+- varactor 变抗器  
+- variable bit rate (VBR)
+- variable capacitor 可变电容器 
+- variable inductor 可变电感器 
+- variable phase-shift keying (VPSK)
+- variable resistor 可变电阻器 
+- variable velocity 可变速度 
+- variable 变量  
+- variable 变项；变数  
+- variable, absolute 绝对变数 
+- variable, write access (WAVAR)
+- variable-rate adaptive multiplexing (VRAM)
+- variation, input threshold 输入临限变化
+- variation, magnetic 磁变 
+- varicap diode 变容二极管 
+- varient 变体  
+- varistor 压敏电阻器  
+- varistor, metal oxide (MOV)
+- varying parameter 可变参数 
+- vault transformers 拱顶形变压器，圆顶形变压器 
+- vector difference 向量差 
+- vector field 向量场 
+- vector memory 向量存储器 
+- vector notation 矢量标志，向量符号 
+- vector processor 向量处理器 
+- vector product 向量积 
+- vector resolution 向量分解 
+- vector sum excited linear
+- vector sum 向量和 
+- vector 矢量；向量  
+- vector 向量（一种容器，有点类似array）  
+- vector, force 力向量 
+- vector, graphics 图形向量 
+- vector, interrupt 中断向量 
+- vector, resultant 合向量 
+- vector, simulation 模拟向量 
+- vector, stimulus 刺激向量 
+- vector, test 测试向量 
+- velocity curve 速度曲线 
+- velocity gradient 速度梯度 
+- velocity ratio (VR) 速度比
+- velocity wave, 波速 
+- velocity 速度  
+- velocity, absolute 绝对速度 
+- velocity, angular 角速度 
+- velocity, average 平均速度 
+- velocity, constant linear 均匀线性速度
+- velocity, constant 定速 
+- velocity, critical 临界速度 
+- velocity, escape 逃逸速度 
+- velocity, final 末速 
+- velocity, initial 初速 
+- velocity, instantaneous 瞬时速度 
+- velocity, propagation 传播速度 
+- velocity, relative 相对速度 
+- velocity, tangential 切向速度 
+- velocity, uniform 匀速 
+- velocity, variable 可变速度 
+- vendor 厂商  
+- vent 出孔，出口,通路  
+- verification system 验证系统 
+- verification 验证  
+- verification, functional 功能验证 
+- verification, fuse 熔接验证 
+- verification, hardware 硬件验证 
+- verification, nodal 节点验证 
+- verification, on-track 磁轨上验证 
+- verifier 验证程序；验证器  
+- verifier, timing 时序验证器 
+- verify 验证  
+- vernier caliper 游标测径器 
+- vernier 游标尺  
+- vernier, horizontal sensitivity 水平敏感度游标尺
+- vernier, vertical sensitivity 垂直敏感度游标尺
+- veronica 检索目录菜单  
+- vertex 顶点  
+- vertical amplifier 垂直放大器 
+- vertical blanking interval (VBI)
+- vertical cavity surface emitting
+- vertical component 垂直分量 
+- vertical counter 垂直计数器 
+- vertical current 垂直电流 
+- vertical direction counter 垂直方向计数器
+- vertical flyback pulse 垂直回扫脉冲
+- vertical intercept 纵截距 
+- vertical jitter 垂直颤动 
+- vertical monopole 垂直单极，垂直单极天线 
+- vertical parity bit 垂直奇偶位
+- vertical redundancy check (VRC)
+- vertical resolution 垂直解析度 
+- vertical retrace 垂直回扫 
+- vertical scanning frequency 垂直扫描频率
+- vertical scanning 垂直扫描 
+- vertical sensitivity vernier 垂直敏感度游标尺
+- vertical surface-mount package (VSMP)
+- vertical 垂直的  
+- vertical, scale 标度垂直 
+- very deep submicron (VDSM)
+- very high asynchronous digital
+- very high density (VHD)
+- very high density floppy
+- very high frequency (VHF)
+- very high scale integrated
+- very large scale integrated
+- very large scale integration
+- very low frequency (VLF)
+- very-high bit rate digital
+- vestigial sideband 残留边带 
+- vestigial sideband-amplitude modulation (VSB-AM)
+- via 通孔；镀通孔  
+- via, blind 盲通孔 
+- via, buried 埋通孔 
+- viable 可行的  
+- vibration 振动  
+- vibration, complete 全振动 
+- vibration, damped 阻尼振动 
+- vibration, lattice 晶格振荡 
+- vibration, longitudinal 纵振动 
+- video access unit (VAU)
+- video amplifier 视频放大器 
+- video attribute 视频属性 
+- video codec 视频编解码器，视频编译码器 
+- video converter 视频转换器 
+- video database 视频数据库 
+- video dialtone 视频拨号音 
+- video display controller 视频显示控制器
+- video format 视频格式 
+- video graphics adapter (VGA)
+- video graphics array (VGA)
+- video home system (VHS)
+- video interface 视频接口 
+- video memory 视频存储器 
+- video multiplexer 视频多路复用器 
+- video random access memory
+- video server 视频服务器 
+- video shift register 视频位移寄存器
+- video signal detection counter
+- video signal 视频信号 
+- video storage 视频存储[器] 
+- video streaming 视频数据流 
+- video transport 视频传输 
+- video 视频  
+- video 视频  
+- video, local bus 本区总线视频
+- video-on-demand (VOD) 点播电视 
+- videoconferencing 可视会议，视频会议  
+- videodisc 可视光盘，录像盘  
+- videogame 可视游戏，电视游戏  
+- videophone 可视电话  
+- videotex 可视图文  
+- view 视图  
+- view 视图 （for database）
+- view, field of 视场
+- viewer 取景器，浏览器，浏览程序  
+- viewfinder 观景器  
+- virtual LAN 虚拟局域网 
+- virtual address 虚拟地址 
+- virtual call 虚拟呼叫 
+- virtual channel (VC) 虚路径，虚拟信道
+- virtual channel processor (VCP)
+- virtual circuit identifier (VCI)
+- virtual circuit 虚拟电路 
+- virtual cluster 虚拟丛集 
+- virtual command set 虚拟命令集
+- virtual component 虚拟元件 
+- virtual container (VC) 虚容器，虚通路包
+- virtual control program interface
+- virtual device interface (VDI)
+- virtual direct memory access
+- virtual focus 虚焦点 
+- virtual function 虚函数 
+- virtual grid 虚拟座标 
+- virtual hardware 虚拟硬件 
+- virtual image 虚像 
+- virtual integration 虚拟集成 
+- virtual interconnect test (VIT)
+- virtual logic 虚拟逻辑 
+- virtual machine 虚拟机 
+- virtual machine 虚拟机器 
+- virtual memory 虚拟内存 
+- virtual memory 虚拟存储器 
+- virtual mode 虚拟状态；图像模式 
+- virtual network computing (VNC)
+- virtual paging 虚拟分页法 
+- virtual path (VP) 虚路径
+- virtual phase 虚拟相位 
+- virtual private network (VPN)
+- virtual processor model (VPM)
+- virtual prototyping 虚拟样机研究，虚拟原型设计 
+- virtual reality modeling language
+- virtual reality 虚拟现实 
+- virtual routing 虚拟路由选择；虚选路 
+- virtual sequential access method
+- virtual space 虚拟空间 
+- virtual storage 虚拟储存 
+- virtual system prototype (VSP)
+- virtual telecommunications access method
+- virtual terminal (VT) 虚拟终端机
+- virtual terminal control (VTC)
+- virtual terminal environment (VTE)
+- virtual terminal protocol (VTP)
+- virtual tributary 虚拟支路 
+- virtual work 虚功 
+- virtual workgroup 虚拟工作组 
+- virtual 虚拟  
+- virus 病毒；电脑病毒  
+- viscosimeter 黏度计  
+- viscosity 黏度  
+- viscosity, coefficient of 黏度系数
+- viscous force 黏力 
+- visible light 可视光，可见光 
+- visible spectrum 可见光谱 
+- vision processor (VP) 视觉处理器
+- vision system 视觉系统 
+- vision 视觉  
+- vision, computer 电脑视觉 
+- visitor location register (VLR)
+- visual angle 视角 
+- visual communication system 视频通讯系统
+- visual, audio-(AV) 视听；声频／视频 
+- vocoder rate 声码器速率 
+- vocoder 语音合成器，声码器  
+- voice activity detection (VAD)
+- voice coil motor 音圈马达
+- voice coil 音圈 
+- voice encryption 话音加密 
+- voice frequency (VF) 话音频率
+- voice imprint 声音痕迹 
+- voice intelligibility analysis set
+- voice intelligibility analysis system
+- voice interference analysis set
+- voice interference analysis system
+- voice mail 声音邮递 
+- voice memory address controller
+- voice messaging 话音信息传送 
+- voice operated switch (VOX)
+- voice over ATM 异步转移模式传输话音
+- voice paging access 语言寻呼接入
+- voice processing system 话音处理系统
+- voice processing 声音处理 
+- voice prompt 声音提示 
+- voice recognition 声音辨认 
+- voice synthesizer 声音合成器 
+- voice-coil motor 音圈马达 
+- voice-grade channel 话音级信道 
+- voice-grade data 话音级数据 
+- voice-over-DSL (VoDSL) 数字用户线上传输话音，DSL电话 
+- voice-over-IP (VoIP) IP 上传输话音，IP电话
+- voiceband 声音频带  
+- void 孔；气泡；无效  
+- volatile memory 易失性存储器 
+- volatile organic compound (VOC)
+- volatile 易挥发的  
+- volt (V) 伏特 
+- volta effect 伏特效应 
+- voltage adjustment 电压调整 
+- voltage amplification 电压放大 
+- voltage balance 电压平衡 
+- voltage breakdown test 电压击穿实验
+- voltage buffer 电压缓冲器 
+- voltage clamp, 钳位电压 
+- voltage contrast 电压差别 
+- voltage controlled oscillator (VCO)
+- voltage doubler 电压增倍器 
+- voltage drop 电压降 
+- voltage feedback 电压反馈 
+- voltage inverter 电压反相器 
+- voltage multiplier 电压乘法器，电压倍增器 
+- voltage phase 电压相位 
+- voltage pulse 电压脉冲 
+- voltage ramp 电压斜升 
+- voltage rating 电压额定值 
+- voltage reference 电压参考； 参考电平
+- voltage regulator 电压调节器 
+- voltage sensing 电压读出 
+- voltage spikes 电压峰值 
+- voltage standing-wave ratio (VSWR)
+- voltage surge 电压浪涌 
+- voltage swing 电压摆动 
+- voltage synthesis 电压合成 
+- voltage synthesizing microprocessor 电压合成微处理器
+- voltage transient 电压瞬变 
+- voltage 电压  
+- voltage, Hall 霍尔电压 
+- voltage, analog supply 模拟供电电压
+- voltage, blocking 阻挡电压 
+- voltage, breakdown 击穿电压 
+- voltage, collector 集电极电压 
+- voltage, collector-emitter 集电极－发射极电压 
+- voltage, common-mode 共态电压 
+- voltage, constant 定压 
+- voltage, drain 漏极电压 
+- voltage, emitter 射极电压 
+- voltage, excitation 激发电压 
+- voltage, feedback ratio 电压反馈率
+- voltage, forward 正向电压 
+- voltage, induced 感应电压 
+- voltage, input offset 输入偏移电压
+- voltage, insulation 绝缘电压 
+- voltage, isolation 隔离电压 
+- voltage, operating 作业电压 
+- voltage, output saturation 输出饱和电压
+- voltage, output 输出电压 
+- voltage, primary 初级电压 
+- voltage, rated 额定电压 
+- voltage, repetitive peak reverse
+- voltage, ripple 脉动电压 
+- voltage, secondary 次级电压 
+- voltage, terminal 终端电压 
+- voltage, threshold 临限电压 
+- voltage, working 操作电压 
+- voltage-controlled crystal oscillator (VCXO)
+- voltage-doubler rectifier 倍电压整电路 
+- voltage-synthesizing microprocessor 电压合成微处理器 
+- voltage-to-frequency converter (VFC) 电压-频率转换器，电压-频率变换器
+- voltaic cell 伏打电池 
+- voltampere 伏安  
+- voltmeter 伏特计；电压计  
+- voltmeter, digital (DVM) 数字电压表
+- voltmeter, electrostatic 静电伏特计 
+- voltmeter, frequency selective 频率选择式电压计
+- volume control 声量控制 
+- volume expansivity 体膨胀系数 
+- volume 容量；声量  
+- volume, absolute 绝对体积 
+- volume, constant 定容 
+- volume, critical 临界体积 
+- vortex 旋涡  
+- vowel 元音字母  
+- 
+## W
+- 
+- wafer acceptance (WAT) 晶圆验收测试
+- wafer bumping 晶圆凸块(技术) 
+- wafer cassette 晶圆匣 
+- wafer fabrication 晶圆制造 
+- wafer level reliability (WLR)
+- wafer probing 晶圆测试，晶圆探测 
+- wafer tray 晶圆承载器 
+- wafer 晶圆  
+- wafer, silicon 硅晶圆 
+- wafer-level assembly 晶圆级装配 
+- wafer-level burn-in 晶圆级老化 
+- wafer-level packaging 晶圆级封装 
+- wafer-level test 晶圆级检测 
+- waffle pack 华夫包，蜂窝状包，格栅结构包 
+- waffle tray 华夫式托盘，层叠式托盘 
+- wait state 等候状态 
+- wait 等候  
+- wait-for-data (WF-data) 等待数据 
+- wait-state controller 等候状态控制器 
+- wait-state generator 等候状态产生器 
+- wake 尾流  
+- walkie-talkie 手持式对讲机  
+- wander 漂移  
+- wander, baseline 基线漂移 
+- warm boot 暖启动 
+- warm-up drift 加热漂移，加热偏移 
+- warm-up time 预热时间 
+- warning 警告  
+- warpage 扭曲  
+- warpage, board 电路板扭曲 
+- washer 垫圈  
+- waste, radioactive 放射性废料 
+- watchdog timer 监视器时计 
+- watchdog 监视器  
+- water bath 水浴槽 
+- water equivalent 水当量 
+- water soluble flux 水溶性助剂
+- water, deionized 纯水 
+- water-polishing system 水冲刷系统 
+- waterfall lifecycle 多级进程规划和管理 
+- waterproof 防水的  
+- watertight 不漏水的，不透水的  
+- watt (W) 瓦特 
+- watt-hour (Wh) 瓦特小时 
+- watthour meter 电度表 
+- wattmeter 瓦特计  
+- wave analyzer 波形分析仪 
+- wave cleaning 波动清洁，振动清洁 
+- wave heating 波动加热 
+- wave mechanics 波动力学 
+- wave motion 波动 
+- wave number 波数 
+- wave propagation 波传播 
+- wave soldering machine 波峰式焊接机
+- wave soldering 波峰焊 
+- wave velocity 波速 
+- wave 波  
+- wave, capillary 毛细管 
+- wave, carrier 载波 
+- wave, coherent 相干波 
+- wave, cosine 余弦波 
+- wave, electromagnetic 电磁波 
+- wave, initial 初始波 
+- wave, longitudinal 纵波 
+- wave, magnetic 磁波 
+- wave, medium (MW) 中波
+- wave, middle 中波 
+- wave, plane 平面波 
+- wave, progressive 前进波 
+- wave, radio 无线电波 
+- wave, reflected 反射波 
+- wave, refracted 折射波 
+- wave, seismic 地震波 
+- wave, shock 冲击波 
+- wave, short 短波 
+- wave, sine 正弦波 
+- wave, sound+A7889 声波 
+- wave, spherical 球面波 
+- wave, square 方形波 
+- wave, standing 驻波 
+- wave, stationary 驻波 
+- wave, sub-carrier 副载波 
+- wave, supersonic 超声波 
+- wave, surface acoustic 表面声波
+- wave, transverse 横波 
+- wave, ultrasonic 超声波 
+- wave-soldering machine 波峰式焊接机 
+- waveform capture 波形攫取 
+- waveform generator 波形产生器 
+- waveform 波形  
+- wavefront 波前  
+- waveguide scattering 波导散射 
+- waveguide 波导  
+- wavelength 波长  
+- wavelength, oscillation 振荡波长 
+- way 路；方式  
+- weatherproof 防侵蚀  
+- web clipping 网上剪辑 
+- web hosting web 主机
+- web surfing 网上冲浪（游戏） 
+- webcasting 网上广播,web广播(向用户提供自定义的内容）  
+- weber 韦伯  
+- webzine Web 地下出版物 
+- weight, atomic 原子量 
+- weight, equivalent 当量 
+- weight, molecular 分子量 
+- weighted average 加权平均数 
+- weighting 加权  
+- weightlessness 失重  
+- well, potential 电位势 
+- wet cell 湿电池 
+- wet electrolytic capacitor 电解液电容器
+- wet film 湿膜 
+- wet processing 润湿处理 
+- wetability 可润湿能力  
+- wetting agent 润湿剂 
+- wetting balance 润湿平衡法 
+- wetting 润湿  
+- what-you-see-what-you-get (WYSWYG) 所见即所得 
+- whip antenna 伸缩天线 
+- whisker 晶须；触须  
+- white compression 白信号压缩 
+- white noise 白噪音 
+- whiteboard 白板  
+- whole earth ‘lectronic link
+- wicking 芯吸作用  
+- wide area information servers
+- wide area network (WAN)
+- wide area telecommunications service
+- wide band 宽频带 
+- wide, byte- 位宽 
+- wide-angle diffusion 宽角扩散 
+- wide-area channel scan (WACS)
+- wide-edge decoder 宽边解码器 
+- wideband CDMA (W-CDMA) 宽带码分多址接入
+- wideband TDMA (W-TDMA) 宽带时分多址
+- wideband noise 宽频带杂信 
+- wildcard characters 通配符字符 （for
+- wildcard search 通配符搜索 （for
+- winding impedance 绕线阻抗 
+- winding ratio 绕线比例 
+- winding resistance 绕线电阻 
+- winding 绕线；绕组  
+- window function 窗口函数 
+- window procedure 窗口过程 
+- window size 窗口大小，窗口尺寸 
+- window size 视窗尺寸，窗口尺寸 
+- window 窗口  
+- window 视窗  
+- window, overlapped register 重叠的寄存器视窗
+- window, register 寄存器视窗 
+- wiper 擦拭器  
+- wire bonding 引线粘结，引线键合 
+- wire gages 金属线规 
+- wire list 线表列 
+- wire pair 对偶线 
+- wire 金属线  
+- wire, bond 接合线 
+- wire, copper foil 铜箔线
+- wire, copper 铜线 
+- wire, copper-clad iron 铜包铁线
+- wire, electrode cut 电极线
+- wire, enameled 漆包铜线 
+- wire, shielded 屏蔽线；隔离线 
+- wire, tungsten 钨丝 
+- wire-winding technology 绕线技术 
+- wire-wound potentiometer 绕线式电位器 
+- wired LAN 有线区域性网络 
+- wireless LAN 无线区域性网络 
+- wireless access communications system
+- wireless access point 无线接入点
+- wireless application protocol (WAP)
+- wireless cable 无线电缆 
+- wireless drops 无线分接，无线分支，无线引入 
+- wireless dsl consortium 无线数字用户线论坛
+- wireless dsl 无线数字用户线 
+- wireless local loop (WLL)
+- wireless markup language (WML)
+- wireless message format 无线信息格式，无线报文格式
+- wireless 无线  
+- wiring layer 布线层 
+- wiring 线路  
+- withstand voltage 耐压 
+- wizard 向导  
+- wobble 晃动  
+- wobble, mechanical 机械晃动 
+- word interleaving 字交织，字交错 
+- word processor 字处理器 
+- word processor 文书处理器 
+- word read 字读出；字组读出 
+- word recognizer 字组辨识器 
+- word serial 字串行 
+- word spotting 字定位；字识别 
+- word write 字写入；字组写入 
+- word 单词  
+- word 字；字组  
+- work function 功函数 
+- work input 功输入 
+- work output 功输出 
+- work surface 作业表面 
+- work 功  
+- work, external 外功 
+- work, internal 内功 
+- work, virtual 虚功 
+- working voltage 操作电压 
+- workshop 工场；研讨会；进修会  
+- workspace pointer 作业空间指标 
+- workspace 作业空间  
+- workstation tuning 工作站调整 
+- workstation 工作站  
+- workstation, engineering 工程工作站 
+- world wide web (WWW)
+- worm 蠕虫程序（在因特网上自动爬行的一种程序）  
+- worst-case 最坏情况  
+- wound resistor 绕线电阻器 
+- wow 摇晃  
+- wrap 绕线  
+- wrap-around 环绕  
+- wrapper 包装、包装器  
+- write access connection acceptor
+- write access connection initiator
+- write access variable (WAVAR)
+- write access 写入存取 
+- write buffer 写入缓冲器 
+- write cache 写入式高速缓冲存储器 
+- write cycle 写入周期 
+- write enable 写启用 （for
+- write enabled 写入生效 
+- write high ( Metal
+- write low ( Metal
+- write once read many
+- write once read many
+- write precompensation 写入预补偿 
+- write strobe 写入选通 
+- write 写入  
+- write, word 字写入；字组写入 
+- write-ahead log 预写日志 （for
+- write-back cache 回写式高速缓冲存储器 
+- write-only 只写  
+- write-per-bit 逐位写入  
+- write-state machine (WSM) 写入状态机器
+- write-through cache 透写式高速缓冲存储器 
+- write-through mechanism 透写式机制 
+- write-through 透写  
+- 
+## X
+- 
+- x-ray X 光； X射线
+- x-ray fluorescence x 射线荧光
+- x-ray inspection x 光检查
+- x-ray lithography X 射线光刻技术，X射线平印术
+- x-ray spectrometer X 射线分光仪
+- x-ray spectrum X 射线谱
+- x-y recorder x-y 记录仪
+- xDSL 各种数字用户线  
+- xerography 静电印刷  
+- xxx based 基于xxx的 
+- xxx oriented 面向xxx 
+- xylene 二甲苯  
+- 
+## Y
+- 
+- yield management 产量管理，产量控制 
+- yield point 屈折点 
+- yield 成品，成品率，合格率，产量，击穿，屈服  
+- yoke 磁头组  
+- yttrium (Y) 钇 
+- 
